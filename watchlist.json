@@ -1,0 +1,176 @@
+[
+ {
+  "slug": "ga-sos-audit-information",
+  "state": "GA",
+  "url": "https://sos.ga.gov/page/elections-audit-information",
+  "why": "RLA artifacts, hashes; kickoff expected Nov 12"
+ },
+ {
+  "slug": "ga-sos-news",
+  "state": "GA",
+  "url": "https://sos.ga.gov/news",
+  "why": "RLA kickoff media advisory and results release"
+ },
+ {
+  "slug": "ga-fulton-rla-notice",
+  "state": "GA",
+  "url": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Notice-of-Risk-Limiting-Audit--1132026.pdf",
+  "why": "county count Nov 13-17"
+ },
+ {
+  "slug": "ga-crawford-rla-notice",
+  "state": "GA",
+  "url": "https://www.crawfordcountyga.org/notice-risk-limiting-audit-4/",
+  "why": "county count Nov 13"
+ },
+ {
+  "slug": "pa-post-election-audits",
+  "state": "PA",
+  "url": "https://www.pa.gov/en/agencies/vote/elections/post-election-audits.html",
+  "why": "RLA dice roll Nov 13 (Governor)"
+ },
+ {
+  "slug": "wa-rla-2026-general",
+  "state": "WA",
+  "url": "https://www.sos.wa.gov/node/11554",
+  "why": "seed rolled Nov 6; county RLAs Nov 19"
+ },
+ {
+  "slug": "wa-post-election-audits",
+  "state": "WA",
+  "url": "https://www.sos.wa.gov/elections/data-research/election-technology/post-election-audits",
+  "why": "WA audit index"
+ },
+ {
+  "slug": "tx-rla-planning-deck",
+  "state": "TX",
+  "url": "https://www.sos.texas.gov/elections/forms/seminar/2026/planning-risk-limiting-audits.pdf",
+  "why": "first SB 827 RLA Nov 19-20"
+ },
+ {
+  "slug": "tx-elections-home",
+  "state": "TX",
+  "url": "https://www.sos.texas.gov/elections/",
+  "why": "RLA seed event notice"
+ },
+ {
+  "slug": "md-2026-calendar",
+  "state": "MD",
+  "url": "https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf",
+  "why": "RLA contest selection Nov 23, due Dec 2"
+ },
+ {
+  "slug": "md-elections-home",
+  "state": "MD",
+  "url": "https://elections.maryland.gov/",
+  "why": "RLA seed meeting notice"
+ },
+ {
+  "slug": "ri-rla-center",
+  "state": "RI",
+  "url": "https://elections.ri.gov/elections/risk-limiting-audit-center",
+  "why": "targets by Nov 13; seed ceremony"
+ },
+ {
+  "slug": "va-rla",
+  "state": "VA",
+  "url": "https://www.elections.virginia.gov/resultsreports/election-security/rla",
+  "why": "State Board RLA selection; RLA before Dec 7"
+ },
+ {
+  "slug": "nv-rla",
+  "state": "NV",
+  "url": "https://www.nvsos.gov/sos/elections/election-information/risk-limiting-audits",
+  "why": "NV RLA contest, seed"
+ },
+ {
+  "slug": "mt-elections",
+  "state": "MT",
+  "url": "https://sosmt.gov/elections/",
+  "why": "State Board dice draw Nov 10-12"
+ },
+ {
+  "slug": "wi-audit-selection",
+  "state": "WI",
+  "url": "https://elections.wi.gov/node/11791",
+  "why": "WEC random selection"
+ },
+ {
+  "slug": "ks-post-election-audit",
+  "state": "KS",
+  "url": "https://kssos.org/elections/post-election-audit.html",
+  "why": "county audit dates spreadsheet"
+ },
+ {
+  "slug": "nc-election-results-releases",
+  "state": "NC",
+  "url": "https://www.ncsbe.gov/press-release-terms/election-results",
+  "why": "Nov 4 sample selection release"
+ },
+ {
+  "slug": "nd-post-election-audits",
+  "state": "ND",
+  "url": "https://www.sos.nd.gov/elections/election-security/post-election-audits",
+  "why": "selected polling locations"
+ },
+ {
+  "slug": "sc-hand-count-audit-2026",
+  "state": "SC",
+  "url": "https://scvotes.gov/hand-count-audit-for-the-2026-statewide-general-election/",
+  "why": "selected precincts and contests"
+ },
+ {
+  "slug": "sc-election-audits",
+  "state": "SC",
+  "url": "https://scvotes.gov/elections-statistics/election-audits/",
+  "why": "ballot-image audit"
+ },
+ {
+  "slug": "az-sos-hand-count",
+  "state": "AZ",
+  "url": "https://azsos.gov/node/876",
+  "why": "hand count before canvass"
+ },
+ {
+  "slug": "or-current-election",
+  "state": "OR",
+  "url": "https://sos.oregon.gov/voting/pages/current-election.aspx",
+  "why": "selection Nov 25"
+ },
+ {
+  "slug": "dc-audit-selections",
+  "state": "DC",
+  "url": "https://www.dcboe.org/getContentAsset/13a662ac-2a85-4d4a-9540-2de88e176abc/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/GE2026_Election-Audit-selections_10022026_FINAL.pdf?language=en",
+  "why": "audit Nov 21"
+ },
+ {
+  "slug": "mn-post-election-reviews",
+  "state": "MN",
+  "url": "https://www.sos.mn.gov/elections-voting/how-elections-work/post-election-reviews/",
+  "why": "selected precincts"
+ },
+ {
+  "slug": "nm-elections",
+  "state": "NM",
+  "url": "https://www.sos.nm.gov/voting-and-elections/",
+  "why": "auditor precinct selection by Nov 15"
+ },
+ {
+  "slug": "md-rla-page",
+  "state": "MD",
+  "url": "https://elections.maryland.gov/voting_system/ballot_audit_plan_manual.html",
+  "why": "RLA results and ceremony posting"
+ },
+ {
+  "slug": "md-ballot-audit-plan",
+  "state": "MD",
+  "url": "https://elections.maryland.gov/voting_system/ballot_audit_plan.html",
+  "why": "2026 audit plan"
+ },
+ {
+  "slug": "ks-audit-dates-xlsx",
+  "state": "KS",
+  "url": "https://kssos.org/elections/26elec/2026-General-Election-Post-Election-Audit-Dates.xlsx",
+  "why": "county audit dates"
+ }
+]
