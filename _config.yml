@@ -1,0 +1,16 @@
+title: Audit Results 2026
+description: >-
+  Tracking post-election audits of the November 3, 2026 US general election:
+  dates, captures of what states published before each random draw, the audit
+  data itself, and requests where volunteers can help.
+url: "https://nealmcb.github.io"
+baseurl: "/audit-results"
+theme: minima
+permalink: pretty
+markdown: kramdown
+exclude:
+  - scripts/
+  - watchlist.json
+  - calendar-source.md
+  - state-notes/
+  - captures/log.jsonl
