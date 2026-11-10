@@ -32,3 +32,7 @@ Articles and official posts about post-election audits of the November 3, 2026 g
 - **[Georgia breaks midterm voter turnout record with more than 4 million ballots cast](https://www.wsbradio.com/news/local/georgia-breaks-midterm-voter-turnout-record-with-more-than-4-million-ballots-cast/CWXO7AY5X5BLNGOL3JJQ4GZNEU/)**, WSB Radio. "We are going to be doing 20 risk limiting audits. That's 14 congressional races, all of the congressional races, and six statewide," Raffensperger ... [GA](states/GA.md)
 - **[Secretary of State Brad Raffensperger discusses what happens after Election Day](https://www.yahoo.com/news/videos/secretary-state-brad-raffensperger-discusses-065915572.html)**, Yahoo. Under state law, Georgia will do 20 risk limiting audits this election. [GA](states/GA.md)
 
+## 2026-11-03
+
+- **[Post-election audits: How election officials know the results are accurate](https://www.votebeat.org/national/2026/11/03/post-election-audits-explainer-2026-midterms/)**, Votebeat. Post-election audits, including traditional audits and risk-limiting audits, involve double-checking ballots to guard against fraud or mistakes.
+

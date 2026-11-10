@@ -19,5 +19,5 @@ title: Oregon
 
 ## Watched pages
 
-- <https://sos.oregon.gov/voting/pages/current-election.aspx> (selection Nov 25; last fetched 2026-11-10T21:46:42Z; 3 saved copies)
+- <https://sos.oregon.gov/voting/pages/current-election.aspx> (selection Nov 25; last fetched 2026-11-10T22:17:57Z; 3 saved copies)
 

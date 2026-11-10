@@ -29,8 +29,8 @@ title: Maryland
 
 ## Watched pages
 
-- <https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf> (RLA contest selection Nov 23, due Dec 2; last fetched 2026-11-10T21:46:10Z; 1 saved copy)
-- <https://elections.maryland.gov/> (RLA seed meeting notice; last fetched 2026-11-10T21:46:13Z; 9 saved copies)
-- <https://elections.maryland.gov/voting_system/ballot_audit_plan_manual.html> (RLA results and ceremony posting; last fetched 2026-11-10T21:46:52Z; 2 saved copies)
-- <https://elections.maryland.gov/voting_system/ballot_audit_plan.html> (2026 audit plan; last fetched 2026-11-10T21:46:55Z; 2 saved copies)
+- <https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf> (RLA contest selection Nov 23, due Dec 2; last fetched 2026-11-10T22:17:26Z; 1 saved copy)
+- <https://elections.maryland.gov/> (RLA seed meeting notice; last fetched 2026-11-10T22:17:29Z; 9 saved copies)
+- <https://elections.maryland.gov/voting_system/ballot_audit_plan_manual.html> (RLA results and ceremony posting; last fetched 2026-11-10T22:18:07Z; 2 saved copies)
+- <https://elections.maryland.gov/voting_system/ballot_audit_plan.html> (2026 audit plan; last fetched 2026-11-10T22:18:09Z; 2 saved copies)
 
