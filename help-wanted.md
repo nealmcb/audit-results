@@ -6,8 +6,8 @@ title: Help wanted
 # Help wanted
 
 These need a person: a phone call, a browser, a records request, or someone at the audit. If you
-can take one, open an [issue](https://github.com/nealmcb/audit-results/issues) saying which, or
-send a pull request with what you found. Please include the source: who said it, when, and a link
+can take one, open a [GitHub issue](https://github.com/nealmcb/audit-results/issues) saying which,
+and add what you find there. Please include the source: who said it, when, and a link
 or document.
 
 ## Confirm dates and times (phone or email the election office)
@@ -30,7 +30,7 @@ or document.
 ## Capture pages before draws
 
 These pages refuse automated fetches. A saved copy (File > Save Page As) with the time you saved
-it, sent as a pull request or issue attachment, is the most useful thing you can do before each
+it, attached to a GitHub issue, is the most useful thing you can do before each
 state's draw. Browser-driving AI agents such as Claude Cowork or Claude in Chrome can do the same
 job. For posts on X, Grok can search and quote them directly, and Gemini can find and timestamp
 moments in YouTube recordings, such as when the dice are rolled. Please say which tool you used.

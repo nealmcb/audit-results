@@ -5,6 +5,11 @@ title: Audit Results 2026
 
 # Post-election audits of the November 3, 2026 general election
 
+**A provisional proposal, started 2026-11-10.** Many dates are computed from statute and not
+yet confirmed, and errors are likely. See the
+[README](https://github.com/nealmcb/audit-results#readme) for what this is, who it is for and
+how to help.
+
 This site tracks the audits that states run after the November 3, 2026 US general election: when
 they happen, what each state published before its random selection, the audit data as it
 appears, and what still needs doing by people who can make a phone call, file a records request
@@ -40,4 +45,4 @@ record what each state had published, and when.
 - [Verified Voting audit law database](https://verifiedvoting.org/auditlaw/).
 
 Corrections and additions are welcome as
-[issues or pull requests](https://github.com/nealmcb/audit-results).
+[GitHub issues](https://github.com/nealmcb/audit-results/issues).
