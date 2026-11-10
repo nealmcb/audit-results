@@ -9,6 +9,7 @@ theme: minima
 permalink: pretty
 markdown: kramdown
 exclude:
+  - README.md
   - scripts/
   - watchlist.json
   - calendar-source.md

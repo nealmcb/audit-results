@@ -3,8 +3,8 @@
 
 Purpose (2026-11-10): to show what each state had published before its audit's random seed was
 drawn, we need copies of the relevant pages captured before the draw, with times. This fetches
-every URL in watchlist.json, stores a new copy under captures/<slug>/ only when the content hash
-changes, and appends one line per fetch to captures/log.jsonl (UTC time, slug, URL, HTTP status,
+every URL in watchlist.json, stores a new copy under captures/<slug>/ only when its content
+changes (for HTML, its visible text, since many sites embed random IDs in their markup), and appends one line per fetch to captures/log.jsonl (UTC time, slug, URL, HTTP status,
 sha256, bytes, whether it changed, and "blocked" when a bot challenge or 403 was returned).
 Blocked URLs need a browser save, archive.ph, or a Cowork/Grok/Gemini prompt instead.
 
@@ -18,6 +18,7 @@ Usage:
 import argparse
 import datetime
 import hashlib
+import html
 import json
 import pathlib
 import re
@@ -44,6 +45,29 @@ def fetch(url):
     return body, int(code or 0), ctype, final, None
 
 
+# Per-load noise seen in visible text: UUID-like IDs, cache-busting "digits-digits" tokens and
+# clock times. Plain 20-digit numbers are deliberately NOT filtered: a seed appearing on a page is
+# exactly the change we want to catch.
+NOISE = [
+    re.compile(r"\b[0-9a-z]{8}-[0-9a-z]{4}-[0-9a-z]{4}-[0-9a-z]{4}-[0-9a-z]{12}\b", re.I),
+    re.compile(r"\b\d{15,}-\d{10,}\b"),
+    re.compile(r"\b\d{1,2}:\d{2}:\d{2}\b"),
+]
+
+
+def text_hash(body, ctype):
+    """Hash of the visible text for HTML pages (so random IDs in markup don't count as changes);
+    the raw bytes for everything else."""
+    if "html" not in (ctype or ""):
+        return hashlib.sha256(body).hexdigest()
+    s = body.decode("utf-8", errors="replace")
+    s = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", s)
+    s = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s))).strip()
+    for rx in NOISE:
+        s = rx.sub("~", s)
+    return hashlib.sha256(s.encode()).hexdigest()
+
+
 def ext_for(ctype, url):
     if "pdf" in (ctype or ""):
         return ".pdf"
@@ -59,8 +83,12 @@ def one_round(watch, out):
     if log.exists():
         for line in log.read_text().splitlines():
             r = json.loads(line)
-            if r.get("sha256"):
-                last[r["slug"]] = r["sha256"]
+            if r.get("text_sha256"):
+                last[r["slug"]] = r["text_sha256"]
+            elif r.get("file") and (out.parent / r["file"]).exists():
+                # older entries have only the raw hash: derive the text hash from the saved copy
+                f = out.parent / r["file"]
+                last[r["slug"]] = text_hash(f.read_bytes(), r.get("content_type") or "")
     with log.open("a") as lf:
         for w in watch:
             t = utcnow()
@@ -70,8 +98,10 @@ def one_round(watch, out):
             if body is not None:
                 blocked = code == 403 or b"challenges.cloudflare.com" in body[:20000] or b"cf-mitigated" in body[:4000]
                 sha = hashlib.sha256(body).hexdigest()
-                changed = sha != last.get(w["slug"])
-                rec.update(sha256=None if blocked else sha, bytes=len(body), content_type=ctype,
+                tsha = text_hash(body, ctype)
+                changed = tsha != last.get(w["slug"])
+                rec.update(sha256=None if blocked else sha, text_sha256=None if blocked else tsha,
+                           bytes=len(body), content_type=ctype,
                            final_url=final, blocked=blocked, changed=changed and not blocked)
                 if changed and not blocked and code and 200 <= code < 300:
                     d = out / w["slug"]
@@ -79,7 +109,7 @@ def one_round(watch, out):
                     f = d / (t.strftime("%Y%m%dT%H%M%SZ") + ext_for(ctype, w["url"]))
                     f.write_bytes(body)
                     rec["file"] = str(f.relative_to(out.parent))
-                    last[w["slug"]] = sha
+                    last[w["slug"]] = tsha
             lf.write(json.dumps(rec) + "\n")
             lf.flush()
             time.sleep(2)
