@@ -23,14 +23,17 @@ verification is done.
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Watch now (Nov 10–24) | Mon Nov 16 | Public random seed meeting (twenty 10-sided dice), probably 10 am MT, SOS, Denver, plus Zoom | computed (Rule 25); notice not yet out |
-| Watch now (Nov 10–24) | Tue Nov 24 | Last day for the RLA | official (El Paso County) |
-| Full calendar, Nov 10 – Jan 2027 | Nov 16 | Public random seed meeting | computed |
-| Full calendar, Nov 10 – Jan 2027 | Nov 24 | Last day for the RLA | official |
-| Full calendar, Nov 10 – Jan 2027 | Nov 25 | County canvass deadline | official |
-| Full calendar, Nov 10 – Jan 2027 | Dec 8 | Recounts complete | computed |
+### Watch now (Nov 10–24)
+
+- **Mon Nov 16**: Public random seed meeting, 10 am MT: at least 20 digits from sequential rolls of a 10-sided die, by members of the public or staff; SOS, 1700 Broadway, Denver, 5th floor Red Rocks Conference Room, and on Zoom; seed posted on the Audit Center right after. · _official ([SOS notice, Nov 9](https://content.govdelivery.com/accounts/COSOS/bulletins/431eddd))_. Citizen observers timestamp the pre-seed data and verify the audit as it happens: a model of what can be achieved ([Citizen Election Verification](https://sites.google.com/view/auditenhancement)); RLA must finish by Tue Nov 24
+- **Tue Nov 24**: Last day for the RLA. · _official (El Paso County)_.
+
+### Full calendar, Nov 10 – Jan 2027
+
+- **Nov 16**: Public random seed meeting, 10 am MT, Denver and Zoom. · _official_. <https://content.govdelivery.com/accounts/COSOS/bulletins/431eddd>
+- **Nov 24**: Last day for the RLA. · _official_. <https://clerkandrecorder.elpasoco.com/elections/election-information/>
+- **Nov 25**: County canvass deadline. · _official_. <https://clerkandrecorder.elpasoco.com/elections/election-information/>
+- **Dec 8**: Recounts complete. · _computed_. <https://www.brennancenter.org/media/16355/download/2026-colorado-certification-guide_final.pdf?inline=1>
 
 ## Watched pages
 

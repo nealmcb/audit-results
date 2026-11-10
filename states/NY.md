@@ -10,11 +10,11 @@ title: New York
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Nov 18 | 3% machine audit complete | computed |
-| Full calendar, Nov 10 – Jan 2027 | about Nov 28 | County certification | unverified |
-| Full calendar, Nov 10 – Jan 2027 | Dec 15 | State Board of Canvassers | unverified |
+### Full calendar, Nov 10 – Jan 2027
+
+- **Nov 18**: 3% machine audit complete. · _computed_. <https://newyork.public.law/laws/n.y._election_law_section_9-211>
+- **about Nov 28**: County certification. · _unverified_. —
+- **Dec 15**: State Board of Canvassers. · _unverified_. —
 
 ## Watched pages
 

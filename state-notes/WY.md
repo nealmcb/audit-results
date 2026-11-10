@@ -3,7 +3,7 @@ Wyoming runs two kinds of post-election audit in 2026:
 - **The standing audits** of W.S. 22-6-130 and 22-11-109, which continue.
 - **A one-time hand count** under SF 113 (2026 Budget Session, Enrolled Act No. 61, Section 2),
   for the 2026 primary and general elections only. Section 2 is not codified, so it does not
-  appear in Title 22. Text: https://wyoleg.gov/2026/Enroll/SF0113.pdf
+  appear in Title 22. [Text of the act](https://wyoleg.gov/2026/Enroll/SF0113.pdf)
 
 The SF 113 hand count:
 

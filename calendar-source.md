@@ -19,15 +19,16 @@ seed, or evidence published before a seed.
 
 | When | State | What | Basis | Why it matters |
 |---|---|---|---|---|
+| Nov 6–15 | WY | SF 113 hand counts: at its canvass (by Fri Nov 6) each county canvassing board chose tabulators covering about 5% of Election Day ballots; counts due 9 days after the canvass, Sun Nov 15 at the latest | computed (W.S. 22-16-103(c)(i); SF 113 § 2(b)) | The act does not require the tabulators to be chosen at random or in public. [Text](https://wyoleg.gov/2026/Enroll/SF0113.pdf) |
 | Nov 10–12 | MT | State Board of Canvassers dice draw of races and precincts (7–9 days after the election) | computed (MCA 13-17-505) | SOS release: provisionals counted Mon Nov 9 pm, "before the post-election audit and canvassing procedures begin"; draw time and place not posted |
 | Thu Nov 12 | GA | SOS RLA kickoff and dice roll at the Capitol, probably about 10 am ET | precedent | First statewide RLA under SB 3EX (20 contests). Capture sos.ga.gov and @GaSecofState before the roll; in 2025 and May 2026 the hashes came 8–54 min after it |
 | Fri Nov 13 | GA | County hand counts begin (Fulton: 10 am, Union City); deadline Tue Nov 17, 5 pm | official (Fulton, Crawford) | Fulton's notice says "Thursday, November 13"; Nov 13 is a Friday |
 | Fri Nov 13 | PA | Department of State RLA dice roll, livestreamed; audits the Governor contest | official | Arlo RLA. No time or livestream link posted as of Nov 10; the page's "Seed Number:" and county list are blank, so captures before and after show when they fill in |
-| by Fri Nov 13 | RI | Target contests selected and published | computed (410-RICR-20-00-28) | RLA Center (Nov 10): risk limit 9%; contests and audit date "to be determined" |
 | Fri Nov 13 | MN | Houston County review of 2 precincts, 9 am CT, Caledonia; reviews statewide Nov 12–17 | official (county); computed | Precincts drawn at county canvasses Nov 6–13 |
+| by Fri Nov 13 | RI | Target contests selected and published | computed (410-RICR-20-00-28) | RLA Center (Nov 10): risk limit 9%; contests and audit date "to be determined" |
 | by Sun Nov 15 | NM | Auditor's public random precinct selection | computed (NMSA 1-14-13.2) | Primary draw was at the State Land Office, Santa Fe |
 | about Nov 15–16 | NJ | County public draws of audit units; audits begin about Nov 16 | precedent; computed | 2025: Hudson drew Nov 17, 2 pm |
-| Mon Nov 16 | CO | Public random seed meeting (twenty 10-sided dice), probably 10 am MT, SOS, Denver, plus Zoom | computed (Rule 25); notice not yet out | Citizen observers timestamp the pre-seed data and verify the audit as it happens: a model of what can be achieved ([Citizen Election Verification](https://sites.google.com/view/auditenhancement)); RLA must finish by Tue Nov 24 |
+| Mon Nov 16 | CO | Public random seed meeting, 10 am MT: at least 20 digits from sequential rolls of a 10-sided die, by members of the public or staff; SOS, 1700 Broadway, Denver, 5th floor Red Rocks Conference Room, and on Zoom; seed posted on the Audit Center right after | official ([SOS notice, Nov 9](https://content.govdelivery.com/accounts/COSOS/bulletins/431eddd)) | Citizen observers timestamp the pre-seed data and verify the audit as it happens: a model of what can be achieved ([Citizen Election Verification](https://sites.google.com/view/auditenhancement)); RLA must finish by Tue Nov 24 |
 | Mon Nov 16 | FL | Marion County audit, 1:30 pm ET; county returns due noon | official (search snippet); computed | Florida's audits run after county certification |
 | Thu Nov 19 | WA | County RLAs: Supreme Court Pos. 7 statewide, CD1, and four local contests | official | Seed already rolled Fri Nov 6 (`04912937865602606747`), so the sample can be reproduced now |
 | Nov 19–20 | TX | First risk-limiting audit under SB 827 | official (SOS training deck) | Seed event not found |
@@ -57,7 +58,6 @@ seed, or evidence published before a seed.
 
 | Date | State | Event | Basis | Source |
 |---|---|---|---|---|
-| by Fri Nov 6 – Sun Nov 15 | WY | County canvass by Fri Nov 6, where the canvassing board chooses tabulators covering about 5% of Election Day ballots; hand count due 9 days after the canvass (Nov 15 at the latest) | computed (W.S. 22-16-103(c)(i); SF 113 § 2(b)) | https://wyoleg.gov/2026/Enroll/SF0113.pdf |
 | Nov 9–11 | ND | County audits; reports to SOS by Nov 11 | official | https://www.sos.nd.gov/sites/www/files/documents/elections/election-candidate-filing-info.pdf |
 | Nov 9 | WV | Canvass begins; 3% precinct hand count during the canvass | official (headline) | https://sos.wv.gov/news |
 | Nov 9 | UT | Audits may begin (after noon, day 6) | computed | https://verifiedvoting.org/auditlaw/utah/ |
@@ -82,7 +82,7 @@ seed, or evidence published before a seed.
 | Nov 13 | MS | County certification | news | https://www.mississippifreepress.org/rolling-cov-entry/mississippi-counties-have-a-hard-deadline-to-certify-election-results/?rc_source=364555 |
 | by Nov 15 | NM | Auditor's public random precinct selection | computed | https://law.justia.com/codes/new-mexico/chapter-1/article-14/section-1-14-13-2 |
 | about Nov 15–16 | NJ | County draws of audit units; audits begin | precedent | https://www.nj.gov/state/assets/pdf/proposed-rules-changes/2026-nj-election-audit-procedure.pdf |
-| Nov 16 | CO | Public random seed meeting | computed | https://www.coloradosos.gov/pubs/elections/auditCenter.html |
+| Nov 16 | CO | Public random seed meeting, 10 am MT, Denver and Zoom | official | https://content.govdelivery.com/accounts/COSOS/bulletins/431eddd |
 | Nov 4–12 | KS | County audits (most Nov 5–6; Marshall Nov 12 10 am, Montgomery Nov 12 11 am); county canvass by Nov 16 | official (SOS county table) | https://kssos.org/elections/post-election-audit.html |
 | Nov 16 | ND | County canvassing boards (audit reports presented) | official | https://www.sos.nd.gov/sites/www/files/documents/elections/election-candidate-filing-info.pdf |
 | Nov 16 | FL | County returns due, noon ET; Marion County audit, 1:30 pm ET | computed; official (snippet) | https://www.votemarion.gov/DocumentCenter/View/579/20261103-General-Election-Canvassing-Ad---Combined-PDF |

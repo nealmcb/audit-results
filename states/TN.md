@@ -10,9 +10,9 @@ title: Tennessee
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Nov 23 | County certification (scanner re-count audits before it) | computed |
+### Full calendar, Nov 10 – Jan 2027
+
+- **Nov 23**: County certification (scanner re-count audits before it). · _computed_. <https://law.justia.com/codes/tennessee/2019/title-2/chapter-8/section-2-8-101/>
 
 ## Watched pages
 

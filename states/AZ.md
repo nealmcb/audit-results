@@ -10,12 +10,12 @@ title: Arizona
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Nov 19 | County canvass deadline (hand counts done before it) | official |
-| Full calendar, Nov 10 – Jan 2027 | Nov 23 | State canvass | official |
+### Full calendar, Nov 10 – Jan 2027
+
+- **Nov 19**: County canvass deadline (hand counts done before it). · _official_. <https://azsos.gov/node/876>
+- **Nov 23**: State canvass. · _official_. <https://azsos.gov/node/876>
 
 ## Watched pages
 
-- https://azsos.gov/node/876 (hand count before canvass; blocked to scripts; 0 saved copies)
+- <https://azsos.gov/node/876> (hand count before canvass; blocked to scripts; 0 saved copies)
 

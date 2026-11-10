@@ -10,9 +10,9 @@ title: Kentucky
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Nov 10 | County certified results due | news |
+### Full calendar, Nov 10 – Jan 2027
+
+- **Nov 10**: County certified results due. · _news_. <https://linknky.com/elections/2026/06/10/ky-general-election-2026-a-timeline/>
 
 ## Watched pages
 

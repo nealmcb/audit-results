@@ -10,9 +10,9 @@ title: West Virginia
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Nov 9 | Canvass begins; 3% precinct hand count during the canvass | official (headline) |
+### Full calendar, Nov 10 – Jan 2027
+
+- **Nov 9**: Canvass begins; 3% precinct hand count during the canvass. · _official (headline)_. <https://sos.wv.gov/news>
 
 ## Watched pages
 

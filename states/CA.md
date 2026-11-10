@@ -10,10 +10,10 @@ title: California
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Dec 3 | County canvass deadline (1% manual tallies done before it) | computed |
-| Full calendar, Nov 10 – Jan 2027 | Dec 11 | SOS certification | official |
+### Full calendar, Nov 10 – Jan 2027
+
+- **Dec 3**: County canvass deadline (1% manual tallies done before it). · _computed_. <https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/office-california-secretary-state-issues-unprocessed-ballot-report>
+- **Dec 11**: SOS certification. · _official_. <https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/office-california-secretary-state-issues-unprocessed-ballot-report>
 
 ## Watched pages
 

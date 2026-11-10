@@ -10,9 +10,9 @@ title: Mississippi
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Nov 13 | County certification | news |
+### Full calendar, Nov 10 – Jan 2027
+
+- **Nov 13**: County certification. · _news_. <https://www.mississippifreepress.org/rolling-cov-entry/mississippi-counties-have-a-hard-deadline-to-certify-election-results/?rc_source=364555>
 
 ## Watched pages
 

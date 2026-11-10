@@ -19,7 +19,7 @@ Articles and official posts about post-election audits of the November 3, 2026 g
 ## 2026-11-07
 
 - **[Counties to conduct audits and recount before certifying results](https://www.witf.org/2026/11/06/counties-to-conduct-audits-and-recount-before-certifying-results/)**, WITF. Then, counties perform the second check on results, called a risk-limiting audit. [PA](states/PA.md)
-- **[Unofficial vs. Official Election Results | Cobb County Georgia](https://www.cobbcounty.gov/news/unofficial-vs-official-election-results)**, Cobb County Government. The Risk-Limiting Audit involves manually counting randomly selected paper ballots and comparing the findings with reported vote totals. [GA](states/GA.md)
+- **[Unofficial vs. Official Election Results \| Cobb County Georgia](https://www.cobbcounty.gov/news/unofficial-vs-official-election-results)**, Cobb County Government. The Risk-Limiting Audit involves manually counting randomly selected paper ballots and comparing the findings with reported vote totals. [GA](states/GA.md)
 - **[Franklin Board of Elections to Certify Elections Today](https://921wlhr.com/franklin-board-of-elections-to-certify-elections-today/)**, 92.1 WLHR. According to Verified Voting.org., a risk-limiting audit or RLA checks a random sample of voter-verifiable paper ballots ... [GA](states/GA.md)
 
 ## 2026-11-06

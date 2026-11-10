@@ -10,10 +10,10 @@ title: Idaho
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Nov 12–13 | County canvass deadline Nov 12; "Postelection Audit Selection" on the state calendar Nov 13 | official (VoteIdaho calendar) |
-| Full calendar, Nov 10 – Jan 2027 | Nov 24 | State canvass | official |
+### Full calendar, Nov 10 – Jan 2027
+
+- **Nov 12–13**: County canvass deadline Nov 12; "Postelection Audit Selection" on the state calendar Nov 13. · _official (VoteIdaho calendar)_. <https://voteidaho.gov/calendar/2026-11-24/>
+- **Nov 24**: State canvass. · _official_. <https://voteidaho.gov/event/state-canvass-2/>
 
 ## Watched pages
 

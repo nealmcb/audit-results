@@ -10,9 +10,9 @@ title: Missouri
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Nov 17 | Verification boards certify (5% hand count before this) | computed |
+### Full calendar, Nov 10 – Jan 2027
+
+- **Nov 17**: Verification boards certify (5% hand count before this). · _computed_. <https://revisor.mo.gov/main/OneSection.aspx?section=115.507>
 
 ## Watched pages
 

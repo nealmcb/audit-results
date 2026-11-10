@@ -13,7 +13,7 @@ Wyoming runs two kinds of post-election audit in 2026:
 - **The standing audits** of W.S. 22-6-130 and 22-11-109, which continue.
 - **A one-time hand count** under SF 113 (2026 Budget Session, Enrolled Act No. 61, Section 2),
   for the 2026 primary and general elections only. Section 2 is not codified, so it does not
-  appear in Title 22. Text: https://wyoleg.gov/2026/Enroll/SF0113.pdf
+  appear in Title 22. [Text of the act](https://wyoleg.gov/2026/Enroll/SF0113.pdf)
 
 The SF 113 hand count:
 
@@ -40,10 +40,13 @@ was made, and the hand-count results.
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Already happened (selections, seeds and draws) | Wed Nov 4 | SOS tells each county clerk its audited federal and statewide races for the SF 113 hand count (by close of business); every legislative race is also counted | computed (SF 113 § 2(a)) |
-| Full calendar, Nov 10 – Jan 2027 | by Fri Nov 6 – Sun Nov 15 | County canvass by Fri Nov 6, where the canvassing board chooses tabulators covering about 5% of Election Day ballots; hand count due 9 days after the canvass (Nov 15 at the latest) | computed (W.S. 22-16-103(c)(i); SF 113 § 2(b)) |
+### Watch now (Nov 10–24)
+
+- **Nov 6–15**: SF 113 hand counts: at its canvass (by Fri Nov 6) each county canvassing board chose tabulators covering about 5% of Election Day ballots; counts due 9 days after the canvass, Sun Nov 15 at the latest. · _computed (W.S. 22-16-103(c)(i); SF 113 § 2(b))_. The act does not require the tabulators to be chosen at random or in public. [Text](https://wyoleg.gov/2026/Enroll/SF0113.pdf)
+
+### Already happened (selections, seeds and draws)
+
+- **Wed Nov 4**: SOS tells each county clerk its audited federal and statewide races for the SF 113 hand count (by close of business); every legislative race is also counted. · _computed (SF 113 § 2(a))_.
 
 ## Watched pages
 

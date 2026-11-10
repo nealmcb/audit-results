@@ -52,6 +52,55 @@ def calendar_rows(text):
             yield section, cells
 
 
+def calendar_md(src):
+    """Render calendar-source.md for the site, readable on phones.
+
+    The "Watch now" table becomes a list grouped by date (what a phone visitor most needs); the
+    other, longer tables stay tables, wrapped in a box that scrolls sideways on narrow screens
+    instead of squeezing every column (see .table-scroll in _includes/header.html).
+    """
+    out, block, section = [], [], ""
+
+    def flush():
+        if not block:
+            return
+        rows = [[c.strip() for c in l.strip().strip("|").split("|")] for l in block]
+        body = [r for r in rows[2:]]
+        if section.startswith("Watch now"):
+            last = None
+            for c in body:
+                if c[0] != last:
+                    out.append(f"\n### {c[0]}\n" if last is not None else f"### {c[0]}\n")
+                    last = c[0]
+                ev = linkify(c[2]).rstrip()
+                ev += "" if ev.endswith((".", "?", "!")) else "."
+                basis = f" · _{c[3]}_." if len(c) > 3 and c[3] else ""
+                more = f" {linkify(c[4])}" if len(c) > 4 and c[4] else ""
+                out.append(f"- **{c[1]}**: {ev}{basis}{more}")
+            out.append("")
+        else:
+            out.append('<div class="table-scroll" markdown="1">\n')
+            out.extend(block[:2])
+            # bare URLs (the Source column) become short links named for their site, so a long
+            # URL doesn't force the table wider than the page
+            out.extend(re.sub(r"(?<![(<])\bhttps?://([^/\s|]+)[^\s|]*",
+                              lambda m: f"[{m.group(1).removeprefix('www.')}]({m.group(0)})", l)
+                       for l in block[2:])
+            out.append("\n</div>\n")
+        block.clear()
+
+    for line in src.splitlines():
+        if line.startswith("|"):
+            block.append(line)
+            continue
+        flush()
+        if line.startswith("## "):
+            section = line[3:].strip()
+        out.append(line)
+    flush()
+    return "\n".join(out) + "\n"
+
+
 def load_log():
     log = ROOT / "captures" / "log.jsonl"
     rows = [json.loads(l) for l in log.read_text().splitlines()] if log.exists() else []
@@ -84,6 +133,11 @@ def captures_md(watch, by):
     return "\n".join(out) + "\n"
 
 
+def linkify(text):
+    """Turn bare URLs into kramdown autolinks, leaving markdown links and existing <...> alone."""
+    return re.sub(r"(?<![(<])\bhttps?://[^\s)|>]+[^\s)|>.,;:]", lambda m: f"<{m.group(0)}>", text)
+
+
 def state_md(code, rows, watch, by):
     name = STATES[code]
     out = [front(name), f"# {name}\n", "[← All states](index.md) · [Calendar](../calendar.md) · "
@@ -94,9 +148,17 @@ def state_md(code, rows, watch, by):
     out.append("## 2026 audit dates\n")
     mine = [(s, c) for s, c in rows if code in re.split(r"[ ,]+", c[1])]
     if mine:
-        out.append("| Section | Date | Event | Basis |\n|---|---|---|---|")
+        # A list, not a table: a 4-column table is unreadable on a phone.
+        last = None
         for s, c in mine:
-            out.append(f"| {s} | {c[0]} | {c[2]} | {c[3] if len(c) > 3 else ''} |")
+            if s != last:
+                out.append(f"### {s}\n" if last is None else f"\n### {s}\n")
+                last = s
+            basis = f" · _{c[3]}_." if len(c) > 3 and c[3] else ""
+            more = f" {linkify(c[4])}" if len(c) > 4 and c[4] else ""
+            ev = linkify(c[2]).rstrip()
+            ev += "" if ev.endswith((".", "?", "!")) else "."
+            out.append(f"- **{c[0]}**: {ev}{basis}{more}")
         out.append("")
     else:
         out.append("No 2026 dates found yet.\n")
@@ -109,7 +171,7 @@ def state_md(code, rows, watch, by):
             note = ("blocked to scripts" if last and last.get("blocked")
                     else f"last fetched {last['time']}" if last else "not fetched yet")
             n = sum(1 for r in rs if r.get("file"))
-            out.append(f"- {w['url']} ({w['why']}; {note}; {n} saved {'copy' if n == 1 else 'copies'})")
+            out.append(f"- <{w['url']}> ({w['why']}; {note}; {n} saved {'copy' if n == 1 else 'copies'})")
         out.append("")
     else:
         out.append("None yet. Suggestions welcome.\n")
@@ -128,14 +190,15 @@ def news_md():
         for r in [r for r in rows if r["date"] == date]:
             tags = " ".join(f"[{c}](states/{c}.md)" for c in r["states"])
             snip = f" {r['snippet']}" if r.get("snippet") else ""
-            out.append(f"- **[{r['title']}]({r['url']})**, {r['source']}.{snip} {tags}".rstrip())
+            line = f"- **[{r['title']}]({r['url']})**, {r['source']}.{snip} {tags}".rstrip()
+            out.append(line.replace("|", "\\|"))  # a bare | makes kramdown read the line as a table
         out.append("")
     return "\n".join(out) + "\n"
 
 
 def main():
     src = (ROOT / "calendar-source.md").read_text()
-    (ROOT / "calendar.md").write_text(front("Calendar") + src)
+    (ROOT / "calendar.md").write_text(front("Calendar") + calendar_md(src))
     rows = list(calendar_rows(src))
     watch = json.loads((ROOT / "watchlist.json").read_text())
     by = load_log()

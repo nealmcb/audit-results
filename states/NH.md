@@ -10,9 +10,9 @@ title: New Hampshire
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Already happened (selections, seeds and draws) | Tue Nov 3 | Random selection of at least 8 devices (2024 precedent); results due Fri Nov 6 | precedent; news |
+### Already happened (selections, seeds and draws)
+
+- **Tue Nov 3**: Random selection of at least 8 devices (2024 precedent); results due Fri Nov 6. · _precedent; news_.
 
 ## Watched pages
 

@@ -10,9 +10,9 @@ title: Connecticut
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Nov 18 | Hand-count window opens (day 15) | computed |
+### Full calendar, Nov 10 – Jan 2027
+
+- **Nov 18**: Hand-count window opens (day 15). · _computed_. <https://verifiedvoting.org/auditlaw/connecticut/>
 
 ## Watched pages
 

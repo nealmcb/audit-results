@@ -10,12 +10,12 @@ title: Utah
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Nov 9 | Audits may begin (after noon, day 6) | computed |
-| Full calendar, Nov 10 – Jan 2027 | Nov 12 | Sevier County audit | official (search snippet) |
-| Full calendar, Nov 10 – Jan 2027 | Nov 17 | Millard County canvass, noon MT (county canvasses Nov 10–17) | official (search snippet) |
-| Full calendar, Nov 10 – Jan 2027 | Nov 23 | State canvass | computed |
+### Full calendar, Nov 10 – Jan 2027
+
+- **Nov 9**: Audits may begin (after noon, day 6). · _computed_. <https://verifiedvoting.org/auditlaw/utah/>
+- **Nov 12**: Sevier County audit. · _official (search snippet)_. <https://www.utah.gov/pmn/>
+- **Nov 17**: Millard County canvass, noon MT (county canvasses Nov 10–17). · _official (search snippet)_. <https://www.utah.gov/pmn/>
+- **Nov 23**: State canvass. · _computed_. —
 
 ## Watched pages
 

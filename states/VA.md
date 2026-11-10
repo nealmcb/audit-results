@@ -10,12 +10,12 @@ title: Virginia
 
 ## 2026 audit dates
 
-| Section | Date | Event | Basis |
-|---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Nov 13 | Local canvass and certification | computed |
-| Full calendar, Nov 10 – Jan 2027 | Dec 7 | State Board certification (RLA must finish first; may extend to Dec 10) | computed |
+### Full calendar, Nov 10 – Jan 2027
+
+- **Nov 13**: Local canvass and certification. · _computed_. <https://www.brennancenter.org/media/16358/download/2026-virginia-certification-guide_final.pdf?inline=1>
+- **Dec 7**: State Board certification (RLA must finish first; may extend to Dec 10). · _computed_. <https://law.lis.virginia.gov/vacode/24.2-671.2/>
 
 ## Watched pages
 
-- https://www.elections.virginia.gov/resultsreports/election-security/rla (State Board RLA selection; RLA before Dec 7; last fetched 2026-11-10T19:41:25Z; 1 saved copy)
+- <https://www.elections.virginia.gov/resultsreports/election-security/rla> (State Board RLA selection; RLA before Dec 7; last fetched 2026-11-10T21:46:17Z; 1 saved copy)
 
