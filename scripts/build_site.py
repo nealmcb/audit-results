@@ -135,7 +135,7 @@ def news_md():
 
 def main():
     src = (ROOT / "calendar-source.md").read_text()
-    (ROOT / "calendar.md").write_text(front("2026 audit calendar") + src)
+    (ROOT / "calendar.md").write_text(front("Calendar") + src)
     rows = list(calendar_rows(src))
     watch = json.loads((ROOT / "watchlist.json").read_text())
     by = load_log()

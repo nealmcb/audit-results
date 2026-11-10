@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2026 audit calendar
+title: Calendar
 ---
 
 # Post-election audit calendar: November 3, 2026 general election
