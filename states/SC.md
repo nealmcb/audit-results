@@ -16,6 +16,6 @@ title: South Carolina
 
 ## Watched pages
 
-- https://scvotes.gov/hand-count-audit-for-the-2026-statewide-general-election/ (selected precincts and contests; last fetched 2026-11-10T15:19:10Z; 1 saved copy)
-- https://scvotes.gov/elections-statistics/election-audits/ (ballot-image audit; last fetched 2026-11-10T15:19:12Z; 1 saved copy)
+- https://scvotes.gov/hand-count-audit-for-the-2026-statewide-general-election/ (selected precincts and contests; last fetched 2026-11-10T16:03:01Z; 1 saved copy)
+- https://scvotes.gov/elections-statistics/election-audits/ (ballot-image audit; last fetched 2026-11-10T16:03:04Z; 2 saved copies)
 

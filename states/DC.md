@@ -18,5 +18,5 @@ title: District of Columbia
 
 ## Watched pages
 
-- https://www.dcboe.org/getContentAsset/13a662ac-2a85-4d4a-9540-2de88e176abc/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/GE2026_Election-Audit-selections_10022026_FINAL.pdf?language=en (audit Nov 21; last fetched 2026-11-10T15:19:19Z; 1 saved copy)
+- https://www.dcboe.org/getContentAsset/13a662ac-2a85-4d4a-9540-2de88e176abc/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/GE2026_Election-Audit-selections_10022026_FINAL.pdf?language=en (audit Nov 21; last fetched 2026-11-10T16:03:13Z; 1 saved copy)
 
