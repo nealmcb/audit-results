@@ -14,6 +14,7 @@ Articles and official posts about post-election audits of the November 3, 2026 g
 - **[Election calendar, November 13, 2026: Postelection Audit Selection](https://voteidaho.gov/calendar/tag/voting-procedure/day/2026-11-13/)**, Idaho Secretary of State (VoteIdaho calendar). [ID](states/ID.md)
 - **[Fremont County assembling audit board to hand count 5 percent of 2026 election ballots, per state statute](https://county10.com/fremont-county-assembling-audit-board-to-hand-count-5-percent-of-2026-election-ballots-per-state-statute/)**, County 10. [WY](states/WY.md)
 - **[North Carolina Begins Post-Election Processes, Final Counting, Auditing](https://www.beaufortcountynow.com/post/41963/north-carolina-begins-post-election-processes-final-counting-auditing.html)**, Eastern NC Now. [NC](states/NC.md)
+- **[Georgia's secretary of state touts vote audits ahead of midterms: 'We audit the fool out of it'](https://www.wsbtv.com/news/local/georgias-secretary-state-touts-vote-audits-ahead-midterms-we-audit-fool-out-it/UCIRZFQHSFGKXBJ3UJS3H5QAHI/)**, WSB-TV. 20 risk-limiting audits for the general election: Governor, Lieutenant Governor, Attorney General, Secretary of State, U.S. Senate, all 14 congressional seats, and one more randomly selected state office. [GA](states/GA.md)
 
 ## 2026-11-07
 

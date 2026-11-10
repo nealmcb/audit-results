@@ -68,12 +68,13 @@
 </header>
 <style>
   .site-nav { position: static; float: right; border: none; background: none; text-align: right; }
-  .site-nav .trigger { display: block; }
-  .site-nav .page-link { display: inline-block; padding: 0; margin-left: 0.8em; }
+  .site-nav .trigger { display: flex !important; flex-wrap: wrap; gap: 0.2em 1.2em; justify-content: flex-end; }
+  .site-nav .page-link { display: inline-block !important; padding: 0 !important; margin: 0 !important; }
   @media screen and (max-width: 600px) {
     .site-title { float: none; }
-    .site-nav { float: none; text-align: left; }
-    .site-nav .page-link { margin: 0 0.8em 0 0; line-height: 1.8; }
+    .site-nav { float: none; }
+    .site-nav .trigger { justify-content: flex-start; }
+    .site-nav .page-link { line-height: 1.8; }
   }
   .state-bar { clear: both; }
   .state-bar { display: flex; flex-wrap: wrap; gap: 0.15em 0.6em; font-size: 0.85em; padding-bottom: 0.4em; }

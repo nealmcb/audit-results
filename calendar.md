@@ -54,7 +54,7 @@ seed, or evidence published before a seed.
 | Wed Nov 4 | IA | SOS draws one precinct per county by lot | computed |
 | Wed Nov 4 | NC | State Board random selection of the hand-count sample | official (search snippet) |
 | Wed Nov 4 | MI | Procedural-audit precinct and contest selection ("day after the election") | computed (2020 manual) |
-| Wed Nov 4 | WY | SOS notifies clerks of audited races (first hand count under SF 113) | computed |
+| Wed Nov 4 | WY | SOS tells each county clerk its audited federal and statewide races for the SF 113 hand count (by close of business); every legislative race is also counted | computed (SF 113 § 2(a)) |
 | Nov 4–8 | ND | SOS selects one polling location per county; county audits Nov 9–11 | official |
 | Fri Nov 6 | WA | Public dice roll, seed and contest selection, 3 pm PT, on YouTube | official |
 
@@ -62,6 +62,7 @@ seed, or evidence published before a seed.
 
 | Date | State | Event | Basis | Source |
 |---|---|---|---|---|
+| by Fri Nov 6 – Sun Nov 15 | WY | County canvass by Fri Nov 6, where the canvassing board chooses tabulators covering about 5% of Election Day ballots; hand count due 9 days after the canvass (Nov 15 at the latest) | computed (W.S. 22-16-103(c)(i); SF 113 § 2(b)) | https://wyoleg.gov/2026/Enroll/SF0113.pdf |
 | Nov 9–11 | ND | County audits; reports to SOS by Nov 11 | official | https://www.sos.nd.gov/sites/www/files/documents/elections/election-candidate-filing-info.pdf |
 | Nov 9 | WV | Canvass begins; 3% precinct hand count during the canvass | official (headline) | https://sos.wv.gov/news |
 | Nov 9 | UT | Audits may begin (after noon, day 6) | computed | https://verifiedvoting.org/auditlaw/utah/ |

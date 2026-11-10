@@ -20,5 +20,5 @@ title: North Dakota
 
 ## Watched pages
 
-- https://www.sos.nd.gov/elections/election-security/post-election-audits (selected polling locations; last fetched 2026-11-10T18:39:09Z; 1 saved copy)
+- https://www.sos.nd.gov/elections/election-security/post-election-audits (selected polling locations; last fetched 2026-11-10T19:41:39Z; 1 saved copy)
 

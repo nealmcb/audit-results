@@ -17,6 +17,6 @@ title: Kansas
 
 ## Watched pages
 
-- https://kssos.org/elections/post-election-audit.html (county audit dates spreadsheet; last fetched 2026-11-10T18:39:04Z; 1 saved copy)
-- https://kssos.org/elections/26elec/2026-General-Election-Post-Election-Audit-Dates.xlsx (county audit dates; last fetched 2026-11-10T18:39:34Z; 1 saved copy)
+- https://kssos.org/elections/post-election-audit.html (county audit dates spreadsheet; last fetched 2026-11-10T19:41:34Z; 1 saved copy)
+- https://kssos.org/elections/26elec/2026-General-Election-Post-Election-Audit-Dates.xlsx (county audit dates; last fetched 2026-11-10T19:42:05Z; 1 saved copy)
 

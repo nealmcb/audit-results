@@ -58,4 +58,4 @@ title: States
 | [Washington](WA.md) | 5 | 2 |
 | [West Virginia](WV.md) | 1 | 0 |
 | [Wisconsin](WI.md) | 2 | 1 |
-| [Wyoming](WY.md) | 1 | 0 |
+| [Wyoming](WY.md) | 2 | 0 |
