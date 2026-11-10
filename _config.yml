@@ -15,3 +15,10 @@ exclude:
   - calendar-source.md
   - state-notes/
   - captures/log.jsonl
+  - news/
+header_pages:
+  - calendar.md
+  - states/index.md
+  - captures.md
+  - news.md
+  - help-wanted.md

@@ -69,7 +69,7 @@ seed, or evidence published before a seed.
 | Nov 10 | KY | County certified results due | news | https://linknky.com/elections/2026/06/10/ky-general-election-2026-a-timeline/ |
 | Nov 10–12 | MT | State Board of Canvassers dice draw | computed | https://archive.legmt.gov/bills/MCA/title_0130/chapter_0170/part_0050/section_0050/0130-0170-0050-0050.html |
 | Nov 12 | GA | SOS RLA kickoff and dice roll (time, place unconfirmed) | precedent | https://www.wsbtv.com/news/local/atlanta/georgia-sec-state-hold-briefing-post-election-risk-limiting-audit/7XL2326MBFEFVNZ7JFID23IVV4/ |
-| Nov 12 | ID | County canvass deadline; state draw of counties and precincts possibly about Nov 13 | official; precedent | https://voteidaho.gov/calendar/2026-11-24/ |
+| Nov 12–13 | ID | County canvass deadline Nov 12; "Postelection Audit Selection" on the state calendar Nov 13 | official (VoteIdaho calendar) | https://voteidaho.gov/calendar/2026-11-24/ |
 | Nov 12 | UT | Sevier County audit | official (search snippet) | https://www.utah.gov/pmn/ |
 | Nov 12 | MD | Provisional canvass, 10 am ET | official | https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf |
 | Nov 12–17 | MN | Post-election reviews (no earlier than Nov 12; done by Nov 17) | computed | https://www.revisor.mn.gov/statutes/cite/206.89 |

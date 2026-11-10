@@ -63,8 +63,11 @@ python3 -I scripts/build_site.py
 
 `capture.py --loop 1800 --until 2026-11-22T00:00Z` repeats every 30 minutes.
 
-Some state sites refuse automated fetches. Copies of those come from people saving the page in a
-browser, and their log entries say so in a `via` field.
+Some state sites refuse automated fetches. Copies of those come from a browser instead: a person
+saving the page, or a browser-driving agent such as Claude Cowork or Claude in Chrome. Agents with
+first-party access to a platform can reach what scripts cannot: Grok reads posts on X directly,
+and Gemini can watch YouTube videos, such as recordings of dice-roll ceremonies. Log entries for
+copies made this way say how in a `via` field.
 
 ## Contributing
 

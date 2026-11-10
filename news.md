@@ -1,0 +1,33 @@
+---
+layout: default
+title: News
+---
+
+
+# News about the 2026 audits
+
+Articles and official posts about post-election audits of the November 3, 2026 general election, newest first, from Google Alerts and our own searches. State tags link to the state pages.
+
+## 2026-11-10
+
+- **[Texas post-election audits begin](https://www.crossroadstoday.com/news/texas-post-election-audits-begin/article_56752332-0e54-4f71-a83e-db9741557839.html)**, Crossroads Today. The audits include the Post-Election Hand Count Audit and a statewide Risk-Limiting Audit. Under state law, every county that counts ballots ... [TX](states/TX.md)
+- **[Election calendar, November 13, 2026: Postelection Audit Selection](https://voteidaho.gov/calendar/tag/voting-procedure/day/2026-11-13/)**, Idaho Secretary of State (VoteIdaho calendar). [ID](states/ID.md)
+- **[Fremont County assembling audit board to hand count 5 percent of 2026 election ballots, per state statute](https://county10.com/fremont-county-assembling-audit-board-to-hand-count-5-percent-of-2026-election-ballots-per-state-statute/)**, County 10. [WY](states/WY.md)
+- **[North Carolina Begins Post-Election Processes, Final Counting, Auditing](https://www.beaufortcountynow.com/post/41963/north-carolina-begins-post-election-processes-final-counting-auditing.html)**, Eastern NC Now. [NC](states/NC.md)
+
+## 2026-11-07
+
+- **[Counties to conduct audits and recount before certifying results](https://www.witf.org/2026/11/06/counties-to-conduct-audits-and-recount-before-certifying-results/)**, WITF. Then, counties perform the second check on results, called a risk-limiting audit. [PA](states/PA.md)
+- **[Unofficial vs. Official Election Results | Cobb County Georgia](https://www.cobbcounty.gov/news/unofficial-vs-official-election-results)**, Cobb County Government. The Risk-Limiting Audit involves manually counting randomly selected paper ballots and comparing the findings with reported vote totals. [GA](states/GA.md)
+- **[Franklin Board of Elections to Certify Elections Today](https://921wlhr.com/franklin-board-of-elections-to-certify-elections-today/)**, 92.1 WLHR. According to Verified Voting.org., a risk-limiting audit or RLA checks a random sample of voter-verifiable paper ballots ... [GA](states/GA.md)
+
+## 2026-11-06
+
+- **[16 midterm races are within 1%. What could happen next?](https://ground.news/article/16-midterm-races-are-within-1-what-could-happen-next)**, Ground News. Pamela Smith, president and CEO of Verified Voting, said a narrow result is not evidence of a counting problem. "An audit is something that ..."
+
+## 2026-11-05
+
+- **[Commissioner Zenzinger: Making Your Voice Heard This Election Season](https://www.jeffco.us/m/NewsFlash/Home/Detail/2664)**, Jefferson County, CO. ... risk-limiting audits, and official canvasses to guarantee complete precision. [CO](states/CO.md)
+- **[Georgia breaks midterm voter turnout record with more than 4 million ballots cast](https://www.wsbradio.com/news/local/georgia-breaks-midterm-voter-turnout-record-with-more-than-4-million-ballots-cast/CWXO7AY5X5BLNGOL3JJQ4GZNEU/)**, WSB Radio. "We are going to be doing 20 risk limiting audits. That's 14 congressional races, all of the congressional races, and six statewide," Raffensperger ... [GA](states/GA.md)
+- **[Secretary of State Brad Raffensperger discusses what happens after Election Day](https://www.yahoo.com/news/videos/secretary-state-brad-raffensperger-discusses-065915572.html)**, Yahoo. Under state law, Georgia will do 20 risk limiting audits this election. [GA](states/GA.md)
+

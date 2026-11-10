@@ -1,0 +1,73 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <nav class="site-nav">
+      <div class="trigger">
+        {%- for path in site.header_pages -%}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- if my_page.title -%}
+          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    </nav>
+  </div>
+  <div class="wrapper state-bar">
+      <a href="{{ "/states/AL/" | relative_url }}">AL</a>
+      <a href="{{ "/states/AK/" | relative_url }}">AK</a>
+      <a href="{{ "/states/AZ/" | relative_url }}">AZ</a>
+      <a href="{{ "/states/AR/" | relative_url }}">AR</a>
+      <a href="{{ "/states/CA/" | relative_url }}">CA</a>
+      <a href="{{ "/states/CO/" | relative_url }}">CO</a>
+      <a href="{{ "/states/CT/" | relative_url }}">CT</a>
+      <a href="{{ "/states/DE/" | relative_url }}">DE</a>
+      <a href="{{ "/states/DC/" | relative_url }}">DC</a>
+      <a href="{{ "/states/FL/" | relative_url }}">FL</a>
+      <a href="{{ "/states/GA/" | relative_url }}">GA</a>
+      <a href="{{ "/states/HI/" | relative_url }}">HI</a>
+      <a href="{{ "/states/ID/" | relative_url }}">ID</a>
+      <a href="{{ "/states/IL/" | relative_url }}">IL</a>
+      <a href="{{ "/states/IN/" | relative_url }}">IN</a>
+      <a href="{{ "/states/IA/" | relative_url }}">IA</a>
+      <a href="{{ "/states/KS/" | relative_url }}">KS</a>
+      <a href="{{ "/states/KY/" | relative_url }}">KY</a>
+      <a href="{{ "/states/LA/" | relative_url }}">LA</a>
+      <a href="{{ "/states/ME/" | relative_url }}">ME</a>
+      <a href="{{ "/states/MD/" | relative_url }}">MD</a>
+      <a href="{{ "/states/MA/" | relative_url }}">MA</a>
+      <a href="{{ "/states/MI/" | relative_url }}">MI</a>
+      <a href="{{ "/states/MN/" | relative_url }}">MN</a>
+      <a href="{{ "/states/MS/" | relative_url }}">MS</a>
+      <a href="{{ "/states/MO/" | relative_url }}">MO</a>
+      <a href="{{ "/states/MT/" | relative_url }}">MT</a>
+      <a href="{{ "/states/NE/" | relative_url }}">NE</a>
+      <a href="{{ "/states/NV/" | relative_url }}">NV</a>
+      <a href="{{ "/states/NH/" | relative_url }}">NH</a>
+      <a href="{{ "/states/NJ/" | relative_url }}">NJ</a>
+      <a href="{{ "/states/NM/" | relative_url }}">NM</a>
+      <a href="{{ "/states/NY/" | relative_url }}">NY</a>
+      <a href="{{ "/states/NC/" | relative_url }}">NC</a>
+      <a href="{{ "/states/ND/" | relative_url }}">ND</a>
+      <a href="{{ "/states/OH/" | relative_url }}">OH</a>
+      <a href="{{ "/states/OK/" | relative_url }}">OK</a>
+      <a href="{{ "/states/OR/" | relative_url }}">OR</a>
+      <a href="{{ "/states/PA/" | relative_url }}">PA</a>
+      <a href="{{ "/states/RI/" | relative_url }}">RI</a>
+      <a href="{{ "/states/SC/" | relative_url }}">SC</a>
+      <a href="{{ "/states/SD/" | relative_url }}">SD</a>
+      <a href="{{ "/states/TN/" | relative_url }}">TN</a>
+      <a href="{{ "/states/TX/" | relative_url }}">TX</a>
+      <a href="{{ "/states/UT/" | relative_url }}">UT</a>
+      <a href="{{ "/states/VT/" | relative_url }}">VT</a>
+      <a href="{{ "/states/VA/" | relative_url }}">VA</a>
+      <a href="{{ "/states/WA/" | relative_url }}">WA</a>
+      <a href="{{ "/states/WV/" | relative_url }}">WV</a>
+      <a href="{{ "/states/WI/" | relative_url }}">WI</a>
+      <a href="{{ "/states/WY/" | relative_url }}">WY</a>
+  </div>
+</header>
+<style>
+  .site-nav .trigger { display: block; }
+  .state-bar { display: flex; flex-wrap: wrap; gap: 0.15em 0.6em; font-size: 0.85em; padding-bottom: 0.4em; }
+  .state-bar a { font-family: monospace; }
+</style>

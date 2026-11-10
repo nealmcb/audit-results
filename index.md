@@ -15,6 +15,7 @@ or watch an audit in person.
 - **[States](states/index.md)**: one page per state, with its dates and the pages we watch.
 - **[Captures](captures.md)**: timestamped, hashed copies of state audit pages, taken every 30
   minutes, so anyone can see what was public before each random draw.
+- **[News](news.md)**: articles and official posts about the 2026 audits, tagged by state.
 - **[Help wanted](help-wanted.md)**: confirmations, records requests and observations that need
   a person.
 

@@ -12,7 +12,7 @@ title: Idaho
 
 | Section | Date | Event | Basis |
 |---|---|---|---|
-| Full calendar, Nov 10 – Jan 2027 | Nov 12 | County canvass deadline; state draw of counties and precincts possibly about Nov 13 | official; precedent |
+| Full calendar, Nov 10 – Jan 2027 | Nov 12–13 | County canvass deadline Nov 12; "Postelection Audit Selection" on the state calendar Nov 13 | official (VoteIdaho calendar) |
 | Full calendar, Nov 10 – Jan 2027 | Nov 24 | State canvass | official |
 
 ## Watched pages

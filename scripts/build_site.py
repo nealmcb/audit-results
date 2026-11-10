@@ -7,6 +7,7 @@ election. Three pages are generated so they never drift from their data:
 - calendar.md, from calendar-source.md (the hand-maintained master calendar), with front matter
 - states/<XX>.md, one page per state: any hand-written notes from state-notes/<XX>.md, its
   calendar rows, and its watched pages and their captures
+- news.md, from news/news.jsonl (see scripts/news.py)
 - captures.md, from watchlist.json and captures/log.jsonl: for every watched page, the first and
   latest fetch, each change with its UTC time and sha256, and whether it is blocked to scripts
 
@@ -115,6 +116,23 @@ def state_md(code, rows, watch, by):
     return "\n".join(out) + "\n"
 
 
+def news_md():
+    log = ROOT / "news" / "news.jsonl"
+    rows = [json.loads(l) for l in log.read_text().splitlines()] if log.exists() else []
+    out = [front("News"), "# News about the 2026 audits\n",
+           "Articles and official posts about post-election audits of the November 3, 2026 general "
+           "election, newest first, from Google Alerts and our own searches. State tags link to the "
+           "state pages.\n"]
+    for date in sorted({r["date"] for r in rows}, reverse=True):
+        out.append(f"## {date}\n")
+        for r in [r for r in rows if r["date"] == date]:
+            tags = " ".join(f"[{c}](states/{c}.md)" for c in r["states"])
+            snip = f" {r['snippet']}" if r.get("snippet") else ""
+            out.append(f"- **[{r['title']}]({r['url']})**, {r['source']}.{snip} {tags}".rstrip())
+        out.append("")
+    return "\n".join(out) + "\n"
+
+
 def main():
     src = (ROOT / "calendar-source.md").read_text()
     (ROOT / "calendar.md").write_text(front("2026 audit calendar") + src)
@@ -122,6 +140,7 @@ def main():
     watch = json.loads((ROOT / "watchlist.json").read_text())
     by = load_log()
     (ROOT / "captures.md").write_text(captures_md(watch, by))
+    (ROOT / "news.md").write_text(news_md())
     sd = ROOT / "states"
     sd.mkdir(exist_ok=True)
     idx = [front("States"), "# States\n", "| State | 2026 dates listed | Watched pages |", "|---|---|---|"]

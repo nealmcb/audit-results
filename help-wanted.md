@@ -27,11 +27,13 @@ or document.
 | NJ | County public draws of audit units (about Nov 15–16) | Dates are estimates from 2025 |
 | NM | Time and place of the auditor's public precinct selection (by Nov 15) | Not posted |
 
-## Capture pages before draws (a browser save is enough)
+## Capture pages before draws
 
 These pages refuse automated fetches. A saved copy (File > Save Page As) with the time you saved
 it, sent as a pull request or issue attachment, is the most useful thing you can do before each
-state's draw.
+state's draw. Browser-driving AI agents such as Claude Cowork or Claude in Chrome can do the same
+job. For posts on X, Grok can search and quote them directly, and Gemini can find and timestamp
+moments in YouTube recordings, such as when the dice are rolled. Please say which tool you used.
 
 - Georgia: https://sos.ga.gov/page/elections-audit-information and https://sos.ga.gov/news
 - Rhode Island: https://elections.ri.gov/elections/risk-limiting-audit-center
