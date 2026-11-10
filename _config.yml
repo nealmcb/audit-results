@@ -9,6 +9,11 @@ theme: minima
 permalink: pretty
 markdown: kramdown
 exclude:
+  - neal_ignore/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
   - README.md
   - scripts/
   - watchlist.json

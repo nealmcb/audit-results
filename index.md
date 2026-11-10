@@ -43,6 +43,3 @@ record what each state had published, and when.
 - [auditAnation](https://auditanation.org/): Tom Ryan's comparison of the 2024 audits in all
   50 states and DC.
 - [Verified Voting audit law database](https://verifiedvoting.org/auditlaw/).
-
-Corrections and additions are welcome as
-[GitHub issues](https://github.com/nealmcb/audit-results/issues).

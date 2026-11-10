@@ -1,3 +1,7 @@
 captures/loop.log
 captures/loop.pid
 neal_ignore/
+_site/
+vendor/
+.bundle/
+.jekyll-cache/
