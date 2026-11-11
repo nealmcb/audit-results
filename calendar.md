@@ -33,10 +33,11 @@ seed, or evidence published before a seed.
 ### Thu Nov 12
 
 - **GA**: SOS RLA kickoff and dice roll at the Capitol, probably about 10 am ET. · _precedent_. First statewide RLA under SB 3EX (20 contests). Capture sos.ga.gov and @GaSecofState before the roll; in 2025 and May 2026 the hashes came 8–54 min after it
+- **GA**: Gwinnett County RLA and ballot image audit start, 12:00 pm, 455 Grayson Hwy, Lawrenceville; deadline Wed Nov 18, 5 pm. · _official ([Gwinnett notice](https://www.gwinnettcounty.com/documents/d/gwinnett-county/notice-november-3-general-special-election-risk-limiting-ballot-image-audit?download=true))_. A noon county start supports a state kickoff that morning. Gwinnett's deadline is a day later than Fulton's
 
 ### Fri Nov 13
 
-- **GA**: County hand counts begin (Fulton: 10 am, Union City); deadline Tue Nov 17, 5 pm. · _official (Fulton, Crawford)_. Fulton's notice says "Thursday, November 13"; Nov 13 is a Friday
+- **GA**: County hand counts begin (Fulton: 10 am, Union City); deadline Tue Nov 17, 5 pm. Cobb audits on Nov 13, 16 and 17, and also runs an "Enhanced Audit" that reviews ballot images with independent software. · _official (Fulton, Crawford; [Cobb](https://www.cobbcounty.gov/news/cobb-county-certifies-results-november-3-general-electionspecial-election))_. Fulton's notice says "Thursday, November 13"; Nov 13 is a Friday
 - **PA**: Department of State RLA dice roll, livestreamed; audits the Governor contest. · _official_. Arlo RLA. No time or livestream link posted as of Nov 10; the page's "Seed Number:" and county list are blank, so captures before and after show when they fill in
 - **MN**: Houston County review of 2 precincts, 9 am CT, Caledonia; reviews statewide Nov 12–17. · _official (county); computed_. Precincts drawn at county canvasses Nov 6–13
 

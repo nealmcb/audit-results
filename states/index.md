@@ -18,7 +18,7 @@ title: States
 | [Delaware](DE.md) | 1 | 0 |
 | [District of Columbia](DC.md) | 3 | 1 |
 | [Florida](FL.md) | 6 | 0 |
-| [Georgia](GA.md) | 6 | 4 |
+| [Georgia](GA.md) | 7 | 4 |
 | [Hawaii](HI.md) | 0 | 0 |
 | [Idaho](ID.md) | 2 | 0 |
 | [Illinois](IL.md) | 1 | 0 |

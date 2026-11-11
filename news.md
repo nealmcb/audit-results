@@ -8,6 +8,11 @@ title: News
 
 Articles and official posts about post-election audits of the November 3, 2026 general election, newest first, from Google Alerts and our own searches. State tags link to the state pages.
 
+## 2026-11-11
+
+- **[Cobb County Certifies Results of November 3 General Election/Special](https://www.cobbcounty.gov/news/cobb-county-certifies-results-november-3-general-electionspecial-election)**, Election. Cobb County Government Cobb County Elections & Registration will participate in Georgia's post-election audits scheduled for November 13, 16, and 17. The Risk-Limiting Audit ... [GA](states/GA.md)
+- **[Notice of Risk Limiting and Ballot Image Audit, November 3, 2026 General Election & Special Election](https://www.gwinnettcounty.com/documents/d/gwinnett-county/notice-november-3-general-special-election-risk-limiting-ballot-image-audit?download=true)**, Gwinnett County Board of Voter Registrations and Elections. Audit starts Thursday, November 12, 2026 at 12:00pm in Lawrenceville; deadline Wednesday, November 18 by 5:00pm. [GA](states/GA.md)
+
 ## 2026-11-10
 
 - **[Texas post-election audits begin](https://www.crossroadstoday.com/news/texas-post-election-audits-begin/article_56752332-0e54-4f71-a83e-db9741557839.html)**, Crossroads Today. The audits include the Post-Election Hand Count Audit and a statewide Risk-Limiting Audit. Under state law, every county that counts ballots ... [TX](states/TX.md)
