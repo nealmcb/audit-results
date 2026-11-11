@@ -37,7 +37,7 @@ title: States
 | [Montana](MT.md) | 3 | 1 |
 | [Nebraska](NE.md) | 0 | 0 |
 | [Nevada](NV.md) | 3 | 1 |
-| [New Hampshire](NH.md) | 1 | 0 |
+| [New Hampshire](NH.md) | 3 | 0 |
 | [New Jersey](NJ.md) | 2 | 0 |
 | [New Mexico](NM.md) | 2 | 1 |
 | [New York](NY.md) | 3 | 0 |

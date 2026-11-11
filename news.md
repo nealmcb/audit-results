@@ -26,6 +26,7 @@ Articles and official posts about post-election audits of the November 3, 2026 g
 ## 2026-11-06
 
 - **[16 midterm races are within 1%. What could happen next?](https://ground.news/article/16-midterm-races-are-within-1-what-could-happen-next)**, Ground News. Pamela Smith, president and CEO of Verified Voting, said a narrow result is not evidence of a counting problem. "An audit is something that ..."
+- **[Audit Report – 2026 State General Election](https://www.sos.nh.gov/sites/g/files/ehbemt561/files/media/media_document/2026-general-election-audit-report.pdf)**, New Hampshire Secretary of State. Device audit of 9 polling places; 'all results within expected range'. [NH](states/NH.md)
 
 ## 2026-11-05
 

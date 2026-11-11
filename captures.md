@@ -14,7 +14,7 @@ https://azsos.gov/node/876
 
 hand count before canvass
 
-Fetched 25 times, 2026-11-10T15:17:39Z to 2026-11-11T02:27:25Z; blocked 25 times.
+Fetched 30 times, 2026-11-10T15:17:39Z to 2026-11-11T05:03:27Z; blocked 30 times.
 
 ## DC: dc-audit-selections
 
@@ -22,7 +22,7 @@ https://www.dcboe.org/getContentAsset/13a662ac-2a85-4d4a-9540-2de88e176abc/5ebbd
 
 audit Nov 21
 
-Fetched 25 times, 2026-11-10T15:17:44Z to 2026-11-11T02:27:31Z.
+Fetched 30 times, 2026-11-10T15:17:44Z to 2026-11-11T05:03:32Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -34,7 +34,7 @@ https://www.crawfordcountyga.org/notice-risk-limiting-audit-4/
 
 county count Nov 13
 
-Fetched 25 times, 2026-11-10T15:16:52Z to 2026-11-11T02:26:40Z.
+Fetched 30 times, 2026-11-10T15:16:52Z to 2026-11-11T05:02:37Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -47,7 +47,7 @@ https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Notice-of-Ris
 
 county count Nov 13-17
 
-Fetched 25 times, 2026-11-10T15:16:50Z to 2026-11-11T02:26:38Z.
+Fetched 30 times, 2026-11-10T15:16:50Z to 2026-11-11T05:02:35Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -59,7 +59,7 @@ https://sos.ga.gov/page/elections-audit-information
 
 RLA artifacts, hashes; kickoff expected Nov 12
 
-Fetched 26 times, 2026-11-10T15:16:45Z to 2026-11-11T02:26:33Z; blocked 25 times.
+Fetched 31 times, 2026-11-10T15:16:45Z to 2026-11-11T05:02:31Z; blocked 30 times.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -71,7 +71,7 @@ https://sos.ga.gov/news
 
 RLA kickoff media advisory and results release
 
-Fetched 26 times, 2026-11-10T15:16:48Z to 2026-11-11T02:26:36Z; blocked 25 times.
+Fetched 31 times, 2026-11-10T15:16:48Z to 2026-11-11T05:02:33Z; blocked 30 times.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -83,7 +83,7 @@ https://kssos.org/elections/26elec/2026-General-Election-Post-Election-Audit-Dat
 
 county audit dates
 
-Fetched 24 times, 2026-11-10T15:19:31Z to 2026-11-11T02:27:42Z.
+Fetched 29 times, 2026-11-10T15:19:31Z to 2026-11-11T05:03:44Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -95,7 +95,7 @@ https://kssos.org/elections/post-election-audit.html
 
 county audit dates spreadsheet
 
-Fetched 25 times, 2026-11-10T15:17:24Z to 2026-11-11T02:27:13Z.
+Fetched 30 times, 2026-11-10T15:17:24Z to 2026-11-11T05:03:14Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -107,7 +107,7 @@ https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf
 
 RLA contest selection Nov 23, due Dec 2
 
-Fetched 25 times, 2026-11-10T15:17:07Z to 2026-11-11T02:26:57Z.
+Fetched 30 times, 2026-11-10T15:17:07Z to 2026-11-11T05:02:53Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -119,7 +119,7 @@ https://elections.maryland.gov/voting_system/ballot_audit_plan.html
 
 2026 audit plan
 
-Fetched 24 times, 2026-11-10T15:19:29Z to 2026-11-11T02:27:40Z.
+Fetched 29 times, 2026-11-10T15:19:29Z to 2026-11-11T05:03:42Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -132,7 +132,7 @@ https://elections.maryland.gov/
 
 RLA seed meeting notice
 
-Fetched 25 times, 2026-11-10T15:17:10Z to 2026-11-11T02:26:59Z.
+Fetched 30 times, 2026-11-10T15:17:10Z to 2026-11-11T05:02:56Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -147,6 +147,8 @@ Fetched 25 times, 2026-11-10T15:17:10Z to 2026-11-11T02:26:59Z.
 | 2026-11-10T21:46:13Z | `930828ac6c0fb0f3…` | [20261110T214613Z.html](captures/md-elections-home/20261110T214613Z.html) |
 | 2026-11-11T00:22:08Z | `3ce6e5f787fa6004…` | [20261111T002208Z.html](captures/md-elections-home/20261111T002208Z.html) |
 | 2026-11-11T00:53:23Z | `4fb9d746c5e0690b…` | [20261111T005323Z.html](captures/md-elections-home/20261111T005323Z.html) |
+| 2026-11-11T02:58:12Z | `458ff91489397294…` | [20261111T025812Z.html](captures/md-elections-home/20261111T025812Z.html) |
+| 2026-11-11T04:00:35Z | `73d98472e4526ddc…` | [20261111T040035Z.html](captures/md-elections-home/20261111T040035Z.html) |
 
 ## MD: md-rla-page
 
@@ -154,7 +156,7 @@ https://elections.maryland.gov/voting_system/ballot_audit_plan_manual.html
 
 RLA results and ceremony posting
 
-Fetched 24 times, 2026-11-10T15:19:26Z to 2026-11-11T02:27:38Z.
+Fetched 29 times, 2026-11-10T15:19:26Z to 2026-11-11T05:03:40Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -167,7 +169,7 @@ https://www.sos.mn.gov/elections-voting/how-elections-work/post-election-reviews
 
 selected precincts
 
-Fetched 25 times, 2026-11-10T15:17:46Z to 2026-11-11T02:27:33Z.
+Fetched 30 times, 2026-11-10T15:17:46Z to 2026-11-11T05:03:35Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -184,7 +186,7 @@ https://sosmt.gov/elections/
 
 State Board dice draw Nov 10-12
 
-Fetched 25 times, 2026-11-10T15:17:19Z to 2026-11-11T02:27:08Z; blocked 25 times.
+Fetched 30 times, 2026-11-10T15:17:19Z to 2026-11-11T05:03:05Z; blocked 30 times.
 
 ## NC: nc-election-results-releases
 
@@ -192,7 +194,7 @@ https://www.ncsbe.gov/press-release-terms/election-results
 
 Nov 4 sample selection release
 
-Fetched 25 times, 2026-11-10T15:17:26Z to 2026-11-11T02:27:15Z.
+Fetched 30 times, 2026-11-10T15:17:26Z to 2026-11-11T05:03:16Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -205,7 +207,7 @@ https://www.sos.nd.gov/elections/election-security/post-election-audits
 
 selected polling locations
 
-Fetched 25 times, 2026-11-10T15:17:28Z to 2026-11-11T02:27:17Z.
+Fetched 30 times, 2026-11-10T15:17:28Z to 2026-11-11T05:03:18Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -217,7 +219,7 @@ https://www.sos.nm.gov/voting-and-elections/
 
 auditor precinct selection by Nov 15
 
-Fetched 25 times, 2026-11-10T15:17:49Z to 2026-11-11T02:27:36Z.
+Fetched 30 times, 2026-11-10T15:17:49Z to 2026-11-11T05:03:37Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -229,7 +231,7 @@ https://www.nvsos.gov/sos/elections/election-information/risk-limiting-audits
 
 NV RLA contest, seed
 
-Fetched 25 times, 2026-11-10T15:17:17Z to 2026-11-11T02:27:06Z.
+Fetched 30 times, 2026-11-10T15:17:17Z to 2026-11-11T05:03:03Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -245,7 +247,7 @@ https://sos.oregon.gov/voting/pages/current-election.aspx
 
 selection Nov 25
 
-Fetched 25 times, 2026-11-10T15:17:41Z to 2026-11-11T02:27:28Z.
+Fetched 30 times, 2026-11-10T15:17:41Z to 2026-11-11T05:03:29Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -259,7 +261,7 @@ https://www.pa.gov/en/agencies/vote/elections/post-election-audits.html
 
 RLA dice roll Nov 13 (Governor)
 
-Fetched 25 times, 2026-11-10T15:16:55Z to 2026-11-11T02:26:43Z.
+Fetched 30 times, 2026-11-10T15:16:55Z to 2026-11-11T05:02:40Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -272,7 +274,7 @@ https://elections.ri.gov/elections/risk-limiting-audit-center
 
 targets by Nov 13; seed ceremony
 
-Fetched 25 times, 2026-11-10T15:17:12Z to 2026-11-11T02:27:01Z; blocked 25 times.
+Fetched 30 times, 2026-11-10T15:17:12Z to 2026-11-11T05:02:58Z; blocked 30 times.
 
 ## SC: sc-election-audits
 
@@ -280,7 +282,7 @@ https://scvotes.gov/elections-statistics/election-audits/
 
 ballot-image audit
 
-Fetched 25 times, 2026-11-10T15:17:36Z to 2026-11-11T02:27:22Z.
+Fetched 30 times, 2026-11-10T15:17:36Z to 2026-11-11T05:03:24Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -303,6 +305,10 @@ Fetched 25 times, 2026-11-10T15:17:36Z to 2026-11-11T02:27:22Z.
 | 2026-11-11T01:24:58Z | `158f379cdbdaa127…` | [20261111T012458Z.html](captures/sc-election-audits/20261111T012458Z.html) |
 | 2026-11-11T01:56:11Z | `36116d38f1ea7a04…` | [20261111T015611Z.html](captures/sc-election-audits/20261111T015611Z.html) |
 | 2026-11-11T02:27:22Z | `c2fe7db1574c5197…` | [20261111T022722Z.html](captures/sc-election-audits/20261111T022722Z.html) |
+| 2026-11-11T02:58:36Z | `c9a963e1ce346f46…` | [20261111T025836Z.html](captures/sc-election-audits/20261111T025836Z.html) |
+| 2026-11-11T03:29:48Z | `158f379cdbdaa127…` | [20261111T032948Z.html](captures/sc-election-audits/20261111T032948Z.html) |
+| 2026-11-11T04:32:09Z | `c9a963e1ce346f46…` | [20261111T043209Z.html](captures/sc-election-audits/20261111T043209Z.html) |
+| 2026-11-11T05:03:24Z | `c2fe7db1574c5197…` | [20261111T050324Z.html](captures/sc-election-audits/20261111T050324Z.html) |
 
 ## SC: sc-hand-count-audit-2026
 
@@ -310,7 +316,7 @@ https://scvotes.gov/hand-count-audit-for-the-2026-statewide-general-election/
 
 selected precincts and contests
 
-Fetched 25 times, 2026-11-10T15:17:31Z to 2026-11-11T02:27:20Z.
+Fetched 30 times, 2026-11-10T15:17:31Z to 2026-11-11T05:03:21Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -322,7 +328,7 @@ https://www.sos.texas.gov/elections/
 
 RLA seed event notice
 
-Fetched 25 times, 2026-11-10T15:17:05Z to 2026-11-11T02:26:54Z; blocked 25 times.
+Fetched 30 times, 2026-11-10T15:17:05Z to 2026-11-11T05:02:51Z; blocked 30 times.
 
 ## TX: tx-rla-planning-deck
 
@@ -330,7 +336,7 @@ https://www.sos.texas.gov/elections/forms/seminar/2026/planning-risk-limiting-au
 
 first SB 827 RLA Nov 19-20
 
-Fetched 25 times, 2026-11-10T15:17:03Z to 2026-11-11T02:26:52Z.
+Fetched 30 times, 2026-11-10T15:17:03Z to 2026-11-11T05:02:48Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -342,7 +348,7 @@ https://www.elections.virginia.gov/resultsreports/election-security/rla
 
 State Board RLA selection; RLA before Dec 7
 
-Fetched 25 times, 2026-11-10T15:17:14Z to 2026-11-11T02:27:03Z.
+Fetched 30 times, 2026-11-10T15:17:14Z to 2026-11-11T05:03:00Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -354,7 +360,7 @@ https://www.sos.wa.gov/elections/data-research/election-technology/post-election
 
 WA audit index
 
-Fetched 25 times, 2026-11-10T15:17:01Z to 2026-11-11T02:26:50Z.
+Fetched 30 times, 2026-11-10T15:17:01Z to 2026-11-11T05:02:46Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -369,7 +375,7 @@ https://www.sos.wa.gov/node/11554
 
 seed rolled Nov 6; county RLAs Nov 19
 
-Fetched 25 times, 2026-11-10T15:16:58Z to 2026-11-11T02:26:46Z.
+Fetched 30 times, 2026-11-10T15:16:58Z to 2026-11-11T05:02:43Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -384,5 +390,5 @@ https://elections.wi.gov/node/11791
 
 WEC random selection
 
-Fetched 25 times, 2026-11-10T15:17:21Z to 2026-11-11T02:27:10Z; blocked 25 times.
+Fetched 30 times, 2026-11-10T15:17:21Z to 2026-11-11T05:03:07Z; blocked 30 times.
 

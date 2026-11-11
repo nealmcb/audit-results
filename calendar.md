@@ -89,9 +89,11 @@ seed, or evidence published before a seed.
 | When | State | What | Basis |
 |---|---|---|---|
 | Fri Oct 9 | DC | Public random selection of precincts and contests (Zoom) | official |
+| Fri Oct 16 | NH | SOS selects 8 polling places for the device audit (RSA 660:35), in secret, after memory cards were programmed, using "Google's random number generator"; one more chosen by the SOS (RSA 660:32) | official ([audit report](https://www.sos.nh.gov/sites/g/files/ehbemt561/files/media/media_document/2026-general-election-audit-report.pdf)) |
 | by Mon Oct 19 | NV | Target-contest notice to county clerks (contest not found) | computed |
 | Tue Nov 3 | MD | Precincts selected for post-election verification (non-RLA), 8 pm | official |
-| Tue Nov 3 | NH | Random selection of at least 8 devices (2024 precedent); results due Fri Nov 6 | precedent; news |
+| Tue Nov 3 | NH | SOS representatives tell the 9 audited polling places before noon, then announce them in a press release | official ([audit report](https://www.sos.nh.gov/sites/g/files/ehbemt561/files/media/media_document/2026-general-election-audit-report.pdf)) |
+| Nov 4–6 | NH | Audit of the 9 devices at NH Archives and Records Management (Nov 4–5); report dated Fri Nov 6: "all results within expected range" | official ([audit report](https://www.sos.nh.gov/sites/g/files/ehbemt561/files/media/media_document/2026-general-election-audit-report.pdf)) |
 | Tue Nov 3 | SC | Hand-count audit precincts, early-voting centers and contests posted | official |
 | Wed Nov 4 | KS | SOS public selection of races, 9 am CT | official |
 | Wed Nov 4 | IA | SOS draws one precinct per county by lot | computed |
