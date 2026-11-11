@@ -26,6 +26,6 @@ title: Georgia
 
 - <https://sos.ga.gov/page/elections-audit-information> (RLA artifacts, hashes; kickoff expected Nov 12; blocked to scripts; 1 saved copy)
 - <https://sos.ga.gov/news> (RLA kickoff media advisory and results release; blocked to scripts; 1 saved copy)
-- <https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Notice-of-Risk-Limiting-Audit--1132026.pdf> (county count Nov 13-17; last fetched 2026-11-10T22:17:03Z; 1 saved copy)
-- <https://www.crawfordcountyga.org/notice-risk-limiting-audit-4/> (county count Nov 13; last fetched 2026-11-10T22:17:06Z; 2 saved copies)
+- <https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Notice-of-Risk-Limiting-Audit--1132026.pdf> (county count Nov 13-17; last fetched 2026-11-11T02:26:38Z; 1 saved copy)
+- <https://www.crawfordcountyga.org/notice-risk-limiting-audit-4/> (county count Nov 13; last fetched 2026-11-11T02:26:40Z; 2 saved copies)
 

@@ -20,5 +20,5 @@ title: New Mexico
 
 ## Watched pages
 
-- <https://www.sos.nm.gov/voting-and-elections/> (auditor precinct selection by Nov 15; last fetched 2026-11-10T22:18:05Z; 1 saved copy)
+- <https://www.sos.nm.gov/voting-and-elections/> (auditor precinct selection by Nov 15; last fetched 2026-11-11T02:27:36Z; 1 saved copy)
 

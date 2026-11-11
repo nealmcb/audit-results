@@ -21,5 +21,5 @@ title: Nevada
 
 ## Watched pages
 
-- <https://www.nvsos.gov/sos/elections/election-information/risk-limiting-audits> (NV RLA contest, seed; last fetched 2026-11-10T22:17:35Z; 5 saved copies)
+- <https://www.nvsos.gov/sos/elections/election-information/risk-limiting-audits> (NV RLA contest, seed; last fetched 2026-11-11T02:27:06Z; 5 saved copies)
 
