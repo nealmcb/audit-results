@@ -21,5 +21,5 @@ title: North Carolina
 
 ## Watched pages
 
-- <https://www.ncsbe.gov/press-release-terms/election-results> (Nov 4 sample selection release; last fetched 2026-11-12T04:26:39Z; 2 saved copies)
+- <https://www.ncsbe.gov/press-release-terms/election-results> (Nov 4 sample selection release; last fetched 2026-11-12T04:57:58Z; 2 saved copies)
 

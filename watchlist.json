@@ -172,5 +172,41 @@
   "state": "KS",
   "url": "https://kssos.org/elections/26elec/2026-General-Election-Post-Election-Audit-Dates.xlsx",
   "why": "county audit dates"
+ },
+ {
+  "slug": "ga-gwinnett-rla-notice",
+  "state": "GA",
+  "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/notice-november-3-general-special-election-risk-limiting-ballot-image-audit?download=true",
+  "why": "county RLA notice: starts Nov 12, 12 pm"
+ },
+ {
+  "slug": "ga-forsyth-rla-notice",
+  "state": "GA",
+  "url": "https://forsythco.b-cdn.net/app/uploads/2026/11/Public-Notice-of-RLA-11-03-26-General-General-Election-Special-Elections-UA-1.pdf",
+  "why": "county RLA notice: starts Nov 12, 1 pm"
+ },
+ {
+  "slug": "ga-forsyth-elections",
+  "state": "GA",
+  "url": "https://www.forsythco.com/government/departments/voter-registrations-elections/current-upcoming-elections/",
+  "why": "RLA results to be posted here"
+ },
+ {
+  "slug": "ga-richmond-rla-notice",
+  "state": "GA",
+  "url": "https://www.augustaga.gov/m/newsflash/Home/Detail/4291",
+  "why": "county RLA notice: starts Nov 13, 9 am"
+ },
+ {
+  "slug": "ga-cobb-certification-release",
+  "state": "GA",
+  "url": "https://www.cobbcounty.gov/news/cobb-county-certifies-results-november-3-general-electionspecial-election",
+  "why": "audits Nov 13, 16, 17; enhanced ballot-image audit"
+ },
+ {
+  "slug": "ga-clayton-rla-notice",
+  "state": "GA",
+  "url": "https://www.claytoncountyga.gov/news/risk-limiting-audit-november-3-2026-general-election/",
+  "why": "county RLA notice: starts Nov 12, 12 pm (site may block scripts)"
  }
 ]

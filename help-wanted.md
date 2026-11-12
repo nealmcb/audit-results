@@ -36,6 +36,7 @@ job. For posts on X, Grok can search and quote them directly, and Gemini can fin
 moments in YouTube recordings, such as when the dice are rolled. Please say which tool you used.
 
 - Georgia: https://sos.ga.gov/page/elections-audit-information and https://sos.ga.gov/news
+- Georgia, Clayton County's audit notice: https://www.claytoncountyga.gov/news/risk-limiting-audit-november-3-2026-general-election/
 - Rhode Island: https://elections.ri.gov/elections/risk-limiting-audit-center
 - Montana: https://sosmt.gov/elections/
 - Wisconsin: https://elections.wi.gov/

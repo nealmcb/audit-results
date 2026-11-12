@@ -32,6 +32,7 @@ Articles and official posts about post-election audits of the November 3, 2026 g
 
 - **[16 midterm races are within 1%. What could happen next?](https://ground.news/article/16-midterm-races-are-within-1-what-could-happen-next)**, Ground News. Pamela Smith, president and CEO of Verified Voting, said a narrow result is not evidence of a counting problem. "An audit is something that ..."
 - **[Audit Report – 2026 State General Election](https://www.sos.nh.gov/sites/g/files/ehbemt561/files/media/media_document/2026-general-election-audit-report.pdf)**, New Hampshire Secretary of State. Device audit of 9 polling places; 'all results within expected range'. [NH](states/NH.md)
+- **[Richmond County sets risk-limiting audit: dice roll Nov. 12, audits start Nov. 13](https://citizenportal.ai/articles/11902431/georgia/richmond-county/augusta-city/richmond-county-sets-risk-limiting-audit-dice-roll-nov-12-audits-start-nov-1)**, Citizen Portal (AI summary of a Richmond County Board of Elections meeting). Election staff told the board the dice roll to select batches will take place Thursday, Nov. 12 at 10 a.m.; the county's audit begins Friday, Nov. 13 at 9 a.m. [GA](states/GA.md)
 
 ## 2026-11-05
 

@@ -53,6 +53,8 @@ and when.
 | `scripts/capture.py` | Fetches every watched page and saves a copy under `captures/<slug>/` when its content changes. Every fetch is logged in `captures/log.jsonl` (UTC time, HTTP status, sha256, whether it was blocked) |
 | `scripts/build_site.py` | Generates `calendar.md`, `states/` and `captures.md` from the files above |
 | `help-wanted.md` | Tasks that need a person |
+| `evidence/` | Files obtained other ways (a browser save, a Cowork download), with their sources in `evidence/SOURCES.md` |
+| `scripts/stamp.py`, `timestamps/` | Commitments: a versioned `SHA256SUMS` file listing the hash of every file in `captures/` and `evidence/`, timestamped with OpenTimestamps (Bitcoin) and signed with the repository's cosign key (public key: `timestamps/cosign.pub`), which records each signature in Sigstore's public Rekor log. Anyone can check them with `sha256sum --check --ignore-missing`, `ots verify` and `cosign verify-blob --key timestamps/cosign.pub` |
 
 To capture and rebuild:
 
