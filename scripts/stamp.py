@@ -251,6 +251,8 @@ def cmd_upgrade(a):
             continue
         code, out = run_tool([ots, "upgrade", proof.name], proof.parent)
         done = OTS_BITCOIN_TAG in proof.read_bytes()
+        # ots keeps the old proof as <proof>.bak; the commit history keeps it anyway
+        proof.with_name(proof.name + ".bak").unlink(missing_ok=True)
         print(f"{'DONE' if done else 'PENDING' if code in (0, 1) else 'FAILED':8} {proof.relative_to(ROOT)}")
         if code not in (0, 1):
             rc = 1
