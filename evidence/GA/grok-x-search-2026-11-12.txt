@@ -1,0 +1,8 @@
+Grok (xAI) search of X, run by Neal McBurnett and pasted back at about 2026-11-12T16:39:00Z.
+Asked for every post from @GaSecofState, @GabrielSterling and @GeorgiaSOS between 14:00 and 17:00 UTC
+on November 12, 2026 giving the dice-roll seed, the roll time, the randomly drawn statewide contest,
+or SHA-256 hashes of ballot manifests, batch tallies or other audit files.
+
+Grok's reply, verbatim:
+
+No posts matching the requested criteria were found.Searches of X for posts from @GaSecofState, @GabrielSterling, and @GeorgiaSOS between 14:00–17:00 UTC on November 12, 2026 (and broader windows covering the full day) returned no results containing the 20-digit random seed, the dice-roll timing, the randomly selected statewide contest, or any SHA-256 hashes of ballot manifests / batch tallies / audit files.The only post from @GaSecofState in the relevant timeframe was an unrelated webinar announcement at 15:00 UTC. No posts from @GabrielSterling or @GeorgiaSOS appeared in the window.No posts were visible but unreadable.

@@ -20,5 +20,5 @@ title: Pennsylvania
 
 ## Watched pages
 
-- <https://www.pa.gov/en/agencies/vote/elections/post-election-audits.html> (RLA dice roll Nov 13 (Governor); last fetched 2026-11-12T14:24:51Z; 2 saved copies)
+- <https://www.pa.gov/en/agencies/vote/elections/post-election-audits.html> (RLA dice roll Nov 13 (Governor); last fetched 2026-11-12T16:30:42Z; 2 saved copies)
 

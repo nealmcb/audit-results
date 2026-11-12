@@ -11,6 +11,7 @@ Articles and official posts about post-election audits of the November 3, 2026 g
 ## 2026-11-12
 
 - **[Secretary of State Kicks Off Risk-Limiting Audit With Dice Roll Today](https://921wlhr.com/secretary-of-state-kicks-off-risk-limiting-audit-with-dice-roll-today/)**, 92.1 WLHR. The public dice roll to start the selection of batches of ballots to be hand-counted will take place on the South Steps of the State Capitol, beginning at 10AM. [GA](states/GA.md)
+- **[Georgia election officials to audit midterm results](https://www.wctv.tv/2026/11/12/georgia-election-officials-audit-midterm-results/)**, Atlanta News First (via WCTV). It will examine 14 Congressional races and six statewide offices. A die roll selects the batches of ballots to be hand-counted. It starts at the south steps of the State Capitol at 10 a.m. [GA](states/GA.md)
 
 ## 2026-11-11
 
