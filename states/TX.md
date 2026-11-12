@@ -21,6 +21,6 @@ title: Texas
 
 ## Watched pages
 
-- <https://www.sos.texas.gov/elections/forms/seminar/2026/planning-risk-limiting-audits.pdf> (first SB 827 RLA Nov 19-20; last fetched 2026-11-11T14:23:51Z; 1 saved copy)
+- <https://www.sos.texas.gov/elections/forms/seminar/2026/planning-risk-limiting-audits.pdf> (first SB 827 RLA Nov 19-20; last fetched 2026-11-12T04:26:14Z; 1 saved copy)
 - <https://www.sos.texas.gov/elections/> (RLA seed event notice; blocked to scripts; 0 saved copies)
 

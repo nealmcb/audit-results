@@ -26,6 +26,7 @@ verification is done.
 ### Watch now (Nov 10–24)
 
 - **Mon Nov 16**: Public random seed meeting, 10 am MT: at least 20 digits from sequential rolls of a 10-sided die, by members of the public or staff; SOS, 1700 Broadway, Denver, 5th floor Red Rocks Conference Room, and on Zoom; seed posted on the Audit Center right after. · _official ([SOS notice, Nov 9](https://content.govdelivery.com/accounts/COSOS/bulletins/431eddd))_. Citizen observers timestamp the pre-seed data and verify the audit as it happens: a model of what can be achieved ([Citizen Election Verification](https://sites.google.com/view/auditenhancement)); RLA must finish by Tue Nov 24
+- **Tue Nov 17**: Boulder County RLA begins, 10 am, 1750 33rd St, Boulder (RSVP by 5 pm Mon Nov 16); continues Nov 18 if needed; round 2 Thu Nov 19 if needed; canvass board Tue Nov 24, 2 pm, online. · _official ([Boulder County, Nov 11](https://content.govdelivery.com/accounts/COBOULDER/bulletins/4327813))_. Open to the public
 - **Tue Nov 24**: Last day for the RLA. · _official (El Paso County)_.
 
 ### Full calendar, Nov 10 – Jan 2027
