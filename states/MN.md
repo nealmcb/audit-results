@@ -22,5 +22,5 @@ title: Minnesota
 
 ## Watched pages
 
-- <https://www.sos.mn.gov/elections-voting/how-elections-work/post-election-reviews/> (selected precincts; last fetched 2026-11-12T13:22:43Z; 7 saved copies)
+- <https://www.sos.mn.gov/elections-voting/how-elections-work/post-election-reviews/> (selected precincts; last fetched 2026-11-12T14:25:40Z; 7 saved copies)
 

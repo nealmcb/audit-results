@@ -8,6 +8,10 @@ title: News
 
 Articles and official posts about post-election audits of the November 3, 2026 general election, newest first, from Google Alerts and our own searches. State tags link to the state pages.
 
+## 2026-11-12
+
+- **[Secretary of State Kicks Off Risk-Limiting Audit With Dice Roll Today](https://921wlhr.com/secretary-of-state-kicks-off-risk-limiting-audit-with-dice-roll-today/)**, 92.1 WLHR. The public dice roll to start the selection of batches of ballots to be hand-counted will take place on the South Steps of the State Capitol, beginning at 10AM. [GA](states/GA.md)
+
 ## 2026-11-11
 
 - **[Cobb County Certifies Results of November 3 General Election/Special](https://www.cobbcounty.gov/news/cobb-county-certifies-results-november-3-general-electionspecial-election)**, Election. Cobb County Government Cobb County Elections & Registration will participate in Georgia's post-election audits scheduled for November 13, 16, and 17. The Risk-Limiting Audit ... [GA](states/GA.md)
