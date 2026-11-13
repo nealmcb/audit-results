@@ -38,5 +38,7 @@ verification is done.
 
 ## Watched pages
 
-None yet. Suggestions welcome.
+- <https://www.sos.state.co.us/pubs/elections/auditCenter.html> (RLA files: target contests, manifests, CVR hash values, seed (seed Nov 16); fetched every 30 minutes; 1 saved copy)
+- <https://www.sos.state.co.us/pubs/elections/RLA/2026/general/riskLimit.html> (risk-limit notice (3%); fetched every 30 minutes; 1 saved copy)
+- <https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/2026GeneralRLAContestList.xlsx> (target contests; fetched every 30 minutes; 1 saved copy)
 

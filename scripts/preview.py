@@ -145,7 +145,7 @@ def main():
     srv = serve(port, tall=bool(a.full or a.tail) and not a.serve)
     base = f"http://127.0.0.1:{srv.server_address[1]}/audit-results/"
     if a.serve:
-        print(f"serving {base} (Ctrl-C to stop)")
+        print(f"serving {base} (Ctrl-C to stop)", flush=True)
         threading.Event().wait()
     shots = SITE / "shots"
     shots.mkdir(exist_ok=True)

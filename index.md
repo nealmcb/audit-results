@@ -15,6 +15,14 @@ they happen, what each state published before its random selection, the audit da
 appears, and what still needs doing by people who can make a phone call, file a records request
 or watch an audit in person.
 
+The aim comes from Philip Stark and David Wagner's
+[Evidence-Based Elections](https://www.stat.berkeley.edu/~stark/Preprints/evidenceVote12.pdf)
+(2012): an election should produce convincing evidence that its reported outcome is right, rather
+than asking the public to trust its officials and equipment. That takes a burden off election
+officials too: they needn't be trusted, or perfect, when the evidence speaks for itself. Audits are
+where much of that evidence is made. This site gathers and preserves it, so anyone can see it and
+check it.
+
 - **[Calendar](calendar.md)**: audit dates for all 50 states and DC, each marked official,
   computed from statute, news, precedent or unverified, with its source.
 - **[States](states/index.md)**: one page per state, with its dates and the pages we watch.
@@ -23,8 +31,6 @@ or watch an audit in person.
 - **[News](news.md)**: articles and official posts about the 2026 audits, tagged by state.
 - **[Help wanted](help-wanted.md)**: confirmations, records requests and observations that need
   a person.
-- **[Transparency](transparency.md)**: what keeps independent observers from the evidence, how we get around it,
-  and advice for observers and states.
 
 ## Why capture before the draw?
 

@@ -16,6 +16,42 @@ hand count before canvass
 
 Watched since 2026-11-10T15:17:39Z; every fetch has been refused (HTTP 403), so a browser capture is needed.
 
+## CO: co-audit-center
+
+https://www.sos.state.co.us/pubs/elections/auditCenter.html
+
+RLA files: target contests, manifests, CVR hash values, seed (seed Nov 16)
+
+Watched since 2026-11-13T20:01:55Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-13T20:01:55Z | `50cb8ef5c2f78f11…` | [20261113T200155Z.html](captures/co-audit-center/20261113T200155Z.html) |
+
+## CO: co-rla-2026-general-contests
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/2026GeneralRLAContestList.xlsx
+
+target contests
+
+Watched since 2026-11-13T20:01:59Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-13T20:01:59Z | `880cc6b89dd81458…` | [20261113T200159Z.xlsx](captures/co-rla-2026-general-contests/20261113T200159Z.xlsx) |
+
+## CO: co-rla-2026-general-risk-limit
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/riskLimit.html
+
+risk-limit notice (3%)
+
+Watched since 2026-11-13T20:01:57Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-13T20:01:57Z | `c02b1c75cb4eeeb7…` | [20261113T200157Z.html](captures/co-rla-2026-general-risk-limit/20261113T200157Z.html) |
+
 ## DC: dc-audit-selections
 
 https://www.dcboe.org/getContentAsset/13a662ac-2a85-4d4a-9540-2de88e176abc/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/GE2026_Election-Audit-selections_10022026_FINAL.pdf?language=en

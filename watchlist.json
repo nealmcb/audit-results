@@ -214,5 +214,23 @@
   "state": "PA",
   "url": "https://www.pa.gov/agencies/dos/newsroom",
   "why": "day-of RLA dice-roll release (Nov 13), with seed and livestream"
+ },
+ {
+  "slug": "co-audit-center",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/auditCenter.html",
+  "why": "RLA files: target contests, manifests, CVR hash values, seed (seed Nov 16)"
+ },
+ {
+  "slug": "co-rla-2026-general-risk-limit",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/riskLimit.html",
+  "why": "risk-limit notice (3%)"
+ },
+ {
+  "slug": "co-rla-2026-general-contests",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/2026GeneralRLAContestList.xlsx",
+  "why": "target contests"
  }
 ]

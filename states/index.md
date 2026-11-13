@@ -13,7 +13,7 @@ title: States
 | [Arizona](AZ.md) | 2 | 1 |
 | [Arkansas](AR.md) | 1 | 0 |
 | [California](CA.md) | 2 | 0 |
-| [Colorado](CO.md) | 7 | 0 |
+| [Colorado](CO.md) | 7 | 3 |
 | [Connecticut](CT.md) | 1 | 0 |
 | [Delaware](DE.md) | 1 | 0 |
 | [District of Columbia](DC.md) | 3 | 1 |

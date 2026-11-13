@@ -34,15 +34,11 @@ speech):
   City of Bellingham Proposition 2026-06 is drawn at about 15:34
 - [15:57](https://www.youtube.com/watch?v=Jp2coFs32m8&t=955s) the selections are summarized
 
-The contests were then drawn by lot, after the seed was known: the statewide contest from eight
-slips (three initiatives and five Supreme Court positions), the congressional district from all
-districts except the 5th, which was left out as too close to audit, and one contest for each of the
-four counties from lists of their contests. A draw by lot from slips can't be checked afterwards the
-way a seed can, and drawing after the seed means the contests could in principle be chosen knowing
-which ballots each would sample.
+The contests were then drawn by lot: the statewide contest from eight slips (three initiatives and
+five Supreme Court positions), the congressional district from all districts except the 5th, and
+one contest for each of the four counties from lists of their contests.
 
-Nothing was said about the ballot manifests or cast vote records, and none were published, nor
-hashes of them, before the roll. Reproducing the sample needs those files; we have asked the
-Elections Division for them and for the times they were uploaded to Arlo.
+Reproducing the sample needs the counties' ballot manifests and cast vote records; we have asked
+the Elections Division for them.
 
 Wanted: the manifests and CVRs for the six audits, their upload times, and Arlo's sample lists.
