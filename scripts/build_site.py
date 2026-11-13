@@ -112,11 +112,23 @@ def load_log():
 
 def fetch_status(rs):
     """One stable line about a page's fetches: it changes only when the page starts or stops
-    refusing us, not on every round (the full history is in captures/log.jsonl)."""
-    ok = [r for r in rs if r.get("status") and 200 <= r["status"] < 300 and not r.get("blocked")]
+    refusing us, not on every round (the full history is in captures/log.jsonl).
+
+    A fetch counts as refused if it was blocked, or if it returned the same text as a saved copy
+    that was later deleted as a bot-challenge page (older log entries recorded those as HTTP 200)."""
+    # older entries have only the raw sha256, newer ones also the text hash: match on either
+    challenge = {h for r in rs if r.get("file") and not (ROOT / r["file"]).exists()
+                 for h in (r.get("text_sha256"), r.get("sha256")) if h}
+    refused = lambda r: r.get("text_sha256") in challenge or r.get("sha256") in challenge
+    ok = [r for r in rs if r.get("status") and 200 <= r["status"] < 300 and not r.get("blocked")
+          and not refused(r)]
     if not ok:
-        codes = sorted({str(r.get("status") or r.get("error") or "no response") for r in rs})
-        return (f"Watched since {rs[0]['time']}; every fetch has been refused (HTTP {', '.join(codes)}), "
+        codes = sorted({str(r.get("status") or r.get("error") or "no response") for r in rs
+                        if not refused(r)})
+        how = f"HTTP {', '.join(codes)}" if codes else "a bot-challenge page"
+        if codes and any(refused(r) for r in rs):
+            how += " or a bot-challenge page"
+        return (f"Watched since {rs[0]['time']}; every fetch has been refused ({how}), "
                 "so a browser capture is needed.")
     last = rs[-1]
     if last is not ok[-1]:
@@ -137,7 +149,8 @@ def captures_md(watch, by):
             out.append("Not fetched yet.\n")
             continue
         out.append(fetch_status(rs) + "\n")
-        changes = [r for r in rs if r.get("file")]
+        # copies later found to be bot-challenge pages are deleted; skip their log entries
+        changes = [r for r in rs if r.get("file") and (ROOT / r["file"]).exists()]
         if changes:
             out.append("| Changed at (UTC) | sha256 | Copy |\n|---|---|---|")
             for r in changes:
@@ -183,7 +196,7 @@ def state_md(code, rows, watch, by):
             last = rs[-1] if rs else None
             note = ("blocked to scripts" if last and (last.get("blocked") or not (last.get("status") and 200 <= last["status"] < 300))
                     else "fetched every 30 minutes" if last else "not fetched yet")
-            n = sum(1 for r in rs if r.get("file"))
+            n = sum(1 for r in rs if r.get("file") and (ROOT / r["file"]).exists())
             out.append(f"- <{w['url']}> ({w['why']}; {note}; {n} saved {'copy' if n == 1 else 'copies'})")
         out.append("")
     else:

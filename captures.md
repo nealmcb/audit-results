@@ -230,6 +230,8 @@ Watched since 2026-11-10T15:17:10Z.
 | 2026-11-12T22:48:19Z | `87335af499ef5c55…` | [20261112T224819Z.html](captures/md-elections-home/20261112T224819Z.html) |
 | 2026-11-12T23:19:51Z | `70783e6849cd2658…` | [20261112T231951Z.html](captures/md-elections-home/20261112T231951Z.html) |
 | 2026-11-12T23:51:18Z | `323b1d65253234df…` | [20261112T235118Z.html](captures/md-elections-home/20261112T235118Z.html) |
+| 2026-11-13T00:54:24Z | `0d2d73e9f818efb7…` | [20261113T005424Z.html](captures/md-elections-home/20261113T005424Z.html) |
+| 2026-11-13T01:57:34Z | `d46d3b3b15f0879a…` | [20261113T015734Z.html](captures/md-elections-home/20261113T015734Z.html) |
 
 ## MD: md-rla-page
 
@@ -250,18 +252,7 @@ https://www.sos.mn.gov/elections-voting/how-elections-work/post-election-reviews
 
 selected precincts
 
-Watched since 2026-11-10T15:17:46Z.
-
-| Changed at (UTC) | sha256 | Copy |
-|---|---|---|
-| 2026-11-10T15:17:46Z | `77dcf38486de6e6c…` | [20261110T151746Z.html](captures/mn-post-election-reviews/20261110T151746Z.html) |
-| 2026-11-10T15:19:22Z | `fe7cfffd1abfe53c…` | [20261110T151922Z.html](captures/mn-post-election-reviews/20261110T151922Z.html) |
-| 2026-11-10T15:50:32Z | `b484fa5ebdcffc89…` | [20261110T155032Z.html](captures/mn-post-election-reviews/20261110T155032Z.html) |
-| 2026-11-10T16:00:25Z | `c4d9e2ba55f7a525…` | [20261110T160025Z.html](captures/mn-post-election-reviews/20261110T160025Z.html) |
-| 2026-11-10T16:03:15Z | `fc7695c3e1aeb26f…` | [20261110T160315Z.html](captures/mn-post-election-reviews/20261110T160315Z.html) |
-| 2026-11-11T00:22:42Z | `48768c4f4e06118c…` | [20261111T002242Z.html](captures/mn-post-election-reviews/20261111T002242Z.html) |
-| 2026-11-12T00:17:12Z | `1705273bb54e0f8d…` | [20261112T001712Z.html](captures/mn-post-election-reviews/20261112T001712Z.html) |
-| 2026-11-13T00:23:30Z | `d9374d5b388c1c83…` | [20261113T002330Z.html](captures/mn-post-election-reviews/20261113T002330Z.html) |
+Watched since 2026-11-10T15:17:46Z; every fetch has been refused (HTTP 200 or a bot-challenge page), so a browser capture is needed.
 
 ## MT: mt-elections
 
@@ -314,15 +305,7 @@ https://www.nvsos.gov/sos/elections/election-information/risk-limiting-audits
 
 NV RLA contest, seed
 
-Watched since 2026-11-10T15:17:17Z.
-
-| Changed at (UTC) | sha256 | Copy |
-|---|---|---|
-| 2026-11-10T15:17:17Z | `5674cb7fdd737900…` | [20261110T151717Z.html](captures/nv-rla/20261110T151717Z.html) |
-| 2026-11-10T15:18:56Z | `7fac3ece450e3610…` | [20261110T151856Z.html](captures/nv-rla/20261110T151856Z.html) |
-| 2026-11-10T15:50:05Z | `dc8af36abdaabfb1…` | [20261110T155005Z.html](captures/nv-rla/20261110T155005Z.html) |
-| 2026-11-10T15:59:58Z | `28e9d5ed93c67eb7…` | [20261110T155958Z.html](captures/nv-rla/20261110T155958Z.html) |
-| 2026-11-10T16:02:48Z | `0d9d85c6e7db054a…` | [20261110T160248Z.html](captures/nv-rla/20261110T160248Z.html) |
+Watched since 2026-11-10T15:17:17Z; every fetch has been refused (HTTP 200 or a bot-challenge page), so a browser capture is needed.
 
 ## OR: or-current-election
 
@@ -344,7 +327,11 @@ https://www.pa.gov/agencies/dos/newsroom
 
 day-of RLA dice-roll release (Nov 13), with seed and livestream
 
-Not fetched yet.
+Watched since 2026-11-13T00:55:28Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-13T00:55:28Z | `94ff62018721654c…` | [20261113T005528Z.html](captures/pa-dos-newsroom/20261113T005528Z.html) |
 
 ## PA: pa-post-election-audits
 
@@ -505,7 +492,7 @@ https://www.elections.virginia.gov/resultsreports/election-security/rla
 
 State Board RLA selection; RLA before Dec 7
 
-Watched since 2026-11-10T15:17:14Z.
+Watched since 2026-11-10T15:17:14Z; fetched successfully until 2026-11-13T03:53:07Z, refused since (HTTP 404).
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|

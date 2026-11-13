@@ -24,6 +24,7 @@ import pathlib
 import re
 import subprocess
 import time
+import urllib.parse
 
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"
 
@@ -84,6 +85,33 @@ def ext_for(ctype, url):
     return "." + m.group(1).lower() if m else ".bin"
 
 
+# Bot-challenge pages served instead of the real page (sometimes with HTTP 200). They are not
+# evidence, so they count as blocked and are never saved.
+CHALLENGE_MARKERS = (b"challenges.cloudflare.com", b"cf-mitigated", b"Radware Captcha Page",
+                     b"botmanager_support@radware.com", b"think that you are a bot",
+                     b"Incapsula incident ID", b"_Incapsula_Resource")
+
+
+def is_challenge_host(url):
+    host = (urllib.parse.urlsplit(url).hostname or "").lower()
+    return "radware" in host or "perfdrive" in host
+
+
+def redact_url(url):
+    """A challenge redirect's URL without its query, which is only session data."""
+    u = urllib.parse.urlsplit(url)
+    return f"{u.scheme}://{u.netloc}{u.path}"
+
+
+def is_challenge(code, body, final_url=""):
+    if code == 403:
+        return True
+    if final_url and is_challenge_host(final_url):
+        return True
+    head = body[:60000]
+    return any(m in head for m in CHALLENGE_MARKERS)
+
+
 def one_round(watch, out):
     log = out / "log.jsonl"
     last = {}
@@ -100,10 +128,12 @@ def one_round(watch, out):
         for w in watch:
             t = utcnow()
             body, code, ctype, final, err = fetch(w["url"])
+            if final and is_challenge_host(final):
+                final = redact_url(final)
             rec = {"time": t.isoformat(timespec="seconds").replace("+00:00", "Z"), "slug": w["slug"],
                    "state": w["state"], "url": w["url"], "status": code, "error": err}
             if body is not None:
-                blocked = code == 403 or b"challenges.cloudflare.com" in body[:20000] or b"cf-mitigated" in body[:4000]
+                blocked = is_challenge(code, body, final)
                 sha = hashlib.sha256(body).hexdigest()
                 tsha = text_hash(body, ctype)
                 changed = tsha != last.get(w["slug"])
