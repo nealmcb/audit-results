@@ -26,6 +26,6 @@ title: Washington
 
 ## Watched pages
 
-- <https://www.sos.wa.gov/node/11554> (seed rolled Nov 6; county RLAs Nov 19; last fetched 2026-11-12T16:30:45Z; 5 saved copies)
-- <https://www.sos.wa.gov/elections/data-research/election-technology/post-election-audits> (WA audit index; last fetched 2026-11-12T16:30:47Z; 5 saved copies)
+- <https://www.sos.wa.gov/node/11554> (seed rolled Nov 6; county RLAs Nov 19; fetched every 30 minutes; 5 saved copies)
+- <https://www.sos.wa.gov/elections/data-research/election-technology/post-election-audits> (WA audit index; fetched every 30 minutes; 5 saved copies)
 

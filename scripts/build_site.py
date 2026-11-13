@@ -110,6 +110,21 @@ def load_log():
     return by
 
 
+def fetch_status(rs):
+    """One stable line about a page's fetches: it changes only when the page starts or stops
+    refusing us, not on every round (the full history is in captures/log.jsonl)."""
+    ok = [r for r in rs if r.get("status") and 200 <= r["status"] < 300 and not r.get("blocked")]
+    if not ok:
+        codes = sorted({str(r.get("status") or r.get("error") or "no response") for r in rs})
+        return (f"Watched since {rs[0]['time']}; every fetch has been refused (HTTP {', '.join(codes)}), "
+                "so a browser capture is needed.")
+    last = rs[-1]
+    if last is not ok[-1]:
+        return (f"Watched since {rs[0]['time']}; fetched successfully until {ok[-1]['time']}, "
+                f"refused since (HTTP {last.get('status') or last.get('error')}).")
+    return f"Watched since {rs[0]['time']}."
+
+
 def captures_md(watch, by):
     out = [front("Captures"), "# Captures of state audit pages\n",
            "Each watched page is fetched every 30 minutes. A copy is kept whenever its content changes; "
@@ -121,9 +136,7 @@ def captures_md(watch, by):
         if not rs:
             out.append("Not fetched yet.\n")
             continue
-        blocked = sum(1 for r in rs if r.get("blocked"))
-        out.append(f"Fetched {len(rs)} times, {rs[0]['time']} to {rs[-1]['time']}"
-                   + (f"; blocked {blocked} times" if blocked else "") + ".\n")
+        out.append(fetch_status(rs) + "\n")
         changes = [r for r in rs if r.get("file")]
         if changes:
             out.append("| Changed at (UTC) | sha256 | Copy |\n|---|---|---|")
@@ -168,8 +181,8 @@ def state_md(code, rows, watch, by):
         for w in ws:
             rs = by.get(w["slug"], [])
             last = rs[-1] if rs else None
-            note = ("blocked to scripts" if last and last.get("blocked")
-                    else f"last fetched {last['time']}" if last else "not fetched yet")
+            note = ("blocked to scripts" if last and (last.get("blocked") or not (last.get("status") and 200 <= last["status"] < 300))
+                    else "fetched every 30 minutes" if last else "not fetched yet")
             n = sum(1 for r in rs if r.get("file"))
             out.append(f"- <{w['url']}> ({w['why']}; {note}; {n} saved {'copy' if n == 1 else 'copies'})")
         out.append("")

@@ -1,0 +1,32 @@
+@GaSecofState thread on X, November 12, 2026: hashes of Georgia's ballot manifests and machine-counted batch totals.
+Text as returned by Grok (xAI) to Neal McBurnett's search, pasted back at about 2026-11-12T17:06:30Z; not yet checked
+character by character against X itself. Posting times are decoded from each status ID
+((id >> 22) + 1288834974657 ms, with src/snowflake_time.py in nealmcb/rla-review-arlo), so they do not
+depend on Grok.
+
+1. https://x.com/GaSecofState/status/2120922145974829350
+   posted 2026-11-12T16:50:19.085Z
+   "Later today, Georgia counties are counting a random sample of ballot batches by hand as part of Risk Limiting Audits (RLA). We want this audit to be as transparent as possible."
+
+2. https://x.com/GaSecofState/status/2120922226811932946
+   posted 2026-11-12T16:50:38.358Z
+   "We could publish the ballot manifests and machine-counted batch totals, so that everyone can follow along and, when the hand counts come in, verify on their own that the numbers match. But, if we did that before the audit finishes, some might question whether that gives auditors"
+
+3. https://x.com/GaSecofState/status/2120922270394982432
+   posted 2026-11-12T16:50:48.749Z
+   "a "number to hit." So, in order to achieve transparency and audit integrity at the same time, we are publishing a hash of the ballot manifests: d731216443e415c931882d07b051b8c927fbe650a93a0efa28a93d428160010e"
+
+4. https://x.com/GaSecofState/status/2120922422040006968
+   posted 2026-11-12T16:51:24.904Z
+   "and the machine-counted batch totals: 419a77b32fd393e951847b589969b7de3d8de0bfe40858830624fc18ced92211"
+
+5. https://x.com/GaSecofState/status/2120922449378488457
+   posted 2026-11-12T16:51:31.422Z
+   "When the audit completes, we will publish the ballot manifests and machine-counted batch totals, and the public will be able to check that the hand counts match, and that the batch totals match the hash above."
+
+Grok also reported: no matching posts from @GabrielSterling or @GeorgiaSOS on November 12, 2026, and
+no seed or randomly drawn contest in this thread.
+
+Hashes (SHA-256, as posted):
+  ballot manifests:               d731216443e415c931882d07b051b8c927fbe650a93a0efa28a93d428160010e
+  machine-counted batch totals:   419a77b32fd393e951847b589969b7de3d8de0bfe40858830624fc18ced92211

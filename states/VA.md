@@ -17,5 +17,5 @@ title: Virginia
 
 ## Watched pages
 
-- <https://www.elections.virginia.gov/resultsreports/election-security/rla> (State Board RLA selection; RLA before Dec 7; last fetched 2026-11-12T16:31:02Z; 1 saved copy)
+- <https://www.elections.virginia.gov/resultsreports/election-security/rla> (State Board RLA selection; RLA before Dec 7; fetched every 30 minutes; 1 saved copy)
 

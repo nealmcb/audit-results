@@ -52,6 +52,13 @@ NOISE = [
     re.compile(r"\b[0-9a-z]{8}-[0-9a-z]{4}-[0-9a-z]{4}-[0-9a-z]{4}-[0-9a-z]{12}\b", re.I),
     re.compile(r"\b\d{15,}-\d{10,}\b"),
     re.compile(r"\b\d{1,2}:\d{2}:\d{2}\b"),
+    # a date with a clock time, as on live results pages ("Updated 11/12/2026 04:30 PM", a county's
+    # "11/12/26 12:03 PM"); dates alone, and seeds, still count as changes
+    re.compile(r"\b\d{1,2}/\d{1,2}/\d{2,4} +\d{1,2}:\d{2}(?::\d{2})? *[AP]M\b", re.I),
+    # South Carolina's live count of registered voters
+    re.compile(r"\b\d{1,3}(?:,\d{3})+ Current number of registered voters", re.I),
+    # a spam-trap form field whose label rotates between loads ("CAPTCHA Comments", "CAPTCHA Email")
+    re.compile(r"CAPTCHA \w+ This field is for validation purposes"),
 ]
 
 
