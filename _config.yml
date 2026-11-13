@@ -6,6 +6,11 @@ description: >-
 url: "https://nealmcb.github.io"
 baseurl: "/audit-results"
 theme: minima
+# The site version is FEATURE.N: set "version" by hand when a feature changes, with the time it
+# began; N (1 plus the page copies captured since then) is added by scripts/build_site.py.
+version: "0.2"
+version_since: "2026-11-13T20:24:03Z"
+timezone: UTC
 permalink: pretty
 markdown: kramdown
 exclude:

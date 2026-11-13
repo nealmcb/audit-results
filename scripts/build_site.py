@@ -222,6 +222,22 @@ def news_md():
     return "\n".join(out) + "\n"
 
 
+def site_version(by):
+    """FEATURE.N, where FEATURE is _config.yml's "version" (set by hand when a feature changes) and
+    N is 1 plus the number of page copies captured since its "version_since" time, so the version
+    also moves with each data update. Written to _data/version.yml for the footer."""
+    cfg = (ROOT / "_config.yml").read_text()
+    feature = re.search(r'^version:\s*"?([^"\n]+)"?', cfg, re.M).group(1).strip()
+    since = re.search(r'^version_since:\s*"?([^"\n]+)"?', cfg, re.M).group(1).strip()
+    n = 1 + sum(1 for rs in by.values() for r in rs if r.get("file") and r["time"] >= since
+                and (ROOT / r["file"]).exists())
+    version = f"{feature}.{n}"
+    d = ROOT / "_data"
+    d.mkdir(exist_ok=True)
+    (d / "version.yml").write_text(f'version: "{version}"\nfeature: "{feature}"\nsince: "{since}"\n')
+    return version
+
+
 def main():
     src = (ROOT / "calendar-source.md").read_text()
     (ROOT / "calendar.md").write_text(front("Calendar") + calendar_md(src))
@@ -229,6 +245,7 @@ def main():
     watch = json.loads((ROOT / "watchlist.json").read_text())
     by = load_log()
     (ROOT / "captures.md").write_text(captures_md(watch, by))
+    version = site_version(by)
     (ROOT / "news.md").write_text(news_md())
     sd = ROOT / "states"
     sd.mkdir(exist_ok=True)
@@ -239,7 +256,7 @@ def main():
         nw = sum(1 for w in watch if w["state"] == code)
         idx.append(f"| [{name}]({code}.md) | {n} | {nw} |")
     (sd / "index.md").write_text("\n".join(idx) + "\n")
-    print(f"built calendar.md, captures.md, states/ ({len(STATES)} pages) from {len(rows)} calendar rows")
+    print(f"built calendar.md, captures.md, states/ ({len(STATES)} pages) from {len(rows)} calendar rows; site version {version}")
 
 
 if __name__ == "__main__":
