@@ -232,6 +232,7 @@ Watched since 2026-11-10T15:17:10Z.
 | 2026-11-12T23:51:18Z | `323b1d65253234df…` | [20261112T235118Z.html](captures/md-elections-home/20261112T235118Z.html) |
 | 2026-11-13T00:54:24Z | `0d2d73e9f818efb7…` | [20261113T005424Z.html](captures/md-elections-home/20261113T005424Z.html) |
 | 2026-11-13T01:57:34Z | `d46d3b3b15f0879a…` | [20261113T015734Z.html](captures/md-elections-home/20261113T015734Z.html) |
+| 2026-11-13T05:25:50Z | `6f24873f928e615e…` | [20261113T052550Z.html](captures/md-elections-home/20261113T052550Z.html) |
 
 ## MD: md-rla-page
 
@@ -492,11 +493,12 @@ https://www.elections.virginia.gov/resultsreports/election-security/rla
 
 State Board RLA selection; RLA before Dec 7
 
-Watched since 2026-11-10T15:17:14Z; fetched successfully until 2026-11-13T03:53:07Z, refused since (HTTP 404).
+Watched since 2026-11-10T15:17:14Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
 | 2026-11-10T15:17:14Z | `38bd7f3df669f778…` | [20261110T151714Z.html](captures/va-rla/20261110T151714Z.html) |
+| 2026-11-13T05:25:55Z | `38bd7f3df669f778…` | [20261113T052555Z.html](captures/va-rla/20261113T052555Z.html) |
 
 ## WA: wa-post-election-audits
 
