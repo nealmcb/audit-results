@@ -27,19 +27,22 @@
   "slug": "pa-post-election-audits",
   "state": "PA",
   "url": "https://www.pa.gov/en/agencies/vote/elections/post-election-audits.html",
-  "why": "RLA dice roll Nov 13 (Governor)"
+  "why": "RLA dice roll Nov 13 (Governor)",
+  "hot_until": "2026-11-21T00:00Z"
  },
  {
   "slug": "wa-rla-2026-general",
   "state": "WA",
   "url": "https://www.sos.wa.gov/node/11554",
-  "why": "seed rolled Nov 6; county RLAs Nov 19"
+  "why": "seed rolled Nov 6; county RLAs Nov 19",
+  "hot_until": "2026-11-20T08:00Z"
  },
  {
   "slug": "wa-post-election-audits",
   "state": "WA",
   "url": "https://www.sos.wa.gov/elections/data-research/election-technology/post-election-audits",
-  "why": "WA audit index"
+  "why": "WA audit index",
+  "hot_until": "2026-11-20T08:00Z"
  },
  {
   "slug": "tx-rla-planning-deck",
@@ -219,7 +222,8 @@
   "slug": "co-audit-center",
   "state": "CO",
   "url": "https://www.sos.state.co.us/pubs/elections/auditCenter.html",
-  "why": "RLA files: target contests, manifests, CVR hash values, seed (seed Nov 16)"
+  "why": "RLA files: target contests, manifests, CVR hash values, seed (seed Nov 16)",
+  "hot_until": "2026-11-17T06:00Z"
  },
  {
   "slug": "co-rla-2026-general-risk-limit",

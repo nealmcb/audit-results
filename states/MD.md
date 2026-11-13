@@ -30,7 +30,7 @@ title: Maryland
 ## Watched pages
 
 - <https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf> (RLA contest selection Nov 23, due Dec 2; fetched every 30 minutes; 1 saved copy)
-- <https://elections.maryland.gov/> (RLA seed meeting notice; fetched every 30 minutes; 34 saved copies)
+- <https://elections.maryland.gov/> (RLA seed meeting notice; fetched every 30 minutes; 35 saved copies)
 - <https://elections.maryland.gov/voting_system/ballot_audit_plan_manual.html> (RLA results and ceremony posting; fetched every 30 minutes; 2 saved copies)
 - <https://elections.maryland.gov/voting_system/ballot_audit_plan.html> (2026 audit plan; fetched every 30 minutes; 2 saved copies)
 
