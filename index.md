@@ -37,11 +37,11 @@ record what each state had published, and when.
 
 ## Related work
 
+- [auditAnation](https://auditanation.org/): Tom Ryan's comparison of the 2024 audits in all
+  50 states and DC, the inspiration for this site.
+- [Verified Voting audit law database](https://verifiedvoting.org/auditlaw/).
 - [Citizen Election Verification](https://sites.google.com/view/auditenhancement): how
   citizen verifiers in Colorado obtain and timestamp the audit's evidence before the random draw
   and check the audit as it happens. A model of what can be achieved.
 - [Reviews of Georgia's Arlo audits](https://nealmcb.github.io/rla-review-arlo/): hash
   commitments, sample reproduction and discrepancy analysis.
-- [auditAnation](https://auditanation.org/): Tom Ryan's comparison of the 2024 audits in all
-  50 states and DC.
-- [Verified Voting audit law database](https://verifiedvoting.org/auditlaw/).
