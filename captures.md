@@ -236,6 +236,8 @@ Watched since 2026-11-10T15:17:10Z.
 | 2026-11-13T14:21:58Z | `a333708575cd9f57…` | [20261113T142158Z.html](captures/md-elections-home/20261113T142158Z.html) |
 | 2026-11-13T15:56:34Z | `8be04e602f301b7c…` | [20261113T155634Z.html](captures/md-elections-home/20261113T155634Z.html) |
 | 2026-11-13T16:59:36Z | `7f8bfaa6d6107cab…` | [20261113T165936Z.html](captures/md-elections-home/20261113T165936Z.html) |
+| 2026-11-13T17:31:07Z | `13d618f18358eaee…` | [20261113T173107Z.html](captures/md-elections-home/20261113T173107Z.html) |
+| 2026-11-13T18:02:39Z | `d2d96c1afe1613ae…` | [20261113T180239Z.html](captures/md-elections-home/20261113T180239Z.html) |
 
 ## MD: md-rla-page
 
