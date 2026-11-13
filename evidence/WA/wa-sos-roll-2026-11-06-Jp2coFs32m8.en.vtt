@@ -1,0 +1,2552 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.300 --> 00:00:05.190 align:start position:0%
+ 
+Good<00:00:02.500><c> afternoon.</c><00:00:03.800><c> It</c><00:00:03.900><c> is</c><00:00:04.000><c> 3:00</c><00:00:04.300><c> p.m.</c><00:00:04.700><c> Friday,</c>
+
+00:00:05.190 --> 00:00:05.200 align:start position:0%
+Good afternoon. It is 3:00 p.m. Friday,
+ 
+
+00:00:05.200 --> 00:00:07.890 align:start position:0%
+Good afternoon. It is 3:00 p.m. Friday,
+November<00:00:05.600><c> 6,</c><00:00:06.000><c> 2026</c><00:00:07.200><c> and</c><00:00:07.300><c> we</c><00:00:07.400><c> are</c><00:00:07.500><c> here</c><00:00:07.800><c> at</c><00:00:07.800><c> the</c>
+
+00:00:07.890 --> 00:00:07.900 align:start position:0%
+November 6, 2026 and we are here at the
+ 
+
+00:00:07.900 --> 00:00:09.490 align:start position:0%
+November 6, 2026 and we are here at the
+Washington<00:00:08.300><c> Secretary</c><00:00:08.800><c> of</c><00:00:08.800><c> State</c><00:00:09.100><c> Elections</c>
+
+00:00:09.490 --> 00:00:09.500 align:start position:0%
+Washington Secretary of State Elections
+ 
+
+00:00:09.500 --> 00:00:11.790 align:start position:0%
+Washington Secretary of State Elections
+Division<00:00:10.400><c> conducting</c><00:00:10.800><c> the</c><00:00:10.900><c> random</c><00:00:11.300><c> seed</c><00:00:11.500><c> dice</c>
+
+00:00:11.790 --> 00:00:11.800 align:start position:0%
+Division conducting the random seed dice
+ 
+
+00:00:11.800 --> 00:00:13.890 align:start position:0%
+Division conducting the random seed dice
+roll<00:00:12.000><c> for</c><00:00:12.200><c> random</c><00:00:12.600><c> ballot</c><00:00:12.900><c> audits</c><00:00:13.500><c> conducted</c>
+
+00:00:13.890 --> 00:00:13.900 align:start position:0%
+roll for random ballot audits conducted
+ 
+
+00:00:13.900 --> 00:00:16.490 align:start position:0%
+roll for random ballot audits conducted
+for<00:00:14.000><c> the</c><00:00:14.100><c> 2026</c><00:00:14.900><c> general</c><00:00:15.200><c> election.</c>
+
+00:00:16.490 --> 00:00:16.500 align:start position:0%
+for the 2026 general election.
+ 
+
+00:00:16.500 --> 00:00:18.990 align:start position:0%
+for the 2026 general election.
+We<00:00:16.600><c> will</c><00:00:16.800><c> roll</c><00:00:17.000><c> 20</c><00:00:17.400><c> 10-sided</c><00:00:18.000><c> dice</c><00:00:18.700><c> one</c><00:00:18.800><c> at</c><00:00:19.000><c> a</c>
+
+00:00:18.990 --> 00:00:19.000 align:start position:0%
+We will roll 20 10-sided dice one at a
+ 
+
+00:00:19.000 --> 00:00:21.290 align:start position:0%
+We will roll 20 10-sided dice one at a
+time<00:00:19.800><c> to</c><00:00:19.900><c> generate</c><00:00:20.300><c> a</c><00:00:20.400><c> random</c><00:00:20.700><c> number</c><00:00:21.000><c> string</c>
+
+00:00:21.290 --> 00:00:21.300 align:start position:0%
+time to generate a random number string
+ 
+
+00:00:21.300 --> 00:00:23.190 align:start position:0%
+time to generate a random number string
+which<00:00:21.500><c> our</c><00:00:21.700><c> audit</c><00:00:21.900><c> software</c><00:00:22.200><c> will</c><00:00:22.400><c> use</c><00:00:23.000><c> to</c>
+
+00:00:23.190 --> 00:00:23.200 align:start position:0%
+which our audit software will use to
+ 
+
+00:00:23.200 --> 00:00:25.590 align:start position:0%
+which our audit software will use to
+select<00:00:23.500><c> individual</c><00:00:24.000><c> ballots</c><00:00:24.300><c> for</c><00:00:24.400><c> audit.</c>
+
+00:00:25.590 --> 00:00:25.600 align:start position:0%
+select individual ballots for audit.
+ 
+
+00:00:25.600 --> 00:00:27.090 align:start position:0%
+select individual ballots for audit.
+The<00:00:25.700><c> random</c><00:00:26.000><c> seed</c><00:00:26.200><c> will</c><00:00:26.400><c> be</c><00:00:26.500><c> used</c><00:00:26.800><c> for</c><00:00:26.900><c> all</c>
+
+00:00:27.090 --> 00:00:27.100 align:start position:0%
+The random seed will be used for all
+ 
+
+00:00:27.100 --> 00:00:28.690 align:start position:0%
+The random seed will be used for all
+random<00:00:27.400><c> ballot</c><00:00:27.600><c> audits</c><00:00:28.000><c> conducted</c><00:00:28.400><c> for</c><00:00:28.500><c> this</c>
+
+00:00:28.690 --> 00:00:28.700 align:start position:0%
+random ballot audits conducted for this
+ 
+
+00:00:28.700 --> 00:00:30.190 align:start position:0%
+random ballot audits conducted for this
+election.
+
+00:00:30.190 --> 00:00:30.200 align:start position:0%
+election.
+ 
+
+00:00:30.200 --> 00:00:31.490 align:start position:0%
+election.
+The<00:00:30.300><c> random</c><00:00:30.500><c> seed</c><00:00:30.700><c> will</c><00:00:30.800><c> be</c><00:00:30.900><c> published</c><00:00:31.300><c> on</c><00:00:31.400><c> our</c>
+
+00:00:31.490 --> 00:00:31.500 align:start position:0%
+The random seed will be published on our
+ 
+
+00:00:31.500 --> 00:00:35.190 align:start position:0%
+The random seed will be published on our
+website<00:00:32.000><c> at</c><00:00:32.200><c> sos.wa.gov/elections</c>
+
+00:00:35.190 --> 00:00:35.200 align:start position:0%
+website at sos.wa.gov/elections
+ 
+
+00:00:35.200 --> 00:00:37.490 align:start position:0%
+website at sos.wa.gov/elections
+in<00:00:35.400><c> the</c><00:00:35.500><c> data</c><00:00:35.700><c> and</c><00:00:35.800><c> research</c><00:00:36.200><c> section.</c><00:00:37.100><c> Okay,</c>
+
+00:00:37.490 --> 00:00:37.500 align:start position:0%
+in the data and research section. Okay,
+ 
+
+00:00:37.500 --> 00:00:40.990 align:start position:0%
+in the data and research section. Okay,
+please<00:00:37.700><c> begin</c><00:00:38.000><c> rolling.</c>
+
+00:00:40.990 --> 00:00:41.000 align:start position:0%
+ 
+ 
+
+00:00:41.000 --> 00:00:41.990 align:start position:0%
+ 
+&gt;&gt; Zero.
+
+00:00:41.990 --> 00:00:42.000 align:start position:0%
+&gt;&gt; Zero.
+ 
+
+00:00:42.000 --> 00:00:48.090 align:start position:0%
+&gt;&gt; Zero.
+&gt;&gt; Zero.
+
+00:00:48.090 --> 00:00:48.100 align:start position:0%
+ 
+ 
+
+00:00:48.100 --> 00:00:48.790 align:start position:0%
+ 
+&gt;&gt; Four.
+
+00:00:48.790 --> 00:00:48.800 align:start position:0%
+&gt;&gt; Four.
+ 
+
+00:00:48.800 --> 00:00:53.090 align:start position:0%
+&gt;&gt; Four.
+&gt;&gt; Four.
+
+00:00:53.090 --> 00:00:53.100 align:start position:0%
+ 
+ 
+
+00:00:53.100 --> 00:00:53.890 align:start position:0%
+ 
+&gt;&gt; Nine.
+
+00:00:53.890 --> 00:00:53.900 align:start position:0%
+&gt;&gt; Nine.
+ 
+
+00:00:53.900 --> 00:00:57.990 align:start position:0%
+&gt;&gt; Nine.
+&gt;&gt; Nine.
+
+00:00:57.990 --> 00:00:58.000 align:start position:0%
+ 
+ 
+
+00:00:58.000 --> 00:00:58.790 align:start position:0%
+ 
+&gt;&gt; One.
+
+00:00:58.790 --> 00:00:58.800 align:start position:0%
+&gt;&gt; One.
+ 
+
+00:00:58.800 --> 00:01:02.690 align:start position:0%
+&gt;&gt; One.
+&gt;&gt; One.
+
+00:01:02.690 --> 00:01:02.700 align:start position:0%
+ 
+ 
+
+00:01:02.700 --> 00:01:03.590 align:start position:0%
+ 
+&gt;&gt; Two.
+
+00:01:03.590 --> 00:01:03.600 align:start position:0%
+&gt;&gt; Two.
+ 
+
+00:01:03.600 --> 00:01:07.590 align:start position:0%
+&gt;&gt; Two.
+&gt;&gt; Two.
+
+00:01:07.590 --> 00:01:07.600 align:start position:0%
+ 
+ 
+
+00:01:07.600 --> 00:01:08.390 align:start position:0%
+ 
+&gt;&gt; Nine.
+
+00:01:08.390 --> 00:01:08.400 align:start position:0%
+&gt;&gt; Nine.
+ 
+
+00:01:08.400 --> 00:01:12.390 align:start position:0%
+&gt;&gt; Nine.
+&gt;&gt; Nine.
+
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+ 
+ 
+
+00:01:12.400 --> 00:01:13.490 align:start position:0%
+ 
+&gt;&gt; Three.
+
+00:01:13.490 --> 00:01:13.500 align:start position:0%
+&gt;&gt; Three.
+ 
+
+00:01:13.500 --> 00:01:17.490 align:start position:0%
+&gt;&gt; Three.
+&gt;&gt; Three.
+
+00:01:17.490 --> 00:01:17.500 align:start position:0%
+ 
+ 
+
+00:01:17.500 --> 00:01:18.590 align:start position:0%
+ 
+&gt;&gt; Seven.
+
+00:01:18.590 --> 00:01:18.600 align:start position:0%
+&gt;&gt; Seven.
+ 
+
+00:01:18.600 --> 00:01:22.190 align:start position:0%
+&gt;&gt; Seven.
+&gt;&gt; Seven.
+
+00:01:22.190 --> 00:01:22.200 align:start position:0%
+ 
+ 
+
+00:01:22.200 --> 00:01:23.190 align:start position:0%
+ 
+&gt;&gt; Eight.
+
+00:01:23.190 --> 00:01:23.200 align:start position:0%
+&gt;&gt; Eight.
+ 
+
+00:01:23.200 --> 00:01:26.790 align:start position:0%
+&gt;&gt; Eight.
+&gt;&gt; Eight.
+
+00:01:26.790 --> 00:01:26.800 align:start position:0%
+ 
+ 
+
+00:01:26.800 --> 00:01:27.790 align:start position:0%
+ 
+&gt;&gt; Six.
+
+00:01:27.790 --> 00:01:27.800 align:start position:0%
+&gt;&gt; Six.
+ 
+
+00:01:27.800 --> 00:01:31.090 align:start position:0%
+&gt;&gt; Six.
+&gt;&gt; Six.
+
+00:01:31.090 --> 00:01:31.100 align:start position:0%
+ 
+ 
+
+00:01:31.100 --> 00:01:32.290 align:start position:0%
+ 
+&gt;&gt; Five.
+
+00:01:32.290 --> 00:01:32.300 align:start position:0%
+&gt;&gt; Five.
+ 
+
+00:01:32.300 --> 00:01:35.690 align:start position:0%
+&gt;&gt; Five.
+&gt;&gt; Five.
+
+00:01:35.690 --> 00:01:35.700 align:start position:0%
+ 
+ 
+
+00:01:35.700 --> 00:01:36.690 align:start position:0%
+ 
+&gt;&gt; Six.
+
+00:01:36.690 --> 00:01:36.700 align:start position:0%
+&gt;&gt; Six.
+ 
+
+00:01:36.700 --> 00:01:40.290 align:start position:0%
+&gt;&gt; Six.
+&gt;&gt; Six.
+
+00:01:40.290 --> 00:01:40.300 align:start position:0%
+ 
+ 
+
+00:01:40.300 --> 00:01:41.290 align:start position:0%
+ 
+&gt;&gt; Zero.
+
+00:01:41.290 --> 00:01:41.300 align:start position:0%
+&gt;&gt; Zero.
+ 
+
+00:01:41.300 --> 00:01:44.490 align:start position:0%
+&gt;&gt; Zero.
+&gt;&gt; Zero.
+
+00:01:44.490 --> 00:01:44.500 align:start position:0%
+ 
+ 
+
+00:01:44.500 --> 00:01:45.490 align:start position:0%
+ 
+&gt;&gt; Two.
+
+00:01:45.490 --> 00:01:45.500 align:start position:0%
+&gt;&gt; Two.
+ 
+
+00:01:45.500 --> 00:01:48.990 align:start position:0%
+&gt;&gt; Two.
+&gt;&gt; Two.
+
+00:01:48.990 --> 00:01:49.000 align:start position:0%
+ 
+ 
+
+00:01:49.000 --> 00:01:49.890 align:start position:0%
+ 
+&gt;&gt; Six.
+
+00:01:49.890 --> 00:01:49.900 align:start position:0%
+&gt;&gt; Six.
+ 
+
+00:01:49.900 --> 00:01:53.090 align:start position:0%
+&gt;&gt; Six.
+&gt;&gt; Six.
+
+00:01:53.090 --> 00:01:53.100 align:start position:0%
+ 
+ 
+
+00:01:53.100 --> 00:01:53.990 align:start position:0%
+ 
+&gt;&gt; Zero.
+
+00:01:53.990 --> 00:01:54.000 align:start position:0%
+&gt;&gt; Zero.
+ 
+
+00:01:54.000 --> 00:01:57.590 align:start position:0%
+&gt;&gt; Zero.
+&gt;&gt; Zero.
+
+00:01:57.590 --> 00:01:57.600 align:start position:0%
+ 
+ 
+
+00:01:57.600 --> 00:01:58.382 align:start position:0%
+ 
+&gt;&gt; Six.
+
+00:01:58.382 --> 00:01:58.392 align:start position:0%
+&gt;&gt; Six.
+ 
+
+00:01:58.392 --> 00:02:02.482 align:start position:0%
+&gt;&gt; Six.
+&gt;&gt; Six.
+
+00:02:02.482 --> 00:02:02.492 align:start position:0%
+ 
+ 
+
+00:02:02.492 --> 00:02:03.082 align:start position:0%
+ 
+&gt;&gt; Seven.
+
+00:02:03.082 --> 00:02:03.092 align:start position:0%
+&gt;&gt; Seven.
+ 
+
+00:02:03.092 --> 00:02:06.682 align:start position:0%
+&gt;&gt; Seven.
+&gt;&gt; Seven.
+
+00:02:06.682 --> 00:02:06.692 align:start position:0%
+ 
+ 
+
+00:02:06.692 --> 00:02:07.682 align:start position:0%
+ 
+&gt;&gt; Four.
+
+00:02:07.682 --> 00:02:07.692 align:start position:0%
+&gt;&gt; Four.
+ 
+
+00:02:07.692 --> 00:02:10.782 align:start position:0%
+&gt;&gt; Four.
+&gt;&gt; Four.
+
+00:02:10.782 --> 00:02:10.792 align:start position:0%
+ 
+ 
+
+00:02:10.792 --> 00:02:11.482 align:start position:0%
+ 
+&gt;&gt; Seven.
+
+00:02:11.482 --> 00:02:11.492 align:start position:0%
+&gt;&gt; Seven.
+ 
+
+00:02:11.492 --> 00:02:13.182 align:start position:0%
+&gt;&gt; Seven.
+&gt;&gt; Seven.
+
+00:02:13.182 --> 00:02:13.192 align:start position:0%
+&gt;&gt; Seven.
+ 
+
+00:02:13.192 --> 00:02:14.182 align:start position:0%
+&gt;&gt; Seven.
+Okay,<00:02:13.492><c> and</c><00:02:13.592><c> I'm</c><00:02:13.692><c> going</c><00:02:13.792><c> to</c><00:02:13.892><c> read</c><00:02:13.992><c> those</c>
+
+00:02:14.182 --> 00:02:14.192 align:start position:0%
+Okay, and I'm going to read those
+ 
+
+00:02:14.192 --> 00:02:15.482 align:start position:0%
+Okay, and I'm going to read those
+numbers<00:02:14.492><c> back.</c>
+
+00:02:15.482 --> 00:02:15.492 align:start position:0%
+numbers back.
+ 
+
+00:02:15.492 --> 00:02:19.382 align:start position:0%
+numbers back.
+Uh,<00:02:15.792><c> 0</c><00:02:16.292><c> 4</c><00:02:16.896><c> [snorts]</c><00:02:16.992><c> 9</c><00:02:17.692><c> 1</c><00:02:18.192><c> 2</c>
+
+00:02:19.382 --> 00:02:19.392 align:start position:0%
+Uh, 0 4 [snorts] 9 1 2
+ 
+
+00:02:19.392 --> 00:02:22.682 align:start position:0%
+Uh, 0 4 [snorts] 9 1 2
+9<00:02:19.792><c> 3</c><00:02:20.392><c> 7</c><00:02:20.892><c> 8</c><00:02:21.292><c> 6</c>
+
+00:02:22.682 --> 00:02:22.692 align:start position:0%
+9 3 7 8 6
+ 
+
+00:02:22.692 --> 00:02:25.982 align:start position:0%
+9 3 7 8 6
+5<00:02:23.092><c> 6</c><00:02:23.692><c> 0</c><00:02:24.192><c> 2</c><00:02:24.692><c> 6</c>
+
+00:02:25.982 --> 00:02:25.992 align:start position:0%
+5 6 0 2 6
+ 
+
+00:02:25.992 --> 00:02:28.382 align:start position:0%
+5 6 0 2 6
+0<00:02:26.292><c> 6</c><00:02:26.792><c> 7</c><00:02:27.292><c> 4</c><00:02:27.792><c> 7.</c>
+
+00:02:28.382 --> 00:02:28.392 align:start position:0%
+0 6 7 4 7.
+ 
+
+00:02:28.392 --> 00:02:28.982 align:start position:0%
+0 6 7 4 7.
+&gt;&gt; Yes.
+
+00:02:28.982 --> 00:02:28.992 align:start position:0%
+&gt;&gt; Yes.
+ 
+
+00:02:28.992 --> 00:02:31.282 align:start position:0%
+&gt;&gt; Yes.
+&gt;&gt; Thank<00:02:29.192><c> you.</c><00:02:29.692><c> Okay,</c><00:02:30.192><c> that</c><00:02:30.392><c> concludes</c><00:02:30.992><c> the</c>
+
+00:02:31.282 --> 00:02:31.292 align:start position:0%
+&gt;&gt; Thank you. Okay, that concludes the
+ 
+
+00:02:31.292 --> 00:02:33.282 align:start position:0%
+&gt;&gt; Thank you. Okay, that concludes the
+random<00:02:31.592><c> seed</c><00:02:31.792><c> dice</c><00:02:31.992><c> roll</c><00:02:32.292><c> for</c><00:02:32.392><c> the</c><00:02:32.492><c> 2026</c>
+
+00:02:33.282 --> 00:02:33.292 align:start position:0%
+random seed dice roll for the 2026
+ 
+
+00:02:33.292 --> 00:02:35.582 align:start position:0%
+random seed dice roll for the 2026
+general<00:02:33.592><c> election.</c>
+
+00:02:35.582 --> 00:02:35.592 align:start position:0%
+general election.
+ 
+
+00:02:35.592 --> 00:02:37.282 align:start position:0%
+general election.
+Thank<00:02:35.892><c> you</c><00:02:35.892><c> very</c><00:02:36.092><c> much.</c>
+
+00:02:37.282 --> 00:02:37.292 align:start position:0%
+Thank you very much.
+ 
+
+00:02:37.292 --> 00:02:38.482 align:start position:0%
+Thank you very much.
+Okay,<00:02:37.592><c> and</c><00:02:37.692><c> now</c><00:02:37.892><c> we're</c><00:02:37.992><c> going</c><00:02:38.092><c> to</c><00:02:38.092><c> get</c><00:02:38.192><c> started</c>
+
+00:02:38.482 --> 00:02:38.492 align:start position:0%
+Okay, and now we're going to get started
+ 
+
+00:02:38.492 --> 00:02:41.182 align:start position:0%
+Okay, and now we're going to get started
+with<00:02:38.692><c> our</c><00:02:39.292><c> um</c><00:02:39.692><c> random</c><00:02:39.992><c> contest</c><00:02:40.492><c> lot</c><00:02:40.792><c> draw</c><00:02:41.092><c> for</c>
+
+00:02:41.182 --> 00:02:41.192 align:start position:0%
+with our um random contest lot draw for
+ 
+
+00:02:41.192 --> 00:02:43.782 align:start position:0%
+with our um random contest lot draw for
+the<00:02:41.292><c> 2026</c><00:02:42.192><c> general</c><00:02:42.492><c> election</c><00:02:42.992><c> random</c><00:02:43.392><c> ballot</c>
+
+00:02:43.782 --> 00:02:43.792 align:start position:0%
+the 2026 general election random ballot
+ 
+
+00:02:43.792 --> 00:02:45.582 align:start position:0%
+the 2026 general election random ballot
+audits.<00:02:44.192><c> The</c><00:02:44.292><c> audit</c><00:02:44.592><c> will</c><00:02:44.692><c> be</c><00:02:44.892><c> conducted</c><00:02:45.392><c> on</c>
+
+00:02:45.582 --> 00:02:45.592 align:start position:0%
+audits. The audit will be conducted on
+ 
+
+00:02:45.592 --> 00:02:47.282 align:start position:0%
+audits. The audit will be conducted on
+November<00:02:45.992><c> 19th.</c>
+
+00:02:47.282 --> 00:02:47.292 align:start position:0%
+November 19th.
+ 
+
+00:02:47.292 --> 00:02:49.382 align:start position:0%
+November 19th.
+Uh,<00:02:47.592><c> so</c><00:02:47.792><c> all</c><00:02:47.892><c> 39</c><00:02:48.392><c> counties</c><00:02:48.792><c> will</c><00:02:48.892><c> participate</c>
+
+00:02:49.382 --> 00:02:49.392 align:start position:0%
+Uh, so all 39 counties will participate
+ 
+
+00:02:49.392 --> 00:02:52.382 align:start position:0%
+Uh, so all 39 counties will participate
+in<00:02:49.592><c> statewide</c><00:02:50.192><c> audit.</c><00:02:50.792><c> Um,</c><00:02:51.292><c> we</c><00:02:51.492><c> will</c><00:02:51.592><c> also</c><00:02:51.892><c> be</c>
+
+00:02:52.382 --> 00:02:52.392 align:start position:0%
+in statewide audit. Um, we will also be
+ 
+
+00:02:52.392 --> 00:02:54.082 align:start position:0%
+in statewide audit. Um, we will also be
+conducting<00:02:52.992><c> an</c><00:02:53.392><c> an</c><00:02:53.592><c> audit</c><00:02:53.892><c> of</c><00:02:54.092><c> a</c>
+
+00:02:54.082 --> 00:02:54.092 align:start position:0%
+conducting an an audit of a
+ 
+
+00:02:54.092 --> 00:02:55.682 align:start position:0%
+conducting an an audit of a
+congressional<00:02:55.092><c> race</c><00:02:55.392><c> which</c><00:02:55.592><c> will</c><00:02:55.692><c> be</c>
+
+00:02:55.682 --> 00:02:55.692 align:start position:0%
+congressional race which will be
+ 
+
+00:02:55.692 --> 00:02:59.182 align:start position:0%
+congressional race which will be
+selected<00:02:56.192><c> at</c><00:02:56.392><c> random.</c>
+
+00:02:59.182 --> 00:02:59.192 align:start position:0%
+ 
+ 
+
+00:02:59.192 --> 00:03:00.682 align:start position:0%
+ 
+And<00:02:59.592><c> so</c><00:02:59.792><c> first</c><00:02:59.992><c> we're</c><00:03:00.092><c> going</c><00:03:00.192><c> to</c><00:03:00.292><c> draw</c><00:03:00.492><c> the</c>
+
+00:03:00.682 --> 00:03:00.692 align:start position:0%
+And so first we're going to draw the
+ 
+
+00:03:00.692 --> 00:03:02.282 align:start position:0%
+And so first we're going to draw the
+statewide<00:03:01.192><c> contest.</c><00:03:01.592><c> I</c><00:03:01.692><c> think</c><00:03:01.892><c> we</c><00:03:01.892><c> have</c><00:03:02.092><c> that</c>
+
+00:03:02.282 --> 00:03:02.292 align:start position:0%
+statewide contest. I think we have that
+ 
+
+00:03:02.292 --> 00:03:05.482 align:start position:0%
+statewide contest. I think we have that
+ready.<00:03:03.392><c> So</c>
+
+00:03:05.482 --> 00:03:05.492 align:start position:0%
+ready. So
+ 
+
+00:03:05.492 --> 00:03:07.082 align:start position:0%
+ready. So
+we're<00:03:05.592><c> still</c><00:03:05.892><c> cutting</c><00:03:06.192><c> out</c><00:03:06.492><c> slips,</c><00:03:06.792><c> getting</c>
+
+00:03:07.082 --> 00:03:07.092 align:start position:0%
+we're still cutting out slips, getting
+ 
+
+00:03:07.092 --> 00:03:10.882 align:start position:0%
+we're still cutting out slips, getting
+everything<00:03:07.492><c> else</c><00:03:07.792><c> ready.</c>
+
+00:03:10.882 --> 00:03:10.892 align:start position:0%
+ 
+ 
+
+00:03:10.892 --> 00:03:12.582 align:start position:0%
+ 
+So<00:03:10.992><c> what</c><00:03:11.092><c> we're</c><00:03:11.192><c> going</c><00:03:11.292><c> to</c><00:03:11.392><c> do</c><00:03:11.492><c> now,</c>
+
+00:03:12.582 --> 00:03:12.592 align:start position:0%
+So what we're going to do now,
+ 
+
+00:03:12.592 --> 00:03:13.682 align:start position:0%
+So what we're going to do now,
+I'm going<00:03:12.692><c> to</c><00:03:12.792><c> have</c><00:03:12.892><c> you</c><00:03:13.092><c> assist</c><00:03:13.392><c> me</c><00:03:13.492><c> with</c>
+
+00:03:13.682 --> 00:03:13.692 align:start position:0%
+I'm going to have you assist me with
+ 
+
+00:03:13.692 --> 00:03:15.582 align:start position:0%
+I'm going to have you assist me with
+this<00:03:13.992><c> please,</c><00:03:14.892><c> is</c><00:03:14.992><c> that</c><00:03:15.092><c> we're</c><00:03:15.092><c> going</c><00:03:15.292><c> to</c><00:03:15.392><c> put</c>
+
+00:03:15.582 --> 00:03:15.592 align:start position:0%
+this please, is that we're going to put
+ 
+
+00:03:15.592 --> 00:03:18.182 align:start position:0%
+this please, is that we're going to put
+these<00:03:15.892><c> contests</c><00:03:16.392><c> labeled</c><00:03:16.892><c> all</c><00:03:17.892><c> for</c><00:03:18.092><c> all</c>
+
+00:03:18.182 --> 00:03:18.192 align:start position:0%
+these contests labeled all for all
+ 
+
+00:03:18.192 --> 00:03:19.282 align:start position:0%
+these contests labeled all for all
+counties
+
+00:03:19.282 --> 00:03:19.292 align:start position:0%
+counties
+ 
+
+00:03:19.292 --> 00:03:23.482 align:start position:0%
+counties
+in<00:03:19.592><c> the</c><00:03:19.692><c> green</c><00:03:20.292><c> and</c><00:03:20.392><c> white</c><00:03:20.692><c> capsules.</c>
+
+00:03:23.482 --> 00:03:23.492 align:start position:0%
+ 
+ 
+
+00:03:23.492 --> 00:03:24.682 align:start position:0%
+ 
+I'm<00:03:23.592><c> going</c><00:03:23.692><c> to</c><00:03:23.792><c> re-list</c><00:03:24.192><c> that</c><00:03:24.392><c> while</c><00:03:24.492><c> that's</c>
+
+00:03:24.682 --> 00:03:24.692 align:start position:0%
+I'm going to re-list that while that's
+ 
+
+00:03:24.692 --> 00:03:26.482 align:start position:0%
+I'm going to re-list that while that's
+going<00:03:24.892><c> on</c><00:03:25.092><c> so</c><00:03:25.292><c> that</c><00:03:25.492><c> it</c><00:03:25.692><c> uh</c>
+
+00:03:26.482 --> 00:03:26.492 align:start position:0%
+going on so that it uh
+ 
+
+00:03:26.492 --> 00:03:28.682 align:start position:0%
+going on so that it uh
+contest<00:03:26.892><c> that</c><00:03:27.092><c> we</c><00:03:27.192><c> might</c><00:03:27.492><c> be</c><00:03:27.692><c> pulling</c><00:03:28.092><c> for</c>
+
+00:03:28.682 --> 00:03:28.692 align:start position:0%
+contest that we might be pulling for
+ 
+
+00:03:28.692 --> 00:03:30.982 align:start position:0%
+contest that we might be pulling for
+this<00:03:28.992><c> statewide</c><00:03:29.392><c> audit</c><00:03:29.692><c> would</c><00:03:29.792><c> be</c><00:03:30.492><c> initiative</c>
+
+00:03:30.982 --> 00:03:30.992 align:start position:0%
+this statewide audit would be initiative
+ 
+
+00:03:30.992 --> 00:03:34.482 align:start position:0%
+this statewide audit would be initiative
+measure<00:03:31.492><c> number</c><00:03:32.092><c> IL</c><00:03:32.492><c> 26001</c>
+
+00:03:34.482 --> 00:03:34.492 align:start position:0%
+measure number IL 26001
+ 
+
+00:03:34.492 --> 00:03:37.582 align:start position:0%
+measure number IL 26001
+initiative<00:03:34.892><c> number</c><00:03:35.192><c> number</c><00:03:35.492><c> IL</c><00:03:35.792><c> 26638</c>
+
+00:03:37.582 --> 00:03:37.592 align:start position:0%
+initiative number number IL 26638
+ 
+
+00:03:37.592 --> 00:03:41.982 align:start position:0%
+initiative number number IL 26638
+and<00:03:37.892><c> initiative</c><00:03:38.292><c> measure</c><00:03:38.792><c> number</c><00:03:39.192><c> IP</c><00:03:39.692><c> 26645</c>
+
+00:03:41.982 --> 00:03:41.992 align:start position:0%
+and initiative measure number IP 26645
+ 
+
+00:03:41.992 --> 00:03:43.682 align:start position:0%
+and initiative measure number IP 26645
+as<00:03:42.092><c> well</c><00:03:42.292><c> as</c><00:03:42.692><c> Supreme</c><00:03:42.992><c> Court</c><00:03:43.192><c> Justice</c>
+
+00:03:43.682 --> 00:03:43.692 align:start position:0%
+as well as Supreme Court Justice
+ 
+
+00:03:43.692 --> 00:03:46.582 align:start position:0%
+as well as Supreme Court Justice
+position<00:03:44.192><c> one,</c><00:03:45.092><c> position</c><00:03:45.492><c> three,</c><00:03:46.192><c> position</c>
+
+00:03:46.582 --> 00:03:46.592 align:start position:0%
+position one, position three, position
+ 
+
+00:03:46.592 --> 00:03:49.982 align:start position:0%
+position one, position three, position
+four,<00:03:47.292><c> position</c><00:03:47.692><c> five,</c><00:03:48.392><c> and</c><00:03:48.592><c> position</c><00:03:48.892><c> seven.</c>
+
+00:03:49.982 --> 00:03:49.992 align:start position:0%
+four, position five, and position seven.
+ 
+
+00:03:49.992 --> 00:04:05.684 align:start position:0%
+four, position five, and position seven.
+So<00:03:50.392><c> one</c><00:03:50.592><c> of</c><00:03:50.692><c> those</c><00:03:50.992><c> 10</c><00:03:51.292><c> races.</c>
+
+00:04:05.684 --> 00:04:05.694 align:start position:0%
+ 
+ 
+
+00:04:05.694 --> 00:04:07.984 align:start position:0%
+ 
+&gt;&gt; Or<00:04:05.794><c> should</c><00:04:05.894><c> not</c><00:04:06.094><c> drop</c><00:04:06.294><c> those?</c><00:04:06.594><c> Right</c><00:04:06.794><c> in</c><00:04:07.894><c> this</c>
+
+00:04:07.984 --> 00:04:07.994 align:start position:0%
+&gt;&gt; Or should not drop those? Right in this
+ 
+
+00:04:07.994 --> 00:04:10.384 align:start position:0%
+&gt;&gt; Or should not drop those? Right in this
+guy.<00:04:08.694><c> I</c><00:04:08.694><c> was</c><00:04:08.794><c> about</c><00:04:09.094><c> to</c><00:04:09.194><c> ask.</c><00:04:09.694><c> How</c><00:04:09.794><c> do</c><00:04:09.894><c> you</c><00:04:10.094><c> love</c>
+
+00:04:10.384 --> 00:04:10.394 align:start position:0%
+guy. I was about to ask. How do you love
+ 
+
+00:04:10.394 --> 00:04:13.084 align:start position:0%
+guy. I was about to ask. How do you love
+this?<00:04:11.094><c> Okay,</c><00:04:11.494><c> I'm</c><00:04:11.594><c> right</c><00:04:11.694><c> in</c><00:04:11.794><c> here.</c>
+
+00:04:13.084 --> 00:04:13.094 align:start position:0%
+this? Okay, I'm right in here.
+ 
+
+00:04:13.094 --> 00:04:17.484 align:start position:0%
+this? Okay, I'm right in here.
+I'll<00:04:13.194><c> hold</c><00:04:13.394><c> it</c><00:04:13.594><c> while</c><00:04:13.794><c> you</c><00:04:13.894><c> fold.</c>
+
+00:04:17.484 --> 00:04:17.494 align:start position:0%
+ 
+ 
+
+00:04:17.494 --> 00:04:19.684 align:start position:0%
+ 
+So,<00:04:17.694><c> can</c><00:04:17.794><c> we</c><00:04:17.994><c> use</c><00:04:18.094><c> this?</c>
+
+00:04:19.684 --> 00:04:19.694 align:start position:0%
+So, can we use this?
+ 
+
+00:04:19.694 --> 00:04:22.084 align:start position:0%
+So, can we use this?
+10<00:04:19.794><c> for</c><00:04:19.894><c> the</c><00:04:20.394><c> state</c><00:04:20.594><c> one.</c><00:04:21.094><c> 10</c><00:04:21.594><c> Oh,</c><00:04:21.694><c> no,</c><00:04:21.794><c> sorry,</c>
+
+00:04:22.084 --> 00:04:22.094 align:start position:0%
+10 for the state one. 10 Oh, no, sorry,
+ 
+
+00:04:22.094 --> 00:04:24.084 align:start position:0%
+10 for the state one. 10 Oh, no, sorry,
+eight<00:04:22.294><c> is</c><00:04:22.394><c> eight.</c><00:04:22.794><c> You're</c><00:04:22.894><c> correct.</c>
+
+00:04:24.084 --> 00:04:24.094 align:start position:0%
+eight is eight. You're correct.
+ 
+
+00:04:24.094 --> 00:04:25.384 align:start position:0%
+eight is eight. You're correct.
+Sorry,<00:04:24.294><c> I</c><00:04:24.294><c> don't</c><00:04:24.694><c> think</c><00:04:24.794><c> I</c><00:04:24.894><c> have</c><00:04:25.094><c> the</c><00:04:25.194><c> right</c>
+
+00:04:25.384 --> 00:04:25.394 align:start position:0%
+Sorry, I don't think I have the right
+ 
+
+00:04:25.394 --> 00:04:27.784 align:start position:0%
+Sorry, I don't think I have the right
+number<00:04:25.594><c> of</c><00:04:25.794><c> No,</c><00:04:26.494><c> that</c><00:04:26.694><c> was</c><00:04:26.794><c> my</c><00:04:26.994><c> math</c><00:04:27.394><c> not</c><00:04:27.594><c> my</c>
+
+00:04:27.784 --> 00:04:27.794 align:start position:0%
+number of No, that was my math not my
+ 
+
+00:04:27.794 --> 00:04:29.984 align:start position:0%
+number of No, that was my math not my
+math<00:04:28.494><c> wrong.</c><00:04:29.094><c> Three</c><00:04:29.294><c> initiatives,</c><00:04:29.794><c> five</c>
+
+00:04:29.984 --> 00:04:29.994 align:start position:0%
+math wrong. Three initiatives, five
+ 
+
+00:04:29.994 --> 00:04:31.684 align:start position:0%
+math wrong. Three initiatives, five
+Supreme<00:04:30.294><c> Court</c><00:04:30.494><c> races,</c><00:04:30.794><c> so</c><00:04:30.894><c> that</c><00:04:31.094><c> is</c><00:04:31.294><c> eight</c>
+
+00:04:31.684 --> 00:04:31.694 align:start position:0%
+Supreme Court races, so that is eight
+ 
+
+00:04:31.694 --> 00:04:34.884 align:start position:0%
+Supreme Court races, so that is eight
+not
+
+00:04:34.884 --> 00:04:34.894 align:start position:0%
+ 
+ 
+
+00:04:34.894 --> 00:04:36.684 align:start position:0%
+ 
+See if<00:04:34.994><c> it's</c><00:04:35.394><c> too</c><00:04:35.594><c> fewer</c><00:04:35.894><c> slips</c><00:04:36.394><c> that</c><00:04:36.494><c> we</c><00:04:36.594><c> need</c>
+
+00:04:36.684 --> 00:04:36.694 align:start position:0%
+See if it's too fewer slips that we need
+ 
+
+00:04:36.694 --> 00:04:51.184 align:start position:0%
+See if it's too fewer slips that we need
+to<00:04:36.794><c> fold</c><00:04:37.094><c> right</c><00:04:37.294><c> down.</c>
+
+00:04:51.184 --> 00:04:51.194 align:start position:0%
+ 
+ 
+
+00:04:51.194 --> 00:04:52.884 align:start position:0%
+ 
+Yeah,<00:04:51.294><c> okay.</c><00:04:51.894><c> That</c><00:04:51.994><c> is</c>
+
+00:04:52.884 --> 00:04:52.894 align:start position:0%
+Yeah, okay. That is
+ 
+
+00:04:52.894 --> 00:04:57.084 align:start position:0%
+Yeah, okay. That is
+our<00:04:52.994><c> eighth</c><00:04:53.194><c> and</c><00:04:53.294><c> final</c><00:04:53.594><c> slip</c>
+
+00:04:57.084 --> 00:04:57.094 align:start position:0%
+ 
+ 
+
+00:04:57.094 --> 00:04:59.884 align:start position:0%
+ 
+into<00:04:58.294><c> capsule</c>
+
+00:04:59.884 --> 00:04:59.894 align:start position:0%
+into capsule
+ 
+
+00:04:59.894 --> 00:05:04.284 align:start position:0%
+into capsule
+into<00:05:00.294><c> the</c><00:05:00.394><c> cage.</c>
+
+00:05:04.284 --> 00:05:04.294 align:start position:0%
+ 
+ 
+
+00:05:04.294 --> 00:05:15.484 align:start position:0%
+ 
+I'm<00:05:04.494><c> going</c><00:05:04.594><c> to</c><00:05:04.694><c> HAVE</c><00:05:04.894><c> TO</c><00:05:04.994><c> GO</c>
+
+00:05:15.484 --> 00:05:15.494 align:start position:0%
+ 
+ 
+
+00:05:15.494 --> 00:05:17.184 align:start position:0%
+ 
+AND
+
+00:05:17.184 --> 00:05:17.194 align:start position:0%
+AND
+ 
+
+00:05:17.194 --> 00:05:18.784 align:start position:0%
+AND
+THERE<00:05:17.294><c> WE</c><00:05:17.394><c> GO.</c><00:05:17.694><c> IF</c><00:05:17.794><c> YOU</c><00:05:17.894><c> WOULDN'T</c><00:05:18.094><c> BE</c><00:05:18.294><c> SO</c><00:05:18.494><c> KIND</c>
+
+00:05:18.784 --> 00:05:18.794 align:start position:0%
+THERE WE GO. IF YOU WOULDN'T BE SO KIND
+ 
+
+00:05:18.794 --> 00:05:20.384 align:start position:0%
+THERE WE GO. IF YOU WOULDN'T BE SO KIND
+as<00:05:18.994><c> to</c>
+
+00:05:20.384 --> 00:05:20.394 align:start position:0%
+as to
+ 
+
+00:05:20.394 --> 00:05:24.584 align:start position:0%
+as to
+draw<00:05:20.694><c> one</c><00:05:20.894><c> out</c><00:05:21.094><c> for</c><00:05:21.294><c> us.</c>
+
+00:05:24.584 --> 00:05:24.594 align:start position:0%
+ 
+ 
+
+00:05:24.594 --> 00:05:28.148 align:start position:0%
+ 
+See<00:05:24.694><c> if</c><00:05:24.794><c> I</c><00:05:24.894><c> can</c><00:05:24.994><c> open</c><00:05:25.294><c> it.</c>
+
+00:05:28.148 --> 00:05:28.158 align:start position:0%
+ 
+ 
+
+00:05:28.158 --> 00:05:28.484 align:start position:0%
+ 
+&gt;&gt; [clears throat]
+
+00:05:28.484 --> 00:05:28.494 align:start position:0%
+&gt;&gt; [clears throat]
+ 
+
+00:05:28.494 --> 00:05:29.984 align:start position:0%
+&gt;&gt; [clears throat]
+&gt;&gt; All<00:05:28.594><c> your</c><00:05:28.794><c> comments</c><00:05:29.094><c> are</c><00:05:29.194><c> being</c><00:05:29.394><c> recorded</c><00:05:29.894><c> for</c>
+
+00:05:29.984 --> 00:05:29.994 align:start position:0%
+&gt;&gt; All your comments are being recorded for
+ 
+
+00:05:29.994 --> 00:05:30.884 align:start position:0%
+&gt;&gt; All your comments are being recorded for
+posterity.
+
+00:05:30.884 --> 00:05:30.894 align:start position:0%
+posterity.
+ 
+
+00:05:30.894 --> 00:05:32.084 align:start position:0%
+posterity.
+&gt;&gt; I<00:05:30.994><c> know.</c>
+
+00:05:32.084 --> 00:05:32.094 align:start position:0%
+&gt;&gt; I know.
+ 
+
+00:05:32.094 --> 00:05:33.984 align:start position:0%
+&gt;&gt; I know.
+Uh,<00:05:32.194><c> Supreme</c><00:05:32.594><c> Court</c><00:05:32.794><c> Justice</c><00:05:33.194><c> position</c>
+
+00:05:33.984 --> 00:05:33.994 align:start position:0%
+Uh, Supreme Court Justice position
+ 
+
+00:05:33.994 --> 00:05:35.384 align:start position:0%
+Uh, Supreme Court Justice position
+seven.<00:05:34.494><c> Position</c><00:05:34.694><c> number</c><00:05:34.894><c> seven.</c><00:05:35.363><c> [laughter]</c>
+
+00:05:35.384 --> 00:05:35.394 align:start position:0%
+seven. Position number seven. [laughter]
+ 
+
+00:05:35.394 --> 00:05:37.784 align:start position:0%
+seven. Position number seven. [laughter]
+Okay,<00:05:35.894><c> great.</c><00:05:36.094><c> That</c><00:05:36.294><c> will</c><00:05:36.394><c> be</c><00:05:36.594><c> our</c><00:05:36.794><c> statewide</c>
+
+00:05:37.784 --> 00:05:37.794 align:start position:0%
+Okay, great. That will be our statewide
+ 
+
+00:05:37.794 --> 00:05:39.484 align:start position:0%
+Okay, great. That will be our statewide
+contest.
+
+00:05:39.484 --> 00:05:39.494 align:start position:0%
+contest.
+ 
+
+00:05:39.494 --> 00:05:40.984 align:start position:0%
+contest.
+Okay,<00:05:40.094><c> now</c><00:05:40.294><c> we're</c><00:05:40.394><c> going</c><00:05:40.494><c> to</c><00:05:40.594><c> take</c><00:05:40.794><c> all</c><00:05:40.894><c> these</c>
+
+00:05:40.984 --> 00:05:40.994 align:start position:0%
+Okay, now we're going to take all these
+ 
+
+00:05:40.994 --> 00:05:48.084 align:start position:0%
+Okay, now we're going to take all these
+out.
+
+00:05:48.084 --> 00:05:48.094 align:start position:0%
+ 
+ 
+
+00:05:48.094 --> 00:05:55.484 align:start position:0%
+ 
+Can<00:05:48.294><c> the</c><00:05:48.394><c> light</c><00:05:48.594><c> lid</c><00:05:48.894><c> please?</c>
+
+00:05:55.484 --> 00:05:55.494 align:start position:0%
+ 
+ 
+
+00:05:55.494 --> 00:05:58.784 align:start position:0%
+ 
+Thank<00:05:55.894><c> you.</c>
+
+00:05:58.784 --> 00:05:58.794 align:start position:0%
+ 
+ 
+
+00:05:58.794 --> 00:06:00.384 align:start position:0%
+ 
+Okay.<00:05:59.594><c> Now</c><00:05:59.694><c> we're</c><00:05:59.794><c> going</c><00:05:59.894><c> to</c><00:06:00.094><c> choose</c><00:06:00.294><c> the</c>
+
+00:06:00.384 --> 00:06:00.394 align:start position:0%
+Okay. Now we're going to choose the
+ 
+
+00:06:00.394 --> 00:06:04.685 align:start position:0%
+Okay. Now we're going to choose the
+congressional<00:06:00.994><c> contest.</c>
+
+00:06:04.685 --> 00:06:04.695 align:start position:0%
+ 
+ 
+
+00:06:04.695 --> 00:06:11.379 align:start position:0%
+ 
+&gt;&gt; Should
+
+00:06:11.379 --> 00:06:11.389 align:start position:0%
+ 
+ 
+
+00:06:11.389 --> 00:06:32.985 align:start position:0%
+ 
+[clears throat]
+
+00:06:32.985 --> 00:06:32.995 align:start position:0%
+ 
+ 
+
+00:06:32.995 --> 00:06:46.585 align:start position:0%
+ 
+Thank<00:06:33.195><c> you,</c><00:06:33.695><c> K.</c>
+
+00:06:46.585 --> 00:06:46.595 align:start position:0%
+ 
+ 
+
+00:06:46.595 --> 00:06:48.385 align:start position:0%
+ 
+For<00:06:46.695><c> this</c><00:06:47.495><c> for</c><00:06:47.595><c> this</c><00:06:47.795><c> drawing,</c><00:06:48.195><c> we're</c><00:06:48.295><c> going</c>
+
+00:06:48.385 --> 00:06:48.395 align:start position:0%
+For this for this drawing, we're going
+ 
+
+00:06:48.395 --> 00:06:49.985 align:start position:0%
+For this for this drawing, we're going
+to<00:06:48.495><c> be</c><00:06:48.595><c> choosing</c>
+
+00:06:49.985 --> 00:06:49.995 align:start position:0%
+to be choosing
+ 
+
+00:06:49.995 --> 00:06:51.185 align:start position:0%
+to be choosing
+uh<00:06:50.095><c> any</c><00:06:50.195><c> of</c><00:06:50.295><c> the</c><00:06:50.395><c> congressional</c><00:06:50.795><c> regions</c>
+
+00:06:51.185 --> 00:06:51.195 align:start position:0%
+uh any of the congressional regions
+ 
+
+00:06:51.195 --> 00:06:53.285 align:start position:0%
+uh any of the congressional regions
+except<00:06:51.795><c> for</c><00:06:51.995><c> congressional</c><00:06:52.695><c> district</c><00:06:52.995><c> five,</c>
+
+00:06:53.285 --> 00:06:53.295 align:start position:0%
+except for congressional district five,
+ 
+
+00:06:53.295 --> 00:06:55.585 align:start position:0%
+except for congressional district five,
+which<00:06:53.495><c> is</c><00:06:53.595><c> actually</c><00:06:53.795><c> too</c><00:06:53.995><c> close</c><00:06:55.095><c> right</c><00:06:55.295><c> now</c>
+
+00:06:55.585 --> 00:06:55.595 align:start position:0%
+which is actually too close right now
+ 
+
+00:06:55.595 --> 00:06:57.685 align:start position:0%
+which is actually too close right now
+for<00:06:55.895><c> us</c><00:06:56.195><c> to</c>
+
+00:06:57.685 --> 00:06:57.695 align:start position:0%
+for us to
+ 
+
+00:06:57.695 --> 00:07:00.485 align:start position:0%
+for us to
+really<00:06:57.995><c> be</c><00:06:58.095><c> able</c><00:06:58.195><c> to</c><00:06:58.295><c> do</c><00:06:58.395><c> an</c><00:06:58.495><c> audit</c><00:06:58.895><c> of</c><00:06:59.195><c> K.</c>
+
+00:07:00.485 --> 00:07:00.495 align:start position:0%
+really be able to do an audit of K.
+ 
+
+00:07:00.495 --> 00:07:04.085 align:start position:0%
+really be able to do an audit of K.
+The sample<00:07:00.795><c> size</c><00:07:00.995><c> is</c><00:07:01.195><c> awfully</c><00:07:01.395><c> large.</c>
+
+00:07:04.085 --> 00:07:04.095 align:start position:0%
+ 
+ 
+
+00:07:04.095 --> 00:07:05.785 align:start position:0%
+ 
+We<00:07:04.195><c> omit</c><00:07:04.495><c> anything</c><00:07:04.895><c> that</c><00:07:05.095><c> has</c><00:07:05.295><c> a</c><00:07:05.295><c> chance</c><00:07:05.695><c> of</c>
+
+00:07:05.785 --> 00:07:05.795 align:start position:0%
+We omit anything that has a chance of
+ 
+
+00:07:05.795 --> 00:07:09.485 align:start position:0%
+We omit anything that has a chance of
+potentially<00:07:06.695><c> being</c><00:07:06.995><c> recount</c><00:07:07.395><c> territory.</c>
+
+00:07:09.485 --> 00:07:09.495 align:start position:0%
+potentially being recount territory.
+ 
+
+00:07:09.495 --> 00:07:11.685 align:start position:0%
+potentially being recount territory.
+With<00:07:10.095><c> as</c><00:07:10.195><c> many</c><00:07:10.495><c> outstanding</c><00:07:11.095><c> ballots</c><00:07:11.495><c> as</c><00:07:11.595><c> we</c>
+
+00:07:11.685 --> 00:07:11.695 align:start position:0%
+With as many outstanding ballots as we
+ 
+
+00:07:11.695 --> 00:07:23.185 align:start position:0%
+With as many outstanding ballots as we
+have,<00:07:11.895><c> that</c><00:07:12.095><c> one</c><00:07:12.295><c> could</c><00:07:12.595><c> get</c><00:07:12.995><c> close,</c><00:07:13.295><c> sir.</c>
+
+00:07:23.185 --> 00:07:23.195 align:start position:0%
+ 
+ 
+
+00:07:23.195 --> 00:07:36.485 align:start position:0%
+ 
+All<00:07:23.295><c> right.</c>
+
+00:07:36.485 --> 00:07:36.495 align:start position:0%
+ 
+ 
+
+00:07:36.495 --> 00:07:41.985 align:start position:0%
+ 
+Thank<00:07:36.595><c> you.</c>
+
+00:07:41.985 --> 00:07:41.995 align:start position:0%
+ 
+ 
+
+00:07:41.995 --> 00:07:43.985 align:start position:0%
+ 
+We<00:07:42.095><c> have</c><00:07:42.295><c> chosen</c>
+
+00:07:43.985 --> 00:07:43.995 align:start position:0%
+We have chosen
+ 
+
+00:07:43.995 --> 00:07:46.185 align:start position:0%
+We have chosen
+ba-da-ba-da-pam-pam-pam.
+
+00:07:46.185 --> 00:07:46.195 align:start position:0%
+ba-da-ba-da-pam-pam-pam.
+ 
+
+00:07:46.195 --> 00:07:48.085 align:start position:0%
+ba-da-ba-da-pam-pam-pam.
+&gt;&gt; Congressional<00:07:46.795><c> district</c><00:07:47.595><c> one.</c>
+
+00:07:48.085 --> 00:07:48.095 align:start position:0%
+&gt;&gt; Congressional district one.
+ 
+
+00:07:48.095 --> 00:07:51.485 align:start position:0%
+&gt;&gt; Congressional district one.
+&gt;&gt; Congressional<00:07:48.495><c> district</c><00:07:48.695><c> one.</c><00:07:49.395><c> All</c><00:07:49.495><c> right.</c>
+
+00:07:51.485 --> 00:07:51.495 align:start position:0%
+&gt;&gt; Congressional district one. All right.
+ 
+
+00:07:51.495 --> 00:07:54.085 align:start position:0%
+&gt;&gt; Congressional district one. All right.
+Number<00:07:51.995><c> one.</c>
+
+00:07:54.085 --> 00:07:54.095 align:start position:0%
+Number one.
+ 
+
+00:07:54.095 --> 00:07:55.685 align:start position:0%
+Number one.
+Put<00:07:54.195><c> that</c><00:07:54.295><c> on</c><00:07:54.395><c> the</c><00:07:54.595><c> pile.</c><00:07:54.995><c> Okay.</c><00:07:55.595><c> So,</c><00:07:55.695><c> we're</c>
+
+00:07:55.685 --> 00:07:55.695 align:start position:0%
+Put that on the pile. Okay. So, we're
+ 
+
+00:07:55.695 --> 00:07:56.785 align:start position:0%
+Put that on the pile. Okay. So, we're
+going<00:07:55.795><c> to</c><00:07:55.895><c> take</c><00:07:55.995><c> all</c><00:07:56.095><c> the</c><00:07:56.095><c> yellows</c><00:07:56.395><c> out</c><00:07:56.595><c> now,</c>
+
+00:07:56.785 --> 00:07:56.795 align:start position:0%
+going to take all the yellows out now,
+ 
+
+00:07:56.795 --> 00:07:58.585 align:start position:0%
+going to take all the yellows out now,
+please.
+
+00:07:58.585 --> 00:07:58.595 align:start position:0%
+please.
+ 
+
+00:07:58.595 --> 00:08:00.085 align:start position:0%
+please.
+We'll<00:07:58.695><c> switch</c><00:07:58.895><c> back</c><00:07:59.195><c> over</c><00:07:59.395><c> to</c><00:07:59.495><c> green,</c><00:07:59.795><c> I</c><00:07:59.795><c> mean,</c>
+
+00:08:00.085 --> 00:08:00.095 align:start position:0%
+We'll switch back over to green, I mean,
+ 
+
+00:08:00.095 --> 00:08:02.085 align:start position:0%
+We'll switch back over to green, I mean,
+while<00:08:00.195><c> we're</c><00:08:00.395><c> while</c><00:08:01.095><c> LS</c><00:08:01.495><c> empties</c><00:08:01.895><c> the</c>
+
+00:08:02.085 --> 00:08:02.095 align:start position:0%
+while we're while LS empties the
+ 
+
+00:08:02.095 --> 00:08:04.485 align:start position:0%
+while we're while LS empties the
+yellows.
+
+00:08:04.485 --> 00:08:04.495 align:start position:0%
+yellows.
+ 
+
+00:08:04.495 --> 00:08:06.885 align:start position:0%
+yellows.
+And<00:08:04.595><c> we</c><00:08:04.695><c> can</c><00:08:04.895><c> load</c><00:08:05.095><c> in</c><00:08:05.895><c> uh</c><00:08:06.395><c> our</c><00:08:06.495><c> next</c><00:08:06.695><c> county,</c>
+
+00:08:06.885 --> 00:08:06.895 align:start position:0%
+And we can load in uh our next county,
+ 
+
+00:08:06.895 --> 00:08:10.587 align:start position:0%
+And we can load in uh our next county,
+which<00:08:07.397><c> County.</c>
+
+00:08:10.587 --> 00:08:10.597 align:start position:0%
+ 
+ 
+
+00:08:10.597 --> 00:08:16.587 align:start position:0%
+ 
+It's<00:08:10.697><c> the</c><00:08:10.797><c> bottom</c><00:08:11.097><c> right</c><00:08:11.297><c> there</c><00:08:11.497><c> by</c><00:08:11.697><c> you.</c>
+
+00:08:16.587 --> 00:08:16.597 align:start position:0%
+ 
+ 
+
+00:08:16.597 --> 00:08:18.987 align:start position:0%
+ 
+&gt;&gt; The<00:08:16.697><c> east,</c><00:08:17.097><c> and</c><00:08:17.197><c> thank</c><00:08:17.497><c> you.</c>
+
+00:08:18.987 --> 00:08:18.997 align:start position:0%
+&gt;&gt; The east, and thank you.
+ 
+
+00:08:18.997 --> 00:08:21.487 align:start position:0%
+&gt;&gt; The east, and thank you.
+&gt;&gt; Okay.<00:08:19.597><c> For</c><00:08:19.697><c> Kitsap</c><00:08:20.097><c> County,</c><00:08:20.397><c> the</c><00:08:21.297><c> the</c>
+
+00:08:21.487 --> 00:08:21.497 align:start position:0%
+&gt;&gt; Okay. For Kitsap County, the the
+ 
+
+00:08:21.497 --> 00:08:23.387 align:start position:0%
+&gt;&gt; Okay. For Kitsap County, the the
+contests<00:08:21.897><c> that</c><00:08:22.097><c> we</c><00:08:22.197><c> may</c><00:08:22.397><c> be</c><00:08:22.497><c> choosing</c><00:08:22.897><c> from</c>
+
+00:08:23.387 --> 00:08:23.397 align:start position:0%
+contests that we may be choosing from
+ 
+
+00:08:23.397 --> 00:08:25.287 align:start position:0%
+contests that we may be choosing from
+are<00:08:23.697><c> Kitsap</c><00:08:23.997><c> County</c><00:08:24.297><c> Clerk,</c>
+
+00:08:25.287 --> 00:08:25.297 align:start position:0%
+are Kitsap County Clerk,
+ 
+
+00:08:25.297 --> 00:08:27.587 align:start position:0%
+are Kitsap County Clerk,
+Kitsap<00:08:25.597><c> County</c><00:08:25.897><c> Commissioner</c><00:08:26.297><c> District</c><00:08:26.597><c> 3,</c>
+
+00:08:27.587 --> 00:08:27.597 align:start position:0%
+Kitsap County Commissioner District 3,
+ 
+
+00:08:27.597 --> 00:08:30.387 align:start position:0%
+Kitsap County Commissioner District 3,
+Kitsap<00:08:27.897><c> County</c><00:08:28.297><c> Prosecuting</c><00:08:28.797><c> Attorney,</c>
+
+00:08:30.387 --> 00:08:30.397 align:start position:0%
+Kitsap County Prosecuting Attorney,
+ 
+
+00:08:30.397 --> 00:08:32.287 align:start position:0%
+Kitsap County Prosecuting Attorney,
+Kitsap<00:08:30.697><c> County</c><00:08:30.897><c> Sheriff,</c>
+
+00:08:32.287 --> 00:08:32.297 align:start position:0%
+Kitsap County Sheriff,
+ 
+
+00:08:32.297 --> 00:08:34.487 align:start position:0%
+Kitsap County Sheriff,
+Legislative<00:08:32.897><c> District</c><00:08:33.297><c> 23</c><00:08:33.797><c> State</c>
+
+00:08:34.487 --> 00:08:34.497 align:start position:0%
+Legislative District 23 State
+ 
+
+00:08:34.497 --> 00:08:36.487 align:start position:0%
+Legislative District 23 State
+Representative<00:08:34.997><c> Position</c><00:08:35.297><c> 2,</c>
+
+00:08:36.487 --> 00:08:36.497 align:start position:0%
+Representative Position 2,
+ 
+
+00:08:36.497 --> 00:08:38.587 align:start position:0%
+Representative Position 2,
+and<00:08:36.697><c> Public</c><00:08:36.997><c> Utility</c><00:08:37.497><c> District</c><00:08:37.897><c> Number</c><00:08:38.197><c> 1</c>
+
+00:08:38.587 --> 00:08:38.597 align:start position:0%
+and Public Utility District Number 1
+ 
+
+00:08:38.597 --> 00:08:43.187 align:start position:0%
+and Public Utility District Number 1
+Proposition<00:08:39.097><c> Number</c><00:08:39.297><c> 1.</c>
+
+00:08:43.187 --> 00:08:43.197 align:start position:0%
+ 
+ 
+
+00:08:43.197 --> 00:09:20.887 align:start position:0%
+ 
+One<00:08:43.397><c> of</c><00:08:43.497><c> those</c><00:08:44.097><c> six</c><00:08:44.297><c> contests.</c>
+
+00:09:20.887 --> 00:09:20.897 align:start position:0%
+ 
+ 
+
+00:09:20.897 --> 00:09:24.587 align:start position:0%
+ 
+Draw<00:09:20.997><c> master</c><00:09:21.397><c> Emily</c><00:09:21.697><c> has</c><00:09:21.897><c> chosen</c>
+
+00:09:24.587 --> 00:09:24.597 align:start position:0%
+Draw master Emily has chosen
+ 
+
+00:09:24.597 --> 00:09:26.187 align:start position:0%
+Draw master Emily has chosen
+&gt;&gt; Kitsap<00:09:24.897><c> County</c><00:09:25.197><c> Prosecuting</c><00:09:25.897><c> Attorney.</c>
+
+00:09:26.187 --> 00:09:26.197 align:start position:0%
+&gt;&gt; Kitsap County Prosecuting Attorney.
+ 
+
+00:09:26.197 --> 00:09:34.187 align:start position:0%
+&gt;&gt; Kitsap County Prosecuting Attorney.
+&gt;&gt; Kitsap<00:09:26.497><c> County</c><00:09:26.797><c> Prosecuting</c><00:09:27.297><c> Attorney.</c>
+
+00:09:34.187 --> 00:09:34.197 align:start position:0%
+ 
+ 
+
+00:09:34.197 --> 00:09:37.087 align:start position:0%
+ 
+Okay.<00:09:34.597><c> Next</c><00:09:34.997><c> up,</c><00:09:35.297><c> we</c><00:09:35.497><c> will</c><00:09:35.797><c> do</c>
+
+00:09:37.087 --> 00:09:37.097 align:start position:0%
+Okay. Next up, we will do
+ 
+
+00:09:37.097 --> 00:09:39.087 align:start position:0%
+Okay. Next up, we will do
+Spokane.<00:09:38.097><c> Alphabetically,</c><00:09:38.697><c> Spokane</c><00:09:38.997><c> is</c>
+
+00:09:39.087 --> 00:09:39.097 align:start position:0%
+Spokane. Alphabetically, Spokane is
+ 
+
+00:09:39.097 --> 00:09:41.087 align:start position:0%
+Spokane. Alphabetically, Spokane is
+next.
+
+00:09:41.087 --> 00:09:41.097 align:start position:0%
+next.
+ 
+
+00:09:41.097 --> 00:09:41.987 align:start position:0%
+next.
+This is<00:09:41.197><c> a</c><00:09:41.297><c> long</c><00:09:41.497><c> one.</c><00:09:41.597><c> We</c><00:09:41.697><c> got</c><00:09:41.797><c> a</c><00:09:41.797><c> lot</c><00:09:41.897><c> of</c>
+
+00:09:41.987 --> 00:09:41.997 align:start position:0%
+This is a long one. We got a lot of
+ 
+
+00:09:41.997 --> 00:09:43.387 align:start position:0%
+This is a long one. We got a lot of
+capsules<00:09:42.397><c> for</c><00:09:42.497><c> this</c><00:09:42.697><c> one.</c><00:09:42.897><c> They</c><00:09:42.897><c> have</c><00:09:42.997><c> a</c><00:09:43.097><c> lot</c>
+
+00:09:43.387 --> 00:09:43.397 align:start position:0%
+capsules for this one. They have a lot
+ 
+
+00:09:43.397 --> 00:09:45.287 align:start position:0%
+capsules for this one. They have a lot
+of<00:09:43.697><c> issues</c><00:09:43.897><c> on</c><00:09:43.997><c> their</c><00:09:44.197><c> ballots.</c>
+
+00:09:45.287 --> 00:09:45.297 align:start position:0%
+of issues on their ballots.
+ 
+
+00:09:45.297 --> 00:09:45.987 align:start position:0%
+of issues on their ballots.
+&gt;&gt; Go<00:09:45.397><c> back</c><00:09:45.497><c> to</c><00:09:45.597><c> yellows?</c>
+
+00:09:45.987 --> 00:09:45.997 align:start position:0%
+&gt;&gt; Go back to yellows?
+ 
+
+00:09:45.997 --> 00:09:47.587 align:start position:0%
+&gt;&gt; Go back to yellows?
+&gt;&gt; Yeah,<00:09:46.097><c> let's</c><00:09:46.197><c> go</c><00:09:46.297><c> back</c><00:09:46.397><c> to</c><00:09:46.497><c> yellows.</c><00:09:47.197><c> We</c><00:09:47.297><c> can</c>
+
+00:09:47.587 --> 00:09:47.597 align:start position:0%
+&gt;&gt; Yeah, let's go back to yellows. We can
+ 
+
+00:09:47.597 --> 00:09:48.887 align:start position:0%
+&gt;&gt; Yeah, let's go back to yellows. We can
+That<00:09:47.697><c> way</c><00:09:47.797><c> we</c><00:09:47.897><c> can</c><00:09:48.097><c> keep</c><00:09:48.297><c> alternating</c><00:09:48.697><c> and</c><00:09:48.797><c> we</c>
+
+00:09:48.887 --> 00:09:48.897 align:start position:0%
+That way we can keep alternating and we
+ 
+
+00:09:48.897 --> 00:10:09.487 align:start position:0%
+That way we can keep alternating and we
+won't<00:09:49.297><c> accidentally</c>
+
+00:10:09.487 --> 00:10:09.497 align:start position:0%
+ 
+ 
+
+00:10:09.497 --> 00:10:13.088 align:start position:0%
+ 
+So,<00:10:09.897><c> for</c><00:10:10.297><c> Spokane</c><00:10:10.898><c> County,</c><00:10:11.298><c> the</c><00:10:11.398><c> contests</c>
+
+00:10:13.088 --> 00:10:13.098 align:start position:0%
+So, for Spokane County, the contests
+ 
+
+00:10:13.098 --> 00:10:14.988 align:start position:0%
+So, for Spokane County, the contests
+that<00:10:13.198><c> we've</c><00:10:13.398><c> identified</c><00:10:14.098><c> that</c><00:10:14.198><c> are</c><00:10:14.698><c> suitable</c>
+
+00:10:14.988 --> 00:10:14.998 align:start position:0%
+that we've identified that are suitable
+ 
+
+00:10:14.998 --> 00:10:17.088 align:start position:0%
+that we've identified that are suitable
+for<00:10:15.098><c> audit</c><00:10:15.498><c> are</c><00:10:16.398><c> East</c><00:10:16.598><c> Valley</c><00:10:16.898><c> School</c>
+
+00:10:17.088 --> 00:10:17.098 align:start position:0%
+for audit are East Valley School
+ 
+
+00:10:17.098 --> 00:10:19.188 align:start position:0%
+for audit are East Valley School
+District,<00:10:17.598><c> proposition</c><00:10:17.998><c> number</c><00:10:18.198><c> one.</c>
+
+00:10:19.188 --> 00:10:19.198 align:start position:0%
+District, proposition number one.
+ 
+
+00:10:19.198 --> 00:10:20.788 align:start position:0%
+District, proposition number one.
+Fire<00:10:19.298><c> District</c><00:10:19.698><c> number</c><00:10:19.898><c> three,</c><00:10:20.298><c> proposition</c>
+
+00:10:20.788 --> 00:10:20.798 align:start position:0%
+Fire District number three, proposition
+ 
+
+00:10:20.798 --> 00:10:21.888 align:start position:0%
+Fire District number three, proposition
+number<00:10:20.998><c> one.</c>
+
+00:10:21.888 --> 00:10:21.898 align:start position:0%
+number one.
+ 
+
+00:10:21.898 --> 00:10:23.488 align:start position:0%
+number one.
+Fire<00:10:22.098><c> District</c><00:10:22.398><c> number</c><00:10:22.598><c> nine,</c><00:10:22.998><c> proposition</c>
+
+00:10:23.488 --> 00:10:23.498 align:start position:0%
+Fire District number nine, proposition
+ 
+
+00:10:23.498 --> 00:10:24.688 align:start position:0%
+Fire District number nine, proposition
+number<00:10:23.698><c> one.</c>
+
+00:10:24.688 --> 00:10:24.698 align:start position:0%
+number one.
+ 
+
+00:10:24.698 --> 00:10:26.188 align:start position:0%
+number one.
+Fire<00:10:24.898><c> District</c><00:10:25.198><c> number</c><00:10:25.398><c> nine,</c><00:10:25.798><c> proposition</c>
+
+00:10:26.188 --> 00:10:26.198 align:start position:0%
+Fire District number nine, proposition
+ 
+
+00:10:26.198 --> 00:10:27.688 align:start position:0%
+Fire District number nine, proposition
+number<00:10:26.398><c> two.</c>
+
+00:10:27.688 --> 00:10:27.698 align:start position:0%
+number two.
+ 
+
+00:10:27.698 --> 00:10:29.588 align:start position:0%
+number two.
+Legislative<00:10:28.398><c> District</c><00:10:28.798><c> three,</c><00:10:29.298><c> state</c>
+
+00:10:29.588 --> 00:10:29.598 align:start position:0%
+Legislative District three, state
+ 
+
+00:10:29.598 --> 00:10:32.388 align:start position:0%
+Legislative District three, state
+representative<00:10:30.798><c> position</c><00:10:31.198><c> one.</c>
+
+00:10:32.388 --> 00:10:32.398 align:start position:0%
+representative position one.
+ 
+
+00:10:32.398 --> 00:10:33.888 align:start position:0%
+representative position one.
+Legislative<00:10:32.898><c> District</c><00:10:33.198><c> three,</c><00:10:33.698><c> state</c>
+
+00:10:33.888 --> 00:10:33.898 align:start position:0%
+Legislative District three, state
+ 
+
+00:10:33.898 --> 00:10:35.488 align:start position:0%
+Legislative District three, state
+representative
+
+00:10:35.488 --> 00:10:35.498 align:start position:0%
+representative
+ 
+
+00:10:35.498 --> 00:10:37.088 align:start position:0%
+representative
+position<00:10:35.798><c> two.</c>
+
+00:10:37.088 --> 00:10:37.098 align:start position:0%
+position two.
+ 
+
+00:10:37.098 --> 00:10:38.788 align:start position:0%
+position two.
+Legislative<00:10:37.498><c> District</c><00:10:37.698><c> four,</c><00:10:38.098><c> state</c><00:10:38.398><c> rep</c>
+
+00:10:38.788 --> 00:10:38.798 align:start position:0%
+Legislative District four, state rep
+ 
+
+00:10:38.798 --> 00:10:40.288 align:start position:0%
+Legislative District four, state rep
+position<00:10:39.098><c> one.</c>
+
+00:10:40.288 --> 00:10:40.298 align:start position:0%
+position one.
+ 
+
+00:10:40.298 --> 00:10:42.088 align:start position:0%
+position one.
+Legislative<00:10:40.898><c> four,</c>
+
+00:10:42.088 --> 00:10:42.098 align:start position:0%
+Legislative four,
+ 
+
+00:10:42.098 --> 00:10:45.288 align:start position:0%
+Legislative four,
+state<00:10:42.398><c> rep</c><00:10:42.898><c> position</c><00:10:43.298><c> two.</c><00:10:43.998><c> Legislative</c><00:10:44.598><c> six,</c>
+
+00:10:45.288 --> 00:10:45.298 align:start position:0%
+state rep position two. Legislative six,
+ 
+
+00:10:45.298 --> 00:10:47.788 align:start position:0%
+state rep position two. Legislative six,
+state<00:10:45.498><c> rep</c><00:10:45.798><c> position</c><00:10:46.198><c> one.</c><00:10:46.898><c> Legislative</c><00:10:47.398><c> six,</c>
+
+00:10:47.788 --> 00:10:47.798 align:start position:0%
+state rep position one. Legislative six,
+ 
+
+00:10:47.798 --> 00:10:49.588 align:start position:0%
+state rep position one. Legislative six,
+state<00:10:48.098><c> rep</c><00:10:48.298><c> position</c><00:10:48.598><c> two.</c>
+
+00:10:49.588 --> 00:10:49.598 align:start position:0%
+state rep position two.
+ 
+
+00:10:49.598 --> 00:10:51.388 align:start position:0%
+state rep position two.
+Spokane<00:10:50.198><c> County</c><00:10:50.498><c> Commissioner</c><00:10:50.998><c> District</c>
+
+00:10:51.388 --> 00:10:51.398 align:start position:0%
+Spokane County Commissioner District
+ 
+
+00:10:51.398 --> 00:10:52.488 align:start position:0%
+Spokane County Commissioner District
+four.
+
+00:10:52.488 --> 00:10:52.498 align:start position:0%
+four.
+ 
+
+00:10:52.498 --> 00:10:55.888 align:start position:0%
+four.
+Spokane<00:10:52.798><c> County</c><00:10:53.198><c> District</c><00:10:53.898><c> Court</c><00:10:54.398><c> Judge</c><00:10:54.698><c> two.</c>
+
+00:10:55.888 --> 00:10:55.898 align:start position:0%
+Spokane County District Court Judge two.
+ 
+
+00:10:55.898 --> 00:10:57.688 align:start position:0%
+Spokane County District Court Judge two.
+Spokane<00:10:56.298><c> County</c><00:10:56.698><c> District</c><00:10:57.098><c> Court</c><00:10:57.498><c> Judge</c>
+
+00:10:57.688 --> 00:10:57.698 align:start position:0%
+Spokane County District Court Judge
+ 
+
+00:10:57.698 --> 00:10:58.888 align:start position:0%
+Spokane County District Court Judge
+four.
+
+00:10:58.888 --> 00:10:58.898 align:start position:0%
+four.
+ 
+
+00:10:58.898 --> 00:11:01.388 align:start position:0%
+four.
+Spokane<00:10:59.298><c> County</c><00:10:59.598><c> Prosecuting</c><00:11:00.198><c> Attorney.</c>
+
+00:11:01.388 --> 00:11:01.398 align:start position:0%
+Spokane County Prosecuting Attorney.
+ 
+
+00:11:01.398 --> 00:11:03.988 align:start position:0%
+Spokane County Prosecuting Attorney.
+Spokane<00:11:02.098><c> School</c><00:11:02.298><c> District</c><00:11:02.898><c> 81,</c><00:11:03.498><c> proposition</c>
+
+00:11:03.988 --> 00:11:03.998 align:start position:0%
+Spokane School District 81, proposition
+ 
+
+00:11:03.998 --> 00:11:05.288 align:start position:0%
+Spokane School District 81, proposition
+number<00:11:04.198><c> one.</c>
+
+00:11:05.288 --> 00:11:05.298 align:start position:0%
+number one.
+ 
+
+00:11:05.298 --> 00:11:06.788 align:start position:0%
+number one.
+West<00:11:05.498><c> Valley</c><00:11:05.798><c> School</c><00:11:05.998><c> District</c><00:11:06.398><c> proposition</c>
+
+00:11:06.788 --> 00:11:06.798 align:start position:0%
+West Valley School District proposition
+ 
+
+00:11:06.798 --> 00:11:08.588 align:start position:0%
+West Valley School District proposition
+number<00:11:06.998><c> one</c><00:11:07.698><c> and</c><00:11:07.898><c> West</c><00:11:08.198><c> Valley</c><00:11:08.398><c> School</c>
+
+00:11:08.588 --> 00:11:08.598 align:start position:0%
+number one and West Valley School
+ 
+
+00:11:08.598 --> 00:11:19.288 align:start position:0%
+number one and West Valley School
+District<00:11:08.998><c> proposition</c><00:11:09.498><c> number</c><00:11:09.698><c> two.</c>
+
+00:11:19.288 --> 00:11:19.298 align:start position:0%
+ 
+ 
+
+00:11:19.298 --> 00:11:34.788 align:start position:0%
+ 
+We<00:11:19.398><c> worked</c><00:11:19.598><c> that</c><00:11:19.698><c> well.</c><00:11:19.998><c> Good</c><00:11:20.098><c> job,</c><00:11:20.298><c> team.</c>
+
+00:11:34.788 --> 00:11:34.798 align:start position:0%
+ 
+ 
+
+00:11:34.798 --> 00:11:42.788 align:start position:0%
+ 
+Perfect.
+
+00:11:42.788 --> 00:11:42.798 align:start position:0%
+ 
+ 
+
+00:11:42.798 --> 00:11:54.788 align:start position:0%
+ 
+A<00:11:42.898><c> lot</c><00:11:42.998><c> of</c><00:11:42.998><c> contests</c><00:11:43.398><c> to</c><00:11:43.498><c> choose</c><00:11:43.598><c> from.</c>
+
+00:11:54.788 --> 00:11:54.798 align:start position:0%
+ 
+ 
+
+00:11:54.798 --> 00:11:56.588 align:start position:0%
+ 
+We<00:11:54.898><c> have</c><00:11:55.098><c> chosen</c>
+
+00:11:56.588 --> 00:11:56.598 align:start position:0%
+We have chosen
+ 
+
+00:11:56.598 --> 00:11:59.488 align:start position:0%
+We have chosen
+&gt;&gt; We<00:11:56.698><c> have</c><00:11:57.698><c> Legislative</c><00:11:58.298><c> District</c><00:11:58.798><c> six,</c>
+
+00:11:59.488 --> 00:11:59.498 align:start position:0%
+&gt;&gt; We have Legislative District six,
+ 
+
+00:11:59.498 --> 00:12:01.388 align:start position:0%
+&gt;&gt; We have Legislative District six,
+representative<00:12:00.198><c> position</c><00:12:00.698><c> two.</c>
+
+00:12:01.388 --> 00:12:01.398 align:start position:0%
+representative position two.
+ 
+
+00:12:01.398 --> 00:12:03.188 align:start position:0%
+representative position two.
+&gt;&gt; Okay.
+
+00:12:03.188 --> 00:12:03.198 align:start position:0%
+&gt;&gt; Okay.
+ 
+
+00:12:03.198 --> 00:12:04.988 align:start position:0%
+&gt;&gt; Okay.
+Got<00:12:03.498><c> it.</c>
+
+00:12:04.988 --> 00:12:04.998 align:start position:0%
+Got it.
+ 
+
+00:12:04.998 --> 00:12:06.288 align:start position:0%
+Got it.
+Okay.
+
+00:12:06.288 --> 00:12:06.298 align:start position:0%
+Okay.
+ 
+
+00:12:06.298 --> 00:12:07.888 align:start position:0%
+Okay.
+Next<00:12:06.598><c> up,</c><00:12:06.898><c> we'll</c><00:12:07.098><c> switch</c><00:12:07.198><c> back</c><00:12:07.398><c> to</c><00:12:07.498><c> green</c>
+
+00:12:07.888 --> 00:12:07.898 align:start position:0%
+Next up, we'll switch back to green
+ 
+
+00:12:07.898 --> 00:12:10.488 align:start position:0%
+Next up, we'll switch back to green
+again<00:12:08.498><c> and</c><00:12:08.598><c> we</c><00:12:08.698><c> will</c><00:12:08.898><c> do</c><00:12:09.398><c> Thurston</c><00:12:09.798><c> County</c>
+
+00:12:10.488 --> 00:12:10.498 align:start position:0%
+again and we will do Thurston County
+ 
+
+00:12:10.498 --> 00:12:13.689 align:start position:0%
+again and we will do Thurston County
+contests.
+
+00:12:13.689 --> 00:12:13.699 align:start position:0%
+ 
+ 
+
+00:12:13.699 --> 00:12:17.289 align:start position:0%
+ 
+Please.
+
+00:12:17.289 --> 00:12:17.299 align:start position:0%
+ 
+ 
+
+00:12:17.299 --> 00:12:20.089 align:start position:0%
+ 
+And<00:12:17.499><c> this</c><00:12:17.599><c> looks</c><00:12:17.799><c> like</c><00:12:18.399><c> Here</c><00:12:18.499><c> we</c><00:12:18.499><c> go.</c>
+
+00:12:20.089 --> 00:12:20.099 align:start position:0%
+And this looks like Here we go.
+ 
+
+00:12:20.099 --> 00:12:22.989 align:start position:0%
+And this looks like Here we go.
+Thank<00:12:20.499><c> you.</c>
+
+00:12:22.989 --> 00:12:22.999 align:start position:0%
+ 
+ 
+
+00:12:22.999 --> 00:12:25.289 align:start position:0%
+ 
+So,<00:12:23.499><c> for</c><00:12:23.699><c> Thurston</c><00:12:24.099><c> County,</c><00:12:24.499><c> we</c><00:12:24.699><c> can</c><00:12:24.899><c> we</c><00:12:25.099><c> were</c>
+
+00:12:25.289 --> 00:12:25.299 align:start position:0%
+So, for Thurston County, we can we were
+ 
+
+00:12:25.299 --> 00:12:27.489 align:start position:0%
+So, for Thurston County, we can we were
+going<00:12:25.399><c> choosing</c><00:12:25.899><c> from</c><00:12:26.199><c> between</c><00:12:27.199><c> fire</c>
+
+00:12:27.489 --> 00:12:27.499 align:start position:0%
+going choosing from between fire
+ 
+
+00:12:27.499 --> 00:12:29.389 align:start position:0%
+going choosing from between fire
+protection<00:12:28.099><c> district</c><00:12:28.499><c> number</c><00:12:28.699><c> three,</c><00:12:29.099><c> Lacey</c>
+
+00:12:29.389 --> 00:12:29.399 align:start position:0%
+protection district number three, Lacey
+ 
+
+00:12:29.399 --> 00:12:31.289 align:start position:0%
+protection district number three, Lacey
+proposition<00:12:29.999><c> number</c><00:12:30.199><c> one,</c>
+
+00:12:31.289 --> 00:12:31.299 align:start position:0%
+proposition number one,
+ 
+
+00:12:31.299 --> 00:12:33.289 align:start position:0%
+proposition number one,
+legislative<00:12:31.699><c> district</c><00:12:32.199><c> 22</c><00:12:32.999><c> state</c>
+
+00:12:33.289 --> 00:12:33.299 align:start position:0%
+legislative district 22 state
+ 
+
+00:12:33.299 --> 00:12:35.489 align:start position:0%
+legislative district 22 state
+representative<00:12:33.899><c> position</c><00:12:34.299><c> one,</c>
+
+00:12:35.489 --> 00:12:35.499 align:start position:0%
+representative position one,
+ 
+
+00:12:35.499 --> 00:12:37.089 align:start position:0%
+representative position one,
+legislative<00:12:35.899><c> district</c><00:12:36.099><c> 22</c><00:12:36.599><c> state</c><00:12:36.899><c> rep</c>
+
+00:12:37.089 --> 00:12:37.099 align:start position:0%
+legislative district 22 state rep
+ 
+
+00:12:37.099 --> 00:12:38.689 align:start position:0%
+legislative district 22 state rep
+position<00:12:37.499><c> two,</c>
+
+00:12:38.689 --> 00:12:38.699 align:start position:0%
+position two,
+ 
+
+00:12:38.699 --> 00:12:40.589 align:start position:0%
+position two,
+Thurston<00:12:38.899><c> County</c><00:12:39.199><c> assessor,</c><00:12:40.299><c> Thurston</c>
+
+00:12:40.589 --> 00:12:40.599 align:start position:0%
+Thurston County assessor, Thurston
+ 
+
+00:12:40.599 --> 00:12:41.689 align:start position:0%
+Thurston County assessor, Thurston
+County<00:12:40.799><c> commissioner</c><00:12:41.299><c> district</c><00:12:41.499><c> number</c>
+
+00:12:41.689 --> 00:12:41.699 align:start position:0%
+County commissioner district number
+ 
+
+00:12:41.699 --> 00:12:44.389 align:start position:0%
+County commissioner district number
+five,<00:12:42.699><c> Thurston</c><00:12:42.999><c> County</c><00:12:43.199><c> sheriff,</c>
+
+00:12:44.389 --> 00:12:44.399 align:start position:0%
+five, Thurston County sheriff,
+ 
+
+00:12:44.399 --> 00:12:45.789 align:start position:0%
+five, Thurston County sheriff,
+Thurston<00:12:44.699><c> public</c><00:12:45.099><c> utility</c><00:12:45.499><c> district</c>
+
+00:12:45.789 --> 00:12:45.799 align:start position:0%
+Thurston public utility district
+ 
+
+00:12:45.799 --> 00:12:47.989 align:start position:0%
+Thurston public utility district
+commissioner<00:12:46.299><c> district</c><00:12:46.599><c> number</c><00:12:46.799><c> one,</c>
+
+00:12:47.989 --> 00:12:47.999 align:start position:0%
+commissioner district number one,
+ 
+
+00:12:47.999 --> 00:12:49.989 align:start position:0%
+commissioner district number one,
+Thurston<00:12:48.399><c> public</c><00:12:48.899><c> utility</c><00:12:49.399><c> district</c>
+
+00:12:49.989 --> 00:12:49.999 align:start position:0%
+Thurston public utility district
+ 
+
+00:12:49.999 --> 00:12:52.089 align:start position:0%
+Thurston public utility district
+commissioner<00:12:50.399><c> district</c><00:12:50.699><c> number</c><00:12:50.899><c> three,</c>
+
+00:12:52.089 --> 00:12:52.099 align:start position:0%
+commissioner district number three,
+ 
+
+00:12:52.099 --> 00:12:54.189 align:start position:0%
+commissioner district number three,
+West<00:12:52.399><c> Thurston</c><00:12:53.099><c> regional</c><00:12:53.499><c> fire</c><00:12:53.699><c> authority</c>
+
+00:12:54.189 --> 00:12:54.199 align:start position:0%
+West Thurston regional fire authority
+ 
+
+00:12:54.199 --> 00:12:56.089 align:start position:0%
+West Thurston regional fire authority
+Little<00:12:54.499><c> Rock</c><00:12:54.899><c> position</c><00:12:55.399><c> proposition</c><00:12:55.899><c> number</c>
+
+00:12:56.089 --> 00:12:56.099 align:start position:0%
+Little Rock position proposition number
+ 
+
+00:12:56.099 --> 00:12:59.289 align:start position:0%
+Little Rock position proposition number
+one,<00:12:56.799><c> and</c><00:12:56.899><c> West</c><00:12:57.199><c> Thurston</c><00:12:58.099><c> regional</c><00:12:58.499><c> fire</c>
+
+00:12:59.289 --> 00:12:59.299 align:start position:0%
+one, and West Thurston regional fire
+ 
+
+00:12:59.299 --> 00:13:01.389 align:start position:0%
+one, and West Thurston regional fire
+authority<00:13:00.099><c> Rochester</c><00:13:00.899><c> proposition</c><00:13:01.299><c> number</c>
+
+00:13:01.389 --> 00:13:01.399 align:start position:0%
+authority Rochester proposition number
+ 
+
+00:13:01.399 --> 00:13:41.689 align:start position:0%
+authority Rochester proposition number
+one.
+
+00:13:41.689 --> 00:13:41.699 align:start position:0%
+ 
+ 
+
+00:13:41.699 --> 00:13:43.789 align:start position:0%
+ 
+Thurston<00:13:41.999><c> County</c><00:13:42.499><c> contest</c><00:13:43.099><c> is</c>
+
+00:13:43.789 --> 00:13:43.799 align:start position:0%
+Thurston County contest is
+ 
+
+00:13:43.799 --> 00:13:44.989 align:start position:0%
+Thurston County contest is
+&gt;&gt; Thurston<00:13:44.099><c> County</c><00:13:44.399><c> sheriff.</c>
+
+00:13:44.989 --> 00:13:44.999 align:start position:0%
+&gt;&gt; Thurston County sheriff.
+ 
+
+00:13:44.999 --> 00:13:46.989 align:start position:0%
+&gt;&gt; Thurston County sheriff.
+&gt;&gt; County<00:13:45.299><c> sheriff.</c>
+
+00:13:46.989 --> 00:13:46.999 align:start position:0%
+&gt;&gt; County sheriff.
+ 
+
+00:13:46.999 --> 00:13:48.489 align:start position:0%
+&gt;&gt; County sheriff.
+Wonderful.
+
+00:13:48.489 --> 00:13:48.499 align:start position:0%
+Wonderful.
+ 
+
+00:13:48.499 --> 00:13:50.189 align:start position:0%
+Wonderful.
+Okay,<00:13:48.899><c> and</c><00:13:48.999><c> last</c><00:13:49.199><c> but</c><00:13:49.399><c> not</c><00:13:49.499><c> least,</c><00:13:49.899><c> we</c><00:13:49.999><c> have</c>
+
+00:13:50.189 --> 00:13:50.199 align:start position:0%
+Okay, and last but not least, we have
+ 
+
+00:13:50.199 --> 00:13:53.489 align:start position:0%
+Okay, and last but not least, we have
+Whatcom<00:13:50.699><c> County.</c>
+
+00:13:53.489 --> 00:13:53.499 align:start position:0%
+ 
+ 
+
+00:13:53.499 --> 00:13:54.689 align:start position:0%
+ 
+Going<00:13:53.599><c> back</c><00:13:53.799><c> to</c><00:13:53.899><c> yellow</c><00:13:54.099><c> again</c><00:13:54.299><c> for</c><00:13:54.499><c> Whatcom</c>
+
+00:13:54.689 --> 00:13:54.699 align:start position:0%
+Going back to yellow again for Whatcom
+ 
+
+00:13:54.699 --> 00:13:56.389 align:start position:0%
+Going back to yellow again for Whatcom
+County.
+
+00:13:56.389 --> 00:13:56.399 align:start position:0%
+County.
+ 
+
+00:13:56.399 --> 00:13:58.689 align:start position:0%
+County.
+Here<00:13:56.499><c> we</c><00:13:56.599><c> are.</c>
+
+00:13:58.689 --> 00:13:58.699 align:start position:0%
+Here we are.
+ 
+
+00:13:58.699 --> 00:14:00.689 align:start position:0%
+Here we are.
+Slips.
+
+00:14:00.689 --> 00:14:00.699 align:start position:0%
+Slips.
+ 
+
+00:14:00.699 --> 00:14:01.889 align:start position:0%
+Slips.
+So,<00:14:00.899><c> for</c>
+
+00:14:01.889 --> 00:14:01.899 align:start position:0%
+So, for
+ 
+
+00:14:01.899 --> 00:14:04.689 align:start position:0%
+So, for
+for<00:14:02.099><c> Whatcom</c><00:14:02.339><c> [laughter]</c><00:14:02.399><c> County</c>
+
+00:14:04.689 --> 00:14:04.699 align:start position:0%
+ 
+ 
+
+00:14:04.699 --> 00:14:06.589 align:start position:0%
+ 
+Greens<00:14:05.099><c> are</c><00:14:05.199><c> all</c><00:14:05.399><c> out.</c><00:14:05.499><c> Okay,</c><00:14:05.699><c> good.</c>
+
+00:14:06.589 --> 00:14:06.599 align:start position:0%
+Greens are all out. Okay, good.
+ 
+
+00:14:06.599 --> 00:14:09.089 align:start position:0%
+Greens are all out. Okay, good.
+So,<00:14:07.399><c> for</c><00:14:07.499><c> Whatcom</c><00:14:07.799><c> County,</c><00:14:08.299><c> we</c><00:14:08.599><c> are</c><00:14:08.699><c> choosing</c>
+
+00:14:09.089 --> 00:14:09.099 align:start position:0%
+So, for Whatcom County, we are choosing
+ 
+
+00:14:09.099 --> 00:14:11.289 align:start position:0%
+So, for Whatcom County, we are choosing
+from<00:14:09.199><c> between</c><00:14:10.299><c> city</c><00:14:10.599><c> of</c><00:14:10.799><c> Bellingham</c>
+
+00:14:11.289 --> 00:14:11.299 align:start position:0%
+from between city of Bellingham
+ 
+
+00:14:11.299 --> 00:14:14.691 align:start position:0%
+from between city of Bellingham
+initiative<00:14:11.899><c> 26</c><00:14:12.699><c> 01,</c><00:14:13.799><c> city</c><00:14:13.999><c> of</c><00:14:14.099><c> Bellingham</c>
+
+00:14:14.691 --> 00:14:14.701 align:start position:0%
+initiative 26 01, city of Bellingham
+ 
+
+00:14:14.701 --> 00:14:17.091 align:start position:0%
+initiative 26 01, city of Bellingham
+proposition
+
+00:14:17.091 --> 00:14:17.101 align:start position:0%
+proposition
+ 
+
+00:14:17.101 --> 00:14:20.391 align:start position:0%
+proposition
+06<00:14:18.101><c> City</c><00:14:18.301><c> of</c><00:14:18.401><c> Bellingham</c><00:14:18.901><c> proposition</c><00:14:19.601><c> 2026</c>
+
+00:14:20.391 --> 00:14:20.401 align:start position:0%
+06 City of Bellingham proposition 2026
+ 
+
+00:14:20.401 --> 00:14:21.591 align:start position:0%
+06 City of Bellingham proposition 2026
+07
+
+00:14:21.591 --> 00:14:21.601 align:start position:0%
+07
+ 
+
+00:14:21.601 --> 00:14:24.991 align:start position:0%
+07
+City<00:14:21.901><c> of</c><00:14:21.901><c> Lynden</c><00:14:22.701><c> proposition</c><00:14:23.201><c> 2026</c><00:14:24.101><c> 05</c><00:14:24.701><c> levy</c>
+
+00:14:24.991 --> 00:14:25.001 align:start position:0%
+City of Lynden proposition 2026 05 levy
+ 
+
+00:14:25.001 --> 00:14:26.291 align:start position:0%
+City of Lynden proposition 2026 05 levy
+lid<00:14:25.201><c> lift</c>
+
+00:14:26.291 --> 00:14:26.301 align:start position:0%
+lid lift
+ 
+
+00:14:26.301 --> 00:14:28.291 align:start position:0%
+lid lift
+Legislative<00:14:26.801><c> District</c><00:14:27.201><c> 42</c><00:14:27.801><c> state</c><00:14:28.201><c> rep</c>
+
+00:14:28.291 --> 00:14:28.301 align:start position:0%
+Legislative District 42 state rep
+ 
+
+00:14:28.301 --> 00:14:29.991 align:start position:0%
+Legislative District 42 state rep
+position<00:14:28.901><c> one</c>
+
+00:14:29.991 --> 00:14:30.001 align:start position:0%
+position one
+ 
+
+00:14:30.001 --> 00:14:32.091 align:start position:0%
+position one
+Legislative<00:14:30.501><c> District</c><00:14:30.901><c> 42</c><00:14:31.501><c> state</c><00:14:31.901><c> rep</c>
+
+00:14:32.091 --> 00:14:32.101 align:start position:0%
+Legislative District 42 state rep
+ 
+
+00:14:32.101 --> 00:14:33.691 align:start position:0%
+Legislative District 42 state rep
+position<00:14:32.501><c> two</c>
+
+00:14:33.691 --> 00:14:33.701 align:start position:0%
+position two
+ 
+
+00:14:33.701 --> 00:14:37.191 align:start position:0%
+position two
+Legislative<00:14:34.301><c> District</c><00:14:34.601><c> 42</c><00:14:35.101><c> state</c><00:14:35.401><c> senator</c>
+
+00:14:37.191 --> 00:14:37.201 align:start position:0%
+Legislative District 42 state senator
+ 
+
+00:14:37.201 --> 00:14:38.791 align:start position:0%
+Legislative District 42 state senator
+Port<00:14:37.301><c> of</c><00:14:37.401><c> Bellingham</c><00:14:38.001><c> commissioner</c><00:14:38.401><c> district</c>
+
+00:14:38.791 --> 00:14:38.801 align:start position:0%
+Port of Bellingham commissioner district
+ 
+
+00:14:38.801 --> 00:14:40.191 align:start position:0%
+Port of Bellingham commissioner district
+four
+
+00:14:40.191 --> 00:14:40.201 align:start position:0%
+four
+ 
+
+00:14:40.201 --> 00:14:41.691 align:start position:0%
+four
+Port<00:14:40.401><c> of</c><00:14:40.501><c> Bellingham</c><00:14:41.001><c> commissioner</c><00:14:41.401><c> district</c>
+
+00:14:41.691 --> 00:14:41.701 align:start position:0%
+Port of Bellingham commissioner district
+ 
+
+00:14:41.701 --> 00:14:42.891 align:start position:0%
+Port of Bellingham commissioner district
+five
+
+00:14:42.891 --> 00:14:42.901 align:start position:0%
+five
+ 
+
+00:14:42.901 --> 00:14:44.591 align:start position:0%
+five
+public<00:14:43.101><c> utility</c><00:14:43.601><c> district</c><00:14:43.901><c> number</c><00:14:44.101><c> one</c>
+
+00:14:44.591 --> 00:14:44.601 align:start position:0%
+public utility district number one
+ 
+
+00:14:44.601 --> 00:14:46.491 align:start position:0%
+public utility district number one
+commissioner<00:14:45.001><c> district</c><00:14:45.501><c> one</c>
+
+00:14:46.491 --> 00:14:46.501 align:start position:0%
+commissioner district one
+ 
+
+00:14:46.501 --> 00:15:32.991 align:start position:0%
+commissioner district one
+and<00:14:46.701><c> Whatcom</c><00:14:47.001><c> County</c><00:14:47.301><c> prosecuting</c><00:14:47.901><c> attorney</c>
+
+00:15:32.991 --> 00:15:33.001 align:start position:0%
+ 
+ 
+
+00:15:33.001 --> 00:15:34.791 align:start position:0%
+ 
+And<00:15:33.101><c> the</c><00:15:33.301><c> contest</c><00:15:33.801><c> selected</c><00:15:34.301><c> for</c><00:15:34.501><c> Whatcom</c>
+
+00:15:34.791 --> 00:15:34.801 align:start position:0%
+And the contest selected for Whatcom
+ 
+
+00:15:34.801 --> 00:15:37.691 align:start position:0%
+And the contest selected for Whatcom
+County<00:15:35.201><c> is</c>
+
+00:15:37.691 --> 00:15:37.701 align:start position:0%
+County is
+ 
+
+00:15:37.701 --> 00:15:41.491 align:start position:0%
+County is
+&gt;&gt; City<00:15:37.901><c> of</c><00:15:38.001><c> Bellingham</c><00:15:38.501><c> proposition</c><00:15:39.201><c> 2026</c><00:15:40.101><c> 06</c>
+
+00:15:41.491 --> 00:15:41.501 align:start position:0%
+&gt;&gt; City of Bellingham proposition 2026 06
+ 
+
+00:15:41.501 --> 00:15:44.591 align:start position:0%
+&gt;&gt; City of Bellingham proposition 2026 06
+&gt;&gt; Okay,<00:15:42.001><c> perfect.</c><00:15:43.101><c> All</c><00:15:43.301><c> right.</c>
+
+00:15:44.591 --> 00:15:44.601 align:start position:0%
+&gt;&gt; Okay, perfect. All right.
+ 
+
+00:15:44.601 --> 00:15:46.191 align:start position:0%
+&gt;&gt; Okay, perfect. All right.
+So<00:15:44.701><c> just</c><00:15:44.901><c> to</c><00:15:45.001><c> read</c><00:15:45.101><c> those</c><00:15:45.301><c> back,</c><00:15:45.601><c> the</c><00:15:45.701><c> contest</c>
+
+00:15:46.191 --> 00:15:46.201 align:start position:0%
+So just to read those back, the contest
+ 
+
+00:15:46.201 --> 00:15:48.491 align:start position:0%
+So just to read those back, the contest
+selected<00:15:46.601><c> for</c><00:15:46.801><c> the</c><00:15:47.301><c> statewide</c><00:15:47.901><c> random</c><00:15:48.201><c> ballot</c>
+
+00:15:48.491 --> 00:15:48.501 align:start position:0%
+selected for the statewide random ballot
+ 
+
+00:15:48.501 --> 00:15:50.491 align:start position:0%
+selected for the statewide random ballot
+audit<00:15:48.901><c> will</c><00:15:49.001><c> be</c><00:15:49.701><c> Supreme</c><00:15:50.001><c> Court</c><00:15:50.201><c> Justice</c>
+
+00:15:50.491 --> 00:15:50.501 align:start position:0%
+audit will be Supreme Court Justice
+ 
+
+00:15:50.501 --> 00:15:51.991 align:start position:0%
+audit will be Supreme Court Justice
+position<00:15:50.901><c> seven.</c>
+
+00:15:51.991 --> 00:15:52.001 align:start position:0%
+position seven.
+ 
+
+00:15:52.001 --> 00:15:53.791 align:start position:0%
+position seven.
+Um<00:15:52.301><c> the</c><00:15:52.401><c> congressional</c><00:15:52.901><c> district</c><00:15:53.301><c> chosen</c><00:15:53.601><c> for</c>
+
+00:15:53.791 --> 00:15:53.801 align:start position:0%
+Um the congressional district chosen for
+ 
+
+00:15:53.801 --> 00:15:55.591 align:start position:0%
+Um the congressional district chosen for
+audit<00:15:54.101><c> is</c><00:15:54.201><c> congressional</c><00:15:54.701><c> district</c><00:15:55.101><c> one</c><00:15:55.401><c> US</c>
+
+00:15:55.591 --> 00:15:55.601 align:start position:0%
+audit is congressional district one US
+ 
+
+00:15:55.601 --> 00:15:57.091 align:start position:0%
+audit is congressional district one US
+representative.
+
+00:15:57.091 --> 00:15:57.101 align:start position:0%
+representative.
+ 
+
+00:15:57.101 --> 00:15:59.491 align:start position:0%
+representative.
+Uh<00:15:57.201><c> for</c><00:15:57.401><c> Kitsap</c><00:15:57.801><c> County,</c><00:15:58.001><c> their</c><00:15:58.901><c> their</c><00:15:59.201><c> random</c>
+
+00:15:59.491 --> 00:15:59.501 align:start position:0%
+Uh for Kitsap County, their their random
+ 
+
+00:15:59.501 --> 00:16:00.991 align:start position:0%
+Uh for Kitsap County, their their random
+ballot<00:15:59.801><c> audit</c><00:16:00.101><c> will</c><00:16:00.201><c> be</c><00:16:00.501><c> for</c><00:16:00.601><c> the</c><00:16:00.701><c> Kitsap</c>
+
+00:16:00.991 --> 00:16:01.001 align:start position:0%
+ballot audit will be for the Kitsap
+ 
+
+00:16:01.001 --> 00:16:02.991 align:start position:0%
+ballot audit will be for the Kitsap
+County<00:16:01.201><c> prosecuting</c><00:16:01.701><c> attorney.</c>
+
+00:16:02.991 --> 00:16:03.001 align:start position:0%
+County prosecuting attorney.
+ 
+
+00:16:03.001 --> 00:16:04.891 align:start position:0%
+County prosecuting attorney.
+For<00:16:03.101><c> Spokane</c><00:16:03.601><c> County,</c>
+
+00:16:04.891 --> 00:16:04.901 align:start position:0%
+For Spokane County,
+ 
+
+00:16:04.901 --> 00:16:06.391 align:start position:0%
+For Spokane County,
+they<00:16:05.001><c> will</c><00:16:05.201><c> be</c><00:16:05.501><c> conducting</c><00:16:05.901><c> an</c><00:16:06.001><c> audit</c><00:16:06.201><c> on</c>
+
+00:16:06.391 --> 00:16:06.401 align:start position:0%
+they will be conducting an audit on
+ 
+
+00:16:06.401 --> 00:16:07.891 align:start position:0%
+they will be conducting an audit on
+Legislative<00:16:06.901><c> District</c><00:16:07.301><c> six</c><00:16:07.701><c> state</c>
+
+00:16:07.891 --> 00:16:07.901 align:start position:0%
+Legislative District six state
+ 
+
+00:16:07.901 --> 00:16:09.991 align:start position:0%
+Legislative District six state
+representative<00:16:08.401><c> position</c><00:16:08.801><c> two.</c>
+
+00:16:09.991 --> 00:16:10.001 align:start position:0%
+representative position two.
+ 
+
+00:16:10.001 --> 00:16:11.691 align:start position:0%
+representative position two.
+Thurston<00:16:10.301><c> County</c><00:16:10.601><c> will</c><00:16:10.701><c> be</c><00:16:10.901><c> auditing</c><00:16:11.501><c> the</c>
+
+00:16:11.691 --> 00:16:11.701 align:start position:0%
+Thurston County will be auditing the
+ 
+
+00:16:11.701 --> 00:16:13.691 align:start position:0%
+Thurston County will be auditing the
+Thurston<00:16:12.001><c> County</c><00:16:12.201><c> sheriff</c><00:16:12.601><c> contest</c><00:16:13.501><c> and</c>
+
+00:16:13.691 --> 00:16:13.701 align:start position:0%
+Thurston County sheriff contest and
+ 
+
+00:16:13.701 --> 00:16:15.491 align:start position:0%
+Thurston County sheriff contest and
+Whatcom<00:16:14.001><c> County</c><00:16:14.301><c> will</c><00:16:14.501><c> be</c><00:16:14.601><c> auditing</c><00:16:15.101><c> City</c><00:16:15.401><c> of</c>
+
+00:16:15.491 --> 00:16:15.501 align:start position:0%
+Whatcom County will be auditing City of
+ 
+
+00:16:15.501 --> 00:16:19.292 align:start position:0%
+Whatcom County will be auditing City of
+Bellingham<00:16:16.001><c> proposition</c><00:16:16.701><c> 2026</c><00:16:17.701><c> 06</c>
+
+00:16:19.292 --> 00:16:19.302 align:start position:0%
+Bellingham proposition 2026 06
+ 
+
+00:16:19.302 --> 00:16:22.492 align:start position:0%
+Bellingham proposition 2026 06
+Okay.<00:16:19.902><c> That</c><00:16:20.002><c> concludes</c><00:16:20.502><c> our</c><00:16:20.902><c> random</c><00:16:21.302><c> seed</c><00:16:22.002><c> uh</c>
+
+00:16:22.492 --> 00:16:22.502 align:start position:0%
+Okay. That concludes our random seed uh
+ 
+
+00:16:22.502 --> 00:16:24.392 align:start position:0%
+Okay. That concludes our random seed uh
+dice<00:16:22.702><c> roll</c><00:16:23.002><c> and</c><00:16:23.302><c> contest</c><00:16:23.602><c> selection</c><00:16:24.102><c> for</c><00:16:24.302><c> the</c>
+
+00:16:24.392 --> 00:16:24.402 align:start position:0%
+dice roll and contest selection for the
+ 
+
+00:16:24.402 --> 00:16:28.602 align:start position:0%
+dice roll and contest selection for the
+2026<00:16:24.902><c> general</c><00:16:25.202><c> election.</c><00:16:26.202><c> Thank</c><00:16:26.402><c> you.</c>
+

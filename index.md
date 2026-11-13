@@ -23,6 +23,8 @@ or watch an audit in person.
 - **[News](news.md)**: articles and official posts about the 2026 audits, tagged by state.
 - **[Help wanted](help-wanted.md)**: confirmations, records requests and observations that need
   a person.
+- **[Transparency](transparency.md)**: what keeps independent observers from the evidence, how we get around it,
+  and advice for observers and states.
 
 ## Why capture before the draw?
 

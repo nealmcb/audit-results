@@ -15,5 +15,7 @@ manifests, cast vote records or batch tallies, and no hashes of them. Publishing
 their hashes, before the dice are rolled would show that they could not have been adjusted once the
 sample was known.
 
-Wanted: the seed as posted on the audit page, to confirm it; Arlo's list of counties and batches;
-and the manifests and results when published.
+The Department posted the same seed on its audit page between 18:02 and 18:57 UTC, with the eight
+counties Arlo chose: Allegheny, Bucks, Delaware, Lancaster, Luzerne, Montgomery, Somerset and Tioga.
+
+Wanted: Arlo's list of batches for each county, and the manifests and results when published.

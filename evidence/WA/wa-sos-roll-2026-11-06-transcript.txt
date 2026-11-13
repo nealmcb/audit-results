@@ -1,0 +1,304 @@
+ 0:05.2 23:02:14Z  Good afternoon. It is 3:00 p.m. Friday,
+ 0:05.2 23:02:14Z  November 6, 2026 and we are here at the
+ 0:07.9 23:02:16Z  Washington Secretary of State Elections
+ 0:09.5 23:02:18Z  Division conducting the random seed dice
+ 0:11.8 23:02:20Z  roll for random ballot audits conducted
+ 0:13.9 23:02:22Z  for the 2026 general election.
+ 0:16.5 23:02:25Z  We will roll 20 10-sided dice one at a
+ 0:19.0 23:02:28Z  time to generate a random number string
+ 0:21.3 23:02:30Z  which our audit software will use to
+ 0:23.2 23:02:32Z  select individual ballots for audit.
+ 0:25.6 23:02:34Z  The random seed will be used for all
+ 0:27.1 23:02:36Z  random ballot audits conducted for this
+ 0:28.7 23:02:37Z  election.
+ 0:30.2 23:02:39Z  The random seed will be published on our
+ 0:31.5 23:02:40Z  website at sos.wa.gov/elections
+ 0:35.2 23:02:44Z  in the data and research section. Okay,
+ 0:37.5 23:02:46Z  please begin rolling.
+ 0:42.0 23:02:50Z  >> Zero.
+ 0:42.0 23:02:51Z  >> Zero.
+ 0:48.8 23:02:57Z  >> Four.
+ 0:48.8 23:02:57Z  >> Four.
+ 0:53.9 23:03:02Z  >> Nine.
+ 0:53.9 23:03:02Z  >> Nine.
+ 0:58.8 23:03:07Z  >> One.
+ 0:58.8 23:03:07Z  >> One.
+ 1:03.6 23:03:12Z  >> Two.
+ 1:03.6 23:03:12Z  >> Two.
+ 1:08.4 23:03:17Z  >> Nine.
+ 1:08.4 23:03:17Z  >> Nine.
+ 1:13.5 23:03:22Z  >> Three.
+ 1:13.5 23:03:22Z  >> Three.
+ 1:18.6 23:03:27Z  >> Seven.
+ 1:18.6 23:03:27Z  >> Seven.
+ 1:23.2 23:03:32Z  >> Eight.
+ 1:23.2 23:03:32Z  >> Eight.
+ 1:27.8 23:03:36Z  >> Six.
+ 1:27.8 23:03:36Z  >> Six.
+ 1:32.3 23:03:41Z  >> Five.
+ 1:32.3 23:03:41Z  >> Five.
+ 1:36.7 23:03:45Z  >> Six.
+ 1:36.7 23:03:45Z  >> Six.
+ 1:41.3 23:03:50Z  >> Zero.
+ 1:41.3 23:03:50Z  >> Zero.
+ 1:45.5 23:03:54Z  >> Two.
+ 1:45.5 23:03:54Z  >> Two.
+ 1:49.9 23:03:58Z  >> Six.
+ 1:49.9 23:03:58Z  >> Six.
+ 1:54.0 23:04:02Z  >> Zero.
+ 1:54.0 23:04:03Z  >> Zero.
+ 1:58.4 23:04:07Z  >> Six.
+ 1:58.4 23:04:07Z  >> Six.
+ 2:03.1 23:04:12Z  >> Seven.
+ 2:03.1 23:04:12Z  >> Seven.
+ 2:07.7 23:04:16Z  >> Four.
+ 2:07.7 23:04:16Z  >> Four.
+ 2:11.5 23:04:20Z  >> Seven.
+ 2:11.5 23:04:20Z  >> Seven.
+ 2:13.2 23:04:22Z  Okay, and I'm going to read those
+ 2:14.2 23:04:23Z  numbers back.
+ 2:15.5 23:04:24Z  Uh, 0 4 [snorts] 9 1 2
+ 2:19.4 23:04:28Z  9 3 7 8 6
+ 2:22.7 23:04:31Z  5 6 0 2 6
+ 2:26.0 23:04:34Z  0 6 7 4 7.
+ 2:28.4 23:04:37Z  >> Yes.
+ 2:29.0 23:04:37Z  >> Thank you. Okay, that concludes the
+ 2:31.3 23:04:40Z  random seed dice roll for the 2026
+ 2:33.3 23:04:42Z  general election.
+ 2:35.6 23:04:44Z  Thank you very much.
+ 2:37.3 23:04:46Z  Okay, and now we're going to get started
+ 2:38.5 23:04:47Z  with our um random contest lot draw for
+ 2:41.2 23:04:50Z  the 2026 general election random ballot
+ 2:43.8 23:04:52Z  audits. The audit will be conducted on
+ 2:45.6 23:04:54Z  November 19th.
+ 2:47.3 23:04:56Z  Uh, so all 39 counties will participate
+ 2:49.4 23:04:58Z  in statewide audit. Um, we will also be
+ 2:52.4 23:05:01Z  conducting an an audit of a
+ 2:54.1 23:05:03Z  congressional race which will be
+ 2:55.7 23:05:04Z  selected at random.
+ 3:00.7 23:05:09Z  And so first we're going to draw the
+ 3:00.7 23:05:09Z  statewide contest. I think we have that
+ 3:02.3 23:05:11Z  ready. So
+ 3:05.5 23:05:14Z  we're still cutting out slips, getting
+ 3:07.1 23:05:16Z  everything else ready.
+ 3:12.6 23:05:21Z  So what we're going to do now,
+ 3:12.6 23:05:21Z  I'm going to have you assist me with
+ 3:13.7 23:05:22Z  this please, is that we're going to put
+ 3:15.6 23:05:24Z  these contests labeled all for all
+ 3:18.2 23:05:27Z  counties
+ 3:19.3 23:05:28Z  in the green and white capsules.
+ 3:24.7 23:05:33Z  I'm going to re-list that while that's
+ 3:24.7 23:05:33Z  going on so that it uh
+ 3:26.5 23:05:35Z  contest that we might be pulling for
+ 3:28.7 23:05:37Z  this statewide audit would be initiative
+ 3:31.0 23:05:39Z  measure number IL 26001
+ 3:34.5 23:05:43Z  initiative number number IL 26638
+ 3:37.6 23:05:46Z  and initiative measure number IP 26645
+ 3:42.0 23:05:50Z  as well as Supreme Court Justice
+ 3:43.7 23:05:52Z  position one, position three, position
+ 3:46.6 23:05:55Z  four, position five, and position seven.
+ 3:50.0 23:05:58Z  So one of those 10 races.
+ 4:08.0 23:06:16Z  >> Or should not drop those? Right in this
+ 4:08.0 23:06:16Z  guy. I was about to ask. How do you love
+ 4:10.4 23:06:19Z  this? Okay, I'm right in here.
+ 4:13.1 23:06:22Z  I'll hold it while you fold.
+ 4:19.7 23:06:28Z  So, can we use this?
+ 4:19.7 23:06:28Z  10 for the state one. 10 Oh, no, sorry,
+ 4:22.1 23:06:31Z  eight is eight. You're correct.
+ 4:24.1 23:06:33Z  Sorry, I don't think I have the right
+ 4:25.4 23:06:34Z  number of No, that was my math not my
+ 4:27.8 23:06:36Z  math wrong. Three initiatives, five
+ 4:30.0 23:06:38Z  Supreme Court races, so that is eight
+ 4:31.7 23:06:40Z  not
+ 4:36.7 23:06:45Z  See if it's too fewer slips that we need
+ 4:36.7 23:06:45Z  to fold right down.
+ 4:52.9 23:07:01Z  Yeah, okay. That is
+ 4:52.9 23:07:01Z  our eighth and final slip
+ 4:59.9 23:07:08Z  into capsule
+ 4:59.9 23:07:08Z  into the cage.
+ 5:17.2 23:07:26Z  AND
+ 5:17.2 23:07:26Z  THERE WE GO. IF YOU WOULDN'T BE SO KIND
+ 5:18.8 23:07:27Z  as to
+ 5:20.4 23:07:29Z  draw one out for us.
+ 5:28.5 23:07:37Z  >> [clears throat]
+ 5:28.5 23:07:37Z  >> All your comments are being recorded for
+ 5:30.0 23:07:38Z  posterity.
+ 5:30.9 23:07:39Z  >> I know.
+ 5:32.1 23:07:41Z  Uh, Supreme Court Justice position
+ 5:34.0 23:07:42Z  seven. Position number seven. [laughter]
+ 5:35.4 23:07:44Z  Okay, great. That will be our statewide
+ 5:37.8 23:07:46Z  contest.
+ 5:39.5 23:07:48Z  Okay, now we're going to take all these
+ 5:41.0 23:07:49Z  out.
+ 6:00.4 23:08:09Z  Okay. Now we're going to choose the
+ 6:00.4 23:08:09Z  congressional contest.
+ 6:48.4 23:08:57Z  For this for this drawing, we're going
+ 6:48.4 23:08:57Z  to be choosing
+ 6:50.0 23:08:58Z  uh any of the congressional regions
+ 6:51.2 23:09:00Z  except for congressional district five,
+ 6:53.3 23:09:02Z  which is actually too close right now
+ 6:55.6 23:09:04Z  for us to
+ 6:57.7 23:09:06Z  really be able to do an audit of K.
+ 7:00.5 23:09:09Z  The sample size is awfully large.
+ 7:05.8 23:09:14Z  We omit anything that has a chance of
+ 7:05.8 23:09:14Z  potentially being recount territory.
+ 7:09.5 23:09:18Z  With as many outstanding ballots as we
+ 7:11.7 23:09:20Z  have, that one could get close, sir.
+ 7:44.0 23:09:52Z  We have chosen
+ 7:44.0 23:09:52Z  ba-da-ba-da-pam-pam-pam.
+ 7:46.2 23:09:55Z  >> Congressional district one.
+ 7:48.1 23:09:57Z  >> Congressional district one. All right.
+ 7:51.5 23:10:00Z  Number one.
+ 7:54.1 23:10:03Z  Put that on the pile. Okay. So, we're
+ 7:55.7 23:10:04Z  going to take all the yellows out now,
+ 7:56.8 23:10:05Z  please.
+ 7:58.6 23:10:07Z  We'll switch back over to green, I mean,
+ 8:00.1 23:10:09Z  while we're while LS empties the
+ 8:02.1 23:10:11Z  yellows.
+ 8:04.5 23:10:13Z  And we can load in uh our next county,
+ 8:06.9 23:10:15Z  which County.
+ 8:19.0 23:10:27Z  >> The east, and thank you.
+ 8:19.0 23:10:27Z  >> Okay. For Kitsap County, the the
+ 8:21.5 23:10:30Z  contests that we may be choosing from
+ 8:23.4 23:10:32Z  are Kitsap County Clerk,
+ 8:25.3 23:10:34Z  Kitsap County Commissioner District 3,
+ 8:27.6 23:10:36Z  Kitsap County Prosecuting Attorney,
+ 8:30.4 23:10:39Z  Kitsap County Sheriff,
+ 8:32.3 23:10:41Z  Legislative District 23 State
+ 8:34.5 23:10:43Z  Representative Position 2,
+ 8:36.5 23:10:45Z  and Public Utility District Number 1
+ 8:38.6 23:10:47Z  Proposition Number 1.
+ 9:24.6 23:11:33Z  Draw master Emily has chosen
+ 9:24.6 23:11:33Z  >> Kitsap County Prosecuting Attorney.
+ 9:26.2 23:11:35Z  >> Kitsap County Prosecuting Attorney.
+ 9:37.1 23:11:46Z  Okay. Next up, we will do
+ 9:37.1 23:11:46Z  Spokane. Alphabetically, Spokane is
+ 9:39.1 23:11:48Z  next.
+ 9:41.1 23:11:50Z  This is a long one. We got a lot of
+ 9:42.0 23:11:50Z  capsules for this one. They have a lot
+ 9:43.4 23:11:52Z  of issues on their ballots.
+ 9:45.3 23:11:54Z  >> Go back to yellows?
+ 9:46.0 23:11:54Z  >> Yeah, let's go back to yellows. We can
+ 9:47.6 23:11:56Z  That way we can keep alternating and we
+ 9:48.9 23:11:57Z  won't accidentally
+10:13.1 23:12:22Z  So, for Spokane County, the contests
+10:13.1 23:12:22Z  that we've identified that are suitable
+10:15.0 23:12:23Z  for audit are East Valley School
+10:17.1 23:12:26Z  District, proposition number one.
+10:19.2 23:12:28Z  Fire District number three, proposition
+10:20.8 23:12:29Z  number one.
+10:21.9 23:12:30Z  Fire District number nine, proposition
+10:23.5 23:12:32Z  number one.
+10:24.7 23:12:33Z  Fire District number nine, proposition
+10:26.2 23:12:35Z  number two.
+10:27.7 23:12:36Z  Legislative District three, state
+10:29.6 23:12:38Z  representative position one.
+10:32.4 23:12:41Z  Legislative District three, state
+10:33.9 23:12:42Z  representative
+10:35.5 23:12:44Z  position two.
+10:37.1 23:12:46Z  Legislative District four, state rep
+10:38.8 23:12:47Z  position one.
+10:40.3 23:12:49Z  Legislative four,
+10:42.1 23:12:51Z  state rep position two. Legislative six,
+10:45.3 23:12:54Z  state rep position one. Legislative six,
+10:47.8 23:12:56Z  state rep position two.
+10:49.6 23:12:58Z  Spokane County Commissioner District
+10:51.4 23:13:00Z  four.
+10:52.5 23:13:01Z  Spokane County District Court Judge two.
+10:55.9 23:13:04Z  Spokane County District Court Judge
+10:57.7 23:13:06Z  four.
+10:58.9 23:13:07Z  Spokane County Prosecuting Attorney.
+11:01.4 23:13:10Z  Spokane School District 81, proposition
+11:04.0 23:13:12Z  number one.
+11:05.3 23:13:14Z  West Valley School District proposition
+11:06.8 23:13:15Z  number one and West Valley School
+11:08.6 23:13:17Z  District proposition number two.
+11:56.6 23:14:05Z  We have chosen
+11:56.6 23:14:05Z  >> We have Legislative District six,
+11:59.5 23:14:08Z  representative position two.
+12:01.4 23:14:10Z  >> Okay.
+12:03.2 23:14:12Z  Got it.
+12:05.0 23:14:13Z  Okay.
+12:06.3 23:14:15Z  Next up, we'll switch back to green
+12:07.9 23:14:16Z  again and we will do Thurston County
+12:10.5 23:14:19Z  contests.
+12:20.1 23:14:29Z  And this looks like Here we go.
+12:20.1 23:14:29Z  Thank you.
+12:25.3 23:14:34Z  So, for Thurston County, we can we were
+12:25.3 23:14:34Z  going choosing from between fire
+12:27.5 23:14:36Z  protection district number three, Lacey
+12:29.4 23:14:38Z  proposition number one,
+12:31.3 23:14:40Z  legislative district 22 state
+12:33.3 23:14:42Z  representative position one,
+12:35.5 23:14:44Z  legislative district 22 state rep
+12:37.1 23:14:46Z  position two,
+12:38.7 23:14:47Z  Thurston County assessor, Thurston
+12:40.6 23:14:49Z  County commissioner district number
+12:41.7 23:14:50Z  five, Thurston County sheriff,
+12:44.4 23:14:53Z  Thurston public utility district
+12:45.8 23:14:54Z  commissioner district number one,
+12:48.0 23:14:56Z  Thurston public utility district
+12:50.0 23:14:58Z  commissioner district number three,
+12:52.1 23:15:01Z  West Thurston regional fire authority
+12:54.2 23:15:03Z  Little Rock position proposition number
+12:56.1 23:15:05Z  one, and West Thurston regional fire
+12:59.3 23:15:08Z  authority Rochester proposition number
+13:01.4 23:15:10Z  one.
+13:43.8 23:15:52Z  Thurston County contest is
+13:43.8 23:15:52Z  >> Thurston County sheriff.
+13:45.0 23:15:53Z  >> County sheriff.
+13:47.0 23:15:55Z  Wonderful.
+13:48.5 23:15:57Z  Okay, and last but not least, we have
+13:50.2 23:15:59Z  Whatcom County.
+13:54.7 23:16:03Z  Going back to yellow again for Whatcom
+13:54.7 23:16:03Z  County.
+13:56.4 23:16:05Z  Here we are.
+13:58.7 23:16:07Z  Slips.
+14:00.7 23:16:09Z  So, for
+14:01.9 23:16:10Z  for Whatcom [laughter] County
+14:06.6 23:16:15Z  Greens are all out. Okay, good.
+14:06.6 23:16:15Z  So, for Whatcom County, we are choosing
+14:09.1 23:16:18Z  from between city of Bellingham
+14:11.3 23:16:20Z  initiative 26 01, city of Bellingham
+14:14.7 23:16:23Z  proposition
+14:17.1 23:16:26Z  06 City of Bellingham proposition 2026
+14:20.4 23:16:29Z  07
+14:21.6 23:16:30Z  City of Lynden proposition 2026 05 levy
+14:25.0 23:16:34Z  lid lift
+14:26.3 23:16:35Z  Legislative District 42 state rep
+14:28.3 23:16:37Z  position one
+14:30.0 23:16:39Z  Legislative District 42 state rep
+14:32.1 23:16:41Z  position two
+14:33.7 23:16:42Z  Legislative District 42 state senator
+14:37.2 23:16:46Z  Port of Bellingham commissioner district
+14:38.8 23:16:47Z  four
+14:40.2 23:16:49Z  Port of Bellingham commissioner district
+14:41.7 23:16:50Z  five
+14:42.9 23:16:51Z  public utility district number one
+14:44.6 23:16:53Z  commissioner district one
+14:46.5 23:16:55Z  and Whatcom County prosecuting attorney
+15:34.8 23:17:43Z  And the contest selected for Whatcom
+15:34.8 23:17:43Z  County is
+15:37.7 23:17:46Z  >> City of Bellingham proposition 2026 06
+15:41.5 23:17:50Z  >> Okay, perfect. All right.
+15:44.6 23:17:53Z  So just to read those back, the contest
+15:46.2 23:17:55Z  selected for the statewide random ballot
+15:48.5 23:17:57Z  audit will be Supreme Court Justice
+15:50.5 23:17:59Z  position seven.
+15:52.0 23:18:01Z  Um the congressional district chosen for
+15:53.8 23:18:02Z  audit is congressional district one US
+15:55.6 23:18:04Z  representative.
+15:57.1 23:18:06Z  Uh for Kitsap County, their their random
+15:59.5 23:18:08Z  ballot audit will be for the Kitsap
+16:01.0 23:18:10Z  County prosecuting attorney.
+16:03.0 23:18:12Z  For Spokane County,
+16:04.9 23:18:13Z  they will be conducting an audit on
+16:06.4 23:18:15Z  Legislative District six state
+16:07.9 23:18:16Z  representative position two.
+16:10.0 23:18:19Z  Thurston County will be auditing the
+16:11.7 23:18:20Z  Thurston County sheriff contest and
+16:13.7 23:18:22Z  Whatcom County will be auditing City of
+16:15.5 23:18:24Z  Bellingham proposition 2026 06
+16:19.3 23:18:28Z  Okay. That concludes our random seed uh
+16:22.5 23:18:31Z  dice roll and contest selection for the
+16:24.4 23:18:33Z  2026 general election. Thank you.

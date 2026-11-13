@@ -41,7 +41,7 @@ seed, or evidence published before a seed.
 
 - **GA**: County hand counts begin (Fulton: 10 am, Union City); deadline Tue Nov 17, 5 pm. Cobb audits on Nov 13, 16 and 17, and also runs an "Enhanced Audit" that reviews ballot images with independent software. · _official (Fulton, Crawford; [Cobb](https://www.cobbcounty.gov/news/cobb-county-certifies-results-november-3-general-electionspecial-election))_. Fulton's notice says "Thursday, November 13"; Nov 13 is a Friday
 - **GA**: Richmond County (Augusta) RLA starts, 9:00 am, Board of Elections Warehouse, 2029 Lumpkin Rd; observers allowed but may not view ballots. · _official ([Augusta, Nov 5](https://www.augustaga.gov/m/newsflash/Home/Detail/4291))_.
-- **PA**: Department of State RLA dice roll, 12:00 pm ET, livestreamed, with Secretary of the Commonwealth Al Schmidt; staff rolled 10-sided dice for a 20-digit seed; audits the Governor contest. · _news ([WGAL, 11:57 am ET, updated 12:10 pm ET](https://www.wgal.com/article/pennsylvania-general-election-audit-live-dice-roll/74423259): "the livestream has ended")_. Seed 48828428706800623218, from the Department's [recording](https://www.facebook.com/PADepartmentofState/videos/2172973120761958): digits typed from 4:50 to 7:47 into the video, about 17:02:52–17:05:49 UTC if the video's 16:58:02 UTC timestamp marks the stream's start. Not yet on the audit page at 17:14 UTC, nor Arlo's county list
+- **PA**: Department of State RLA dice roll, 12:00 pm ET, livestreamed, with Secretary of the Commonwealth Al Schmidt; staff rolled 10-sided dice for a 20-digit seed; audits the Governor contest. · _news ([WGAL, 11:57 am ET, updated 12:10 pm ET](https://www.wgal.com/article/pennsylvania-general-election-audit-live-dice-roll/74423259): "the livestream has ended")_. Seed 48828428706800623218, from the Department's [recording](https://www.facebook.com/PADepartmentofState/videos/2172973120761958): digits typed from 4:50 to 7:47 into the video, about 17:02:52–17:05:49 UTC if the video's 16:58:02 UTC timestamp marks the stream's start. Posted on the audit page between 18:02 and 18:57 UTC, matching, with Arlo's 8 counties: Allegheny, Bucks, Delaware, Lancaster, Luzerne, Montgomery, Somerset and Tioga
 - **MN**: Houston County review of 2 precincts, 9 am CT, Caledonia; reviews statewide Nov 12–17. · _official (county); computed_. Precincts drawn at county canvasses Nov 6–13
 
 ### by Fri Nov 13
@@ -70,7 +70,7 @@ seed, or evidence published before a seed.
 
 ### Thu Nov 19
 
-- **WA**: County RLAs: Supreme Court Pos. 7 statewide, CD1, and four local contests. · _official_. Seed already rolled Fri Nov 6 (`04912937865602606747`), so the sample can be reproduced now
+- **WA**: County RLAs: Supreme Court Pos. 7 statewide, CD1, and four local contests. · _official_. Seed already rolled Fri Nov 6 (`04912937865602606747`, confirmed in the recording). Reproducing the sample needs the counties' manifests and CVRs, requested from the Elections Division on Nov 13
 
 ### Nov 19–20
 
@@ -112,7 +112,7 @@ seed, or evidence published before a seed.
 | Wed Nov 4 | MI | Procedural-audit precinct and contest selection ("day after the election") | computed (2020 manual) |
 | Wed Nov 4 | WY | SOS tells each county clerk its audited federal and statewide races for the SF 113 hand count (by close of business); every legislative race is also counted | computed (SF 113 § 2(a)) |
 | Nov 4–8 | ND | SOS selects one polling location per county; county audits Nov 9–11 | official |
-| Fri Nov 6 | WA | Public dice roll, seed and contest selection, 3 pm PT, on YouTube | official |
+| Fri Nov 6 | WA | Public dice roll, seed and contest selection, 3 pm PT, on YouTube; the 20 dice were called from about 23:02:50 to 23:04:20 UTC, then the contests were drawn by lot (statewide at about 23:07:41, CD1 at 23:09:55, then the four county contests) | official ([recording](https://youtube.com/live/Jp2coFs32m8), captions) |
 
 </div>
 

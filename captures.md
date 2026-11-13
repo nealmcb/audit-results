@@ -352,6 +352,7 @@ Watched since 2026-11-10T15:16:55Z.
 |---|---|---|
 | 2026-11-10T15:16:55Z | `8b5c2d15bc6ad3d4…` | [20261110T151655Z.html](captures/pa-post-election-audits/20261110T151655Z.html) |
 | 2026-11-10T15:49:43Z | `925987592c687b0b…` | [20261110T154943Z.html](captures/pa-post-election-audits/20261110T154943Z.html) |
+| 2026-11-13T18:57:07Z | `45e60eab24cbfe4c…` | [20261113T185707Z.html](captures/pa-post-election-audits/20261113T185707Z.html) |
 
 ## RI: ri-rla-center
 
