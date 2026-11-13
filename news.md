@@ -8,6 +8,11 @@ title: News
 
 Articles and official posts about post-election audits of the November 3, 2026 general election, newest first, from Google Alerts and our own searches. State tags link to the state pages.
 
+## 2026-11-13
+
+- **[Pennsylvania kicks off 2026 general election audit with live dice roll](https://www.wgal.com/article/pennsylvania-general-election-audit-live-dice-roll/74423259)**, WGAL. The audit was scheduled for noon on Friday, Nov. 13, and will feature Secretary of the Commonwealth Al Schmidt. Department staff rolled 10-sided dice to generate a 20-digit seed number. [PA](states/PA.md)
+- **[Department of State Kick Off Risk-Limiting Audit of 2026 General Election with Livestreamed Dice Roll](https://www.facebook.com/PADepartmentofState/videos/2172973120761958)**, Pennsylvania Department of State (Facebook video). Recording of the Nov 13 dice roll; the seed shown on screen is 48828428706800623218. [PA](states/PA.md)
+
 ## 2026-11-12
 
 - **[Secretary of State Kicks Off Risk-Limiting Audit With Dice Roll Today](https://921wlhr.com/secretary-of-state-kicks-off-risk-limiting-audit-with-dice-roll-today/)**, 92.1 WLHR. The public dice roll to start the selection of batches of ballots to be hand-counted will take place on the South Steps of the State Capitol, beginning at 10AM. [GA](states/GA.md)

@@ -233,6 +233,9 @@ Watched since 2026-11-10T15:17:10Z.
 | 2026-11-13T00:54:24Z | `0d2d73e9f818efb7…` | [20261113T005424Z.html](captures/md-elections-home/20261113T005424Z.html) |
 | 2026-11-13T01:57:34Z | `d46d3b3b15f0879a…` | [20261113T015734Z.html](captures/md-elections-home/20261113T015734Z.html) |
 | 2026-11-13T05:25:50Z | `6f24873f928e615e…` | [20261113T052550Z.html](captures/md-elections-home/20261113T052550Z.html) |
+| 2026-11-13T14:21:58Z | `a333708575cd9f57…` | [20261113T142158Z.html](captures/md-elections-home/20261113T142158Z.html) |
+| 2026-11-13T15:56:34Z | `8be04e602f301b7c…` | [20261113T155634Z.html](captures/md-elections-home/20261113T155634Z.html) |
+| 2026-11-13T16:59:36Z | `7f8bfaa6d6107cab…` | [20261113T165936Z.html](captures/md-elections-home/20261113T165936Z.html) |
 
 ## MD: md-rla-page
 
@@ -275,6 +278,7 @@ Watched since 2026-11-10T15:17:26Z.
 |---|---|---|
 | 2026-11-10T15:17:26Z | `bb0f18dbb597cf1a…` | [20261110T151726Z.html](captures/nc-election-results-releases/20261110T151726Z.html) |
 | 2026-11-10T21:15:18Z | `3b6f76d34bd78e8e…` | [20261110T211518Z.html](captures/nc-election-results-releases/20261110T211518Z.html) |
+| 2026-11-13T16:28:21Z | `94ef572588fec23c…` | [20261113T162821Z.html](captures/nc-election-results-releases/20261113T162821Z.html) |
 
 ## ND: nd-post-election-audits
 
