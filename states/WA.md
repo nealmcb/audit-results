@@ -20,6 +20,30 @@ The Elections Division rolled the seed in public on Friday, November 6, and stre
 gives the stream's start as 23:02:09 UTC), and the read-back of the seed `04912937865602606747`,
 which matches the one posted on the Secretary of State's site.
 
+In the recording (each link starts a couple of seconds before the moment, as the captions lag the
+speech):
+
+- [0:37](https://www.youtube.com/watch?v=Jp2coFs32m8&t=35s) "Please begin rolling"; the first die is
+  called at about 0:42
+- [2:11](https://www.youtube.com/watch?v=Jp2coFs32m8&t=129s) the last die is called
+- [2:13](https://www.youtube.com/watch?v=Jp2coFs32m8&t=131s) the seed is read back
+- [2:38](https://www.youtube.com/watch?v=Jp2coFs32m8&t=156s) the contest draws begin; the statewide
+  candidates are listed at about 3:24
+- [5:28](https://www.youtube.com/watch?v=Jp2coFs32m8&t=326s) the statewide contest is drawn: Supreme
+  Court Justice Position 7
+- [6:00](https://www.youtube.com/watch?v=Jp2coFs32m8&t=358s) the congressional draw begins; District
+  5 is left out at about 6:48
+- [7:44](https://www.youtube.com/watch?v=Jp2coFs32m8&t=462s) Congressional District 1 is drawn
+- [8:19](https://www.youtube.com/watch?v=Jp2coFs32m8&t=497s) Kitsap County's contests are listed;
+  the Prosecuting Attorney is drawn at about 9:24
+- [10:13](https://www.youtube.com/watch?v=Jp2coFs32m8&t=611s) Spokane County's contests are listed;
+  Legislative District 6 is drawn at about 11:56
+- [12:25](https://www.youtube.com/watch?v=Jp2coFs32m8&t=743s) Thurston County's contests are listed;
+  the Sheriff is drawn at about 13:43
+- [14:06](https://www.youtube.com/watch?v=Jp2coFs32m8&t=844s) Whatcom County's contests are listed;
+  City of Bellingham Proposition 2026-06 is drawn at about 15:34
+- [15:57](https://www.youtube.com/watch?v=Jp2coFs32m8&t=955s) the selections are summarized
+
 The contests were then drawn by lot, after the seed was known: the statewide contest from eight
 slips (three initiatives and five Supreme Court positions), the congressional district from all
 districts except the 5th, which was left out as too close to audit, and one contest for each of the

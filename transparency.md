@@ -68,6 +68,8 @@ changes. Our capture tool filters these out.
 - After the roll, check the list of sampled ballots or batches against the seed, and the files
   against any hashes posted.
 - Keep copies of everything, with times, and have them timestamped independently.
+- When writing up a recorded ceremony, link each key moment (first and last die, seed read-back,
+  contest draws) at its offset in the video, so others can watch it for themselves.
 
 ## Advice for states
 
