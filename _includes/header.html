@@ -82,6 +82,9 @@
   .table-scroll td:first-child { white-space: nowrap; }
   .page-content { overflow-wrap: break-word; }
   .page-content a { overflow-wrap: anywhere; }
+  @media screen and (max-width: 600px) {
+    .page-content table { display: block; overflow-x: auto; }
+  }
   .state-bar { display: flex; flex-wrap: wrap; gap: 0.15em 0.6em; font-size: 0.85em; padding-bottom: 0.4em; }
   .state-bar a { font-family: monospace; }
 </style>

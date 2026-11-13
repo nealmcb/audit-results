@@ -12,7 +12,7 @@ title: Pennsylvania
 
 ### Watch now (Nov 10–24)
 
-- **Fri Nov 13**: Department of State RLA dice roll, livestreamed; audits the Governor contest. · _official_. Arlo RLA. No time or livestream link posted as of Nov 10; the page's "Seed Number:" and county list are blank, so captures before and after show when they fill in
+- **Fri Nov 13**: Department of State RLA dice roll, livestreamed, possibly at 12:00 pm ET; audits the Governor contest. · _official (date); unverified (time: Grok cites a Department of State media advisory we have not found; livestream perhaps https://pacast.com/live/dos or the Department's Facebook page)_. Arlo RLA. No time or livestream link posted as of 14:14 UTC Nov 13 (the newsroom's newest item, checked by hand, was from Nov 3); the page's "Seed Number:" and county list are blank, so captures before and after show when they fill in
 
 ### Full calendar, Nov 10 – Jan 2027
 

@@ -16,7 +16,7 @@ or document.
 |---|---|---|
 | GA | Date, time and place of the Secretary of State's RLA kickoff (dice roll), expected Thu Nov 12; if it is livestreamed, the link and the clock time of each roll | Not announced; the SOS site blocks automated fetches; no recordings of earlier kickoffs were found on YouTube |
 | GA | Fulton County's audit start: its notice says "Thursday, November 13", but Nov 13 is a Friday | Fulton elections main office, 404-612-7020 |
-| PA | Time and livestream link for the Department of State's Nov 13 dice roll | The audit page gives the date only |
+| PA | Time and livestream link for the Department of State's Nov 13 dice roll, and the seed and counties once posted. Check the newsroom, https://www.pa.gov/agencies/dos/newsroom, in a browser and save the release when it appears | The audit page gives the date only. The newsroom lists its releases by JavaScript, so our captures can't see them; checked by hand at 14:14 UTC Nov 13, its newest item was from November 3 |
 | MD | Date and time of the RLA "initiation ceremony" (public), and the audited contests | Contests are selected Nov 23; RLAs due Dec 2 |
 | RI | Seed ceremony date and audited contests (risk limit 9%) | Board of Elections page says "to be determined" |
 | TX | Date of the first risk-limiting audit's seed or selection event (SB 827) | Audits Nov 19–20; nothing posted |

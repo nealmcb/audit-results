@@ -51,6 +51,8 @@ WIDTH_JS = (b"<script>document.title = 'page ' + document.documentElement.scroll
             # elements whose own content overflows them (text that can't wrap doesn't widen its
             # box, so compare each element's scrollWidth with its clientWidth), innermost first
             b" [...document.querySelectorAll('body *')].filter(e => !e.closest('.table-scroll') &&"
+            b" ![e, ...(function a(x) { const r = []; while ((x = x.parentElement)) r.push(x); return r; })(e)]"
+            b".some(x => ['auto', 'scroll'].includes(getComputedStyle(x).overflowX)) &&"
             b" e.clientWidth && e.scrollWidth > e.clientWidth + 1 && ![...e.children].some(c =>"
             b" c.clientWidth && c.scrollWidth > c.clientWidth + 1)).slice(0, 3).map(e =>"
             b" ' | too wide: ' + e.tagName + ' ' + (e.textContent || '').trim().slice(0, 50)).join('')"
