@@ -338,6 +338,14 @@ Watched since 2026-11-10T15:17:41Z.
 | 2026-11-10T15:19:17Z | `25a7c134a84187b8…` | [20261110T151917Z.html](captures/or-current-election/20261110T151917Z.html) |
 | 2026-11-10T15:50:27Z | `e260342109130b16…` | [20261110T155027Z.html](captures/or-current-election/20261110T155027Z.html) |
 
+## PA: pa-dos-newsroom
+
+https://www.pa.gov/agencies/dos/newsroom
+
+day-of RLA dice-roll release (Nov 13), with seed and livestream
+
+Not fetched yet.
+
 ## PA: pa-post-election-audits
 
 https://www.pa.gov/en/agencies/vote/elections/post-election-audits.html

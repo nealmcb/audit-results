@@ -208,5 +208,11 @@
   "state": "GA",
   "url": "https://www.claytoncountyga.gov/news/risk-limiting-audit-november-3-2026-general-election/",
   "why": "county RLA notice: starts Nov 12, 12 pm (site may block scripts)"
+ },
+ {
+  "slug": "pa-dos-newsroom",
+  "state": "PA",
+  "url": "https://www.pa.gov/agencies/dos/newsroom",
+  "why": "day-of RLA dice-roll release (Nov 13), with seed and livestream"
  }
 ]

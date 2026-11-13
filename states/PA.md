@@ -21,4 +21,5 @@ title: Pennsylvania
 ## Watched pages
 
 - <https://www.pa.gov/en/agencies/vote/elections/post-election-audits.html> (RLA dice roll Nov 13 (Governor); fetched every 30 minutes; 2 saved copies)
+- <https://www.pa.gov/agencies/dos/newsroom> (day-of RLA dice-roll release (Nov 13), with seed and livestream; not fetched yet; 0 saved copies)
 

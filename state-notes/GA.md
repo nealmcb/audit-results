@@ -52,5 +52,9 @@ teams count each batch, or each half of a split batch, publicly and independentl
 number. Then the machine totals could be published before the audit too, and everyone could follow
 along as the counts come in.
 
-Wanted: the seed, which office was drawn at random and how, and copies of the manifests and batch
-totals once they are published.
+The batch retrieval list, prepared by VotingWorks, sends 601 batches in all 159 counties to be hand
+counted, and shows that the office drawn at random was the Commissioner of Agriculture. A copy is
+in `evidence/GA/`.
+
+Wanted: the seed, how the Commissioner of Agriculture was drawn, and copies of the manifests and
+batch totals once they are published.
