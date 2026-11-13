@@ -1,13 +1,14 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <p>A provisional proposal; errors are likely. Source on GitHub:
-      <a href="https://github.com/nealmcb/audit-results">github.com/nealmcb/audit-results</a>.
+    {%- assign rev = site.github.build_revision | default: "" %}
+    <p>A provisional proposal; errors are likely. Version {{ site.data.version.version | default: site.version }},
+      built {{ site.time | date: "%Y-%m-%d %H:%M UTC" }} from
+      {% if rev != "" -%}
+      <a href="https://github.com/nealmcb/audit-results/commit/{{ rev }}">commit <code>{{ rev | slice: 0, 7 }}</code> on GitHub</a>.
+      {%- else -%}
+      <a href="https://github.com/nealmcb/audit-results">the source on GitHub</a>.
+      {%- endif %}
       Corrections and suggestions are welcome as
       <a href="https://github.com/nealmcb/audit-results/issues">GitHub issues</a>.</p>
-    {%- assign rev = site.github.build_revision | default: "" -%}
-    <p class="site-version">Version {{ site.data.version.version | default: site.version }}, built {{ site.time | date: "%Y-%m-%d %H:%M UTC" }}
-      {%- if rev != "" %} from commit
-      <a href="https://github.com/nealmcb/audit-results/commit/{{ rev }}"><code>{{ rev | slice: 0, 7 }}</code></a>
-      {%- endif %}.</p>
   </div>
 </footer>

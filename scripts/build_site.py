@@ -18,6 +18,7 @@ import collections
 import json
 import pathlib
 import re
+import subprocess
 
 ROOT = pathlib.Path(".")
 STATES = {
@@ -222,19 +223,27 @@ def news_md():
     return "\n".join(out) + "\n"
 
 
-def site_version(by):
-    """FEATURE.N, where FEATURE is _config.yml's "version" (set by hand when a feature changes) and
-    N is 1 plus the number of page copies captured since its "version_since" time, so the version
-    also moves with each data update. Written to _data/version.yml for the footer."""
-    cfg = (ROOT / "_config.yml").read_text()
-    feature = re.search(r'^version:\s*"?([^"\n]+)"?', cfg, re.M).group(1).strip()
-    since = re.search(r'^version_since:\s*"?([^"\n]+)"?', cfg, re.M).group(1).strip()
-    n = 1 + sum(1 for rs in by.values() for r in rs if r.get("file") and r["time"] >= since
-                and (ROOT / r["file"]).exists())
+def git(*args):
+    r = subprocess.run(["git", "-C", str(ROOT), *args], capture_output=True, text=True)
+    return r.stdout.strip() if r.returncode == 0 else ""
+
+
+def site_version(by=None):
+    """FEATURE.N. FEATURE is _config.yml's "version", set by hand when a feature changes. N counts
+    commits since then: those from the commit that set FEATURE through HEAD, plus 1 for the commit
+    about to be made (build_site runs just before committing), so each pushed update bumps N and a
+    new FEATURE restarts it at 1. Written to _data/version.yml for the footer."""
+    feature = re.search(r'^version:\s*"?([^"\n]+)"?', (ROOT / "_config.yml").read_text(), re.M).group(1).strip()
+    committed = re.search(r'^version:\s*"?([^"\n]+)"?', git("show", "HEAD:_config.yml"), re.M)
+    if not committed or committed.group(1).strip() != feature:
+        n = 1  # the commit about to be made sets this feature number
+    else:
+        start = git("log", "-1", "--format=%H", "-S", f'version: "{feature}"', "--", "_config.yml")
+        n = int(git("rev-list", "--count", f"{start}^..HEAD") or 0) + 1 if start else 1
     version = f"{feature}.{n}"
     d = ROOT / "_data"
     d.mkdir(exist_ok=True)
-    (d / "version.yml").write_text(f'version: "{version}"\nfeature: "{feature}"\nsince: "{since}"\n')
+    (d / "version.yml").write_text(f'version: "{version}"\nfeature: "{feature}"\n')
     return version
 
 
