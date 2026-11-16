@@ -24,6 +24,7 @@ import argparse
 import datetime
 import hashlib
 import html
+import html.parser
 import json
 import os
 import pathlib
@@ -118,6 +119,62 @@ NOISE = [
 ]
 
 
+class _ChromeStripper(html.parser.HTMLParser):
+    """Drops site navigation and page chrome: <nav>, <header>, <footer>, and any element whose id or
+    class names a menu (e.g. Washington's <div id="off-canvas"> mobile menu). Site-wide menu edits
+    then don't count as changes to an audit page."""
+    VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "source", "track", "wbr"}
+    CHROME_TAGS = {"nav", "header", "footer"}
+    # whole class or id names only: "off-canvas" is the menu, "off-canvas-wrapper" wraps the page
+    CHROME_NAMES = {"off-canvas", "navbar", "menu", "main-menu", "mega-menu", "breadcrumb",
+                    "breadcrumbs", "site-header", "site-footer", "global-nav", "skip-link"}
+
+    def __init__(self):
+        super().__init__(convert_charrefs=False)
+        self.out, self.skip = [], 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self.VOID:
+            if not self.skip:
+                self.out.append(self.get_starttag_text() or "")
+            return
+        names = {n.lower() for k, v in attrs if k in ("id", "class") and v for n in v.split()}
+        if self.skip or tag in self.CHROME_TAGS or names & self.CHROME_NAMES:
+            self.skip += 1
+            return
+        self.out.append(self.get_starttag_text() or "")
+
+    def handle_endtag(self, tag):
+        if tag in self.VOID:
+            return
+        if self.skip:
+            self.skip -= 1
+            return
+        self.out.append(f"</{tag}>")
+
+    def handle_data(self, d):
+        if not self.skip:
+            self.out.append(d)
+
+    def handle_entityref(self, name):
+        if not self.skip:
+            self.out.append(f"&{name};")
+
+    def handle_charref(self, name):
+        if not self.skip:
+            self.out.append(f"&#{name};")
+
+
+def strip_chrome(s):
+    p = _ChromeStripper()
+    try:
+        p.feed(s)
+        p.close()
+    except Exception:
+        return s  # unparseable: hash the whole page rather than risk losing content
+    return "".join(p.out)
+
+
 def text_hash(body, ctype):
     """Hash of the visible text for HTML pages (so random IDs in markup don't count as changes);
     the raw bytes for everything else."""
@@ -125,6 +182,7 @@ def text_hash(body, ctype):
         return hashlib.sha256(body).hexdigest()
     s = body.decode("utf-8", errors="replace")
     s = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", s)
+    s = strip_chrome(s)
     s = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s))).strip()
     for rx in NOISE:
         s = rx.sub("~", s)
@@ -170,19 +228,21 @@ def is_challenge(code, body, final_url=""):
 def one_round(watch, out, base=None):
     """Fetch every watched page (or, with base, every page that is due under the schedule)."""
     log = out / "log.jsonl"
-    last, history, validators = {}, {}, {}
+    last, history, validators, last_file = {}, {}, {}, {}
     if log.exists():
         for line in log.read_text().splitlines():
             r = json.loads(line)
             history.setdefault(r["slug"], []).append(r)
             if r.get("etag") or r.get("last_modified"):
                 validators[r["slug"]] = (r.get("etag"), r.get("last_modified"))
-            if r.get("text_sha256"):
+            if r.get("file") and (out.parent / r["file"]).exists():
+                last_file[r["slug"]] = (out.parent / r["file"], r.get("content_type") or "")
+            elif r.get("text_sha256") and r["slug"] not in last_file:
                 last[r["slug"]] = r["text_sha256"]
-            elif r.get("file") and (out.parent / r["file"]).exists():
-                # older entries have only the raw hash: derive the text hash from the saved copy
-                f = out.parent / r["file"]
-                last[r["slug"]] = text_hash(f.read_bytes(), r.get("content_type") or "")
+    # Compare against the last saved copy, re-hashed with the current text_hash, so a change in how
+    # pages are hashed (e.g. ignoring navigation) doesn't make every page look changed once.
+    for slug, (f, ctype) in last_file.items():
+        last[slug] = text_hash(f.read_bytes(), ctype)
     with log.open("a") as lf:
         fetched = 0
         for w in watch:
