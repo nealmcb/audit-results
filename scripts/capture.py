@@ -250,7 +250,9 @@ def one_round(watch, out, base=None):
             if base and not is_due(w, history.get(w["slug"], []), base, t):
                 continue
             fetched += 1
-            etag, lastmod = validators.get(w["slug"], (None, None))
+            # "conditional": false in the watchlist turns off If-None-Match/If-Modified-Since for
+            # servers that answer 304 even when the page changed (seen on Colorado's Audit Center)
+            etag, lastmod = validators.get(w["slug"], (None, None)) if w.get("conditional", True) else (None, None)
             body, code, ctype, final, err, new_etag, new_lastmod = fetch(w["url"], etag, lastmod)
             if final and is_challenge_host(final):
                 final = redact_url(final)

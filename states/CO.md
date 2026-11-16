@@ -38,7 +38,9 @@ verification is done.
 
 ## Watched pages
 
-- <https://www.sos.state.co.us/pubs/elections/auditCenter.html> (RLA files: target contests, manifests, CVR hash values, seed (seed Nov 16); fetched regularly; 1 saved copy)
-- <https://www.sos.state.co.us/pubs/elections/RLA/2026/general/riskLimit.html> (risk-limit notice (3%); fetched regularly; 1 saved copy)
+- <https://www.sos.state.co.us/pubs/elections/auditCenter.html> (RLA files: target contests, manifests, CVR hash values, seed (seed Nov 16); fetched regularly; 3 saved copies)
+- <https://www.sos.state.co.us/pubs/elections/RLA/2026/general/riskLimit.html> (risk-limit notice (3%); fetched regularly; 2 saved copies)
 - <https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/2026GeneralRLAContestList.xlsx> (target contests; fetched regularly; 1 saved copy)
+- <https://www.sos.state.co.us/pubs/elections/RLA/2026/general/countyManifest.html> (county ballot manifests; fetched regularly; 1 saved copy)
+- <https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/uploadStatusCountyUploads.csv> (upload status and county data file hash values; fetched regularly; 1 saved copy)
 

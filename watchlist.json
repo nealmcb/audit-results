@@ -223,18 +223,37 @@
   "state": "CO",
   "url": "https://www.sos.state.co.us/pubs/elections/auditCenter.html",
   "why": "RLA files: target contests, manifests, CVR hash values, seed (seed Nov 16)",
-  "hot_until": "2026-11-17T06:00Z"
+  "hot_until": "2026-11-17T06:00Z",
+  "conditional": false
  },
  {
   "slug": "co-rla-2026-general-risk-limit",
   "state": "CO",
   "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/riskLimit.html",
-  "why": "risk-limit notice (3%)"
+  "why": "risk-limit notice (3%)",
+  "conditional": false
  },
  {
   "slug": "co-rla-2026-general-contests",
   "state": "CO",
   "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/2026GeneralRLAContestList.xlsx",
-  "why": "target contests"
+  "why": "target contests",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-county-manifests",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/countyManifest.html",
+  "why": "county ballot manifests",
+  "hot_until": "2026-11-17T06:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-upload-hashes",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/uploadStatusCountyUploads.csv",
+  "why": "upload status and county data file hash values",
+  "hot_until": "2026-11-17T06:00Z",
+  "conditional": false
  }
 ]

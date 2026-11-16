@@ -27,6 +27,8 @@ Watched since 2026-11-13T20:01:55Z.
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
 | 2026-11-13T20:01:55Z | `50cb8ef5c2f78f11…` | [20261113T200155Z.html](captures/co-audit-center/20261113T200155Z.html) |
+| 2026-11-16T16:22:15Z | `966990375f300290…` | [20261116T162215Z.html](captures/co-audit-center/20261116T162215Z.html) |
+| 2026-11-16T16:41:18Z | `2fea7052330a6f4a…` | [20261116T164118Z.html](captures/co-audit-center/20261116T164118Z.html) |
 
 ## CO: co-rla-2026-general-contests
 
@@ -40,6 +42,18 @@ Watched since 2026-11-13T20:01:59Z.
 |---|---|---|
 | 2026-11-13T20:01:59Z | `880cc6b89dd81458…` | [20261113T200159Z.xlsx](captures/co-rla-2026-general-contests/20261113T200159Z.xlsx) |
 
+## CO: co-rla-2026-general-county-manifests
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/countyManifest.html
+
+county ballot manifests
+
+Watched since 2026-11-16T16:40:59Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-16T16:40:59Z | `844762b780ff3f69…` | [20261116T164059Z.html](captures/co-rla-2026-general-county-manifests/20261116T164059Z.html) |
+
 ## CO: co-rla-2026-general-risk-limit
 
 https://www.sos.state.co.us/pubs/elections/RLA/2026/general/riskLimit.html
@@ -51,6 +65,19 @@ Watched since 2026-11-13T20:01:57Z.
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
 | 2026-11-13T20:01:57Z | `c02b1c75cb4eeeb7…` | [20261113T200157Z.html](captures/co-rla-2026-general-risk-limit/20261113T200157Z.html) |
+| 2026-11-16T16:40:17Z | `2759d12f57a78419…` | [20261116T164017Z.html](captures/co-rla-2026-general-risk-limit/20261116T164017Z.html) |
+
+## CO: co-rla-2026-general-upload-hashes
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/uploadStatusCountyUploads.csv
+
+upload status and county data file hash values
+
+Watched since 2026-11-16T16:41:01Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-16T16:41:01Z | `773713f555ed98c8…` | [20261116T164101Z.csv](captures/co-rla-2026-general-upload-hashes/20261116T164101Z.csv) |
 
 ## DC: dc-audit-selections
 
