@@ -41,7 +41,7 @@ seed, or evidence published before a seed.
 
 - **GA**: County hand counts begin (Fulton: 10 am, Union City); deadline Tue Nov 17, 5 pm. Cobb audits on Nov 13, 16 and 17, and also runs an "Enhanced Audit" that reviews ballot images with independent software. · _official (Fulton, Crawford; [Cobb](https://www.cobbcounty.gov/news/cobb-county-certifies-results-november-3-general-electionspecial-election))_. Fulton's notice says "Thursday, November 13"; Nov 13 is a Friday
 - **GA**: Richmond County (Augusta) RLA starts, 9:00 am, Board of Elections Warehouse, 2029 Lumpkin Rd; observers allowed but may not view ballots. · _official ([Augusta, Nov 5](https://www.augustaga.gov/m/newsflash/Home/Detail/4291))_.
-- **PA**: Department of State RLA dice roll, 12:00 pm ET, livestreamed, with Secretary of the Commonwealth Al Schmidt; staff rolled 10-sided dice for a 20-digit seed; audits the Governor contest. · _news ([WGAL, 11:57 am ET, updated 12:10 pm ET](https://www.wgal.com/article/pennsylvania-general-election-audit-live-dice-roll/74423259): "the livestream has ended")_. Seed 48828428706800623218, from the Department's [recording](https://www.facebook.com/PADepartmentofState/videos/2172973120761958): digits typed from 4:50 to 7:47 into the video, about 17:02:52–17:05:49 UTC if the video's 16:58:02 UTC timestamp marks the stream's start. Posted on the audit page between 18:02 and 18:57 UTC, matching, with Arlo's 8 counties: Allegheny, Bucks, Delaware, Lancaster, Luzerne, Montgomery, Somerset and Tioga
+- **PA**: Department of State RLA dice roll, 12:00 pm ET, livestreamed, with Secretary of the Commonwealth Al Schmidt; staff rolled 10-sided dice for a 20-digit seed; audits the Governor contest. · _official ([Department of State release](https://www.pa.gov/agencies/dos/newsroom/risk-limiting-audit-2026-general-election); [recording](https://www.facebook.com/PADepartmentofState/videos/2172973120761958))_. Seed 48828428706800623218, from the Department's [recording](https://www.facebook.com/PADepartmentofState/videos/2172973120761958): digits typed from 4:50 to 7:47 into the video, about 17:02:52–17:05:49 UTC if the video's 16:58:02 UTC timestamp marks the stream's start. Posted on the audit page between 18:02 and 18:57 UTC, matching, with Arlo's 8 counties: Allegheny, Bucks, Delaware, Lancaster, Luzerne, Montgomery, Somerset and Tioga
 - **MN**: Houston County review of 2 precincts, 9 am CT, Caledonia; reviews statewide Nov 12–17. · _official (county); computed_. Precincts drawn at county canvasses Nov 6–13
 
 ### by Fri Nov 13
@@ -135,7 +135,7 @@ seed, or evidence published before a seed.
 | Nov 12 | MD | Provisional canvass, 10 am ET | official | [elections.maryland.gov](https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf) |
 | Nov 12–17 | MN | Post-election reviews (no earlier than Nov 12; done by Nov 17) | computed | [revisor.mn.gov](https://www.revisor.mn.gov/statutes/cite/206.89) |
 | Nov 13 | GA | County hand counts begin; deadline Nov 17, 5 pm ET | official | [fultoncountyga.gov](https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Notice-of-Risk-Limiting-Audit--1132026.pdf) |
-| Nov 13 | PA | DoS RLA dice roll, livestreamed (Governor) | official | [pa.gov](https://www.pa.gov/en/agencies/vote/elections/post-election-audits.html) |
+| Nov 13 | PA | DoS RLA dice roll, livestreamed (Governor); recording on PACast | official | [pacast.com](https://pacast.com/m?p=30256) |
 | Nov 13 | RI | Target contests published (deadline) | computed | [rules.sos.ri.gov](https://rules.sos.ri.gov/Regulations/part/410-20-00-28) |
 | Nov 13 | AL | County canvassing boards select precinct and races, noon (first audit under Act 2026-433; the re-enrolled act does not require random selection) | computed | [alison.legislature.state.al.us](https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB95-enr.pdf) |
 | Nov 13 | FL | Collier County certification and selection of the audit precinct and race, 5:05 pm ET | official | [colliervotes.gov](https://www.colliervotes.gov/DocumentCenter/View/1973/2026-General-Canvassing-Board-Calendar-PDF) |
@@ -162,6 +162,7 @@ seed, or evidence published before a seed.
 | Nov 18 | NY | 3% machine audit complete | computed | [newyork.public.law](https://newyork.public.law/laws/n.y._election_law_section_9-211) |
 | Nov 18 | MA | Clerks' certified returns due (no audit in a non-presidential year) | computed | [malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter54/Section112) |
 | Nov 18 | AK | All ballots counted; review hand count begins by Nov 19 | news; computed | [codes.findlaw.com](https://codes.findlaw.com/ak/title-15-elections/ak-st-sect-15-15-440/) |
+| Nov 19 | PA | Counties finish the batch-comparison RLA of the Governor contest | official | [pa.gov](https://www.pa.gov/agencies/dos/newsroom/risk-limiting-audit-2026-general-election) |
 | Nov 19 | WA | County RLAs | official | [sos.wa.gov](https://www.sos.wa.gov/node/11554) |
 | Nov 19 | AZ | County canvass deadline (hand counts done before it) | official | [azsos.gov](https://azsos.gov/node/876) |
 | Nov 19–20 | TX | Risk-limiting audit (first under SB 827) | official | [sos.texas.gov](https://www.sos.texas.gov/elections/forms/seminar/2026/planning-risk-limiting-audits.pdf) |
@@ -169,6 +170,7 @@ seed, or evidence published before a seed.
 | Nov 20 | ND | State Canvassing Board (deadline) | official | [sos.nd.gov](https://www.sos.nd.gov/sites/www/files/documents/elections/election-candidate-filing-info.pdf) |
 | about Nov 20 | GA | State certification | unverified | — |
 | Nov 21 | DC | Public manual audit begins, 10 am ET (tentative) | official | [dcboe.org](https://www.dcboe.org/getContentAsset/13a662ac-2a85-4d4a-9540-2de88e176abc/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/GE2026_Election-Audit-selections_10022026_FINAL.pdf?language=en) |
+| Nov 23 | PA | Counties certify results to the Department of State | official | [pa.gov](https://www.pa.gov/agencies/dos/newsroom/risk-limiting-audit-2026-general-election) |
 | Nov 23 | MD | RLA parameters set and contests selected | official | [elections.maryland.gov](https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf) |
 | Nov 23 | MI | Board of State Canvassers certifies | computed | [protectdemocracy.org](https://protectdemocracy.org/wp-content/uploads/2026/08/2026-Michigan-Certification-Guide_Final.pdf) |
 | Nov 23 | AZ | State canvass | official | [azsos.gov](https://azsos.gov/node/876) |

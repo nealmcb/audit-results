@@ -6,7 +6,7 @@ title: Captures
 
 # Captures of state audit pages
 
-Each watched page is fetched every 30 minutes. A copy is kept whenever its content changes; the time is when we fetched it (UTC), and the sha256 identifies the exact bytes. Pages marked blocked refuse automated fetches and need a browser capture.
+Each watched page is fetched every 30 minutes until it goes quiet, then less often (at least every 12 hours; pages that refuse automated fetches, once a day). Requests are conditional, so an unchanged page may answer HTTP 304. A copy is kept whenever its content changes; the time is when we fetched it (UTC), and the sha256 identifies the exact bytes. Pages marked blocked refuse automated fetches and need a browser capture.
 
 ## AZ: az-sos-hand-count
 
@@ -108,6 +108,7 @@ Watched since 2026-11-12T05:24:55Z.
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
 | 2026-11-12T05:24:55Z | `d7d6acd24c358fcb…` | [20261112T052455Z.html](captures/ga-forsyth-elections/20261112T052455Z.html) |
+| 2026-11-14T05:42:35Z | `d3b1f504b4df9275…` | [20261114T054235Z.html](captures/ga-forsyth-elections/20261114T054235Z.html) |
 
 ## GA: ga-forsyth-rla-notice
 
@@ -275,6 +276,16 @@ Watched since 2026-11-10T15:17:10Z.
 | 2026-11-13T17:31:07Z | `13d618f18358eaee…` | [20261113T173107Z.html](captures/md-elections-home/20261113T173107Z.html) |
 | 2026-11-13T18:02:39Z | `d2d96c1afe1613ae…` | [20261113T180239Z.html](captures/md-elections-home/20261113T180239Z.html) |
 | 2026-11-13T20:07:45Z | `392abe7797c8bee6…` | [20261113T200745Z.html](captures/md-elections-home/20261113T200745Z.html) |
+| 2026-11-13T20:38:04Z | `9c73ce4756d55438…` | [20261113T203804Z.html](captures/md-elections-home/20261113T203804Z.html) |
+| 2026-11-13T21:08:20Z | `824101c260da5892…` | [20261113T210820Z.html](captures/md-elections-home/20261113T210820Z.html) |
+| 2026-11-13T22:39:05Z | `404b740e36951025…` | [20261113T223905Z.html](captures/md-elections-home/20261113T223905Z.html) |
+| 2026-11-13T23:09:18Z | `cfb776537a27476f…` | [20261113T230918Z.html](captures/md-elections-home/20261113T230918Z.html) |
+| 2026-11-13T23:39:30Z | `28da1da0a89ad4f4…` | [20261113T233930Z.html](captures/md-elections-home/20261113T233930Z.html) |
+| 2026-11-14T01:10:10Z | `93a18cd4ca0dddbc…` | [20261114T011010Z.html](captures/md-elections-home/20261114T011010Z.html) |
+| 2026-11-14T02:40:46Z | `7c49f9c496f0dd05…` | [20261114T024046Z.html](captures/md-elections-home/20261114T024046Z.html) |
+| 2026-11-14T18:32:10Z | `d8158930780c1c09…` | [20261114T183210Z.html](captures/md-elections-home/20261114T183210Z.html) |
+| 2026-11-15T02:05:06Z | `5626f19b1431e03e…` | [20261115T020506Z.html](captures/md-elections-home/20261115T020506Z.html) |
+| 2026-11-16T05:47:15Z | `e5b7c5a9a659bd5f…` | [20261116T054715Z.html](captures/md-elections-home/20261116T054715Z.html) |
 
 ## MD: md-rla-page
 
@@ -559,6 +570,7 @@ Watched since 2026-11-10T15:17:01Z.
 | 2026-11-10T15:49:48Z | `a30566af34c688ce…` | [20261110T154948Z.html](captures/wa-post-election-audits/20261110T154948Z.html) |
 | 2026-11-10T16:33:42Z | `c4486535e1709a97…` | [20261110T163342Z.html](captures/wa-post-election-audits/20261110T163342Z.html) |
 | 2026-11-12T16:30:47Z | `51a03472df9095f6…` | [20261112T163047Z.html](captures/wa-post-election-audits/20261112T163047Z.html) |
+| 2026-11-13T22:08:53Z | `fef3267d9ae50642…` | [20261113T220853Z.html](captures/wa-post-election-audits/20261113T220853Z.html) |
 
 ## WA: wa-rla-2026-general
 
@@ -575,6 +587,7 @@ Watched since 2026-11-10T15:16:58Z.
 | 2026-11-10T15:49:46Z | `41b6307d67b2d0a8…` | [20261110T154946Z.html](captures/wa-rla-2026-general/20261110T154946Z.html) |
 | 2026-11-10T16:33:39Z | `3dadaf838d879de1…` | [20261110T163339Z.html](captures/wa-rla-2026-general/20261110T163339Z.html) |
 | 2026-11-12T16:30:45Z | `2590b1a75eb0a30a…` | [20261112T163045Z.html](captures/wa-rla-2026-general/20261112T163045Z.html) |
+| 2026-11-13T22:08:44Z | `da9d77e13c289a19…` | [20261113T220844Z.html](captures/wa-rla-2026-general/20261113T220844Z.html) |
 
 ## WI: wi-audit-selection
 

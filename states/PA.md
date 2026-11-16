@@ -34,14 +34,16 @@ Wanted: Arlo's list of batches for each county, and the manifests and results wh
 
 ### Watch now (Nov 10–24)
 
-- **Fri Nov 13**: Department of State RLA dice roll, 12:00 pm ET, livestreamed, with Secretary of the Commonwealth Al Schmidt; staff rolled 10-sided dice for a 20-digit seed; audits the Governor contest. · _news ([WGAL, 11:57 am ET, updated 12:10 pm ET](https://www.wgal.com/article/pennsylvania-general-election-audit-live-dice-roll/74423259): "the livestream has ended")_. Seed 48828428706800623218, from the Department's [recording](https://www.facebook.com/PADepartmentofState/videos/2172973120761958): digits typed from 4:50 to 7:47 into the video, about 17:02:52–17:05:49 UTC if the video's 16:58:02 UTC timestamp marks the stream's start. Posted on the audit page between 18:02 and 18:57 UTC, matching, with Arlo's 8 counties: Allegheny, Bucks, Delaware, Lancaster, Luzerne, Montgomery, Somerset and Tioga
+- **Fri Nov 13**: Department of State RLA dice roll, 12:00 pm ET, livestreamed, with Secretary of the Commonwealth Al Schmidt; staff rolled 10-sided dice for a 20-digit seed; audits the Governor contest. · _official ([Department of State release](https://www.pa.gov/agencies/dos/newsroom/risk-limiting-audit-2026-general-election); [recording](https://www.facebook.com/PADepartmentofState/videos/2172973120761958))_. Seed 48828428706800623218, from the Department's [recording](https://www.facebook.com/PADepartmentofState/videos/2172973120761958): digits typed from 4:50 to 7:47 into the video, about 17:02:52–17:05:49 UTC if the video's 16:58:02 UTC timestamp marks the stream's start. Posted on the audit page between 18:02 and 18:57 UTC, matching, with Arlo's 8 counties: Allegheny, Bucks, Delaware, Lancaster, Luzerne, Montgomery, Somerset and Tioga
 
 ### Full calendar, Nov 10 – Jan 2027
 
-- **Nov 13**: DoS RLA dice roll, livestreamed (Governor). · _official_. <https://www.pa.gov/en/agencies/vote/elections/post-election-audits.html>
+- **Nov 13**: DoS RLA dice roll, livestreamed (Governor); recording on PACast. · _official_. <https://pacast.com/m?p=30256>
+- **Nov 19**: Counties finish the batch-comparison RLA of the Governor contest. · _official_. <https://www.pa.gov/agencies/dos/newsroom/risk-limiting-audit-2026-general-election>
+- **Nov 23**: Counties certify results to the Department of State. · _official_. <https://www.pa.gov/agencies/dos/newsroom/risk-limiting-audit-2026-general-election>
 
 ## Watched pages
 
-- <https://www.pa.gov/en/agencies/vote/elections/post-election-audits.html> (RLA dice roll Nov 13 (Governor); fetched every 30 minutes; 3 saved copies)
-- <https://www.pa.gov/agencies/dos/newsroom> (day-of RLA dice-roll release (Nov 13), with seed and livestream; fetched every 30 minutes; 1 saved copy)
+- <https://www.pa.gov/en/agencies/vote/elections/post-election-audits.html> (RLA dice roll Nov 13 (Governor); fetched regularly; 3 saved copies)
+- <https://www.pa.gov/agencies/dos/newsroom> (day-of RLA dice-roll release (Nov 13), with seed and livestream; fetched regularly; 1 saved copy)
 

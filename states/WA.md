@@ -71,6 +71,6 @@ Wanted: the manifests and CVRs for the six audits, their upload times, and Arlo'
 
 ## Watched pages
 
-- <https://www.sos.wa.gov/node/11554> (seed rolled Nov 6; county RLAs Nov 19; fetched every 30 minutes; 5 saved copies)
-- <https://www.sos.wa.gov/elections/data-research/election-technology/post-election-audits> (WA audit index; fetched every 30 minutes; 5 saved copies)
+- <https://www.sos.wa.gov/node/11554> (seed rolled Nov 6; county RLAs Nov 19; fetched regularly; 6 saved copies)
+- <https://www.sos.wa.gov/elections/data-research/election-technology/post-election-audits> (WA audit index; fetched regularly; 6 saved copies)
 
