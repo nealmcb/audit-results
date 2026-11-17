@@ -8,6 +8,23 @@ title: News
 
 Articles and official posts about post-election audits of the November 3, 2026 general election, newest first, from Google Alerts and our own searches. State tags link to the state pages.
 
+## 2026-11-16
+
+- **[State creates random number for post-election audit - 90.5 WESA](https://www.wesanews.org/politics-government/2026-11-15/state-creates-random-number-post-election-audit)**, 90.5 WESA. The next step is a statewide audit considered by election experts to be the gold standard for reviewing voting machine counts. [PA](states/PA.md)
+- **[Department of State begins audit of general election - Times Observer](https://www.timesobserver.com/news/local-news/2026/11/department-of-state-begins-audit-of-general-election/)**, Times Observer. The Department of State began Pennsylvania's statewide risk-limiting election audit (RLA) of the Nov. 3 general election. [PA](states/PA.md)
+
+## 2026-11-14
+
+- **[Department of State Begins Risk-Limiting Audit of 2026 General Election](https://www.pa.gov/agencies/dos/newsroom/risk-limiting-audit-2026-general-election)**, Commonwealth of Pennsylvania. Harrisburg, PA – Today, the Department of State began Pennsylvania's statewide risk-limiting election audit (RLA) of the Nov. [PA](states/PA.md)
+- **[Department of State begins risk-limiting audit of 2026 general election. -](https://pro.stateaffairs.com/pa/press-releases/pa-department-of-state-starts-risk-limiting-audit-of-2026-gubernatorial-election-ballots)**, State Affairs Pro. State Affairs Text of press release. Harrisburg, PA – Today, the Department of State began Pennsylvania's statewide risk-limiting election audit (RLA) of the ... [PA](states/PA.md)
+- **[Secretary of State's Office to perform 20 risk audits following election -](https://www.youtube.com/watch?v=3Xre_qB3wwo)**, YouTube. YouTube Georgia's Secretary of State plans a record 20 risk-limiting audits after last week's election to reassure voters the election was clean and ... [GA](states/GA.md)
+- **[State creates random number for post-election audit - WITF](https://www.witf.org/2026/11/13/state-creates-random-number-for-post-election-audit/)**, WITF. Risk-limiting audits are designed to catch any unseen anomalies in ... [PA](states/PA.md)
+- **[Pennsylvania begins audit of 2026 governor's race - Fox 56](https://fox56.com/news/local/pennsylvania-begins-audit-of-2026-governors-race)**, Fox 56. The governor's race was the only contested statewide contest on the ballot, making it the focus of the risk-limiting audit, the department said. [PA](states/PA.md)
+- **[Georgia election 2026: Secretary of State's Office runs record number of](https://www.youtube.com/watch?v=hvvA42n25TE)**, audits - YouTube. YouTube Georgia Secretary of State Brad Raffensperger is ordering a record 20 risk-limiting audits following the 2026 election, saying the additional ... [GA](states/GA.md)
+- **[Georgia election 2026: Secretary of State's Office runs record number of](https://www.wsbtv.com/news/local/georgia-election-2026-secretary-states-office-runs-record-number-audits/CKIDV7DOEFEOXFLHFCZJKUJZ5U/)**, audits - WSB-TV. WSB-TV A week after a historic election in Georgia, the state's secretary of state announced he would conduct a record 20 risk-limiting audits. [GA](states/GA.md)
+- **[Pennsylvania begins audit of 2026 general election results \| WTAJ \| Your](https://www.wtaj.com/news/regional-news/pennsylvania-begins-audit-of-2026-general-election-results/)**, News Leader. WTAJ Secretary of the Commonwealth Al Schmidt said risk-limiting audits are a scientifically based way to confirm election outcomes and help ensure ... [PA](states/PA.md)
+- **[Georgia election officials to audit midterm results - Atlanta News First](https://www.cbs46.com/2026/11/12/georgia-election-officials-audit-midterm-results/)**, Atlanta News First. True to its name, the routine "risk-limiting audit" is meant to reduce the risk that the wrong winner was called. [GA](states/GA.md)
+
 ## 2026-11-13
 
 - **[Pennsylvania kicks off 2026 general election audit with live dice roll](https://www.wgal.com/article/pennsylvania-general-election-audit-live-dice-roll/74423259)**, WGAL. The audit was scheduled for noon on Friday, Nov. 13, and will feature Secretary of the Commonwealth Al Schmidt. Department staff rolled 10-sided dice to generate a 20-digit seed number. [PA](states/PA.md)
@@ -31,6 +48,10 @@ Articles and official posts about post-election audits of the November 3, 2026 g
 - **[Fremont County assembling audit board to hand count 5 percent of 2026 election ballots, per state statute](https://county10.com/fremont-county-assembling-audit-board-to-hand-count-5-percent-of-2026-election-ballots-per-state-statute/)**, County 10. [WY](states/WY.md)
 - **[North Carolina Begins Post-Election Processes, Final Counting, Auditing](https://www.beaufortcountynow.com/post/41963/north-carolina-begins-post-election-processes-final-counting-auditing.html)**, Eastern NC Now. [NC](states/NC.md)
 - **[Georgia's secretary of state touts vote audits ahead of midterms: 'We audit the fool out of it'](https://www.wsbtv.com/news/local/georgias-secretary-state-touts-vote-audits-ahead-midterms-we-audit-fool-out-it/UCIRZFQHSFGKXBJ3UJS3H5QAHI/)**, WSB-TV. 20 risk-limiting audits for the general election: Governor, Lieutenant Governor, Attorney General, Secretary of State, U.S. Senate, all 14 congressional seats, and one more randomly selected state office. [GA](states/GA.md)
+
+## 2026-11-09
+
+- **[Johnson County hand-counts approx. 125,000 ballots in close-race audit](https://www.kctv5.com/2026/11/09/johnson-county-hand-counts-approx-125000-ballots-close-race-audit/)**, KCTV5. Close-race audit, in addition to the routine post-election audit [KS](states/KS.md)
 
 ## 2026-11-07
 

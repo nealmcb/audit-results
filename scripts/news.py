@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Keep a private log of news about 2026 post-election audits, and publish the items Neal chooses.
+"""Keep a log of news about 2026 post-election audits, and publish it on the site's news page.
 
-Purpose (2026-11-10, revised 2026-11-14): Neal's Google Alerts ("risk-limiting audits", "Verified
+Purpose (2026-11-10, revised 2026-11-16): Neal's Google Alerts ("risk-limiting audits", "Verified
 voting") and our own periodic web searches turn up news about state audits. Every item found goes
-into the private, gitignored log extra-news-log/news.jsonl. The site prefers official sources;
-Neal triages the private log and publishes chosen items with `promote`, which copies them into
-news/news.jsonl, the log scripts/build_site.py renders as news.md. Each line is one JSON object:
-date, title, source, snippet, url, via, states.
+into the private, gitignored log extra-news-log/news.jsonl, and is published by copying it into
+news/news.jsonl, the log scripts/build_site.py renders as news.md and the state pages' "In the
+news" lists. While PUBLISH_ALL is True every new item is published as it is added; once Neal is
+sorting the items, set it to False and publish chosen ones with `promote`. Each line is one JSON
+object: date, title, source, snippet, url, via, states.
 
 Commands:
     # parse a Google Alert email saved as plain text (raw alert files stay out of the repo:
@@ -18,6 +19,9 @@ Commands:
     # list private items not yet published; publish chosen ones by URL (or a unique substring)
     python3 -I scripts/news.py list [--state GA]
     python3 -I scripts/news.py promote URL [URL ...]
+    python3 -I scripts/news.py promote --all
+    # set an item's states (in both logs), e.g. when no state name appears in its title or snippet
+    python3 -I scripts/news.py tag URL PA[,NJ]
 
 States are tagged automatically from state names in the title and snippet; --states adds more.
 """
@@ -29,6 +33,7 @@ import urllib.parse
 
 LOG = pathlib.Path("extra-news-log/news.jsonl")   # private: everything found
 PUBLIC = pathlib.Path("news/news.jsonl")          # published: items Neal promotes
+PUBLISH_ALL = True   # publish every item as it is added, until Neal is sorting them
 STATE_NAMES = {
     "Alabama": "AL", "Alaska": "AK", "Arizona": "AZ", "Arkansas": "AR", "California": "CA",
     "Colorado": "CO", "Connecticut": "CT", "Delaware": "DE", "District of Columbia": "DC",
@@ -69,12 +74,20 @@ def load(log=None):
     return rows, {r["url"] for r in rows}
 
 
-def promote(keys):
+def find(rows, k):
+    """Rows matching k: its exact URL, else any URL containing it."""
+    return [r for r in rows if r["url"] == k] or [r for r in rows if k in r["url"]]
+
+
+def promote(keys=None):
+    """Publish the private items named by keys (URLs or unique substrings), or all unpublished ones."""
     rows, _ = load()
     _, published = load(PUBLIC)
+    if keys is None:
+        keys = [r["url"] for r in rows if r["url"] not in published]
     with PUBLIC.open("a") as f:
         for k in keys:
-            hits = [r for r in rows if r["url"] == k] or [r for r in rows if k in r["url"]]
+            hits = find(rows, k)
             if len(hits) != 1:
                 print(f"? {k}: {len(hits)} matches in the private log")
                 continue
@@ -85,6 +98,20 @@ def promote(keys):
             f.write(json.dumps(r) + "\n")
             published.add(r["url"])
             print(f"+ published: {r['date']} {r['title'][:80]}")
+
+
+def tag(key, states):
+    """Set the states of the item matching key, in both logs."""
+    states = sorted({s.strip().upper() for s in states.split(",") if s.strip()})
+    for log in (LOG, PUBLIC):
+        rows, _ = load(log)
+        hits = find(rows, key)
+        if len(hits) != 1:
+            print(f"? {log}: {len(hits)} matches")
+            continue
+        hits[0]["states"] = states
+        log.write_text("".join(json.dumps(r) + "\n" for r in rows))
+        print(f"{log}: {hits[0]['title'][:70]} -> {','.join(states)}")
 
 
 def unpublished(state=None):
@@ -108,6 +135,8 @@ def append(entries):
             n += 1
             print(f"+ {e['date']} [{','.join(e['states'])}] {e['title'][:90]}")
     print(f"{n} new, {len(entries) - n} already logged")
+    if PUBLISH_ALL and n:
+        promote()
 
 
 def parse_alert(text, date, alert):
@@ -141,12 +170,20 @@ def main():
     b.add_argument("--via", default="web search")
     b.add_argument("--states", default="")
     c = sub.add_parser("promote")
-    c.add_argument("keys", nargs="+")
+    c.add_argument("keys", nargs="*")
+    c.add_argument("--all", action="store_true", help="publish every unpublished item")
+    t = sub.add_parser("tag")
+    t.add_argument("key")
+    t.add_argument("states", help="comma-separated, e.g. PA,NJ")
     d = sub.add_parser("list")
     d.add_argument("--state")
     args = ap.parse_args()
     if args.cmd == "promote":
-        promote(args.keys)
+        if args.all == bool(args.keys):
+            ap.error("promote: give URLs or --all, not both")
+        promote(None if args.all else args.keys)
+    elif args.cmd == "tag":
+        tag(args.key, args.states)
     elif args.cmd == "list":
         unpublished(args.state)
     elif args.cmd == "add-alert":
