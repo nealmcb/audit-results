@@ -15,6 +15,7 @@ Run from the repo root after editing calendar-source.md or after a capture round
     python3 -I scripts/build_site.py
 """
 import collections
+import datetime
 import json
 import pathlib
 import re
@@ -237,6 +238,27 @@ def load_news():
     return [json.loads(l) for l in log.read_text().splitlines()] if log.exists() else []
 
 
+def utc_minute(t):
+    """An article's own timestamp as YYYY-MM-DD HH:MM UTC, or the date alone if it has no time."""
+    try:
+        d = datetime.datetime.fromisoformat(t.replace("Z", "+00:00"))
+    except ValueError:
+        return t[:10]
+    if d.tzinfo is None:
+        return d.strftime("%Y-%m-%d %H:%M") + (" (no time zone)" if len(t) > 10 else "")
+    return d.astimezone(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+
+def news_times(r):
+    """The article's own published time and our fetch time, from `news.py times`. A private copy of
+    what we fetched is kept, not republished; its SHA-256 is in the news log."""
+    c = r.get("copy") or {}
+    if "sha256" not in c:
+        return ""
+    pub = f"Published {utc_minute(c['published'])}; " if c.get("published") else ""
+    return f" _{pub}copy kept {utc_minute(c['fetched'])}._"
+
+
 def news_md():
     rows = load_news()
     out = [front("News"), "# News about the 2026 audits\n",
@@ -248,7 +270,7 @@ def news_md():
         for r in [r for r in rows if r["date"] == date]:
             tags = " ".join(f"[{c}](states/{c}.md)" for c in r["states"])
             snip = f" {r['snippet']}" if r.get("snippet") else ""
-            line = f"- **[{r['title']}]({r['url']})**, {r['source']}.{snip} {tags}".rstrip()
+            line = f"- **[{r['title']}]({r['url']})**, {r['source']}.{snip}{news_times(r)} {tags}".rstrip()
             out.append(line.replace("|", "\\|"))  # a bare | makes kramdown read the line as a table
         out.append("")
     return "\n".join(out) + "\n"

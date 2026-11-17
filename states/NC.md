@@ -16,10 +16,8 @@ title: North Carolina
 
 ### Full calendar, Nov 10 – Jan 2027
 
-_Not yet confirmed by an official source:_
-
-- Nov 13: County canvass, 11 am ET (hand counts done before it). · _news (verified)_. <https://www.wect.com/2026/11/05/north-carolina-election-officials-release-provisional-ballot-counts-after-election/>
-- Nov 24: State Board canvass, 11 am ET. · _news (verified)_. <https://www.wect.com/2026/11/05/north-carolina-election-officials-release-provisional-ballot-counts-after-election/>
+- **Nov 13**: County canvass, 11 am ET (hand counts done before it). · _computed (G.S. 163-182.5(b): 11 am, tenth day after the election)_. <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-182.5.html>
+- **Nov 24**: State Board canvass, 11 am ET. · _computed (G.S. 163-182.5(c): 11 am, the Tuesday three weeks after the election)_. <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-182.5.html>
 
 ## Watched pages
 

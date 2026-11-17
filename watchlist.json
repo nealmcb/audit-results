@@ -303,5 +303,13 @@
   "why": "canonical list of contests and choices",
   "hot_until": "2026-11-25T00:00Z",
   "conditional": false
+ },
+ {
+  "slug": "co-arapahoe-calendar-data",
+  "state": "CO",
+  "url": "https://www.arapahoeco.gov/_assets_/plugins/revizeCalendar/calendar_data_handler.php?webspace=arapahoe&relative_revize_url=//cms2.revize.com&protocol=https:",
+  "why": "county calendar event data: RLA Wed Nov 18, canvass Fri Nov 20 (events 351, 352)",
+  "hot_until": "2026-11-21T00:00Z",
+  "conditional": false
  }
 ]

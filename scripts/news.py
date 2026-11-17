@@ -22,16 +22,32 @@ Commands:
     python3 -I scripts/news.py promote --all
     # set an item's states (in both logs), e.g. when no state name appears in its title or snippet
     python3 -I scripts/news.py tag URL PA[,NJ]
+    # fetch each article not yet copied: save a private copy as evidence, and record our fetch time,
+    # the copy's SHA-256 and the article's own published/modified times (both logs)
+    python3 -I scripts/news.py times [--refetch]
+
+Article copies (`times`, added 2026-11-17 at Neal's request: "save copies as evidence, but don't
+republish them") go to extra-news-log/copies/, which is gitignored and never published. The public
+log carries only the fetch time, published/modified times and the copy's SHA-256, so a commitment
+(scripts/stamp.py) over news/news.jsonl fixes what each article said when we fetched it without
+redistributing the article. Bot-challenge pages (capture.is_challenge) are never saved.
 
 States are tagged automatically from state names in the title and snippet; --states adds more.
 """
 import argparse
+import datetime
+import hashlib
+import html
 import json
 import pathlib
 import re
+import sys
 import urllib.parse
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+
 LOG = pathlib.Path("extra-news-log/news.jsonl")   # private: everything found
+COPIES = pathlib.Path("extra-news-log/copies")    # private: saved copies of the articles
 PUBLIC = pathlib.Path("news/news.jsonl")          # published: items Neal promotes
 PUBLISH_ALL = True   # publish every item as it is added, until Neal is sorting them
 STATE_NAMES = {
@@ -114,6 +130,86 @@ def tag(key, states):
         print(f"{log}: {hits[0]['title'][:70]} -> {','.join(states)}")
 
 
+TIME_KEYS = {
+    "published": ("article:published_time", "datepublished", "og:published_time", "pubdate",
+                  "publishdate", "date", "dc.date", "dc.date.issued", "sailthru.date", "parsely-pub-date"),
+    "modified": ("article:modified_time", "datemodified", "og:updated_time", "lastmod", "last-modified"),
+}
+
+
+def page_times(text):
+    """The article's own published and modified times, from meta tags, JSON-LD or <time datetime>."""
+    found = {}
+    metas = {}
+    for tag in re.findall(r"(?is)<meta\b[^>]*>", text):
+        k = re.search(r'(?i)\b(?:property|name|itemprop)\s*=\s*["\']([^"\']+)', tag)
+        v = re.search(r'(?i)\bcontent\s*=\s*["\']([^"\']+)', tag)
+        if k and v:
+            metas.setdefault(k.group(1).lower(), v.group(1).strip())
+    for blob in re.findall(r'(?is)<script[^>]+application/ld\+json[^>]*>(.*?)</script>', text):
+        for k, key in (("datepublished", "datePublished"), ("datemodified", "dateModified")):
+            m = re.search(rf'"{key}"\s*:\s*"([^"]+)"', blob)
+            if m:
+                metas.setdefault(k, m.group(1))
+    for which, keys in TIME_KEYS.items():
+        for k in keys:
+            if metas.get(k):
+                found[which] = html.unescape(metas[k])
+                break
+    if "published" not in found:
+        m = re.search(r'(?is)<time\b[^>]*\bdatetime\s*=\s*["\']([^"\']+)', text)
+        if m:
+            found["published"] = m.group(1)
+    return found
+
+
+def copy_name(r):
+    host = urllib.parse.urlsplit(r["url"]).netloc.removeprefix("www.")
+    slug = re.sub(r"[^A-Za-z0-9]+", "-", urllib.parse.urlsplit(r["url"]).path).strip("-")[-60:] or "index"
+    return f"{r['date']}_{host}_{slug}"
+
+
+def times(refetch=False):
+    """Fetch each article, save a private copy, record times and hash in both logs."""
+    from capture import fetch, is_challenge
+    rows, _ = load()
+    pub_rows, _ = load(PUBLIC)
+    COPIES.mkdir(parents=True, exist_ok=True)
+    done = {}
+    for r in rows:
+        if r.get("copy") and not refetch:
+            continue
+        now = datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0)
+        body, code, ctype, final, err, _, lastmod = fetch(r["url"])
+        rec = {"fetched": now.isoformat().replace("+00:00", "Z"), "status": code}
+        if err or not body or code != 200:
+            rec["error"] = err or f"HTTP {code}"
+        elif is_challenge(code, body, final or ""):
+            rec["error"] = "blocked by a bot challenge; not saved"
+        else:
+            ext = ".pdf" if "pdf" in (ctype or "") else ".html"
+            f = COPIES / (copy_name(r) + "_" + now.strftime("%Y%m%dT%H%M%SZ") + ext)
+            f.write_bytes(body)
+            rec.update({"sha256": hashlib.sha256(body).hexdigest(), "bytes": len(body), "file": f.name})
+            if final and final != r["url"]:
+                rec["final_url"] = final
+            if lastmod:
+                rec["last_modified_header"] = lastmod
+            if ext == ".html":
+                rec.update(page_times(body.decode("utf-8", errors="replace")))
+        r["copy"] = rec
+        done[r["url"]] = rec
+        print(f"{'ok ' if 'sha256' in rec else 'ERR'} {r['date']} {r['title'][:60]:60} "
+              f"published {rec.get('published', '-')}{'  ' + rec['error'] if 'error' in rec else ''}")
+    LOG.write_text("".join(json.dumps(r) + "\n" for r in rows))
+    # the public log gets the times and hash, not the private file name
+    for r in pub_rows:
+        if r["url"] in done:
+            r["copy"] = {k: v for k, v in done[r["url"]].items() if k != "file"}
+    PUBLIC.write_text("".join(json.dumps(r) + "\n" for r in pub_rows))
+    print(f"{len(done)} fetched; copies in {COPIES}/")
+
+
 def unpublished(state=None):
     rows, _ = load()
     _, published = load(PUBLIC)
@@ -177,6 +273,8 @@ def main():
     t.add_argument("states", help="comma-separated, e.g. PA,NJ")
     d = sub.add_parser("list")
     d.add_argument("--state")
+    tm = sub.add_parser("times")
+    tm.add_argument("--refetch", action="store_true", help="fetch again even if a copy exists")
     args = ap.parse_args()
     if args.cmd == "promote":
         if args.all == bool(args.keys):
@@ -186,6 +284,8 @@ def main():
         tag(args.key, args.states)
     elif args.cmd == "list":
         unpublished(args.state)
+    elif args.cmd == "times":
+        times(args.refetch)
     elif args.cmd == "add-alert":
         append(parse_alert(pathlib.Path(args.file).read_text(), args.date, args.alert))
     else:

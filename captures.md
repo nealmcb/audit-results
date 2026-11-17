@@ -16,6 +16,18 @@ hand count before canvass
 
 Watched since 2026-11-10T15:17:39Z; every fetch has been refused (HTTP 403), so a browser capture is needed.
 
+## CO: co-arapahoe-calendar-data
+
+https://www.arapahoeco.gov/_assets_/plugins/revizeCalendar/calendar_data_handler.php?webspace=arapahoe&relative_revize_url=//cms2.revize.com&protocol=https:
+
+county calendar event data: RLA Wed Nov 18, canvass Fri Nov 20 (events 351, 352)
+
+Watched since 2026-11-17T01:29:58Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-17T01:29:58Z | `cf1fdd85681b27dd…` | [20261117T012958Z.bin](captures/co-arapahoe-calendar-data/20261117T012958Z.bin) |
+
 ## CO: co-audit-center
 
 https://www.sos.state.co.us/pubs/elections/auditCenter.html
