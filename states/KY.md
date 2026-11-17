@@ -12,7 +12,9 @@ title: Kentucky
 
 ### Full calendar, Nov 10 – Jan 2027
 
-- **Nov 10**: County certified results due. · _news_. <https://linknky.com/elections/2026/06/10/ky-general-election-2026-a-timeline/>
+_Not yet confirmed by an official source:_
+
+- Nov 10: County certified results due. · _news_. <https://linknky.com/elections/2026/06/10/ky-general-election-2026-a-timeline/>
 
 ## Watched pages
 

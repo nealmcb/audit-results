@@ -52,3 +52,9 @@ verification is done.
 - <https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/tabulatePlurality.csv> (candidate vote totals summary; fetched regularly; 1 saved copy)
 - <https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/2026GeneralCanonicalList.csv> (canonical list of contests and choices; fetched regularly; 1 saved copy)
 
+## In the news
+
+Articles and posts from the site's [news log](../news.md), newest first. They are leads, not evidence: the dates above rest on official sources where we have them.
+
+- 2026-11-05 · Jefferson County, CO: [Commissioner Zenzinger: Making Your Voice Heard This Election Season](https://www.jeffco.us/m/NewsFlash/Home/Detail/2664)
+

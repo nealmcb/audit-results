@@ -45,3 +45,9 @@ Pages that are images only make up 46 of the report's 87 pages.
 
 None yet. Suggestions welcome.
 
+## In the news
+
+Articles and posts from the site's [news log](../news.md), newest first. They are leads, not evidence: the dates above rest on official sources where we have them.
+
+- 2026-11-06 · New Hampshire Secretary of State: [Audit Report – 2026 State General Election](https://www.sos.nh.gov/sites/g/files/ehbemt561/files/media/media_document/2026-general-election-audit-report.pdf)
+

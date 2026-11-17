@@ -24,3 +24,9 @@ title: Texas
 - <https://www.sos.texas.gov/elections/forms/seminar/2026/planning-risk-limiting-audits.pdf> (first SB 827 RLA Nov 19-20; fetched regularly; 1 saved copy)
 - <https://www.sos.texas.gov/elections/> (RLA seed event notice; blocked to scripts; 0 saved copies)
 
+## In the news
+
+Articles and posts from the site's [news log](../news.md), newest first. They are leads, not evidence: the dates above rest on official sources where we have them.
+
+- 2026-11-10 · Crossroads Today: [Texas post-election audits begin](https://www.crossroadstoday.com/news/texas-post-election-audits-begin/article_56752332-0e54-4f71-a83e-db9741557839.html)
+

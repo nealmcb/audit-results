@@ -47,3 +47,18 @@ Wanted: Arlo's list of batches for each county, and the manifests and results wh
 - <https://www.pa.gov/en/agencies/vote/elections/post-election-audits.html> (RLA dice roll Nov 13 (Governor); fetched regularly; 3 saved copies)
 - <https://www.pa.gov/agencies/dos/newsroom> (day-of RLA dice-roll release (Nov 13), with seed and livestream; fetched regularly; 1 saved copy)
 
+## In the news
+
+Articles and posts from the site's [news log](../news.md), newest first. They are leads, not evidence: the dates above rest on official sources where we have them.
+
+- 2026-11-16 · 90.5 WESA: [State creates random number for post-election audit - 90.5 WESA](https://www.wesanews.org/politics-government/2026-11-15/state-creates-random-number-post-election-audit)
+- 2026-11-16 · Times Observer: [Department of State begins audit of general election - Times Observer](https://www.timesobserver.com/news/local-news/2026/11/department-of-state-begins-audit-of-general-election/)
+- 2026-11-14 · Commonwealth of Pennsylvania: [Department of State Begins Risk-Limiting Audit of 2026 General Election](https://www.pa.gov/agencies/dos/newsroom/risk-limiting-audit-2026-general-election)
+- 2026-11-14 · State Affairs Pro: [Department of State begins risk-limiting audit of 2026 general election. -](https://pro.stateaffairs.com/pa/press-releases/pa-department-of-state-starts-risk-limiting-audit-of-2026-gubernatorial-election-ballots)
+- 2026-11-14 · WITF: [State creates random number for post-election audit - WITF](https://www.witf.org/2026/11/13/state-creates-random-number-for-post-election-audit/)
+- 2026-11-14 · Fox 56: [Pennsylvania begins audit of 2026 governor's race - Fox 56](https://fox56.com/news/local/pennsylvania-begins-audit-of-2026-governors-race)
+- 2026-11-14 · News Leader: [Pennsylvania begins audit of 2026 general election results \| WTAJ \| Your](https://www.wtaj.com/news/regional-news/pennsylvania-begins-audit-of-2026-general-election-results/)
+- 2026-11-13 · WGAL: [Pennsylvania kicks off 2026 general election audit with live dice roll](https://www.wgal.com/article/pennsylvania-general-election-audit-live-dice-roll/74423259)
+- 2026-11-13 · Pennsylvania Department of State (Facebook video): [Department of State Kick Off Risk-Limiting Audit of 2026 General Election with Livestreamed Dice Roll](https://www.facebook.com/PADepartmentofState/videos/2172973120761958)
+- 2026-11-07 · WITF: [Counties to conduct audits and recount before certifying results](https://www.witf.org/2026/11/06/counties-to-conduct-audits-and-recount-before-certifying-results/)
+

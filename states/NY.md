@@ -13,8 +13,11 @@ title: New York
 ### Full calendar, Nov 10 – Jan 2027
 
 - **Nov 18**: 3% machine audit complete. · _computed_. <https://newyork.public.law/laws/n.y._election_law_section_9-211>
-- **about Nov 28**: County certification. · _unverified_. —
-- **Dec 15**: State Board of Canvassers. · _unverified_. —
+
+_Not yet confirmed by an official source:_
+
+- about Nov 28: County certification. · _unverified_. —
+- Dec 15: State Board of Canvassers. · _unverified_. —
 
 ## Watched pages
 

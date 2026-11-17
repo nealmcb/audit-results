@@ -23,3 +23,9 @@ title: Kansas
 - <https://kssos.org/elections/post-election-audit.html> (county audit dates spreadsheet; fetched regularly; 1 saved copy)
 - <https://kssos.org/elections/26elec/2026-General-Election-Post-Election-Audit-Dates.xlsx> (county audit dates; fetched regularly; 1 saved copy)
 
+## In the news
+
+Articles and posts from the site's [news log](../news.md), newest first. They are leads, not evidence: the dates above rest on official sources where we have them.
+
+- 2026-11-09 · KCTV5: [Johnson County hand-counts approx. 125,000 ballots in close-race audit](https://www.kctv5.com/2026/11/09/johnson-county-hand-counts-approx-125000-ballots-close-race-audit/)
+

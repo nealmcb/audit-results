@@ -178,18 +178,19 @@ def state_md(code, rows, watch, by):
     out.append("## 2026 audit dates\n")
     mine = [(s, c) for s, c in rows if code in re.split(r"[ ,]+", c[1])]
     if mine:
-        # A list, not a table: a 4-column table is unreadable on a phone.
-        last = None
-        for s, c in mine:
-            if s != last:
-                out.append(f"### {s}\n" if last is None else f"\n### {s}\n")
-                last = s
-            basis = f" · _{c[3]}_." if len(c) > 3 and c[3] else ""
-            more = f" {linkify(c[4])}" if len(c) > 4 and c[4] else ""
-            ev = linkify(c[2]).rstrip()
-            ev += "" if ev.endswith((".", "?", "!")) else "."
-            out.append(f"- **{c[0]}**: {ev}{basis}{more}")
-        out.append("")
+        # A list, not a table: a 4-column table is unreadable on a phone. In each section, dates with
+        # an official or computed basis come first, in bold; dates known only from news reports,
+        # precedent or unverified sources follow, set back under their own label.
+        for sec in dict.fromkeys(s for s, _ in mine):
+            out.append(f"### {sec}\n")
+            cs = [c for s, c in mine if s == sec]
+            firm = [c for c in cs if is_confirmed(c)]
+            soft = [c for c in cs if not is_confirmed(c)]
+            out += [date_item(c, bold=True) for c in firm]
+            if soft:
+                out.append(("\n" if firm else "") + "_Not yet confirmed by an official source:_\n")
+                out += [date_item(c, bold=False) for c in soft]
+            out.append("")
     else:
         out.append("No 2026 dates found yet.\n")
     ws = [w for w in watch if w["state"] == code]
@@ -206,12 +207,38 @@ def state_md(code, rows, watch, by):
         out.append("")
     else:
         out.append("None yet. Suggestions welcome.\n")
+    news = [r for r in load_news() if code in r["states"]]
+    if news:
+        out.append("## In the news\n")
+        out.append("Articles and posts from the site's [news log](../news.md), newest first. They are "
+                   "leads, not evidence: the dates above rest on official sources where we have them.\n")
+        for r in sorted(news, key=lambda r: r["date"], reverse=True):
+            out.append(f"- {r['date']} · {r['source']}: [{r['title']}]({r['url']})".replace("|", "\\|"))
+        out.append("")
     return "\n".join(out) + "\n"
 
 
-def news_md():
+def is_confirmed(c):
+    """True if a calendar row's basis cites an official source or a date computed from statute."""
+    basis = c[3].lower() if len(c) > 3 else ""
+    return "official" in basis or "computed" in basis
+
+
+def date_item(c, bold):
+    basis = f" · _{c[3]}_." if len(c) > 3 and c[3] else ""
+    more = f" {linkify(c[4])}" if len(c) > 4 and c[4] else ""
+    ev = linkify(c[2]).rstrip()
+    ev += "" if ev.endswith((".", "?", "!")) else "."
+    return f"- {f'**{c[0]}**' if bold else c[0]}: {ev}{basis}{more}"
+
+
+def load_news():
     log = ROOT / "news" / "news.jsonl"
-    rows = [json.loads(l) for l in log.read_text().splitlines()] if log.exists() else []
+    return [json.loads(l) for l in log.read_text().splitlines()] if log.exists() else []
+
+
+def news_md():
+    rows = load_news()
     out = [front("News"), "# News about the 2026 audits\n",
            "Articles and official posts about post-election audits of the November 3, 2026 general "
            "election, newest first, from Google Alerts and our own searches. State tags link to the "

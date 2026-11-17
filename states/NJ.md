@@ -16,7 +16,9 @@ title: New Jersey
 
 ### Full calendar, Nov 10 – Jan 2027
 
-- **about Nov 15–16**: County draws of audit units; audits begin. · _precedent_. <https://www.nj.gov/state/assets/pdf/proposed-rules-changes/2026-nj-election-audit-procedure.pdf>
+_Not yet confirmed by an official source:_
+
+- about Nov 15–16: County draws of audit units; audits begin. · _precedent_. <https://www.nj.gov/state/assets/pdf/proposed-rules-changes/2026-nj-election-audit-procedure.pdf>
 
 ## Watched pages
 

@@ -17,7 +17,10 @@ title: Montana
 ### Full calendar, Nov 10 – Jan 2027
 
 - **Nov 10–12**: State Board of Canvassers dice draw. · _computed_. <https://archive.legmt.gov/bills/MCA/title_0130/chapter_0170/part_0050/section_0050/0130-0170-0050-0050.html>
-- **Nov 17**: County canvass (hand counts done before it). · _unverified_. <https://sosmt.gov/docs/43/counting-canvass-recount-forms/58918/canvass-procedures>
+
+_Not yet confirmed by an official source:_
+
+- Nov 17: County canvass (hand counts done before it). · _unverified_. <https://sosmt.gov/docs/43/counting-canvass-recount-forms/58918/canvass-procedures>
 
 ## Watched pages
 
