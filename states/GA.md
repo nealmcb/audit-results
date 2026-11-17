@@ -96,7 +96,7 @@ batch totals once they are published.
 - <https://www.gwinnettcounty.com/documents/d/gwinnett-county/notice-november-3-general-special-election-risk-limiting-ballot-image-audit?download=true> (county RLA notice: starts Nov 12, 12 pm; fetched regularly; 1 saved copy)
 - <https://forsythco.b-cdn.net/app/uploads/2026/11/Public-Notice-of-RLA-11-03-26-General-General-Election-Special-Elections-UA-1.pdf> (county RLA notice: starts Nov 12, 1 pm; fetched regularly; 1 saved copy)
 - <https://www.forsythco.com/government/departments/voter-registrations-elections/current-upcoming-elections/> (RLA results to be posted here; fetched regularly; 2 saved copies)
-- <https://www.augustaga.gov/m/newsflash/Home/Detail/4291> (county RLA notice: starts Nov 13, 9 am; fetched regularly; 1 saved copy)
+- <https://www.augustaga.gov/m/newsflash/Home/Detail/4291> (county RLA notice: starts Nov 13, 9 am; fetched regularly; 2 saved copies)
 - <https://www.cobbcounty.gov/news/cobb-county-certifies-results-november-3-general-electionspecial-election> (audits Nov 13, 16, 17; enhanced ballot-image audit; fetched regularly; 1 saved copy)
 - <https://www.claytoncountyga.gov/news/risk-limiting-audit-november-3-2026-general-election/> (county RLA notice: starts Nov 12, 12 pm (site may block scripts); blocked to scripts; 0 saved copies)
 

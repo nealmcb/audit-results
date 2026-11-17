@@ -131,37 +131,44 @@ class _ChromeStripper(html.parser.HTMLParser):
 
     def __init__(self):
         super().__init__(convert_charrefs=False)
-        self.out, self.skip = [], 0
+        # while skipping, count only the tag that started the skip: other tags (an <li> or <p> whose
+        # end tag HTML lets you omit) would unbalance a count of all tags and swallow the rest of the page
+        self.out, self.skip_tag, self.skip = [], None, 0
 
     def handle_starttag(self, tag, attrs):
+        if self.skip_tag:
+            if tag == self.skip_tag:
+                self.skip += 1
+            return
         if tag in self.VOID:
-            if not self.skip:
-                self.out.append(self.get_starttag_text() or "")
+            self.out.append(self.get_starttag_text() or "")
             return
         names = {n.lower() for k, v in attrs if k in ("id", "class") and v for n in v.split()}
-        if self.skip or tag in self.CHROME_TAGS or names & self.CHROME_NAMES:
-            self.skip += 1
+        if tag in self.CHROME_TAGS or names & self.CHROME_NAMES:
+            self.skip_tag, self.skip = tag, 1
             return
         self.out.append(self.get_starttag_text() or "")
 
     def handle_endtag(self, tag):
-        if tag in self.VOID:
+        if self.skip_tag:
+            if tag == self.skip_tag:
+                self.skip -= 1
+                if self.skip == 0:
+                    self.skip_tag = None
             return
-        if self.skip:
-            self.skip -= 1
-            return
-        self.out.append(f"</{tag}>")
+        if tag not in self.VOID:
+            self.out.append(f"</{tag}>")
 
     def handle_data(self, d):
-        if not self.skip:
+        if not self.skip_tag:
             self.out.append(d)
 
     def handle_entityref(self, name):
-        if not self.skip:
+        if not self.skip_tag:
             self.out.append(f"&{name};")
 
     def handle_charref(self, name):
-        if not self.skip:
+        if not self.skip_tag:
             self.out.append(f"&#{name};")
 
 

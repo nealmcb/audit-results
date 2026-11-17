@@ -58,11 +58,12 @@ seed, or evidence published before a seed.
 
 ### Mon Nov 16
 
-- **CO**: Public random seed meeting, 10 am MT: at least 20 digits from sequential rolls of a 10-sided die, by members of the public or staff; SOS, 1700 Broadway, Denver, 5th floor Red Rocks Conference Room, and on Zoom; seed posted on the Audit Center right after. · _official ([SOS notice, Nov 9](https://content.govdelivery.com/accounts/COSOS/bulletins/431eddd))_. Citizen observers timestamp the pre-seed data and verify the audit as it happens: a model of what can be achieved ([Citizen Election Verification](https://sites.google.com/view/auditenhancement)); RLA must finish by Tue Nov 24
+- **CO**: Public random seed meeting, 10 am MT: at least 20 digits from sequential rolls of a 10-sided die, by members of the public or staff; SOS, 1700 Broadway, Denver, 5th floor Red Rocks Conference Room, and on Zoom; seed posted on the Audit Center right after. Seed rolled: 38589646444703560910. · _official ([SOS notice, Nov 9](https://content.govdelivery.com/accounts/COSOS/bulletins/431eddd); seed from the [SOS release, Nov 16](https://content.govdelivery.com/accounts/COSOS/bulletins/431c9c8))_. Citizen observers timestamp the pre-seed data and verify the audit as it happens: a model of what can be achieved ([Citizen Election Verification](https://sites.google.com/view/auditenhancement)); RLA must finish by Tue Nov 24
 
 ### Tue Nov 17
 
 - **CO**: Boulder County RLA begins, 10 am, 1750 33rd St, Boulder (RSVP by 5 pm Mon Nov 16); continues Nov 18 if needed; round 2 Thu Nov 19 if needed; canvass board Tue Nov 24, 2 pm, online. · _official ([Boulder County, Nov 11](https://content.govdelivery.com/accounts/COBOULDER/bulletins/4327813))_. Open to the public
+- **CO**: Other county RLA sessions posted on county sites: Adams 9 am (tentative); Broomfield round 1, 9 am, ballot processing area, basement of 1 DesCombes Drive (canvass Fri Nov 20, 9 am); Douglas 9 am–5 pm, Elections Office, 125 Stephanie Place, Castle Rock (canvass board Fri Nov 20, 9 am); Eagle starts Nov 17; Grand Nov 17 (canvass Nov 20). · _official ([Adams](https://adamscountyco.gov/our-county/elected-officials/clerk-recorder/adams-county-elections/2026-elections/important-dates/), [Broomfield](https://broomfield.org/3530/Important-Election-Dates), [Douglas](https://www.douglasco.gov/elections/election-information/), [Eagle](https://www.eaglecounty.us/news_detail_T24_R657.php), [Grand](https://www.co.grand.co.us/147/Elections))_. Found by scanning all 64 county sites on Nov 16; the others give no 2026 date in their HTML pages
 
 ### Mon Nov 16
 
@@ -151,6 +152,7 @@ seed, or evidence published before a seed.
 | Nov 4–12 | KS | County audits (most Nov 5–6; Marshall Nov 12 10 am, Montgomery Nov 12 11 am); county canvass by Nov 16 | official (SOS county table) | [kssos.org](https://kssos.org/elections/post-election-audit.html) |
 | Nov 16 | ND | County canvassing boards (audit reports presented) | official | [sos.nd.gov](https://www.sos.nd.gov/sites/www/files/documents/elections/election-candidate-filing-info.pdf) |
 | Nov 16 | FL | County returns due, noon ET; Marion County audit, 1:30 pm ET | computed; official (snippet) | [votemarion.gov](https://www.votemarion.gov/DocumentCenter/View/579/20261103-General-Election-Canvassing-Ad---Combined-PDF) |
+| Nov 17 | CO | County RLAs begin: Adams, Boulder, Broomfield, Douglas, Eagle, Grand | official | [douglasco.gov](https://www.douglasco.gov/elections/election-information/) |
 | Nov 17 | FL | Elections Canvassing Commission certifies, 8 am ET | computed | [campaignlegal.org](https://campaignlegal.org/sites/default/files/2026-10/2026%20Florida%20Certification%20Guide_Final.pdf) |
 | Nov 17 | GA | County audit deadline, 5 pm ET | official (Fulton) | [fultoncountyga.gov](https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Notice-of-Risk-Limiting-Audit--1132026.pdf) |
 | Nov 17 | MI | County canvass deadline | computed | [protectdemocracy.org](https://protectdemocracy.org/wp-content/uploads/2026/08/2026-Michigan-Certification-Guide_Final.pdf) |

@@ -255,5 +255,53 @@
   "why": "upload status and county data file hash values",
   "hot_until": "2026-11-17T06:00Z",
   "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-seed-release",
+  "state": "CO",
+  "url": "https://content.govdelivery.com/accounts/COSOS/bulletins/431c9c8",
+  "why": "release giving the 20-digit seed rolled Nov 16",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-batch-comparison",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/batchCountComparison.csv",
+  "why": "ballot manifest and CVR batch comparison",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-contests-by-county",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/contestsByCounty.csv",
+  "why": "contest IDs by county",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-county-tallies",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/tabulateCountyPlurality.csv",
+  "why": "candidate vote totals by county",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-tallies",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/tabulatePlurality.csv",
+  "why": "candidate vote totals summary",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-canonical-list",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/2026GeneralCanonicalList.csv",
+  "why": "canonical list of contests and choices",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
  }
 ]
