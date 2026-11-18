@@ -688,6 +688,7 @@ Watched since 2026-11-17T18:48:04Z.
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
 | 2026-11-17T18:48:04Z | `b59f56781b9a49c2…` | [20261117T184804Z.html](captures/tx-sos-rla-release-2026-11-16/20261117T184804Z.html) |
+| 2026-11-18T20:21:13Z | `c90a541c4b978eef…` | [20261118T202113Z.html](captures/tx-sos-rla-release-2026-11-16/20261118T202113Z.html) |
 
 ## VA: va-rla
 

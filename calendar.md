@@ -76,7 +76,7 @@ seed, or evidence published before a seed.
 
 ### Wed Nov 18
 
-- **TX**: Secretary of State generates the RLA's random seed, livestreamed 2:30 pm CT (20:30 UTC) ([YouTube](https://www.youtube.com/live/aPkAeLzbxVg)); the contest audited is U.S. Senate. · _official ([SOS release, Nov 16](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml))_. Texas's first statewide RLA. YouTube shows the start in each viewer's own time zone, e.g. 1:30 pm in Mountain time
+- **TX**: Secretary of State generates the RLA's random seed, livestreamed 2:30 pm CT (20:30 UTC) ([YouTube](https://www.youtube.com/live/aPkAeLzbxVg)); the contest audited is U.S. Senate. Seed: 55781838668306731400 (shown on the livestream as 55781 83866 83067 31400). · _official ([SOS release, Nov 16](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml))_. Texas's first statewide RLA. YouTube shows the start in each viewer's own time zone, e.g. 1:30 pm in Mountain time
 
 ### Thu Nov 19
 
@@ -179,7 +179,7 @@ seed, or evidence published before a seed.
 | Nov 19 | VA | RLA of Congressional District 3 (5 cities), 10 am ET (15:00 UTC), batch comparison | official | [elections.virginia.gov](https://www.elections.virginia.gov/resultsreports/election-security/rla) |
 | Nov 19 | WA | County RLAs | official | [sos.wa.gov](https://www.sos.wa.gov/node/11554) |
 | Nov 19 | AZ | County canvass deadline (hand counts done before it) | official | [azsos.gov](https://azsos.gov/node/876) |
-| Nov 18 | TX | RLA seed generated, 2:30 pm CT (20:30 UTC), livestreamed; U.S. Senate contest | official | [sos.state.tx.us](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml) |
+| Nov 18 | TX | RLA seed generated, 2:30 pm CT (20:30 UTC), livestreamed; U.S. Senate contest; seed 55781838668306731400 | official | [sos.state.tx.us](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml) |
 | Nov 19–20 | TX | Risk-limiting audit (first under SB 827) | official | [sos.texas.gov](https://www.sos.texas.gov/elections/forms/seminar/2026/planning-risk-limiting-audits.pdf) |
 | Nov 20 | FL | Collier County manual audit, 9:00 am ET (14:00 UTC) | official | [colliervotes.gov](https://www.colliervotes.gov/DocumentCenter/View/1973/2026-General-Canvassing-Board-Calendar-PDF) |
 | Nov 20 | ND | State Canvassing Board (deadline) | official | [sos.nd.gov](https://www.sos.nd.gov/sites/www/files/documents/elections/election-candidate-filing-info.pdf) |
