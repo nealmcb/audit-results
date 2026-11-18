@@ -306,7 +306,11 @@ def main():
         print(f"{utcnow().isoformat(timespec='seconds')} round done ({n} of {len(watch)} URLs due)", flush=True)
         if not a.loop or (until and utcnow() >= until):
             break
-        time.sleep(a.loop)
+        # wait by the wall clock in short steps: time.sleep's clock stops while the machine is
+        # suspended, which once delayed a round by the length of the suspend (3 hours, Nov 17-18)
+        wake = utcnow() + datetime.timedelta(seconds=a.loop)
+        while utcnow() < wake:
+            time.sleep(min(60, max(1, (wake - utcnow()).total_seconds())))
 
 
 if __name__ == "__main__":

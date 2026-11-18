@@ -8,6 +8,21 @@ title: News
 
 Articles and official posts about post-election audits of the November 3, 2026 general election, newest first, from Google Alerts and our own searches. State tags link to the state pages.
 
+## 2026-11-18
+
+- **[Texas picks U.S. Senate race for first statewide ballot audit \| FOX 7 Austin](https://www.fox7austin.com/news/texas-picks-senate-race-first-statewide-ballot-audit)**, FOX 7 Austin. Texas' first statewide risk-limiting audit will check results of the Nov. 3 U.S. Senate election. · Randomly selected paper ballots will be compared ... [TX](states/TX.md)
+- **[Paxton, Talarico race picked for audit as Texas adds scrutiny - Yahoo](https://www.yahoo.com/news/politics/articles/paxton-talarico-race-picked-audit-181206042.html)**, Yahoo. The Texas Secretary of State is set to audit the recent U.S. Senate race in the first statewide risk-limiting review following 2021 election laws. [TX](states/TX.md)
+- **[Texas Secretary of State Begins Mandated Election Audits Following Nov. 3 Vote](https://texasborderbusiness.com/texas-secretary-of-state-begins-mandated-election-audits-following-nov-3-vote/)**, Texas Border Business. "The addition of statewide risk-limiting audits is an important milestone for Texas elections," Secretary Howden said. [TX](states/TX.md)
+- **[Texas starts statewide election audits \| Local News \| crossroadstoday.com](https://www.crossroadstoday.com/news/local-news/texas-starts-statewide-election-audits/article_e30d2d8a-efcf-4ae3-bf9b-978993914bc4.html)**, Crossroads Today. The legal requirements for risk-limiting audits come in part from a Senate bill introduced by State Senator Lois Kolkhorst in 2021. On Wednesday, ... [TX](states/TX.md)
+- **[Texas picks U.S. Senate race for first statewide ballot audit - Yahoo](https://www.yahoo.com/news/politics/articles/texas-picks-u-senate-race-185211295.html)**, Yahoo. The Brief. Texas' first statewide risk-limiting audit will check results of the Nov. 3 U.S. Senate election. Randomly selected paper ballots will ... [TX](states/TX.md)
+- **[Cobb County Post-Election Audits Verify November 3 Election Results](https://www.cobbcounty.gov/news/cobb-county-post-election-audits-verify-november-3-election-results)**, Cobb County Government. The Risk-Limiting Audit uses a manual count of randomly selected paper ballots and statistical methods to verify reported election outcomes. For the ... [GA](states/GA.md)
+- **[Lange: Wyoming can restore U.S. confidence in elections \| Guest Column \| wyomingnews.com](http://www.wyomingnews.com/opinion/guest_column/lange-wyoming-can-restore-u-s-confidence-in-elections/article_7a49d75d-9f13-4998-ba7f-a2dd90a01c1e.html)**, Wyoming Tribune Eagle. Ever since the 2020 debacle, Wyoming citizens have been demanding meaningful election audits. [WY](states/WY.md)
+
+## 2026-11-17
+
+- **[State Department conducts risk-limiting audit of the election - Pennsylvania Capital-Star](https://penncapital-star.com/election-2026/state-department-conducts-risk-limiting-audit-of-the-election/)**, Pennsylvania Capital-Star. That's where a random sample of 2% of all ballots, or 2,000 ballots — whichever number is fewer — is selected to audit. Risk-limiting audits must be ... [PA](states/PA.md)
+- **[Texas Secretary of State Initiates Two Audits of the Nov. 3 Election as Prescribed by Law](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml)**, the Texas Secretary of State. This will be the first year for statewide, risk-limiting audits. November 16, 2026. Contact: Alicia Pierce. AUSTIN — As required by law, Texas ... [TX](states/TX.md)
+
 ## 2026-11-16
 
 - **[State creates random number for post-election audit - 90.5 WESA](https://www.wesanews.org/politics-government/2026-11-15/state-creates-random-number-post-election-audit)**, 90.5 WESA. The next step is a statewide audit considered by election experts to be the gold standard for reviewing voting machine counts. _Published 2026-11-15 19:00 (no time zone); copy kept 2026-11-17 01:32 UTC._ [PA](states/PA.md)

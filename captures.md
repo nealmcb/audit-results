@@ -42,6 +42,7 @@ Watched since 2026-11-13T20:01:55Z.
 | 2026-11-16T16:22:15Z | `966990375f300290…` | [20261116T162215Z.html](captures/co-audit-center/20261116T162215Z.html) |
 | 2026-11-16T16:41:18Z | `2fea7052330a6f4a…` | [20261116T164118Z.html](captures/co-audit-center/20261116T164118Z.html) |
 | 2026-11-16T20:58:16Z | `9f06311d8822b161…` | [20261116T205816Z.html](captures/co-audit-center/20261116T205816Z.html) |
+| 2026-11-17T17:49:05Z | `075a3db202f53d10…` | [20261117T174905Z.html](captures/co-audit-center/20261117T174905Z.html) |
 
 ## CO: co-rla-2026-general-batch-comparison
 
@@ -128,6 +129,18 @@ Watched since 2026-11-13T20:01:57Z.
 | 2026-11-13T20:01:57Z | `c02b1c75cb4eeeb7…` | [20261113T200157Z.html](captures/co-rla-2026-general-risk-limit/20261113T200157Z.html) |
 | 2026-11-16T16:40:17Z | `2759d12f57a78419…` | [20261116T164017Z.html](captures/co-rla-2026-general-risk-limit/20261116T164017Z.html) |
 
+## CO: co-rla-2026-general-seed-notice
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/seedNotice.html
+
+notice of random seed, with CORLA version
+
+Watched since 2026-11-17T18:48:02Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-17T18:48:02Z | `fc7dffd727f775eb…` | [20261117T184802Z.html](captures/co-rla-2026-general-seed-notice/20261117T184802Z.html) |
+
 ## CO: co-rla-2026-general-seed-release
 
 https://content.govdelivery.com/accounts/COSOS/bulletins/431c9c8
@@ -196,6 +209,18 @@ Watched since 2026-11-12T05:25:00Z.
 |---|---|---|
 | 2026-11-12T05:25:00Z | `b87ae4a6c0dd4fa1…` | [20261112T052500Z.html](captures/ga-cobb-certification-release/20261112T052500Z.html) |
 
+## GA: ga-cobb-rla-results
+
+https://www.cobbcounty.gov/news/cobb-county-post-election-audits-verify-november-3-election-results
+
+Cobb County release: RLA and ballot image audit results
+
+Watched since 2026-11-18T14:47:58Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-18T14:47:58Z | `7292061a86dd9c0a…` | [20261118T144758Z.html](captures/ga-cobb-rla-results/20261118T144758Z.html) |
+
 ## GA: ga-crawford-rla-notice
 
 https://www.crawfordcountyga.org/notice-risk-limiting-audit-4/
@@ -208,6 +233,8 @@ Watched since 2026-11-10T15:16:52Z.
 |---|---|---|
 | 2026-11-10T15:16:52Z | `f5be44fd89856295…` | [20261110T151652Z.html](captures/ga-crawford-rla-notice/20261110T151652Z.html) |
 | 2026-11-10T15:49:40Z | `40ae8bd725e2ac25…` | [20261110T154940Z.html](captures/ga-crawford-rla-notice/20261110T154940Z.html) |
+| 2026-11-17T19:21:39Z | `c5e5125089c9fbab…` | [20261117T192139Z.html](captures/ga-crawford-rla-notice/20261117T192139Z.html) |
+| 2026-11-17T19:52:33Z | `59c70325e74decf5…` | [20261117T195233Z.html](captures/ga-crawford-rla-notice/20261117T195233Z.html) |
 
 ## GA: ga-forsyth-elections
 
@@ -221,6 +248,7 @@ Watched since 2026-11-12T05:24:55Z.
 |---|---|---|
 | 2026-11-12T05:24:55Z | `d7d6acd24c358fcb…` | [20261112T052455Z.html](captures/ga-forsyth-elections/20261112T052455Z.html) |
 | 2026-11-14T05:42:35Z | `d3b1f504b4df9275…` | [20261114T054235Z.html](captures/ga-forsyth-elections/20261114T054235Z.html) |
+| 2026-11-17T22:26:54Z | `bc137bcbe571ce81…` | [20261117T222654Z.html](captures/ga-forsyth-elections/20261117T222654Z.html) |
 
 ## GA: ga-forsyth-rla-notice
 
@@ -233,6 +261,54 @@ Watched since 2026-11-12T05:24:52Z.
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
 | 2026-11-12T05:24:52Z | `74e1b92fae51225a…` | [20261112T052452Z.pdf](captures/ga-forsyth-rla-notice/20261112T052452Z.pdf) |
+
+## GA: ga-forsyth-rla-results-notice
+
+https://forsythco.b-cdn.net/app/uploads/2026/11/Public-Notice-of-Audit-Results-11-17-2026-with-links-UA-rev.pdf
+
+RLA results notice, posted Nov 17
+
+Watched since 2026-11-17T22:48:10Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-17T22:48:10Z | `b3f02c4a85e242d4…` | [20261117T224810Z.pdf](captures/ga-forsyth-rla-results-notice/20261117T224810Z.pdf) |
+
+## GA: ga-forsyth-rla-tally-bre
+
+https://www.forsythco.com/app/uploads/2026/11/11-03-26-RLA-BRE-selected-Batch-Tally-Sheet-1.pdf
+
+audit board tally sheet, batch chosen by the county board
+
+Watched since 2026-11-17T22:48:17Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-17T22:48:17Z | `3813dc1f07089a93…` | [20261117T224817Z.pdf](captures/ga-forsyth-rla-tally-bre/20261117T224817Z.pdf) |
+
+## GA: ga-forsyth-rla-tally-sos
+
+https://www.forsythco.com/app/uploads/2026/11/11-03-26-RLA.-SOS-selected-Batches-Tally-Sheets.pdf
+
+audit board tally sheets, SOS-selected batches
+
+Watched since 2026-11-17T22:48:15Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-17T22:48:15Z | `62d0fcfba901398a…` | [20261117T224815Z.pdf](captures/ga-forsyth-rla-tally-sos/20261117T224815Z.pdf) |
+
+## GA: ga-forsyth-rla-totals
+
+https://www.forsythco.com/app/uploads/2026/11/11-13-2026-RLA-Totals-of-11-03-26-General-Election-and-Special-Elections.pdf
+
+breakdown of RLA hand-count results
+
+Watched since 2026-11-17T22:48:12Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-17T22:48:12Z | `966b230e992e88dc…` | [20261117T224812Z.pdf](captures/ga-forsyth-rla-totals/20261117T224812Z.pdf) |
 
 ## GA: ga-fulton-rla-notice
 
@@ -343,6 +419,8 @@ Watched since 2026-11-10T15:19:29Z.
 |---|---|---|
 | 2026-11-10T15:19:29Z | `fcfdb66b84834740…` | [20261110T151929Z.html](captures/md-ballot-audit-plan/20261110T151929Z.html) |
 | 2026-11-10T15:50:39Z | `a53fbacfb6d3571d…` | [20261110T155039Z.html](captures/md-ballot-audit-plan/20261110T155039Z.html) |
+| 2026-11-17T18:50:49Z | `83400ec8810d111c…` | [20261117T185049Z.html](captures/md-ballot-audit-plan/20261117T185049Z.html) |
+| 2026-11-17T19:21:57Z | `9858b0ea8c07f733…` | [20261117T192157Z.html](captures/md-ballot-audit-plan/20261117T192157Z.html) |
 
 ## MD: md-elections-home
 
@@ -400,6 +478,10 @@ Watched since 2026-11-10T15:17:10Z.
 | 2026-11-15T02:05:06Z | `5626f19b1431e03e…` | [20261115T020506Z.html](captures/md-elections-home/20261115T020506Z.html) |
 | 2026-11-16T05:47:15Z | `e5b7c5a9a659bd5f…` | [20261116T054715Z.html](captures/md-elections-home/20261116T054715Z.html) |
 | 2026-11-16T21:28:34Z | `97f9d9bb47685f81…` | [20261116T212834Z.html](captures/md-elections-home/20261116T212834Z.html) |
+| 2026-11-17T05:05:55Z | `b6ab5b6a4372d84a…` | [20261117T050555Z.html](captures/md-elections-home/20261117T050555Z.html) |
+| 2026-11-17T20:54:25Z | `dd0edb80e3409584…` | [20261117T205425Z.html](captures/md-elections-home/20261117T205425Z.html) |
+| 2026-11-18T02:50:49Z | `0c07f7ed3e5a808e…` | [20261118T025049Z.html](captures/md-elections-home/20261118T025049Z.html) |
+| 2026-11-18T03:21:50Z | `8b4b3ffb6d9df076…` | [20261118T032150Z.html](captures/md-elections-home/20261118T032150Z.html) |
 
 ## MD: md-rla-page
 
@@ -656,6 +738,18 @@ Watched since 2026-11-10T15:17:03Z.
 |---|---|---|
 | 2026-11-10T15:17:03Z | `973b2503638fa5ae…` | [20261110T151703Z.pdf](captures/tx-rla-planning-deck/20261110T151703Z.pdf) |
 
+## TX: tx-sos-rla-release-2026-11-16
+
+https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml
+
+release: seed generated Nov 18, 2:30 pm CT; U.S. Senate
+
+Watched since 2026-11-17T18:48:04Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-17T18:48:04Z | `b59f56781b9a49c2…` | [20261117T184804Z.html](captures/tx-sos-rla-release-2026-11-16/20261117T184804Z.html) |
+
 ## VA: va-rla
 
 https://www.elections.virginia.gov/resultsreports/election-security/rla
@@ -668,6 +762,7 @@ Watched since 2026-11-10T15:17:14Z.
 |---|---|---|
 | 2026-11-10T15:17:14Z | `38bd7f3df669f778…` | [20261110T151714Z.html](captures/va-rla/20261110T151714Z.html) |
 | 2026-11-13T05:25:55Z | `38bd7f3df669f778…` | [20261113T052555Z.html](captures/va-rla/20261113T052555Z.html) |
+| 2026-11-17T06:37:29Z | `34a154cfeea0bc44…` | [20261117T063729Z.html](captures/va-rla/20261117T063729Z.html) |
 
 ## WA: wa-post-election-audits
 

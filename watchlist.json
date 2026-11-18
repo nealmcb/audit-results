@@ -78,7 +78,8 @@
   "slug": "va-rla",
   "state": "VA",
   "url": "https://www.elections.virginia.gov/resultsreports/election-security/rla",
-  "why": "State Board RLA selection; RLA before Dec 7"
+  "why": "State Board RLA selection; RLA before Dec 7",
+  "hot_until": "2026-11-21T00:00Z"
  },
  {
   "slug": "nv-rla",
@@ -223,7 +224,7 @@
   "state": "CO",
   "url": "https://www.sos.state.co.us/pubs/elections/auditCenter.html",
   "why": "RLA files: target contests, manifests, CVR hash values, seed (seed Nov 16)",
-  "hot_until": "2026-11-17T06:00Z",
+  "hot_until": "2026-11-25T00:00Z",
   "conditional": false
  },
  {
@@ -231,21 +232,23 @@
   "state": "CO",
   "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/riskLimit.html",
   "why": "risk-limit notice (3%)",
-  "conditional": false
+  "conditional": false,
+  "hot_until": "2026-11-25T00:00Z"
  },
  {
   "slug": "co-rla-2026-general-contests",
   "state": "CO",
   "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/2026GeneralRLAContestList.xlsx",
   "why": "target contests",
-  "conditional": false
+  "conditional": false,
+  "hot_until": "2026-11-25T00:00Z"
  },
  {
   "slug": "co-rla-2026-general-county-manifests",
   "state": "CO",
   "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/countyManifest.html",
   "why": "county ballot manifests",
-  "hot_until": "2026-11-17T06:00Z",
+  "hot_until": "2026-11-25T00:00Z",
   "conditional": false
  },
  {
@@ -253,7 +256,7 @@
   "state": "CO",
   "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/uploadStatusCountyUploads.csv",
   "why": "upload status and county data file hash values",
-  "hot_until": "2026-11-17T06:00Z",
+  "hot_until": "2026-11-25T00:00Z",
   "conditional": false
  },
  {
@@ -311,5 +314,49 @@
   "why": "county calendar event data: RLA Wed Nov 18, canvass Fri Nov 20 (events 351, 352)",
   "hot_until": "2026-11-21T00:00Z",
   "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-seed-notice",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/seedNotice.html",
+  "why": "notice of random seed, with CORLA version",
+  "hot_until": "2026-11-25T00:00Z"
+ },
+ {
+  "slug": "tx-sos-rla-release-2026-11-16",
+  "state": "TX",
+  "url": "https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml",
+  "why": "release: seed generated Nov 18, 2:30 pm CT; U.S. Senate",
+  "hot_until": "2026-11-21T00:00Z"
+ },
+ {
+  "slug": "ga-forsyth-rla-results-notice",
+  "state": "GA",
+  "url": "https://forsythco.b-cdn.net/app/uploads/2026/11/Public-Notice-of-Audit-Results-11-17-2026-with-links-UA-rev.pdf",
+  "why": "RLA results notice, posted Nov 17"
+ },
+ {
+  "slug": "ga-forsyth-rla-totals",
+  "state": "GA",
+  "url": "https://www.forsythco.com/app/uploads/2026/11/11-13-2026-RLA-Totals-of-11-03-26-General-Election-and-Special-Elections.pdf",
+  "why": "breakdown of RLA hand-count results"
+ },
+ {
+  "slug": "ga-forsyth-rla-tally-sos",
+  "state": "GA",
+  "url": "https://www.forsythco.com/app/uploads/2026/11/11-03-26-RLA.-SOS-selected-Batches-Tally-Sheets.pdf",
+  "why": "audit board tally sheets, SOS-selected batches"
+ },
+ {
+  "slug": "ga-forsyth-rla-tally-bre",
+  "state": "GA",
+  "url": "https://www.forsythco.com/app/uploads/2026/11/11-03-26-RLA-BRE-selected-Batch-Tally-Sheet-1.pdf",
+  "why": "audit board tally sheet, batch chosen by the county board"
+ },
+ {
+  "slug": "ga-cobb-rla-results",
+  "state": "GA",
+  "url": "https://www.cobbcounty.gov/news/cobb-county-post-election-audits-verify-november-3-election-results",
+  "why": "Cobb County release: RLA and ballot image audit results"
  }
 ]

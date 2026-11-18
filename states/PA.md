@@ -51,6 +51,7 @@ Wanted: Arlo's list of batches for each county, and the manifests and results wh
 
 Articles and posts from the site's [news log](../news.md), newest first. They are leads, not evidence: the dates above rest on official sources where we have them.
 
+- 2026-11-17 · Pennsylvania Capital-Star: [State Department conducts risk-limiting audit of the election - Pennsylvania Capital-Star](https://penncapital-star.com/election-2026/state-department-conducts-risk-limiting-audit-of-the-election/)
 - 2026-11-16 · 90.5 WESA: [State creates random number for post-election audit - 90.5 WESA](https://www.wesanews.org/politics-government/2026-11-15/state-creates-random-number-post-election-audit)
 - 2026-11-16 · Times Observer: [Department of State begins audit of general election - Times Observer](https://www.timesobserver.com/news/local-news/2026/11/department-of-state-begins-audit-of-general-election/)
 - 2026-11-14 · Commonwealth of Pennsylvania: [Department of State Begins Risk-Limiting Audit of 2026 General Election](https://www.pa.gov/agencies/dos/newsroom/risk-limiting-audit-2026-general-election)

@@ -56,5 +56,6 @@ None yet. Suggestions welcome.
 
 Articles and posts from the site's [news log](../news.md), newest first. They are leads, not evidence: the dates above rest on official sources where we have them.
 
+- 2026-11-18 · Wyoming Tribune Eagle: [Lange: Wyoming can restore U.S. confidence in elections \| Guest Column \| wyomingnews.com](http://www.wyomingnews.com/opinion/guest_column/lange-wyoming-can-restore-u-s-confidence-in-elections/article_7a49d75d-9f13-4998-ba7f-a2dd90a01c1e.html)
 - 2026-11-10 · County 10: [Fremont County assembling audit board to hand count 5 percent of 2026 election ballots, per state statute](https://county10.com/fremont-county-assembling-audit-board-to-hand-count-5-percent-of-2026-election-ballots-per-state-statute/)
 
