@@ -76,7 +76,7 @@ seed, or evidence published before a seed.
 
 ### Wed Nov 18
 
-- **TX**: Secretary of State generates the RLA's random seed, livestreamed 2:30 pm CT (20:30 UTC) ([YouTube](https://www.youtube.com/live/aPkAeLzbxVg)); the contest audited is U.S. Senate. Seed: 55781838668306731400 (shown on the livestream as 55781 83866 83067 31400). · _official ([SOS release, Nov 16](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml))_. Texas's first statewide RLA. YouTube shows the start in each viewer's own time zone, e.g. 1:30 pm in Mountain time
+- **TX**: Secretary of State generates the RLA's random seed, livestreamed 2:30 pm CT (20:30 UTC) ([YouTube](https://www.youtube.com/live/aPkAeLzbxVg)); the contest audited is U.S. Senate. Seed: 55781838668306731400 (shown on the livestream as 55781 83866 83067 31400), 20 digits from dice rolls; the audit uses Arlo. · _official ([SOS release, Nov 16](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml))_. Texas's first statewide RLA. YouTube shows the start in each viewer's own time zone, e.g. 1:30 pm in Mountain time
 
 ### Thu Nov 19
 
@@ -85,7 +85,7 @@ seed, or evidence published before a seed.
 
 ### Nov 19–20
 
-- **TX**: First risk-limiting audit under SB 827. · _official (SOS training deck)_.
+- **TX**: First risk-limiting audit under SB 827. · _official (SOS training deck)_. At the seed meeting the Secretary of State said the audit runs over the next few days and a report will be posted on the SOS website after the audit
 
 ### Fri Nov 20
 

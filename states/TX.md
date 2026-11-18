@@ -12,8 +12,8 @@ title: Texas
 
 ### Watch now (Nov 10–24)
 
-- **Wed Nov 18**: Secretary of State generates the RLA's random seed, livestreamed 2:30 pm CT (20:30 UTC) ([YouTube](https://www.youtube.com/live/aPkAeLzbxVg)); the contest audited is U.S. Senate. Seed: 55781838668306731400 (shown on the livestream as 55781 83866 83067 31400). · _official ([SOS release, Nov 16](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml))_. Texas's first statewide RLA. YouTube shows the start in each viewer's own time zone, e.g. 1:30 pm in Mountain time
-- **Nov 19–20**: First risk-limiting audit under SB 827. · _official (SOS training deck)_.
+- **Wed Nov 18**: Secretary of State generates the RLA's random seed, livestreamed 2:30 pm CT (20:30 UTC) ([YouTube](https://www.youtube.com/live/aPkAeLzbxVg)); the contest audited is U.S. Senate. Seed: 55781838668306731400 (shown on the livestream as 55781 83866 83067 31400), 20 digits from dice rolls; the audit uses Arlo. · _official ([SOS release, Nov 16](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml))_. Texas's first statewide RLA. YouTube shows the start in each viewer's own time zone, e.g. 1:30 pm in Mountain time
+- **Nov 19–20**: First risk-limiting audit under SB 827. · _official (SOS training deck)_. At the seed meeting the Secretary of State said the audit runs over the next few days and a report will be posted on the SOS website after the audit
 
 ### Full calendar, Nov 10 – Jan 2027
 
@@ -26,6 +26,7 @@ title: Texas
 - <https://www.sos.texas.gov/elections/forms/seminar/2026/planning-risk-limiting-audits.pdf> (first SB 827 RLA Nov 19-20; fetched regularly; 1 saved copy)
 - <https://www.sos.texas.gov/elections/> (RLA seed event notice; blocked to scripts; 0 saved copies)
 - <https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml> (release: seed generated Nov 18, 2:30 pm CT; U.S. Senate; fetched regularly; 2 saved copies)
+- <https://www.sos.state.tx.us/elections/fad/index.shtml> (SOS Audit Program page, where RLA results are expected; fetched regularly; 1 saved copy)
 
 ## In the news
 

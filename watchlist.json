@@ -352,5 +352,12 @@
   "url": "https://kingcounty.gov/en/dept/elections/about-us/security-and-accountability/observing-elections-activities",
   "why": "King County's observing schedule: RLA Nov 19, 9:00 am",
   "hot_until": "2026-11-20T08:00Z"
+ },
+ {
+  "slug": "tx-sos-audit-program",
+  "state": "TX",
+  "url": "https://www.sos.state.tx.us/elections/fad/index.shtml",
+  "why": "SOS Audit Program page, where RLA results are expected",
+  "hot_until": "2026-11-25T00:00Z"
  }
 ]

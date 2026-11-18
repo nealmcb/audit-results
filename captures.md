@@ -677,6 +677,18 @@ Watched since 2026-11-10T15:17:03Z.
 |---|---|---|
 | 2026-11-10T15:17:03Z | `973b2503638fa5ae…` | [20261110T151703Z.pdf](captures/tx-rla-planning-deck/20261110T151703Z.pdf) |
 
+## TX: tx-sos-audit-program
+
+https://www.sos.state.tx.us/elections/fad/index.shtml
+
+SOS Audit Program page, where RLA results are expected
+
+Watched since 2026-11-18T20:38:58Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-18T20:38:58Z | `9f32f2b4ff871f4d…` | [20261118T203858Z.html](captures/tx-sos-audit-program/20261118T203858Z.html) |
+
 ## TX: tx-sos-rla-release-2026-11-16
 
 https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml

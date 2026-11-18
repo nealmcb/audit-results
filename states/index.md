@@ -51,7 +51,7 @@ title: States
 | [South Carolina](SC.md) | 1 | 2 |
 | [South Dakota](SD.md) | 0 | 0 |
 | [Tennessee](TN.md) | 1 | 0 |
-| [Texas](TX.md) | 5 | 3 |
+| [Texas](TX.md) | 5 | 4 |
 | [Utah](UT.md) | 4 | 0 |
 | [Vermont](VT.md) | 2 | 0 |
 | [Virginia](VA.md) | 4 | 1 |
