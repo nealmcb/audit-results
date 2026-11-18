@@ -422,67 +422,6 @@ Watched since 2026-11-10T15:19:29Z.
 | 2026-11-17T18:50:49Z | `83400ec8810d111c…` | [20261117T185049Z.html](captures/md-ballot-audit-plan/20261117T185049Z.html) |
 | 2026-11-17T19:21:57Z | `9858b0ea8c07f733…` | [20261117T192157Z.html](captures/md-ballot-audit-plan/20261117T192157Z.html) |
 
-## MD: md-elections-home
-
-https://elections.maryland.gov/
-
-RLA seed meeting notice
-
-Watched since 2026-11-10T15:17:10Z.
-
-| Changed at (UTC) | sha256 | Copy |
-|---|---|---|
-| 2026-11-10T15:17:10Z | `576511119ccffbb9…` | [20261110T151710Z.html](captures/md-elections-home/20261110T151710Z.html) |
-| 2026-11-10T15:18:49Z | `f7a87b88ab5e9129…` | [20261110T151849Z.html](captures/md-elections-home/20261110T151849Z.html) |
-| 2026-11-10T15:49:58Z | `310c28b07fc871fd…` | [20261110T154958Z.html](captures/md-elections-home/20261110T154958Z.html) |
-| 2026-11-10T16:02:41Z | `bb8fdeb483e72704…` | [20261110T160241Z.html](captures/md-elections-home/20261110T160241Z.html) |
-| 2026-11-10T18:38:50Z | `45cd8a683245e1bc…` | [20261110T183850Z.html](captures/md-elections-home/20261110T183850Z.html) |
-| 2026-11-10T19:10:06Z | `123c745dac0368b3…` | [20261110T191006Z.html](captures/md-elections-home/20261110T191006Z.html) |
-| 2026-11-10T19:41:20Z | `dffada48cc0b211f…` | [20261110T194120Z.html](captures/md-elections-home/20261110T194120Z.html) |
-| 2026-11-10T20:12:37Z | `d16153d148222a6c…` | [20261110T201237Z.html](captures/md-elections-home/20261110T201237Z.html) |
-| 2026-11-10T21:46:13Z | `930828ac6c0fb0f3…` | [20261110T214613Z.html](captures/md-elections-home/20261110T214613Z.html) |
-| 2026-11-11T00:22:08Z | `3ce6e5f787fa6004…` | [20261111T002208Z.html](captures/md-elections-home/20261111T002208Z.html) |
-| 2026-11-11T00:53:23Z | `4fb9d746c5e0690b…` | [20261111T005323Z.html](captures/md-elections-home/20261111T005323Z.html) |
-| 2026-11-11T02:58:12Z | `458ff91489397294…` | [20261111T025812Z.html](captures/md-elections-home/20261111T025812Z.html) |
-| 2026-11-11T04:00:35Z | `73d98472e4526ddc…` | [20261111T040035Z.html](captures/md-elections-home/20261111T040035Z.html) |
-| 2026-11-12T12:50:39Z | `91bcd79c1fe3f4e1…` | [20261112T125039Z.html](captures/md-elections-home/20261112T125039Z.html) |
-| 2026-11-12T17:34:01Z | `7791350ce2d6c3e8…` | [20261112T173401Z.html](captures/md-elections-home/20261112T173401Z.html) |
-| 2026-11-12T18:05:31Z | `150b770bc8f957cc…` | [20261112T180531Z.html](captures/md-elections-home/20261112T180531Z.html) |
-| 2026-11-12T18:37:01Z | `b19dffc10cebdf6e…` | [20261112T183701Z.html](captures/md-elections-home/20261112T183701Z.html) |
-| 2026-11-12T19:40:04Z | `a8bf7fb4947ada5e…` | [20261112T194004Z.html](captures/md-elections-home/20261112T194004Z.html) |
-| 2026-11-12T20:11:32Z | `00580c964bd2a402…` | [20261112T201132Z.html](captures/md-elections-home/20261112T201132Z.html) |
-| 2026-11-12T20:43:08Z | `2579e3d1365811e4…` | [20261112T204308Z.html](captures/md-elections-home/20261112T204308Z.html) |
-| 2026-11-12T21:14:44Z | `1eae698d1f82dcc8…` | [20261112T211444Z.html](captures/md-elections-home/20261112T211444Z.html) |
-| 2026-11-12T21:46:23Z | `12081dad1c315233…` | [20261112T214623Z.html](captures/md-elections-home/20261112T214623Z.html) |
-| 2026-11-12T22:17:59Z | `5c167572f04a1048…` | [20261112T221759Z.html](captures/md-elections-home/20261112T221759Z.html) |
-| 2026-11-12T22:48:19Z | `87335af499ef5c55…` | [20261112T224819Z.html](captures/md-elections-home/20261112T224819Z.html) |
-| 2026-11-12T23:19:51Z | `70783e6849cd2658…` | [20261112T231951Z.html](captures/md-elections-home/20261112T231951Z.html) |
-| 2026-11-12T23:51:18Z | `323b1d65253234df…` | [20261112T235118Z.html](captures/md-elections-home/20261112T235118Z.html) |
-| 2026-11-13T00:54:24Z | `0d2d73e9f818efb7…` | [20261113T005424Z.html](captures/md-elections-home/20261113T005424Z.html) |
-| 2026-11-13T01:57:34Z | `d46d3b3b15f0879a…` | [20261113T015734Z.html](captures/md-elections-home/20261113T015734Z.html) |
-| 2026-11-13T05:25:50Z | `6f24873f928e615e…` | [20261113T052550Z.html](captures/md-elections-home/20261113T052550Z.html) |
-| 2026-11-13T14:21:58Z | `a333708575cd9f57…` | [20261113T142158Z.html](captures/md-elections-home/20261113T142158Z.html) |
-| 2026-11-13T15:56:34Z | `8be04e602f301b7c…` | [20261113T155634Z.html](captures/md-elections-home/20261113T155634Z.html) |
-| 2026-11-13T16:59:36Z | `7f8bfaa6d6107cab…` | [20261113T165936Z.html](captures/md-elections-home/20261113T165936Z.html) |
-| 2026-11-13T17:31:07Z | `13d618f18358eaee…` | [20261113T173107Z.html](captures/md-elections-home/20261113T173107Z.html) |
-| 2026-11-13T18:02:39Z | `d2d96c1afe1613ae…` | [20261113T180239Z.html](captures/md-elections-home/20261113T180239Z.html) |
-| 2026-11-13T20:07:45Z | `392abe7797c8bee6…` | [20261113T200745Z.html](captures/md-elections-home/20261113T200745Z.html) |
-| 2026-11-13T20:38:04Z | `9c73ce4756d55438…` | [20261113T203804Z.html](captures/md-elections-home/20261113T203804Z.html) |
-| 2026-11-13T21:08:20Z | `824101c260da5892…` | [20261113T210820Z.html](captures/md-elections-home/20261113T210820Z.html) |
-| 2026-11-13T22:39:05Z | `404b740e36951025…` | [20261113T223905Z.html](captures/md-elections-home/20261113T223905Z.html) |
-| 2026-11-13T23:09:18Z | `cfb776537a27476f…` | [20261113T230918Z.html](captures/md-elections-home/20261113T230918Z.html) |
-| 2026-11-13T23:39:30Z | `28da1da0a89ad4f4…` | [20261113T233930Z.html](captures/md-elections-home/20261113T233930Z.html) |
-| 2026-11-14T01:10:10Z | `93a18cd4ca0dddbc…` | [20261114T011010Z.html](captures/md-elections-home/20261114T011010Z.html) |
-| 2026-11-14T02:40:46Z | `7c49f9c496f0dd05…` | [20261114T024046Z.html](captures/md-elections-home/20261114T024046Z.html) |
-| 2026-11-14T18:32:10Z | `d8158930780c1c09…` | [20261114T183210Z.html](captures/md-elections-home/20261114T183210Z.html) |
-| 2026-11-15T02:05:06Z | `5626f19b1431e03e…` | [20261115T020506Z.html](captures/md-elections-home/20261115T020506Z.html) |
-| 2026-11-16T05:47:15Z | `e5b7c5a9a659bd5f…` | [20261116T054715Z.html](captures/md-elections-home/20261116T054715Z.html) |
-| 2026-11-16T21:28:34Z | `97f9d9bb47685f81…` | [20261116T212834Z.html](captures/md-elections-home/20261116T212834Z.html) |
-| 2026-11-17T05:05:55Z | `b6ab5b6a4372d84a…` | [20261117T050555Z.html](captures/md-elections-home/20261117T050555Z.html) |
-| 2026-11-17T20:54:25Z | `dd0edb80e3409584…` | [20261117T205425Z.html](captures/md-elections-home/20261117T205425Z.html) |
-| 2026-11-18T02:50:49Z | `0c07f7ed3e5a808e…` | [20261118T025049Z.html](captures/md-elections-home/20261118T025049Z.html) |
-| 2026-11-18T03:21:50Z | `8b4b3ffb6d9df076…` | [20261118T032150Z.html](captures/md-elections-home/20261118T032150Z.html) |
-
 ## MD: md-rla-page
 
 https://elections.maryland.gov/voting_system/ballot_audit_plan_manual.html
@@ -764,6 +703,18 @@ Watched since 2026-11-10T15:17:14Z.
 | 2026-11-13T05:25:55Z | `38bd7f3df669f778…` | [20261113T052555Z.html](captures/va-rla/20261113T052555Z.html) |
 | 2026-11-17T06:37:29Z | `34a154cfeea0bc44…` | [20261117T063729Z.html](captures/va-rla/20261117T063729Z.html) |
 
+## WA: wa-king-observing
+
+https://kingcounty.gov/en/dept/elections/about-us/security-and-accountability/observing-elections-activities
+
+King County's observing schedule: RLA Nov 19, 9:00 am
+
+Watched since 2026-11-18T17:10:19Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-18T17:10:19Z | `eb1c8dc4bbe8a9f3…` | [20261118T171019Z.html](captures/wa-king-observing/20261118T171019Z.html) |
+
 ## WA: wa-post-election-audits
 
 https://www.sos.wa.gov/elections/data-research/election-technology/post-election-audits
@@ -780,23 +731,6 @@ Watched since 2026-11-10T15:17:01Z.
 | 2026-11-10T16:33:42Z | `c4486535e1709a97…` | [20261110T163342Z.html](captures/wa-post-election-audits/20261110T163342Z.html) |
 | 2026-11-12T16:30:47Z | `51a03472df9095f6…` | [20261112T163047Z.html](captures/wa-post-election-audits/20261112T163047Z.html) |
 | 2026-11-13T22:08:53Z | `fef3267d9ae50642…` | [20261113T220853Z.html](captures/wa-post-election-audits/20261113T220853Z.html) |
-
-## WA: wa-rla-2026-general
-
-https://www.sos.wa.gov/node/11554
-
-seed rolled Nov 6; county RLAs Nov 19
-
-Watched since 2026-11-10T15:16:58Z.
-
-| Changed at (UTC) | sha256 | Copy |
-|---|---|---|
-| 2026-11-10T15:16:58Z | `ba51d58e8616b756…` | [20261110T151658Z.html](captures/wa-rla-2026-general/20261110T151658Z.html) |
-| 2026-11-10T15:18:38Z | `3d5eab41906a07cd…` | [20261110T151838Z.html](captures/wa-rla-2026-general/20261110T151838Z.html) |
-| 2026-11-10T15:49:46Z | `41b6307d67b2d0a8…` | [20261110T154946Z.html](captures/wa-rla-2026-general/20261110T154946Z.html) |
-| 2026-11-10T16:33:39Z | `3dadaf838d879de1…` | [20261110T163339Z.html](captures/wa-rla-2026-general/20261110T163339Z.html) |
-| 2026-11-12T16:30:45Z | `2590b1a75eb0a30a…` | [20261112T163045Z.html](captures/wa-rla-2026-general/20261112T163045Z.html) |
-| 2026-11-13T22:08:44Z | `da9d77e13c289a19…` | [20261113T220844Z.html](captures/wa-rla-2026-general/20261113T220844Z.html) |
 
 ## WI: wi-audit-selection
 

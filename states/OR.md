@@ -12,7 +12,7 @@ title: Oregon
 
 ### Full calendar, Nov 10 – Jan 2027
 
-- **Nov 25**: SOS notice of randomly selected contests and precincts, 5 pm PT. · _computed_. <https://oregon.public.law/statutes/ors_254.529>
+- **Nov 25**: SOS notice of randomly selected contests and precincts, 5 pm PT (01:00 UTC Nov 26). · _computed_. <https://oregon.public.law/statutes/ors_254.529>
 - **Nov 30**: Hand count must begin; county certification. · _computed_. <https://oregon.public.law/statutes/ors_254.529>
 - **Dec 8**: Hand count complete. · _computed_. <https://oregon.public.law/statutes/ors_254.529>
 - **Dec 10**: State certification (ballot challenges resolved by Nov 24). · _official_. <https://oregoncapitalchronicle.com/category/election-2026/page/9/>

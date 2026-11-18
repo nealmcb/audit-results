@@ -20,6 +20,10 @@ import json
 import pathlib
 import re
 import subprocess
+import sys
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from eventtime import add_utc  # noqa: E402
 
 ROOT = pathlib.Path(".")
 STATES = {
@@ -54,6 +58,11 @@ def calendar_rows(text):
             yield section, cells
 
 
+def with_utc(cells):
+    """The row's event text with UTC times added (see eventtime.py)."""
+    return add_utc(cells[2], cells[0], cells[1]) if len(cells) > 2 else ""
+
+
 def calendar_md(src):
     """Render calendar-source.md for the site, readable on phones.
 
@@ -74,7 +83,7 @@ def calendar_md(src):
                 if c[0] != last:
                     out.append(f"\n### {c[0]}\n" if last is not None else f"### {c[0]}\n")
                     last = c[0]
-                ev = linkify(c[2]).rstrip()
+                ev = linkify(with_utc(c)).rstrip()
                 ev += "" if ev.endswith((".", "?", "!")) else "."
                 basis = f" · _{c[3]}_." if len(c) > 3 and c[3] else ""
                 more = f" {linkify(c[4])}" if len(c) > 4 and c[4] else ""
@@ -86,7 +95,7 @@ def calendar_md(src):
             # bare URLs (the Source column) become short links named for their site, so a long
             # URL doesn't force the table wider than the page
             out.extend(re.sub(r"(?<![(<])\bhttps?://([^/\s|]+)[^\s|]*",
-                              lambda m: f"[{m.group(1).removeprefix('www.')}]({m.group(0)})", l)
+                              lambda m: f"[{m.group(1).removeprefix('www.')}]({m.group(0)})", utc_line(l))
                        for l in block[2:])
             out.append("\n</div>\n")
         block.clear()
@@ -169,6 +178,15 @@ def linkify(text):
     return re.sub(r"(?<![(<])\bhttps?://[^\s)|>]+[^\s)|>.,;:]", lambda m: f"<{m.group(0)}>", text)
 
 
+def utc_line(line):
+    """A raw table row with UTC times added to its Event cell (the third)."""
+    cells = line.strip().strip("|").split("|")
+    if len(cells) < 3:
+        return line
+    cells[2] = " " + add_utc(cells[2].strip(), cells[0], cells[1]) + " "
+    return "|" + "|".join(cells) + "|"
+
+
 def state_md(code, rows, watch, by):
     name = STATES[code]
     out = [front(name), f"# {name}\n", "[← All states](index.md) · [Calendar](../calendar.md) · "
@@ -228,7 +246,7 @@ def is_confirmed(c):
 def date_item(c, bold):
     basis = f" · _{c[3]}_." if len(c) > 3 and c[3] else ""
     more = f" {linkify(c[4])}" if len(c) > 4 and c[4] else ""
-    ev = linkify(c[2]).rstrip()
+    ev = linkify(with_utc(c)).rstrip()
     ev += "" if ev.endswith((".", "?", "!")) else "."
     return f"- {f'**{c[0]}**' if bold else c[0]}: {ev}{basis}{more}"
 

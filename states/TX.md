@@ -12,12 +12,12 @@ title: Texas
 
 ### Watch now (Nov 10–24)
 
-- **Wed Nov 18**: Secretary of State generates the RLA's random seed, livestreamed 2:30 pm CT ([YouTube](https://www.youtube.com/live/aPkAeLzbxVg)); the contest audited is U.S. Senate. · _official ([SOS release, Nov 16](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml))_. Texas's first statewide RLA
+- **Wed Nov 18**: Secretary of State generates the RLA's random seed, livestreamed 2:30 pm CT (20:30 UTC) ([YouTube](https://www.youtube.com/live/aPkAeLzbxVg)); the contest audited is U.S. Senate. · _official ([SOS release, Nov 16](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml))_. Texas's first statewide RLA. YouTube shows the start in each viewer's own time zone, e.g. 1:30 pm in Mountain time
 - **Nov 19–20**: First risk-limiting audit under SB 827. · _official (SOS training deck)_.
 
 ### Full calendar, Nov 10 – Jan 2027
 
-- **Nov 18**: RLA seed generated, 2:30 pm CT, livestreamed; U.S. Senate contest. · _official_. <https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml>
+- **Nov 18**: RLA seed generated, 2:30 pm CT (20:30 UTC), livestreamed; U.S. Senate contest. · _official_. <https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml>
 - **Nov 19–20**: Risk-limiting audit (first under SB 827). · _official_. <https://www.sos.texas.gov/elections/forms/seminar/2026/planning-risk-limiting-audits.pdf>
 - **Dec 3**: State canvass deadline; earliest hand count audit deadline. · _computed_. <https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00827F.htm>
 

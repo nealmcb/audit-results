@@ -28,7 +28,7 @@ title: States
 | [Kentucky](KY.md) | 1 | 0 |
 | [Louisiana](LA.md) | 1 | 0 |
 | [Maine](ME.md) | 0 | 0 |
-| [Maryland](MD.md) | 8 | 4 |
+| [Maryland](MD.md) | 8 | 3 |
 | [Massachusetts](MA.md) | 1 | 0 |
 | [Michigan](MI.md) | 4 | 0 |
 | [Minnesota](MN.md) | 4 | 1 |

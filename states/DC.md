@@ -12,7 +12,7 @@ title: District of Columbia
 
 ### Watch now (Nov 10–24)
 
-- **Sat Nov 21**: Public manual audit begins, 10 am ET (tentative). · _official_. Precincts and contests were drawn Oct 9, before the election
+- **Sat Nov 21**: Public manual audit begins, 10 am ET (15:00 UTC) (tentative). · _official_. Precincts and contests were drawn Oct 9, before the election
 
 ### Already happened (selections, seeds and draws)
 
@@ -20,7 +20,7 @@ title: District of Columbia
 
 ### Full calendar, Nov 10 – Jan 2027
 
-- **Nov 21**: Public manual audit begins, 10 am ET (tentative). · _official_. <https://www.dcboe.org/getContentAsset/13a662ac-2a85-4d4a-9540-2de88e176abc/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/GE2026_Election-Audit-selections_10022026_FINAL.pdf?language=en>
+- **Nov 21**: Public manual audit begins, 10 am ET (15:00 UTC) (tentative). · _official_. <https://www.dcboe.org/getContentAsset/13a662ac-2a85-4d4a-9540-2de88e176abc/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/GE2026_Election-Audit-selections_10022026_FINAL.pdf?language=en>
 
 ## Watched pages
 

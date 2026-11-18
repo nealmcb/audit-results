@@ -57,11 +57,11 @@ Wanted: the manifests and CVRs for the six audits, their upload times, and Arlo'
 
 ### Watch now (Nov 10–24)
 
-- **Thu Nov 19**: County RLAs: Supreme Court Pos. 7 statewide, CD1, and four local contests. · _official_. Seed already rolled Fri Nov 6 (`04912937865602606747`, confirmed in the recording). Reproducing the sample needs the counties' manifests and CVRs, requested from the Elections Division on Nov 13
+- **Thu Nov 19**: County RLAs: Supreme Court Pos. 7 statewide, CD1, and four local contests. King County's starts at 9:00 am PT (17:00 UTC). · _official ([SOS audit page](https://www.sos.wa.gov/elections/data-research/election-technology/post-election-audits); King County's time from its [observing elections activities](https://kingcounty.gov/en/dept/elections/about-us/security-and-accountability/observing-elections-activities) page)_. Seed already rolled Fri Nov 6 (`04912937865602606747`, confirmed in the recording). Reproducing the sample needs the counties' manifests and CVRs, requested from the Elections Division on Nov 13
 
 ### Already happened (selections, seeds and draws)
 
-- **Fri Nov 6**: Public dice roll, seed and contest selection, 3 pm PT, on YouTube; the 20 dice were called from about 23:02:50 to 23:04:20 UTC, then the contests were drawn by lot (statewide at about 23:07:41, CD1 at 23:09:55, then the four county contests). · _official ([recording](https://youtube.com/live/Jp2coFs32m8), captions)_.
+- **Fri Nov 6**: Public dice roll, seed and contest selection, 3 pm PT (23:00 UTC), on YouTube; the 20 dice were called from about 23:02:50 to 23:04:20 UTC, then the contests were drawn by lot (statewide at about 23:07:41, CD1 at 23:09:55, then the four county contests). · _official ([recording](https://youtube.com/live/Jp2coFs32m8), captions)_.
 
 ### Full calendar, Nov 10 – Jan 2027
 
@@ -71,6 +71,6 @@ Wanted: the manifests and CVRs for the six audits, their upload times, and Arlo'
 
 ## Watched pages
 
-- <https://www.sos.wa.gov/node/11554> (seed rolled Nov 6; county RLAs Nov 19; fetched regularly; 6 saved copies)
 - <https://www.sos.wa.gov/elections/data-research/election-technology/post-election-audits> (WA audit index; fetched regularly; 6 saved copies)
+- <https://kingcounty.gov/en/dept/elections/about-us/security-and-accountability/observing-elections-activities> (King County's observing schedule: RLA Nov 19, 9:00 am; fetched regularly; 1 saved copy)
 

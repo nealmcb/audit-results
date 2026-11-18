@@ -16,11 +16,11 @@ title: Maryland
 
 ### Already happened (selections, seeds and draws)
 
-- **Tue Nov 3**: Precincts selected for post-election verification (non-RLA), 8 pm. · _official_.
+- **Tue Nov 3**: Precincts selected for post-election verification (non-RLA), 8 pm ET (01:00 UTC Nov 4). · _official_.
 
 ### Full calendar, Nov 10 – Jan 2027
 
-- **Nov 12**: Provisional canvass, 10 am ET. · _official_. <https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf>
+- **Nov 12**: Provisional canvass, 10 am ET (15:00 UTC). · _official_. <https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf>
 - **Nov 13**: Second mail-in canvass; non-RLA verification due; local certification begins. · _official_. <https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf>
 - **Nov 23**: RLA parameters set and contests selected. · _official_. <https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf>
 - **from Nov 24**: County RLAs may start (county notices expected). · _official (calendar)_. <https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf>
@@ -30,7 +30,6 @@ title: Maryland
 ## Watched pages
 
 - <https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf> (RLA contest selection Nov 23, due Dec 2; fetched regularly; 1 saved copy)
-- <https://elections.maryland.gov/> (RLA seed meeting notice; fetched regularly; 50 saved copies)
 - <https://elections.maryland.gov/voting_system/ballot_audit_plan_manual.html> (RLA results and ceremony posting; fetched regularly; 2 saved copies)
 - <https://elections.maryland.gov/voting_system/ballot_audit_plan.html> (2026 audit plan; fetched regularly; 4 saved copies)
 

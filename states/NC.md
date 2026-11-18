@@ -16,8 +16,8 @@ title: North Carolina
 
 ### Full calendar, Nov 10 – Jan 2027
 
-- **Nov 13**: County canvass, 11 am ET (hand counts done before it). · _computed (G.S. 163-182.5(b): 11 am, tenth day after the election)_. <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-182.5.html>
-- **Nov 24**: State Board canvass, 11 am ET. · _computed (G.S. 163-182.5(c): 11 am, the Tuesday three weeks after the election)_. <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-182.5.html>
+- **Nov 13**: County canvass, 11 am ET (16:00 UTC) (hand counts done before it). · _computed (G.S. 163-182.5(b): 11 am, tenth day after the election)_. <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-182.5.html>
+- **Nov 24**: State Board canvass, 11 am ET (16:00 UTC). · _computed (G.S. 163-182.5(c): 11 am, the Tuesday three weeks after the election)_. <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-182.5.html>
 
 ## Watched pages
 

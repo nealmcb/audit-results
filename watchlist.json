@@ -31,13 +31,6 @@
   "hot_until": "2026-11-21T00:00Z"
  },
  {
-  "slug": "wa-rla-2026-general",
-  "state": "WA",
-  "url": "https://www.sos.wa.gov/node/11554",
-  "why": "seed rolled Nov 6; county RLAs Nov 19",
-  "hot_until": "2026-11-20T08:00Z"
- },
- {
   "slug": "wa-post-election-audits",
   "state": "WA",
   "url": "https://www.sos.wa.gov/elections/data-research/election-technology/post-election-audits",
@@ -61,12 +54,6 @@
   "state": "MD",
   "url": "https://elections.maryland.gov/elections/2026/2026_Election_Calendar.pdf",
   "why": "RLA contest selection Nov 23, due Dec 2"
- },
- {
-  "slug": "md-elections-home",
-  "state": "MD",
-  "url": "https://elections.maryland.gov/",
-  "why": "RLA seed meeting notice"
  },
  {
   "slug": "ri-rla-center",
@@ -358,5 +345,12 @@
   "state": "GA",
   "url": "https://www.cobbcounty.gov/news/cobb-county-post-election-audits-verify-november-3-election-results",
   "why": "Cobb County release: RLA and ballot image audit results"
+ },
+ {
+  "slug": "wa-king-observing",
+  "state": "WA",
+  "url": "https://kingcounty.gov/en/dept/elections/about-us/security-and-accountability/observing-elections-activities",
+  "why": "King County's observing schedule: RLA Nov 19, 9:00 am",
+  "hot_until": "2026-11-20T08:00Z"
  }
 ]
