@@ -99,3 +99,7 @@ Articles and official posts about post-election audits of the November 3, 2026 g
 
 - **[Post-election audits: How election officials know the results are accurate](https://www.votebeat.org/national/2026/11/03/post-election-audits-explainer-2026-midterms/)**, Votebeat. Post-election audits, including traditional audits and risk-limiting audits, involve double-checking ballots to guard against fraud or mistakes. _Published 2026-11-03; copy kept 2026-11-17 01:32 UTC._
 
+## 2026-10-26
+
+- **[Anthropic AI Agent Accessed Publicly Available Information, Georgia Elections Remain Secure](https://sos.ga.gov/news/anthropic-ai-agent-accessed-publicly-available-information-georgia-elections-remain-secure)**, Georgia Secretary of State. The Secretary of State's office says an Anthropic AI agent accessed only information available through the state's public Data Hub, did not access the voter list or bypass a paywall, and that Georgia's election systems remain secure. [GA](states/GA.md)
+

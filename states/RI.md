@@ -17,6 +17,8 @@ title: Rhode Island
 ### Full calendar, Nov 10 – Jan 2027
 
 - **Nov 13**: Target contests published (deadline). · _computed_. <https://rules.sos.ri.gov/Regulations/part/410-20-00-28>
+- **by Nov 20**: Ballot manifests posted: the statewide manifest (730 batches) and Westerly's. · _official (copies in the site's evidence folder; posting time unknown)_. <https://elections.ri.gov/elections/risk-limiting-audit-center>
+- **Nov 20**: Batches selected for the RLA of State Question 1: 14 batches in Bristol, Cranston, East Providence, Newport, North Smithfield, Providence, Smithfield, Warren and Warwick (including two mail-ballot batches). · _official (PDF created 9:15 am MT Nov 20; copy in the site's evidence folder)_. <https://elections.ri.gov/sites/g/files/xkgbur756/files/2026-11/ballots%20needed%20as%20pdf.pdf>
 
 ## Watched pages
 

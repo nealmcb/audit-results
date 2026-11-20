@@ -47,7 +47,7 @@ title: States
 | [Oklahoma](OK.md) | 0 | 0 |
 | [Oregon](OR.md) | 4 | 1 |
 | [Pennsylvania](PA.md) | 4 | 3 |
-| [Rhode Island](RI.md) | 2 | 1 |
+| [Rhode Island](RI.md) | 4 | 1 |
 | [South Carolina](SC.md) | 1 | 2 |
 | [South Dakota](SD.md) | 0 | 0 |
 | [Tennessee](TN.md) | 1 | 0 |

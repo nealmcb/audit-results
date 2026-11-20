@@ -1,0 +1,21 @@
+# Post-election audit pages, November 3, 2026 general election -- saved 2026-11-20 (UTC) via Claude in Chrome
+# .mhtml files were assembled in the page by script (rendered DOM + stylesheets/images as MIME parts), not by Chrome's own Save-as-MHTML.
+# columns: sha256  bytes  file  source_url  [note]
+9d768ba90f0816e3a224a828bd8e67ffd9b1073f6b1da1beddf26c30271430f6  931020  01-GA-release-historic-number-risk-limiting-audits.mhtml  https://sos.ga.gov/news/historic-number-risk-limiting-audits-confirm-election-outcomes
+a551c1656d92bf184be05f74c9875357ec29a2f40aa7d098c5aaddbec12c19f2  970722  02-GA-audit-page-elections-audit-information.mhtml  https://sos.ga.gov/page/elections-audit-information
+04217926cb590f57521d742db7fa8ddd57031c058d5f96713992ca9863b84bd0  1088655  05-WI-notice-post-election-audit-selections.mhtml  https://elections.wi.gov/event/notice-post-election-audit-selections (requested as https://elections.wi.gov/node/11791)
+bf7e1e3f6c81b35ce23362cf103382fa6a304f9b53d2dc3f2edc5d5a726474cc  2187910  06-MT-elections.mhtml  https://sosmt.gov/elections/
+20c366bdea8a6a793b5a63fc986e9da9b82947a3792c85f10896f6f5a6a5e99a  233780  07-TX-elections.mhtml  https://www.sos.texas.gov/elections/
+05d0b290c64356091508e40069de1dd90e68128a9f534fd24676cff31a7358e6  236956  07b-TX-news-release-111626-two-audits.mhtml  https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml
+583af252b69e9a02fd5d3a9f0b5b2fca404eb608f4323b57a11af8c03f04b41e  728543  08-MN-post-election-reviews.mhtml  https://www.sos.mn.gov/elections-voting/how-elections-work/post-election-reviews/
+1fc8fad0b2b7a47224fc2cd35caddb7978b6edee9ca66b145c5e7a813e125e66  1482945  09-NV-risk-limiting-audits-page-not-found.mhtml  https://www.nvsos.gov/sos/elections/election-information/risk-limiting-audits
+0605c938fa4fe8154c8ad9113371e39381f40f777118df1b19eaf09593e7ca0d  20714  2026-post-election-review-dates-and-locations.xlsx  https://www.sos.mn.gov/media/wgbbnaw3/2026-post-election-review-dates-and-locations.xlsx
+6998dfaae6ce5be4b8154fe04268754513a966218e58a0c6d6acfeea9939cf6f  20661  2026-post-election-review-precincts.xlsx  https://www.sos.mn.gov/media/e3qlllla/2026-post-election-review-precincts.xlsx
+9256ea96913155143d7d378b767ad8b7390aefa96bba9a970e8120655f967504  29617  RI 2026 General Election ballot manifest final.csv  https://elections.ri.gov/sites/g/files/xkgbur756/files/2026-11/RI%202026%20General%20Election%20ballot%20manifest%20final.csv
+c242a069c74d97da8cc12b37debb9eb7b149806224d2f226ab492b0eb0651a21  747  RI Westerly ballot manifest final.csv  https://elections.ri.gov/sites/g/files/xkgbur756/files/2026-11/RI%20Westerly%20ballot%20manifest%20final.csv
+1c3a08308383d93b3c1f2aca48f6d4f7fbd874e566f443be432875f65305f9c1  39727  november_2026_general_election_rla_batch_retrieval_list.pdf  https://sos.ga.gov/sites/default/files/2026-11/november_2026_general_election_rla_batch_retrieval_list.pdf  # copied from ~/Downloads (downloaded 2026-11-13); byte-identical to server copy fetched 2026-11-20 (same SHA-256; server Last-Modified Thu, 12 Nov 2026 19:13:35 GMT)
+f30b1f8b10fe2ce52220710b9df721876ae7c31ef9040da63d981b39cbde968a  103268  november_2026_rlas_date_times_and_locations_11122026.pdf  https://sos.ga.gov/sites/default/files/2026-11/november_2026_rlas_date_times_and_locations_11122026.pdf  # copied from ~/Downloads (downloaded 2026-11-13); byte-identical to server copy fetched 2026-11-20 (same SHA-256; server Last-Modified Thu, 12 Nov 2026 19:13:35 GMT)
+# NOT SAVED (Chrome would not download them):
+#  sos.ga.gov/news (page 3 MHTML) -- automatic download blocked in that tab
+#  elections.ri.gov risk-limiting-audit-center (page 4 MHTML) and 'ballots needed as pdf.pdf' -- MHTML download blocked; PDF opened in viewer, download button produced no file
+#  mcusercontent.com (GA VotingWorks report PDF, audit_report CSV, manifests zip, candidate_totals zip) -- downloads blocked even from real link clicks
