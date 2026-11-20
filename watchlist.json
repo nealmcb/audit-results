@@ -359,5 +359,119 @@
   "url": "https://www.sos.state.tx.us/elections/fad/index.shtml",
   "why": "SOS Audit Program page, where RLA results are expected",
   "hot_until": "2026-11-25T00:00Z"
+ },
+ {
+  "slug": "co-rla-2026-general-round1-contest",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/contest.csv",
+  "why": "contests list, round 1",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-round1-contestselection",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/contestSelection.csv",
+  "why": "contest margins and CVR IDs, round 1",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-round1-contestcomparison",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/contestComparison.csv",
+  "why": "audit comparison report, round 1",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-round1-activityreport",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/activityReport.xlsx",
+  "why": "audit activity report, round 1",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-round1-resultsreport",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/resultsReport.xlsx",
+  "why": "audit results report, round 1",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-round1-stategeneral",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/stateGeneral.xlsx",
+  "why": "state audit report, round 1",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-round2-contest",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/contest.csv",
+  "why": "contests list, round 2",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-round2-contestselection",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/contestSelection.csv",
+  "why": "contest margins and CVR IDs, round 2",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-round2-contestcomparison",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/contestComparison.csv",
+  "why": "audit comparison report, round 2",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-round2-activityreport",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/activityReport.xlsx",
+  "why": "audit activity report, round 2",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-round2-resultsreport",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/resultsReport.xlsx",
+  "why": "audit results report, round 2",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-round2-stategeneral",
+  "state": "CO",
+  "url": "https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/stateGeneral.xlsx",
+  "why": "state audit report, round 2",
+  "hot_until": "2026-11-25T00:00Z",
+  "conditional": false
+ },
+ {
+  "slug": "co-rla-2026-general-complete-release",
+  "state": "CO",
+  "url": "https://content.govdelivery.com/accounts/COSOS/bulletins/431cb69",
+  "why": "release: statewide RLA complete Nov 19"
+ },
+ {
+  "slug": "ga-crawford-rla-results",
+  "state": "GA",
+  "url": "https://www.crawfordcountyga.org/notice-risk-limiting-audit-results/",
+  "why": "Crawford County notice: RLAs complete Nov 19"
+ },
+ {
+  "slug": "ga-sos-rla-results-release",
+  "state": "GA",
+  "url": "https://sos.ga.gov/news/historic-number-risk-limiting-audits-confirm-election-outcomes",
+  "why": "SOS release: RLAs confirm outcomes (refuses scripts)"
  }
 ]

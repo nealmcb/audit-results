@@ -232,6 +232,10 @@ def is_challenge(code, body, final_url=""):
     return any(m in head for m in CHALLENGE_MARKERS)
 
 
+LARGE_BYTES = 10_000_000          # captures larger than this are kept out of git
+LARGE_DIR = "captures-large"      # gitignored; mirrors captures/<slug>/
+
+
 def one_round(watch, out, base=None):
     """Fetch every watched page (or, with base, every page that is due under the schedule)."""
     log = out / "log.jsonl"
@@ -278,7 +282,11 @@ def one_round(watch, out, base=None):
                            bytes=len(body), content_type=ctype,
                            final_url=final, blocked=blocked, changed=changed and not blocked)
                 if changed and not blocked and code and 200 <= code < 300:
-                    d = out / w["slug"]
+                    # Files over LARGE_BYTES go to a gitignored sibling folder, so one big file that
+                    # keeps changing can't swell the repository; the log, which is committed and
+                    # covered by every commitment, still records each copy's SHA-256 (2026-11-20).
+                    big = len(body) > LARGE_BYTES
+                    d = (out.parent / LARGE_DIR if big else out) / w["slug"]
                     d.mkdir(parents=True, exist_ok=True)
                     f = d / (t.strftime("%Y%m%dT%H%M%SZ") + ext_for(ctype, w["url"]))
                     f.write_bytes(body)

@@ -1,0 +1,178 @@
+ 0:02.8 20:30:17Z  Good afternoon everybody. To the
+ 0:02.8 20:30:17Z  audience that's here and to those that
+ 0:04.3 20:30:19Z  are watching via the internet. I want to
+ 0:06.8 20:30:21Z  welcome you to the uh historic state
+ 0:08.6 20:30:23Z  capital, but more specifically welcome
+ 0:11.0 20:30:25Z  you to the historic secretary of state's
+ 0:13.0 20:30:28Z  office for the first ever risk limit
+ 0:16.6 20:30:31Z  audit. Um I am the Secretary of State
+ 0:20.2 20:30:35Z  Robert Hen, the 116th Secretary of
+ 0:22.6 20:30:37Z  State, and I will be overseeing these
+ 0:24.8 20:30:39Z  risk limiting audits, two of them. and I
+ 0:27.5 20:30:42Z  would like to introduce Christina
+ 0:28.9 20:30:43Z  Atkins, the head of our elections
+ 0:30.3 20:30:45Z  division to further explain the process.
+ 0:32.1 20:30:47Z  Christina,
+ 0:33.0 20:30:48Z  >> thank you, Mr. Secretary. Um, and thank
+ 0:35.0 20:30:50Z  you to everybody that's here. We have a
+ 0:36.5 20:30:51Z  room full of observers, which we're glad
+ 0:37.9 20:30:52Z  to have. So, we have some transparency
+ 0:39.6 20:30:54Z  and insight into this process. But our
+ 0:41.7 20:30:56Z  risk limiting audits, uh, this is the
+ 0:43.3 20:30:58Z  first time that we are conducting a
+ 0:44.7 20:30:59Z  statewide risk limiting audit. There
+ 0:46.8 20:31:01Z  were uh, two bills that were filed back
+ 0:48.8 20:31:03Z  in 2021. SB598 with from Senator
+ 0:51.8 20:31:06Z  Colehorst and as part of Senate Bill
+ 0:53.6 20:31:08Z  one, Chairman Hughes's bill um that
+ 0:55.8 20:31:10Z  established these risk limiting audit
+ 0:57.2 20:31:12Z  procedures. We have had five years to
+ 0:59.0 20:31:14Z  pilot this program and we're very
+ 1:00.5 20:31:15Z  excited to finally kick it off and do
+ 1:03.0 20:31:17Z  this for the first time. And I'm going
+ 1:04.8 20:31:19Z  to let Chuck Penny, our legal director,
+ 1:07.0 20:31:21Z  give uh our audience at home and our
+ 1:08.7 20:31:23Z  audience here a little bit of background
+ 1:10.0 20:31:25Z  on what a risk limiting audit is.
+ 1:12.2 20:31:27Z  >> Thank you, Christina. So, a risk
+ 1:14.2 20:31:29Z  limiting audit or an RLA is a type of
+ 1:16.2 20:31:31Z  post-election audit that's designed to
+ 1:17.8 20:31:32Z  review a statistically significant
+ 1:19.4 20:31:34Z  number of paper ballot records to verify
+ 1:21.6 20:31:36Z  that the outcome of the election was
+ 1:23.0 20:31:38Z  correct. In Texas, this process is going
+ 1:25.7 20:31:40Z  to be conducted by randomly selecting
+ 1:27.3 20:31:42Z  ballots from across the entire state.
+ 1:29.3 20:31:44Z  Our counties will participate in this
+ 1:30.8 20:31:45Z  audit on the same day statewide, and
+ 1:32.6 20:31:47Z  they'll retrieve the randomly selected
+ 1:34.1 20:31:49Z  ballots from their ballot boxes, count
+ 1:35.8 20:31:50Z  those ballots, and report those results
+ 1:37.4 20:31:52Z  to our office. We'll gather the results
+ 1:39.5 20:31:54Z  of the audit from across the state and
+ 1:41.1 20:31:56Z  determine whether the audit was
+ 1:42.5 20:31:57Z  successfully demonstrating that the
+ 1:44.2 20:31:59Z  outcome of the election was correct or
+ 1:45.8 20:32:00Z  whether we need to examine more ballots
+ 1:47.4 20:32:02Z  in order to make that determination.
+ 1:49.9 20:32:04Z  So the first step in that process is to
+ 1:52.2 20:32:07Z  come up with a random number seed that's
+ 1:53.8 20:32:08Z  used to help determine the ballots that
+ 1:55.5 20:32:10Z  are going to be randomly selected from
+ 1:57.0 20:32:11Z  across the state. To determine that
+ 1:58.9 20:32:13Z  seed, our team here today is going to
+ 2:00.5 20:32:15Z  roll 20 10-sided die. And those 20
+ 2:03.3 20:32:18Z  numbers from those dice rolls will be
+ 2:05.0 20:32:20Z  used as a random number uh a random
+ 2:07.3 20:32:22Z  number seed for the audit. We'll then
+ 2:09.1 20:32:24Z  input that random number into the
+ 2:10.6 20:32:25Z  program that's used for the audit, which
+ 2:12.1 20:32:27Z  is an open source program called Arlo,
+ 2:14.3 20:32:29Z  and the program will identify the
+ 2:15.6 20:32:30Z  ballots that are randomly selected.
+ 2:17.5 20:32:32Z  Because the program that we're using for
+ 2:19.0 20:32:34Z  the audit is open source, anyone from
+ 2:21.0 20:32:35Z  the public could use the same random
+ 2:22.5 20:32:37Z  number that we're using today with the
+ 2:24.3 20:32:39Z  same software that we're using today.
+ 2:25.9 20:32:40Z  And the software would select the same
+ 2:27.5 20:32:42Z  group of random ballots that are going
+ 2:29.0 20:32:43Z  to be selected today. The point of this
+ 2:31.6 20:32:46Z  process is to ensure that the audit
+ 2:33.6 20:32:48Z  process is transparent and repeatable
+ 2:35.6 20:32:50Z  but not predetermined. So now I'm going
+ 2:38.1 20:32:53Z  to pass it back to Christina to talk
+ 2:39.9 20:32:54Z  through the process of what the dice
+ 2:41.0 20:32:56Z  roll is going to look like today.
+ 2:43.2 20:32:58Z  >> Thank you, Chuck. And we are going to go
+ 2:45.3 20:33:00Z  ahead and get started on the dice roll.
+ 2:46.9 20:33:01Z  We have uh individuals that are going to
+ 2:48.4 20:33:03Z  be coming up. They're going to draw the
+ 2:50.8 20:33:05Z  dice out of the hat, roll the dice. Um
+ 2:53.7 20:33:08Z  they will then call the number out loud.
+ 2:55.8 20:33:10Z  Secretary Hen will also repeat the
+ 2:57.4 20:33:12Z  number and I will also verify that that
+ 2:59.4 20:33:14Z  number will then be placed on the board
+ 3:01.0 20:33:16Z  behind the secretary.
+ 3:12.4 20:33:27Z  >> Five.
+ 3:12.4 20:33:27Z  >> Five.
+ 3:34.1 20:33:49Z  Seven.
+ 3:34.2 20:33:49Z  >> Seven.
+ 3:37.0 20:33:51Z  >> Seven.
+ 3:44.7 20:33:59Z  >> Eight.
+ 3:44.7 20:33:59Z  >> Eight.
+ 4:00.4 20:34:15Z  short. Uh, one,
+ 4:00.4 20:34:15Z  >> one,
+ 4:01.9 20:34:16Z  >> one,
+ 4:11.5 20:34:26Z  >> eight,
+ 4:11.5 20:34:26Z  >> eight,
+ 4:25.9 20:34:40Z  >> three,
+ 4:25.9 20:34:40Z  >> three. Eight.
+ 4:37.3 20:34:52Z  >> Eight.
+ 4:37.3 20:34:52Z  >> Eight.
+ 4:47.2 20:35:02Z  >> Six.
+ 4:47.2 20:35:02Z  >> Six.
+ 5:12.9 20:35:27Z  >> Eight.
+ 5:13.0 20:35:27Z  >> Eight.
+ 5:22.9 20:35:37Z  >> Three.
+ 5:22.9 20:35:37Z  Three.
+ 5:24.8 20:35:39Z  >> Three.
+ 5:35.4 20:35:50Z  >> Zero.
+ 5:35.4 20:35:50Z  >> Zero.
+ 5:48.7 20:36:03Z  >> Six.
+ 5:48.7 20:36:03Z  >> Six.
+ 5:51.3 20:36:06Z  Six.
+ 6:01.0 20:36:16Z  >> Seven.
+ 6:01.0 20:36:16Z  >> Seven.
+ 6:12.9 20:36:27Z  >> Three.
+ 6:12.9 20:36:27Z  >> Three.
+ 6:17.8 20:36:32Z  One
+ 6:25.8 20:36:40Z  one
+ 6:25.8 20:36:40Z  >> one
+ 6:28.2 20:36:43Z  >> one
+ 6:35.0 20:36:50Z  >> four
+ 6:35.0 20:36:50Z  >> four
+ 6:46.4 20:37:01Z  >> zero
+ 6:46.4 20:37:01Z  >> zero Zero
+ 6:59.4 20:37:14Z  >> zero
+ 6:59.4 20:37:14Z  zero
+ 7:01.4 20:37:16Z  >> zero.
+ 7:10.5 20:37:25Z  >> So what happens now is Oh, there's one
+ 7:10.5 20:37:25Z  more.
+ 7:10.8 20:37:25Z  >> Yep.
+ 7:14.9 20:37:29Z  >> Okay.
+ 7:15.0 20:37:29Z  >> No, we're good. I think we're good. Um,
+ 7:16.8 20:37:31Z  so what's going to happen now is this
+ 7:18.2 20:37:33Z  number, as Chuck explained, will be
+ 7:19.8 20:37:34Z  placed into the software to help us
+ 7:21.0 20:37:35Z  determine the random ballot generation.
+ 7:23.0 20:37:38Z  Uh, counties over the next one to two
+ 7:24.9 20:37:39Z  days will be performing the audit by
+ 7:26.7 20:37:41Z  pulling the randomly selected ballots
+ 7:28.4 20:37:43Z  and reporting that back to the Secretary
+ 7:30.1 20:37:45Z  of State's office. When the audit is
+ 7:32.2 20:37:47Z  complete, we will be posting the results
+ 7:34.2 20:37:49Z  on our website. Um, after we have
+ 7:37.0 20:37:51Z  reviewed all of the data that's
+ 7:38.2 20:37:53Z  submitted and look to to determine
+ 7:39.7 20:37:54Z  whether or not we uh can validate these
+ 7:41.9 20:37:56Z  outcomes properly, um, the next thing I
+ 7:44.6 20:37:59Z  think we're going to do before we wrap
+ 7:45.8 20:38:00Z  up is is read off the numbers one last
+ 7:47.8 20:38:02Z  time to confirm that the numbers that we
+ 7:49.4 20:38:04Z  have posted are in fact the numbers that
+ 7:51.4 20:38:06Z  were part of the dice roll.
+ 7:52.9 20:38:07Z  >> I'll read them.
+ 7:54.6 20:38:09Z  Five.
+ 7:56.1 20:38:11Z  Five.
+ 7:57.6 20:38:12Z  7 8 1 8 3 8 6
+ 8:07.9 20:38:22Z  8 3 0 6 7 3 1 4 0 0.
+ 8:19.8 20:38:34Z  >> Excellent.
+ 8:21.4 20:38:36Z  Thank you, Mr. Secretary. Thank you all
+ 8:23.7 20:38:38Z  for coming and and observing this.
+ 8:25.4 20:38:40Z  Thanks to you that are on the line. Uh
+ 8:27.2 20:38:42Z  we appreciate your help. Thank you for
+ 8:29.2 20:38:44Z  this uh first ever event, the Secretary
+ 8:31.5 20:38:46Z  of State's honor. It was an honor, very
+ 8:33.1 20:38:48Z  big honor for me to oversee it. So thank
+ 8:34.9 20:38:49Z  you.

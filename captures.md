@@ -43,6 +43,8 @@ Watched since 2026-11-13T20:01:55Z.
 | 2026-11-16T16:41:18Z | `2fea7052330a6f4a…` | [20261116T164118Z.html](captures/co-audit-center/20261116T164118Z.html) |
 | 2026-11-16T20:58:16Z | `9f06311d8822b161…` | [20261116T205816Z.html](captures/co-audit-center/20261116T205816Z.html) |
 | 2026-11-17T17:49:05Z | `075a3db202f53d10…` | [20261117T174905Z.html](captures/co-audit-center/20261117T174905Z.html) |
+| 2026-11-18T22:24:01Z | `e7c6d05b343f2a5d…` | [20261118T222401Z.html](captures/co-audit-center/20261118T222401Z.html) |
+| 2026-11-19T18:40:11Z | `1fb721b42867d61f…` | [20261119T184011Z.html](captures/co-audit-center/20261119T184011Z.html) |
 
 ## CO: co-rla-2026-general-batch-comparison
 
@@ -67,6 +69,18 @@ Watched since 2026-11-16T22:47:36Z.
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
 | 2026-11-16T22:47:36Z | `4bc21cf518d6be5e…` | [20261116T224736Z.csv](captures/co-rla-2026-general-canonical-list/20261116T224736Z.csv) |
+
+## CO: co-rla-2026-general-complete-release
+
+https://content.govdelivery.com/accounts/COSOS/bulletins/431cb69
+
+release: statewide RLA complete Nov 19
+
+Watched since 2026-11-19T22:47:35Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-19T22:47:35Z | `dd901977a079da47…` | [20261119T224735Z.html](captures/co-rla-2026-general-complete-release/20261119T224735Z.html) |
 
 ## CO: co-rla-2026-general-contests
 
@@ -128,6 +142,150 @@ Watched since 2026-11-13T20:01:57Z.
 |---|---|---|
 | 2026-11-13T20:01:57Z | `c02b1c75cb4eeeb7…` | [20261113T200157Z.html](captures/co-rla-2026-general-risk-limit/20261113T200157Z.html) |
 | 2026-11-16T16:40:17Z | `2759d12f57a78419…` | [20261116T164017Z.html](captures/co-rla-2026-general-risk-limit/20261116T164017Z.html) |
+
+## CO: co-rla-2026-general-round1-activityreport
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/activityReport.xlsx
+
+audit activity report, round 1
+
+Watched since 2026-11-18T22:47:56Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-18T22:47:56Z | `cd659b309e5e7ae5…` | [20261118T224756Z.xlsx](captures/co-rla-2026-general-round1-activityreport/20261118T224756Z.xlsx) |
+
+## CO: co-rla-2026-general-round1-contest
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/contest.csv
+
+contests list, round 1
+
+Watched since 2026-11-18T22:47:48Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-18T22:47:48Z | `663cc14907c78272…` | [20261118T224748Z.csv](captures/co-rla-2026-general-round1-contest/20261118T224748Z.csv) |
+
+## CO: co-rla-2026-general-round1-contestcomparison
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/contestComparison.csv
+
+audit comparison report, round 1
+
+Watched since 2026-11-18T22:47:53Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-18T22:47:53Z | <small>8ad8b93e747cb236<wbr>8465cd47665772a6<wbr>c89057bdad85aeb9<wbr>4bf173d9133c1559</small> | [20261118T224753Z.csv](https://github.com/nealmcb/auditcenter/blob/357c682a45367f1da2fc8faacbeb3d6717f150c8/2026/general/files/round1/contestComparison.csv) (identical copy elsewhere) |
+
+## CO: co-rla-2026-general-round1-contestselection
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/contestSelection.csv
+
+contest margins and CVR IDs, round 1
+
+Watched since 2026-11-18T22:47:50Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-18T22:47:50Z | `b2539326ad10e807…` | [20261118T224750Z.csv](captures/co-rla-2026-general-round1-contestselection/20261118T224750Z.csv) |
+
+## CO: co-rla-2026-general-round1-resultsreport
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/resultsReport.xlsx
+
+audit results report, round 1
+
+Watched since 2026-11-18T22:47:58Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-18T22:47:58Z | `021a30a7c959ba9c…` | [20261118T224758Z.xlsx](captures/co-rla-2026-general-round1-resultsreport/20261118T224758Z.xlsx) |
+
+## CO: co-rla-2026-general-round1-stategeneral
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/stateGeneral.xlsx
+
+state audit report, round 1
+
+Watched since 2026-11-18T22:48:01Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-18T22:48:01Z | `2becb6871083382d…` | [20261118T224801Z.xlsx](captures/co-rla-2026-general-round1-stategeneral/20261118T224801Z.xlsx) |
+
+## CO: co-rla-2026-general-round2-activityreport
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/activityReport.xlsx
+
+audit activity report, round 2
+
+Watched since 2026-11-19T18:47:43Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-19T18:47:43Z | `383d130e99b60b25…` | [20261119T184743Z.xlsx](captures/co-rla-2026-general-round2-activityreport/20261119T184743Z.xlsx) |
+
+## CO: co-rla-2026-general-round2-contest
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/contest.csv
+
+contests list, round 2
+
+Watched since 2026-11-18T22:48:03Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-18T22:48:03Z | `69681810b8420a87…` | [20261118T224803Z.csv](captures/co-rla-2026-general-round2-contest/20261118T224803Z.csv) |
+
+## CO: co-rla-2026-general-round2-contestcomparison
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/contestComparison.csv
+
+audit comparison report, round 2
+
+Watched since 2026-11-19T18:47:39Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-19T18:47:39Z | <small>edb71736deab1065<wbr>fa1975dc2a7df594<wbr>13f68ae3375cc894<wbr>670752717d6b106c</small> | [20261119T184739Z.csv](https://github.com/nealmcb/auditcenter/blob/357c682a45367f1da2fc8faacbeb3d6717f150c8/2026/general/files/round2/contestComparison.csv) (identical copy elsewhere) |
+
+## CO: co-rla-2026-general-round2-contestselection
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/contestSelection.csv
+
+contest margins and CVR IDs, round 2
+
+Watched since 2026-11-18T22:48:06Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-18T22:48:06Z | `4eb106315f3f0052…` | [20261118T224806Z.csv](captures/co-rla-2026-general-round2-contestselection/20261118T224806Z.csv) |
+
+## CO: co-rla-2026-general-round2-resultsreport
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/resultsReport.xlsx
+
+audit results report, round 2
+
+Watched since 2026-11-19T18:47:45Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-19T18:47:45Z | `0f6c5ef58147f672…` | [20261119T184745Z.xlsx](captures/co-rla-2026-general-round2-resultsreport/20261119T184745Z.xlsx) |
+
+## CO: co-rla-2026-general-round2-stategeneral
+
+https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/stateGeneral.xlsx
+
+state audit report, round 2
+
+Watched since 2026-11-19T18:47:47Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-19T18:47:47Z | `fb58bd19e3d7a02f…` | [20261119T184747Z.xlsx](captures/co-rla-2026-general-round2-stategeneral/20261119T184747Z.xlsx) |
 
 ## CO: co-rla-2026-general-seed-notice
 
@@ -235,6 +393,19 @@ Watched since 2026-11-10T15:16:52Z.
 | 2026-11-10T15:49:40Z | `40ae8bd725e2ac25…` | [20261110T154940Z.html](captures/ga-crawford-rla-notice/20261110T154940Z.html) |
 | 2026-11-17T19:21:39Z | `c5e5125089c9fbab…` | [20261117T192139Z.html](captures/ga-crawford-rla-notice/20261117T192139Z.html) |
 | 2026-11-17T19:52:33Z | `59c70325e74decf5…` | [20261117T195233Z.html](captures/ga-crawford-rla-notice/20261117T195233Z.html) |
+| 2026-11-20T00:56:54Z | `b354b00b3a134ab8…` | [20261120T005654Z.html](captures/ga-crawford-rla-notice/20261120T005654Z.html) |
+
+## GA: ga-crawford-rla-results
+
+https://www.crawfordcountyga.org/notice-risk-limiting-audit-results/
+
+Crawford County notice: RLAs complete Nov 19
+
+Watched since 2026-11-20T02:47:53Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-20T02:47:53Z | `287382753720bfe3…` | [20261120T024753Z.html](captures/ga-crawford-rla-results/20261120T024753Z.html) |
 
 ## GA: ga-forsyth-elections
 
@@ -346,6 +517,7 @@ Watched since 2026-11-12T05:24:58Z.
 |---|---|---|
 | 2026-11-12T05:24:58Z | `48a3dfd357c0e490…` | [20261112T052458Z.html](captures/ga-richmond-rla-notice/20261112T052458Z.html) |
 | 2026-11-16T18:26:30Z | `f9ae0e487592abd8…` | [20261116T182630Z.html](captures/ga-richmond-rla-notice/20261116T182630Z.html) |
+| 2026-11-18T22:54:48Z | `821d3af3a4507c00…` | [20261118T225448Z.html](captures/ga-richmond-rla-notice/20261118T225448Z.html) |
 
 ## GA: ga-sos-audit-information
 
@@ -370,6 +542,14 @@ Watched since 2026-11-10T15:16:48Z; fetched successfully until 2026-11-10T15:34:
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
 | 2026-11-10T15:34:19Z | `398c4f56bcceaac4…` | [20261110T153419Z-browser.html](captures/ga-sos-news/20261110T153419Z-browser.html) |
+
+## GA: ga-sos-rla-results-release
+
+https://sos.ga.gov/news/historic-number-risk-limiting-audits-confirm-election-outcomes
+
+SOS release: RLAs confirm outcomes (refuses scripts)
+
+Watched since 2026-11-20T02:47:56Z; every fetch has been refused (HTTP 403), so a browser capture is needed.
 
 ## KS: ks-audit-dates-xlsx
 
@@ -406,6 +586,7 @@ Watched since 2026-11-10T15:17:07Z.
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
 | 2026-11-10T15:17:07Z | `21225ab8a188feb3…` | [20261110T151707Z.pdf](captures/md-2026-calendar/20261110T151707Z.pdf) |
+| 2026-11-19T20:46:07Z | `8319b01f12e0c257…` | [20261119T204607Z.pdf](captures/md-2026-calendar/20261119T204607Z.pdf) |
 
 ## MD: md-ballot-audit-plan
 
@@ -441,7 +622,11 @@ https://www.sos.mn.gov/elections-voting/how-elections-work/post-election-reviews
 
 selected precincts
 
-Watched since 2026-11-10T15:17:46Z; every fetch has been refused (HTTP 200 or a bot-challenge page), so a browser capture is needed.
+Watched since 2026-11-10T15:17:46Z; fetched successfully until 2026-11-19T20:14:22Z, refused since (HTTP 200).
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-19T20:14:22Z | `16ed6501be147baf…` | [20261119T201422Z.html](captures/mn-post-election-reviews/20261119T201422Z.html) |
 
 ## MT: mt-elections
 
@@ -727,6 +912,8 @@ Watched since 2026-11-18T17:10:19Z.
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
 | 2026-11-18T17:10:19Z | `eb1c8dc4bbe8a9f3…` | [20261118T171019Z.html](captures/wa-king-observing/20261118T171019Z.html) |
+| 2026-11-19T01:31:03Z | `0452df0c4a546a88…` | [20261119T013103Z.html](captures/wa-king-observing/20261119T013103Z.html) |
+| 2026-11-19T23:54:56Z | `c80e72e62dc128cf…` | [20261119T235456Z.html](captures/wa-king-observing/20261119T235456Z.html) |
 
 ## WA: wa-post-election-audits
 

@@ -8,6 +8,14 @@ title: News
 
 Articles and official posts about post-election audits of the November 3, 2026 general election, newest first, from Google Alerts and our own searches. State tags link to the state pages.
 
+## 2026-11-19
+
+- **[Texas Secretary of State launches first-of-its-kind audit of U.S. Senate election, newly ...](https://www.houstonpublicmedia.org/articles/news/politics/2026/11/18/567502/texas-secretary-of-state-launches-audit-of-u-s-senate-election/)**, Houston Public Media. Secretary Robert Howden said the "risk-limiting" audit is required by a pair of state laws passed in 2021. Democrat James Talarico defeated ... [TX](states/TX.md)
+- **[Cameron County Elections Department to review three races as part of first statewide audit](https://www.krgv.com/news/cameron-county-elections-department-to-review-three-races-as-part-of-first-statewide-audit/)**, KRGV. The Texas Secretary of State ordered statewide risk-limiting audits, including 3 Cameron County races set for recount on Nov. 19 at 9 a.m.. [TX](states/TX.md)
+- **[Texas launches first statewide risk-limiting election audit - AOL](https://www.aol.com/articles/texas-launches-first-statewide-risk-202538000.html)**, AOL.com. A risk-limiting audit uses a small random sample of ballots cast statewide and compares a hand count of those ballots to the official machine- ... [TX](states/TX.md)
+- **[Election Canvass - Colorado County Citizen](https://www.coloradocountycitizen.com/article/9337,election-canvass)**, Colorado County Citizen. Risk-Limiting Audits (RLAs): Codified under Subchapter I of Chapter 127, Texas law mandates risk-limiting audits for elections featuring statewide ... [TX](states/TX.md)
+- **[In a rarity, petitioners in every precinct of Pennsylvania's 41st House District have requested a recount](https://www.newsbreak.com/votebeat-1724509/5015716147824-in-a-rarity-petitioners-in-every-precinct-of-pennsylvania-s-41st-house-district-have-requested-a-recount)**, Votebeat (via NewsBreak). [PA](states/PA.md)
+
 ## 2026-11-18
 
 - **[Texas picks U.S. Senate race for first statewide ballot audit \| FOX 7 Austin](https://www.fox7austin.com/news/texas-picks-senate-race-first-statewide-ballot-audit)**, FOX 7 Austin. Texas' first statewide risk-limiting audit will check results of the Nov. 3 U.S. Senate election. · Randomly selected paper ballots will be compared ... [TX](states/TX.md)

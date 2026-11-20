@@ -40,6 +40,13 @@ seed, or evidence published before a seed.
 ### Fri Nov 13
 
 - **GA**: County hand counts begin (Fulton: 10 am ET (15:00 UTC), Union City); deadline Tue Nov 17, 5 pm. ET (22:00 UTC) Cobb audits on Nov 13, 16 and 17, and also runs an "Enhanced Audit" that reviews ballot images with independent software. · _official (Fulton, Crawford; [Cobb](https://www.cobbcounty.gov/news/cobb-county-certifies-results-november-3-general-electionspecial-election))_. Fulton's notice says "Thursday, November 13"; Nov 13 is a Friday; Cobb finished Nov 17: 21 state-selected batches (11 advance voting, 9 Election Day, 1 absentee) covering nine contests, 145,244 ballots hand counted by 23 two-person teams, and 339,277 ballot images reviewed; both audits met the state's standard ([Cobb release, Nov 17](https://www.cobbcounty.gov/news/cobb-county-post-election-audits-verify-november-3-election-results))
+
+### Thu Nov 19
+
+- **GA**: RLAs complete: Crawford County's notice of Nov 19 says the risk-limiting audits have been completed, confirming the reported outcomes of all audited contests, and points to the Secretary of State's release, "Historic number of risk-limiting audits confirm election outcomes". · _official ([Crawford County notice](https://www.crawfordcountyga.org/notice-risk-limiting-audit-results/); [SOS release](https://sos.ga.gov/news/historic-number-risk-limiting-audits-confirm-election-outcomes))_. The release's page refuses scripts; a browser copy is wanted
+
+### Fri Nov 13
+
 - **GA**: Richmond County (Augusta) RLA starts, 9:00 am ET (14:00 UTC), Board of Elections Warehouse, 2029 Lumpkin Rd; observers allowed but may not view ballots. · _official ([Augusta, Nov 5](https://www.augustaga.gov/m/newsflash/Home/Detail/4291))_.
 - **PA**: Department of State RLA dice roll, 12:00 pm ET (17:00 UTC), livestreamed, with Secretary of the Commonwealth Al Schmidt; staff rolled 10-sided dice for a 20-digit seed; audits the Governor contest. · _official ([Department of State release](https://www.pa.gov/agencies/dos/newsroom/risk-limiting-audit-2026-general-election); [recording](https://www.facebook.com/PADepartmentofState/videos/2172973120761958))_. Seed 48828428706800623218, from the Department's [recording](https://www.facebook.com/PADepartmentofState/videos/2172973120761958): digits typed from 4:50 to 7:47 into the video, about 17:02:52–17:05:49 UTC if the video's 16:58:02 UTC timestamp marks the stream's start. Posted on the audit page between 18:02 and 18:57 UTC, matching, with Arlo's 8 counties: Allegheny, Bucks, Delaware, Lancaster, Luzerne, Montgomery, Somerset and Tioga
 - **MN**: Houston County review of 2 precincts, 9 am CT (15:00 UTC), Caledonia; reviews statewide Nov 12–17. · _official (county); computed_. Precincts drawn at county canvasses Nov 6–13
@@ -69,6 +76,7 @@ seed, or evidence published before a seed.
 ### Wed Nov 18
 
 - **CO**: Arapahoe County RLA, 9:00 am MT (16:00 UTC), at the Arapahoe County Warehouse, 5251 S Federal Blvd, Littleton; canvass board certification Fri Nov 20. Its target contest is County Commissioner District 2 (diluted margin 2.8%), for which the Secretary of State estimates 262 ballot cards to audit, plus Arapahoe's share of the draws for the statewide contests. · _official ([Arapahoe County elections calendar](https://www.arapahoeco.gov/calendar.php?calendar=6), for the dates; the start time and the warehouse from the Elections Division by phone, 303-795-4511, Nov 18; the warehouse's address from the county's [ballot drop locations](https://www.arapahoeco.gov/your_county/arapahoevotes/voting_locations/ballot_drop_locations.php); [SOS target contest list](https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/2026GeneralRLAContestList.xlsx))_. The dates are in the county calendar's event data, which its page loads by JavaScript. Watchers need a watcher certificate (unverified: an observer's report)
+- **CO**: Round 1 reports posted and round 2 begun: 69 of the 71 targeted contests, including the three statewide ones, met the 3% risk limit in round 1. Jackson County Assessor and Montezuma County Commissioner District 1 each found one one-vote overstatement and continue in round 2. Round 2's reports, listed on the Audit Center by our 18:40 UTC Nov 19 capture, show both meeting the limit, Jackson with 39 cards audited (risk 2.0%) and Montezuma with 70 (2.4%), so all 71 targeted contests have met the 3% risk limit. The Secretary of State announced the audit complete on Nov 19; county canvass boards approve the final tallies by Nov 25. · _official ([SOS release, Nov 19](https://content.govdelivery.com/accounts/COSOS/bulletins/431cb69), [round 2 results report](https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/resultsReport.xlsx), [round 2 contest list](https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round2/contest.csv), [round 1 results report](https://www.sos.state.co.us/pubs/elections/RLA/2026/general/files/round1/resultsReport.xlsx))_. Listed on the Audit Center in our 22:24 UTC Nov 18 capture; all round files are captured. The ballot-by-ballot audit comparison reports ([round 1](https://github.com/nealmcb/auditcenter/blob/357c682a45367f1da2fc8faacbeb3d6717f150c8/2026/general/files/round1/contestComparison.csv), [round 2](https://github.com/nealmcb/auditcenter/blob/357c682a45367f1da2fc8faacbeb3d6717f150c8/2026/general/files/round2/contestComparison.csv), 26 MB each) are linked from the auditcenter mirror, identical to our copies. RLA must finish by Tue Nov 24
 
 ### Mon Nov 16
 
@@ -76,7 +84,7 @@ seed, or evidence published before a seed.
 
 ### Wed Nov 18
 
-- **TX**: Secretary of State generates the RLA's random seed, livestreamed 2:30 pm CT (20:30 UTC) ([YouTube](https://www.youtube.com/live/aPkAeLzbxVg)); the contest audited is U.S. Senate. Seed: 55781838668306731400 (shown on the livestream as 55781 83866 83067 31400), 20 digits from dice rolls; the audit uses Arlo. · _official ([SOS release, Nov 16](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml))_. Texas's first statewide RLA. YouTube shows the start in each viewer's own time zone, e.g. 1:30 pm in Mountain time
+- **TX**: Secretary of State generates the RLA's random seed, livestreamed 2:30 pm CT (20:30 UTC) ([YouTube](https://www.youtube.com/live/aPkAeLzbxVg)); the contest audited is U.S. Senate. Seed: 55781838668306731400 (shown on the livestream as 55781 83866 83067 31400), 20 digits from dice rolls called out and repeated, rolled 20:33–20:37 UTC and read back at 20:38 UTC; the audit uses Arlo, and the Secretary of State's staff noted that anyone can run the same open-source software with the same seed to get the same selection ([livestream](https://www.youtube.com/live/aPkAeLzbxVg)). · _official ([SOS release, Nov 16](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml))_. Texas's first statewide RLA. YouTube shows the start in each viewer's own time zone, e.g. 1:30 pm in Mountain time
 
 ### Thu Nov 19
 
@@ -85,7 +93,11 @@ seed, or evidence published before a seed.
 
 ### Nov 19–20
 
-- **TX**: First risk-limiting audit under SB 827. · _official (SOS training deck)_. At the seed meeting the Secretary of State said the audit runs over the next few days and a report will be posted on the SOS website after the audit
+- **TX**: First risk-limiting audit under SB 827. · _official (SOS training deck)_. At the seed meeting the Secretary of State's office said counties do the audit over the next one to two days, pulling the selected ballots and reporting back, and that the results will be posted on the SOS website once reviewed
+
+### Thu Nov 19
+
+- **TX**: Cameron County reviews three races for the statewide audits, 9 am CT (15:00 UTC). · _news ([KRGV](https://www.krgv.com/news/cameron-county-elections-department-to-review-three-races-as-part-of-first-statewide-audit/))_.
 
 ### Fri Nov 20
 
@@ -110,6 +122,7 @@ seed, or evidence published before a seed.
 
 | When | State | What | Basis |
 |---|---|---|---|
+| Wed Nov 4 | AZ | County hand count audit draws by the parties' county representatives (Yavapai Nov 6); counts Nov 4–10. All 15 counties' reports confirm the machine results: ten found no differences, five found differences of one to seven votes in a race, all within the designated margin, so none was expanded (see the [Arizona page](states/AZ.md)) | official ([county reports](https://azsos.gov/elections/election-information/2026-election-info); copies in the site's evidence folder) |
 | Fri Oct 9 | DC | Public random selection of precincts and contests (Zoom) | official |
 | Fri Oct 16 | NH | SOS selects 8 polling places for the device audit (RSA 660:35), in secret, after memory cards were programmed, using "Google's random number generator"; one more chosen by the SOS (RSA 660:32) | official ([audit report](https://www.sos.nh.gov/sites/g/files/ehbemt561/files/media/media_document/2026-general-election-audit-report.pdf)) |
 | by Mon Oct 19 | NV | Target-contest notice to county clerks (contest not found) | computed |

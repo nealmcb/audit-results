@@ -84,8 +84,12 @@ for how observers can fix the evidence in time before an audit.
 
 ### Watch now (Nov 10–24)
 
-- **Wed Nov 18**: Secretary of State generates the RLA's random seed, livestreamed 2:30 pm CT (20:30 UTC) ([YouTube](https://www.youtube.com/live/aPkAeLzbxVg)); the contest audited is U.S. Senate. Seed: 55781838668306731400 (shown on the livestream as 55781 83866 83067 31400), 20 digits from dice rolls; the audit uses Arlo. · _official ([SOS release, Nov 16](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml))_. Texas's first statewide RLA. YouTube shows the start in each viewer's own time zone, e.g. 1:30 pm in Mountain time
-- **Nov 19–20**: First risk-limiting audit under SB 827. · _official (SOS training deck)_. At the seed meeting the Secretary of State said the audit runs over the next few days and a report will be posted on the SOS website after the audit
+- **Wed Nov 18**: Secretary of State generates the RLA's random seed, livestreamed 2:30 pm CT (20:30 UTC) ([YouTube](https://www.youtube.com/live/aPkAeLzbxVg)); the contest audited is U.S. Senate. Seed: 55781838668306731400 (shown on the livestream as 55781 83866 83067 31400), 20 digits from dice rolls called out and repeated, rolled 20:33–20:37 UTC and read back at 20:38 UTC; the audit uses Arlo, and the Secretary of State's staff noted that anyone can run the same open-source software with the same seed to get the same selection ([livestream](https://www.youtube.com/live/aPkAeLzbxVg)). · _official ([SOS release, Nov 16](https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml))_. Texas's first statewide RLA. YouTube shows the start in each viewer's own time zone, e.g. 1:30 pm in Mountain time
+- **Nov 19–20**: First risk-limiting audit under SB 827. · _official (SOS training deck)_. At the seed meeting the Secretary of State's office said counties do the audit over the next one to two days, pulling the selected ballots and reporting back, and that the results will be posted on the SOS website once reviewed
+
+_Not yet confirmed by an official source:_
+
+- Thu Nov 19: Cameron County reviews three races for the statewide audits, 9 am CT (15:00 UTC). · _news ([KRGV](https://www.krgv.com/news/cameron-county-elections-department-to-review-three-races-as-part-of-first-statewide-audit/))_.
 
 ### Full calendar, Nov 10 – Jan 2027
 
@@ -104,6 +108,10 @@ for how observers can fix the evidence in time before an audit.
 
 Articles and posts from the site's [news log](../news.md), newest first. They are leads, not evidence: the dates above rest on official sources where we have them.
 
+- 2026-11-19 · Houston Public Media: [Texas Secretary of State launches first-of-its-kind audit of U.S. Senate election, newly ...](https://www.houstonpublicmedia.org/articles/news/politics/2026/11/18/567502/texas-secretary-of-state-launches-audit-of-u-s-senate-election/)
+- 2026-11-19 · KRGV: [Cameron County Elections Department to review three races as part of first statewide audit](https://www.krgv.com/news/cameron-county-elections-department-to-review-three-races-as-part-of-first-statewide-audit/)
+- 2026-11-19 · AOL.com: [Texas launches first statewide risk-limiting election audit - AOL](https://www.aol.com/articles/texas-launches-first-statewide-risk-202538000.html)
+- 2026-11-19 · Colorado County Citizen: [Election Canvass - Colorado County Citizen](https://www.coloradocountycitizen.com/article/9337,election-canvass)
 - 2026-11-18 · FOX 7 Austin: [Texas picks U.S. Senate race for first statewide ballot audit \| FOX 7 Austin](https://www.fox7austin.com/news/texas-picks-senate-race-first-statewide-ballot-audit)
 - 2026-11-18 · Yahoo: [Paxton, Talarico race picked for audit as Texas adds scrutiny - Yahoo](https://www.yahoo.com/news/politics/articles/paxton-talarico-race-picked-audit-181206042.html)
 - 2026-11-18 · Texas Border Business: [Texas Secretary of State Begins Mandated Election Audits Following Nov. 3 Vote](https://texasborderbusiness.com/texas-secretary-of-state-begins-mandated-election-audits-following-nov-3-vote/)

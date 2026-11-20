@@ -149,6 +149,12 @@ def fetch_status(rs):
     return f"Watched since {rs[0]['time']}."
 
 
+def large_copies():
+    """sha256 -> URL of an identical public copy, for captures kept out of git (data/large-copies.json)."""
+    f = ROOT / "data" / "large-copies.json"
+    return json.loads(f.read_text()) if f.exists() else {}
+
+
 def captures_md(watch, by):
     out = [front("Captures"), "# Captures of state audit pages\n",
            "Each watched page is fetched every 30 minutes until it goes quiet, then less often (at least "
@@ -168,7 +174,16 @@ def captures_md(watch, by):
         if changes:
             out.append("| Changed at (UTC) | sha256 | Copy |\n|---|---|---|")
             for r in changes:
-                out.append(f"| {r['time']} | `{r['sha256'][:16]}…` | [{pathlib.Path(r['file']).name}]({r['file']}) |")
+                name = pathlib.Path(r["file"]).name
+                if r["file"].startswith("captures-large/"):
+                    # kept out of git (scripts/capture.py LARGE_BYTES); link an identical public copy
+                    # listed in data/large-copies.json, and give the full hash so it can be checked
+                    url = large_copies().get(r["sha256"])
+                    copy = f"[{name}]({url}) (identical copy elsewhere)" if url else f"{name} (kept offline)"
+                    full = "<wbr>".join(r["sha256"][i:i + 16] for i in range(0, 64, 16))  # wraps on phones
+                    out.append(f"| {r['time']} | <small>{full}</small> | {copy} |")
+                else:
+                    out.append(f"| {r['time']} | `{r['sha256'][:16]}…` | [{name}]({r['file']}) |")
             out.append("")
     return "\n".join(out) + "\n"
 

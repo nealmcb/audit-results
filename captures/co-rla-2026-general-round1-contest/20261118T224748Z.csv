@@ -1,0 +1,1001 @@
+contest_name,audit_reason,random_audit_status,winners_allowed,ballot_card_count,contest_ballot_card_count,winners,min_margin,risk_limit,audited_sample_count,two_vote_over_count,one_vote_over_count,zero_discrepancy_count,one_vote_under_count,two_vote_under_count,disagreement_count,gamma,overstatements,optimistic_samples_to_audit,estimated_samples_to_audit
+12th Judicial District Ballot Question 7A,opportunistic_benefits,in_progress,1,20863,20181,"""No/Against""",9894,0.03000000,0,0,0,0,0,0,0,1.03905000,0,16,16
+17th Judicial District Ballot Question 7E,opportunistic_benefits,in_progress,1,457871,242094,"""Yes/For""",151877,0.03000000,0,0,0,0,0,0,0,1.03905000,0,22,22
+5-H LLC R-2 Zoning,opportunistic_benefits,in_progress,1,13186,3913,"""NO/AGAINST""",892,0.03000000,0,0,0,0,0,0,0,1.03905000,0,108,108
+Adams County Assessor,opportunistic_benefits,in_progress,1,416878,202073,"""Thomas Swingle""",66375,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+Adams County Clerk and Recorder,opportunistic_benefits,in_progress,1,416878,202073,"""Josh Zygielbaum""",53653,0.03000000,0,0,0,0,0,0,0,1.03905000,0,57,57
+Adams County Commissioner - District 3,opportunistic_benefits,not_auditable,1,416878,202073,"""Emma Pinter""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Adams County Commissioner - District 4,opportunistic_benefits,in_progress,1,416878,202073,"""Karen DeAguero""",52711,0.03000000,0,0,0,0,0,0,0,1.03905000,0,58,58
+Adams County Coroner,opportunistic_benefits,not_auditable,1,416878,202073,"""Monica Broncucia-Jordan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Adams County Court Judge - Jimenez,opportunistic_benefits,in_progress,1,416878,202073,"""Yes""",58579,0.03000000,0,0,0,0,0,0,0,1.03905000,0,52,52
+Adams County Court Judge - Vielma,opportunistic_benefits,in_progress,1,416878,202073,"""Yes""",56051,0.03000000,0,0,0,0,0,0,0,1.03905000,0,55,55
+Adams County Fire Protection District Ballot Issue 6E,opportunistic_benefits,in_progress,1,416878,21545,"""Yes/For""",3100,0.03000000,0,0,0,0,0,0,0,1.03905000,0,980,980
+Adams County Sheriff,opportunistic_benefits,in_progress,1,416878,202073,"""Gene R. Claps""",49940,0.03000000,0,0,0,0,0,0,0,1.03905000,0,61,61
+Adams County Treasurer,opportunistic_benefits,not_auditable,1,416878,202073,"""Jason Anaya-Ledeboer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Akron Rural Fire Protection District Referred Ballot Issue 6A,opportunistic_benefits,in_progress,1,2442,556,"""YES/FOR""",189,0.03000000,0,0,0,0,0,0,0,1.03905000,0,95,95
+Alamosa County Assessor,opportunistic_benefits,not_auditable,1,6256,6228,"""Jason Duncan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Alamosa County Clerk and Recorder,opportunistic_benefits,not_auditable,1,6256,6228,"""Tina Espinoza""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Alamosa County Commissioner - District 2,opportunistic_benefits,in_progress,1,6256,6228,"""Arlan Van Ry""",196,0.03000000,0,0,0,0,0,0,0,1.03905000,0,233,233
+Alamosa County Coroner,opportunistic_benefits,not_auditable,1,6256,6228,"""Joseph Dzuris""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Alamosa County Court Judge - Walzl,opportunistic_benefits,in_progress,1,6256,6228,"""Yes""",2415,0.03000000,0,0,0,0,0,0,0,1.03905000,0,19,19
+Alamosa County Sheriff,opportunistic_benefits,not_auditable,1,6256,6228,"""Robert Jackson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Alamosa County Surveyor,opportunistic_benefits,not_auditable,1,6256,6228,"""Anthony James Martin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Alamosa County Treasurer,opportunistic_benefits,not_auditable,1,6256,6228,"""Amy McKinley""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Allenspark Fire Protection District Ballot Issue 7C,opportunistic_benefits,in_progress,1,750241,747,"""Yes/For""",406,0.03000000,0,0,0,0,0,0,0,1.03905000,0,13466,13466
+Amendment 81 (CONSTITUTIONAL),opportunistic_benefits,in_progress,1,4384669,2738644,"""No/Against""",162561,0.03000000,0,0,0,0,0,0,0,1.03905000,0,197,197
+Amendment 82 (CONSTITUTIONAL),opportunistic_benefits,in_progress,1,4384669,2738644,"""No/Against""",92216,0.03000000,0,0,0,0,0,0,0,1.03905000,0,347,347
+Amendment 83 (CONSTITUTIONAL),opportunistic_benefits,in_progress,1,4384669,2738644,"""No/Against""",144886,0.03000000,0,0,0,0,0,0,0,1.03905000,0,221,221
+Amendment 84 (CONSTITUTIONAL),opportunistic_benefits,in_progress,1,4384669,2738644,"""No/Against""",509774,0.03000000,0,0,0,0,0,0,0,1.03905000,0,63,63
+Amendment 85 (CONSTITUTIONAL),opportunistic_benefits,in_progress,1,4384669,2738644,"""Yes/For""",99962,0.03000000,0,0,0,0,0,0,0,1.03905000,0,320,320
+Amendment 86 (CONSTITUTIONAL),opportunistic_benefits,in_progress,1,4384669,2738385,"""No/Against""",86205,0.03000000,0,0,0,0,0,0,0,1.03905000,0,371,371
+Amendment 87 (CONSTITUTIONAL),opportunistic_benefits,in_progress,1,4384669,2737509,"""Yes/For""",19663,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1625,1625
+Arapahoe County Assessor,opportunistic_benefits,in_progress,1,539561,272713,"""PK Kaiser""",80099,0.03000000,0,0,0,0,0,0,0,1.03905000,0,50,50
+Arapahoe County Clerk and Recorder,opportunistic_benefits,in_progress,1,539561,272713,"""Joan Lopez""",93752,0.03000000,0,0,0,0,0,0,0,1.03905000,0,42,42
+Arapahoe County Commissioner - District 2,county_wide_contest,in_progress,1,539561,65237,"""Jessica Campbell""",14504,0.03000000,0,0,0,0,0,0,0,1.03905000,0,272,272
+Arapahoe County Commissioner - District 4,opportunistic_benefits,in_progress,1,539561,45978,"""Leslie Summey""",19599,0.03000000,0,0,0,0,0,0,0,1.03905000,0,201,201
+Arapahoe County Coroner,opportunistic_benefits,not_auditable,1,539561,272713,"""Casey Bitting""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Arapahoe County Court Judge - Apostoli,opportunistic_benefits,in_progress,1,539561,272713,"""Yes""",93967,0.03000000,0,0,0,0,0,0,0,1.03905000,0,42,42
+Arapahoe County Court Judge - Clark,opportunistic_benefits,in_progress,1,539561,272713,"""Yes""",67410,0.03000000,0,0,0,0,0,0,0,1.03905000,0,59,59
+Arapahoe County Court Judge - Rowles-Stokes,opportunistic_benefits,in_progress,1,539561,272713,"""Yes""",88104,0.03000000,0,0,0,0,0,0,0,1.03905000,0,45,45
+Arapahoe County School District #6 Littleton Public Schools Ballot Issue 4A,opportunistic_benefits,in_progress,1,539561,54057,"""Yes/For""",5491,0.03000000,0,0,0,0,0,0,0,1.03905000,0,717,717
+Arapahoe County Sheriff,opportunistic_benefits,in_progress,1,539561,272713,"""Tyler Scott Brown""",80815,0.03000000,0,0,0,0,0,0,0,1.03905000,0,49,49
+Arapahoe County Treasurer,opportunistic_benefits,in_progress,1,539561,272713,"""Michael Westerberg""",111835,0.03000000,0,0,0,0,0,0,0,1.03905000,0,36,36
+Archuleta County Assessor,opportunistic_benefits,not_auditable,1,7799,7667,"""Johanna Tully-Elliott""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Archuleta County Ballot Issue 1A,county_wide_contest,in_progress,1,7799,7667,"""Yes/For""",2594,0.03000000,0,0,0,0,0,0,0,1.03905000,0,22,22
+Archuleta County Clerk and Recorder,opportunistic_benefits,not_auditable,1,7799,7667,"""Kristy Archuleta""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Archuleta County Commissioner - District 3,opportunistic_benefits,not_auditable,1,7799,7667,"""Randy Betts""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Archuleta County Coroner,opportunistic_benefits,not_auditable,1,7799,7667,"""Brad Hunt""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Archuleta County School District 50JT Ballot Issue 5A,opportunistic_benefits,in_progress,1,8312,7345,"""Yes/For""",109,0.03000000,0,0,0,0,0,0,0,1.03905000,0,556,556
+Archuleta County Sheriff,opportunistic_benefits,not_auditable,1,7799,7667,"""Mike Le Roux""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Archuleta County Surveyor,opportunistic_benefits,not_auditable,1,7799,7667,"""Ron Sutcliffe""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Archuleta County Treasurer,opportunistic_benefits,not_auditable,1,7799,7667,"""Elsa P. White""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Arickaree School District R-2 Referred Ballot Question 4A,opportunistic_benefits,in_progress,1,2442,302,"""YES/FOR""",78,0.03000000,0,0,0,0,0,0,0,1.03905000,0,229,229
+Arvada Fire Protection District Ballot Issue 6C,opportunistic_benefits,in_progress,1,632674,81731,"""No/Against""",1175,0.03000000,0,0,0,0,0,0,0,1.03905000,0,3924,3924
+Attorney General,state_wide_contest,in_progress,1,4384669,2738644,"""Jena Griswold""",477667,0.03000000,0,0,0,0,0,0,0,1.03905000,0,67,67
+Avon Station Metropolitan District Ballot Issue 6A,opportunistic_benefits,in_progress,1,47997,45,"""No/Against""",7,0.03000000,0,0,0,0,0,0,0,1.03905000,0,49965,49965
+Baca - Colorado Supreme Court Justice - Hood,county_wide_contest,in_progress,1,1613,1613,"""No""",145,0.03000000,0,0,0,0,0,0,0,1.03905000,0,82,82
+Baca County Assessor,opportunistic_benefits,not_auditable,1,1613,1613,"""Crista D. Figgins""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Baca County Clerk and Recorder,opportunistic_benefits,not_auditable,1,1613,1613,"""Sharon Dubois""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Baca County Commissioner - District 2,opportunistic_benefits,not_auditable,1,1613,1613,"""Tyson Chick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Baca County Coroner,opportunistic_benefits,not_auditable,1,1613,1613,"""Everett Brisendine""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Baca County Sheriff,opportunistic_benefits,not_auditable,1,1613,1613,"""Aaron Mack Shiplett""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Baca County Treasurer,opportunistic_benefits,not_auditable,1,1613,1613,"""Jozy Stegman""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+BALLOT QUESTION NO. 2A - IMPOSITION OF ONE-QUARTER PERCENT SALES AND USE TAX FOR DEPARTMENT OF FIRE AND TECHNOLOGY RELATED TO...,opportunistic_benefits,in_progress,1,139454,40440,"""No/Against""",10639,0.03000000,0,0,0,0,0,0,0,1.03905000,0,96,96
+BALLOT QUESTION NO. 2B - ADDITIONAL ONE-SIXTH OF ONE PERCENT (0.167%) SALES TAX FOR THE OPERATIONS AND CAPITAL IMPROVEMENT OF...,opportunistic_benefits,in_progress,1,139454,40440,"""Yes/For""",8279,0.03000000,0,0,0,0,0,0,0,1.03905000,0,123,123
+Basalt & Rural Fire Protection District Ballot Issue 7A,opportunistic_benefits,in_progress,1,66818,5574,"""Yes/For""",1932,0.03000000,0,0,0,0,0,0,0,1.03905000,0,253,253
+Bennett Fire Protection District Ballot Issue 7F,opportunistic_benefits,in_progress,1,956439,4902,"""No/Against""",44,0.03000000,0,0,0,0,0,0,0,1.03905000,0,158399,158399
+Bennett Fire Protection District Ballot Issue 7G,opportunistic_benefits,in_progress,1,956439,4902,"""No/Against""",77,0.03000000,0,0,0,0,0,0,0,1.03905000,0,90514,90514
+Bennett School District 29J Ballot Issue 5A,opportunistic_benefits,in_progress,1,956439,4293,"""No/Against""",279,0.03000000,0,0,0,0,0,0,0,1.03905000,0,24981,24981
+Bent County Assessor,opportunistic_benefits,not_auditable,1,1692,1690,"""Amanda Baker""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Bent County Clerk and Recorder,opportunistic_benefits,not_auditable,1,1692,1690,"""Lynda G Moss""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Bent County Commissioner - District 2,opportunistic_benefits,not_auditable,1,1692,1690,"""C J Gallegos""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Bent County Coroner,opportunistic_benefits,not_auditable,1,1692,1690,"""Jason E Nichols""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Bent County Sheriff,opportunistic_benefits,not_auditable,1,1692,1690,"""Jake R Six""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Bent County Treasurer,opportunistic_benefits,not_auditable,1,1692,1690,"""Jennifer M Godfrey""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Bent - Proposition 137 (STATUTORY),county_wide_contest,in_progress,1,1692,1692,"""No/Against""",282,0.03000000,0,0,0,0,0,0,0,1.03905000,0,44,44
+Blue Mountain Water District Ballot Issue 6A,opportunistic_benefits,in_progress,1,632674,211,"""Yes/For""",149,0.03000000,0,0,0,0,0,0,0,1.03905000,0,30942,30942
+Boulder County Assessor,opportunistic_benefits,not_auditable,1,354401,176996,"""Cynthia Braddock""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Ballot Issue 1A,county_wide_contest,in_progress,1,354401,176540,"""Yes/For""",29605,0.03000000,0,0,0,0,0,0,0,1.03905000,0,88,88
+Boulder County Ballot Question 200,opportunistic_benefits,in_progress,1,354401,176540,"""Yes/For""",52023,0.03000000,0,0,0,0,0,0,0,1.03905000,0,50,50
+Boulder County Ballot Question 201,opportunistic_benefits,in_progress,1,354401,176540,"""Three commissioners resident in districts to be elected only by voters resident in the district; plus two commissioners resident in any district to be elected by voters of the whole county.""",6112,0.03000000,0,0,0,0,0,0,0,1.03905000,0,423,423
+Boulder County Clerk and Recorder,opportunistic_benefits,not_auditable,1,354401,176996,"""Molly Fitzpatrick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Commissioner - District 3,opportunistic_benefits,not_auditable,1,354401,176996,"""Ashley Stolzmann""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Coroner,opportunistic_benefits,not_auditable,1,354401,176996,"""Jeff Martin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Court Judge - Brodsky,opportunistic_benefits,in_progress,1,354401,176996,"""Yes""",74877,0.03000000,0,0,0,0,0,0,0,1.03905000,0,35,35
+Boulder County Court Judge - Haenselman,opportunistic_benefits,in_progress,1,354401,176996,"""Yes""",62179,0.03000000,0,0,0,0,0,0,0,1.03905000,0,42,42
+Boulder County Court Judge - Malkinson,opportunistic_benefits,in_progress,1,354401,176996,"""Yes""",63745,0.03000000,0,0,0,0,0,0,0,1.03905000,0,41,41
+Boulder County Sheriff,opportunistic_benefits,not_auditable,1,354401,176996,"""Curtis Johnson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Surveyor,opportunistic_benefits,not_auditable,1,354401,176996,"""Kayce D. W. Keane""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Treasurer,opportunistic_benefits,not_auditable,1,354401,176996,"""Rachel Friend""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder - Front Range Passenger Rail District Ballot Issue 7A,county_wide_contest,in_progress,1,354401,136419,"""Yes/For""",33188,0.03000000,0,0,0,0,0,0,0,1.03905000,0,78,78
+Broomfield Ballot Question No. 1A (Increasing Lodging Tax),opportunistic_benefits,in_progress,1,40993,40915,"""Yes/For""",533,0.03000000,0,0,0,0,0,0,0,1.03905000,0,561,561
+Broomfield Ballot Question No. 1B,opportunistic_benefits,in_progress,1,40993,40915,"""Yes/For""",18276,0.03000000,0,0,0,0,0,0,0,1.03905000,0,17,17
+Broomfield - Proposition 132 (STATUTORY),county_wide_contest,in_progress,1,40993,40993,"""No/Against""",3302,0.03000000,0,0,0,0,0,0,0,1.03905000,0,91,91
+Buena Vista Inclusion,opportunistic_benefits,in_progress,1,13186,1736,"""For inclusion""",1246,0.03000000,0,0,0,0,0,0,0,1.03905000,0,78,78
+Buffalo School District RE-4J Referred Ballot Issue 5A,opportunistic_benefits,in_progress,1,31270,497,"""YES / FOR""",96,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2374,2374
+BURLINGTON SCHOOL DISTRICT RE-6J BALLOT ISSUE 5D,opportunistic_benefits,in_progress,1,6830,1567,"""Yes/For""",464,0.03000000,0,0,0,0,0,0,0,1.03905000,0,108,108
+CANON CITY SCHOOL DISTRICT RE-1 ISSUE 4A: MILL LEVY OVERRIDE EXTENSION,opportunistic_benefits,in_progress,1,21001,12877,"""Yes/For""",2663,0.03000000,0,0,0,0,0,0,0,1.03905000,0,58,58
+Central Colorado Water Conservancy District Ballot Issue 7B,opportunistic_benefits,in_progress,1,590532,37072,"""No/Against""",3660,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1176,1176
+Chaffee County Assessor,opportunistic_benefits,not_auditable,1,13186,13176,"""Janie Williams""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Chaffee County Clerk and Recorder,opportunistic_benefits,not_auditable,1,13186,13176,"""Sophia Gibb""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Chaffee County Commissioner - District 3,county_wide_contest,in_progress,1,13186,13176,"""PT Wood""",2127,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+Chaffee County Coroner,opportunistic_benefits,not_auditable,1,13186,13176,"""Jeff Graf""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Chaffee County Sheriff,opportunistic_benefits,not_auditable,1,13186,13176,"""Andy Rohrich""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Chaffee County Treasurer,opportunistic_benefits,not_auditable,1,13186,13176,"""Jolene Ellis""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Cheyenne - Colorado Court of Appeals Judge - Harris,county_wide_contest,in_progress,1,891,891,"""NO""",104,0.03000000,0,0,0,0,0,0,0,1.03905000,0,63,63
+Cheyenne County Assessor,opportunistic_benefits,not_auditable,1,891,891,"""Lacey Welsh""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Cheyenne County Clerk and Recorder,opportunistic_benefits,not_auditable,1,891,891,"""Allison Brown""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Cheyenne County Commissioner - District 2,opportunistic_benefits,in_progress,1,891,891,"""Ronald R Smith""",417,0.03000000,0,0,0,0,0,0,0,1.03905000,0,16,16
+Cheyenne County Coroner,opportunistic_benefits,not_auditable,1,891,891,"""Donna March""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Cheyenne County Sheriff,opportunistic_benefits,not_auditable,1,891,891,"""Joseph Conner""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Cheyenne County Treasurer,opportunistic_benefits,not_auditable,1,891,891,"""Gaila Mitchek""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+City and County of Broomfield Councilmember Ward 1 (1 Year),opportunistic_benefits,not_auditable,1,40993,7420,"""Katie Peterson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+City of Alamosa Ballot Issue 2A - Extension of Streets Trust Fund Sales Tax,county_wide_contest,in_progress,1,6256,3075,"""Yes/For""",443,0.03000000,0,0,0,0,0,0,0,1.03905000,0,103,103
+City of Aspen Ballot Issue 2A: Debt for Water Treatment Facility Project,opportunistic_benefits,in_progress,1,18821,3643,"""Yes/For""",2177,0.03000000,0,0,0,0,0,0,0,1.03905000,0,63,63
+City of Aurora Ballot Issue 3A,opportunistic_benefits,in_progress,1,1174933,133563,"""No/Against""",20020,0.03000000,0,0,0,0,0,0,0,1.03905000,0,428,428
+City of Aurora Ballot Issue 3B,opportunistic_benefits,in_progress,1,1174933,133563,"""No/Against""",32337,0.03000000,0,0,0,0,0,0,0,1.03905000,0,265,265
+City of Aurora Ballot Issue 3C,opportunistic_benefits,in_progress,1,1174933,133424,"""No/Against""",14256,0.03000000,0,0,0,0,0,0,0,1.03905000,0,601,601
+City of Aurora Ballot Question 3D,opportunistic_benefits,in_progress,1,1174933,133540,"""No/Against""",3933,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2177,2177
+City of Boulder Ballot Issue 2J,opportunistic_benefits,in_progress,1,354401,49531,"""Yes/For""",8740,0.03000000,0,0,0,0,0,0,0,1.03905000,0,296,296
+City of Boulder Ballot Issue 2K,opportunistic_benefits,in_progress,1,354401,49531,"""No/Against""",4341,0.03000000,0,0,0,0,0,0,0,1.03905000,0,595,595
+City of Boulder Ballot Question 2L,opportunistic_benefits,in_progress,1,354401,49531,"""For the Measure""",29140,0.03000000,0,0,0,0,0,0,0,1.03905000,0,89,89
+City of Boulder Ballot Question 2M,opportunistic_benefits,in_progress,1,354401,49531,"""For the Measure""",4518,0.03000000,0,0,0,0,0,0,0,1.03905000,0,572,572
+City of Boulder Council Candidates,opportunistic_benefits,in_progress,5,354401,49698,"""Tara Winer"",""Jill Adler Grano"",""Ryan Schuchard"",""Sam Fuqua"",""Tina Marquis""",2434,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1062,1062
+City of Boulder Mayoral Candidates,opportunistic_benefits,in_progress,1,354401,49698,"""Aaron Brockett""",10396,0.03000000,0,0,0,0,0,0,0,1.03905000,0,249,249
+CITY OF CÃNON CITY ISSUE 2A,opportunistic_benefits,in_progress,1,21001,7196,"""Yes/For""",2052,0.03000000,0,0,0,0,0,0,0,1.03905000,0,75,75
+City of Castle Pines Ballot Question 300,opportunistic_benefits,in_progress,1,218494,9220,"""YES""",3548,0.03000000,0,0,0,0,0,0,0,1.03905000,0,449,449
+City of Castle Pines Ballot Question 301,opportunistic_benefits,in_progress,1,218494,9220,"""YES""",2357,0.03000000,0,0,0,0,0,0,0,1.03905000,0,676,676
+City of Centennial Ballot Issue 2A,opportunistic_benefits,in_progress,1,539561,57773,"""No/Against""",11495,0.03000000,0,0,0,0,0,0,0,1.03905000,0,343,343
+City of Central Alderman,opportunistic_benefits,in_progress,2,3956,333,"""Eric Langan"",""Kathy Walker""",12,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2403,2403
+City of Central Mayor,opportunistic_benefits,not_auditable,1,3956,333,"""Chuck Spencer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+City of Cherry Hills Village Ballot Question 2C,opportunistic_benefits,in_progress,1,539561,3756,"""Yes/For""",2391,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1645,1645
+City of Cherry Hills Village Councilmember District 2,opportunistic_benefits,not_auditable,1,539561,3805,"""Bill Lucas""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+City of Cherry Hills Village Councilmember District 4,opportunistic_benefits,not_auditable,1,539561,3805,"""Doug Kelsall""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+City of Cherry Hills Village Councilmember District 6,opportunistic_benefits,not_auditable,1,539561,3805,"""Robert Eber""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+City of Cherry Hills Village Mayor,opportunistic_benefits,in_progress,1,539561,3809,"""Susan Maguire""",1602,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2455,2455
+City of Cortez Ballot Question 2A,opportunistic_benefits,in_progress,1,12801,3297,"""No/Against""",153,0.03000000,0,0,0,0,0,0,0,1.03905000,0,610,610
+City of Cripple Creek Ballot Question 2A,opportunistic_benefits,in_progress,1,14416,389,"""Yes/For""",68,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1545,1545
+City of Edgewater Ballot Issue 2K,opportunistic_benefits,in_progress,1,632674,2110,"""Yes/For""",224,0.03000000,0,0,0,0,0,0,0,1.03905000,0,20582,20582
+City of Evans Ballot Issue 2C,opportunistic_benefits,in_progress,1,152784,6831,"""Yes/For""",1288,0.03000000,0,0,0,0,0,0,0,1.03905000,0,865,865
+City of Evans Mayor,opportunistic_benefits,in_progress,1,152784,6831,"""Alicia Johnson""",2357,0.03000000,0,0,0,0,0,0,0,1.03905000,0,473,473
+City of Evans Ward 1 Council Member 2Yr,opportunistic_benefits,not_auditable,1,152784,1517,"""Derek S. Ward""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+City of Evans Ward 1 Council Member 4Yr,opportunistic_benefits,not_auditable,1,152784,1517,"""Consuelo G. Lopez""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+City of Evans Ward 3 Council Member,opportunistic_benefits,in_progress,1,152784,2905,"""Ryan C. Schuiling""",184,0.03000000,0,0,0,0,0,0,0,1.03905000,0,6051,6051
+City of Glendale Ballot Question 2B,opportunistic_benefits,in_progress,1,539561,1268,"""Yes/For""",252,0.03000000,0,0,0,0,0,0,0,1.03905000,0,15603,15603
+City of Grand Junction Referred Measure 2B,county_wide_contest,in_progress,1,77640,32836,"""No/Against""",3663,0.03000000,0,0,0,0,0,0,0,1.03905000,0,155,155
+City of Greeley Ballot Issue 2F,opportunistic_benefits,in_progress,1,152784,37683,"""No/Against""",14176,0.03000000,0,0,0,0,0,0,0,1.03905000,0,79,79
+City of Holyoke Ballot Measure 2B Tax Reallocation,county_wide_contest,in_progress,1,1973,815,"""Yes/For""",487,0.03000000,0,0,0,0,0,0,0,1.03905000,0,30,30
+CITY OF IDAHO SPRINGS BALLOT ISSUE 2A,opportunistic_benefits,in_progress,1,5275,794,"""Yes/For""",10,0.03000000,0,0,0,0,0,0,0,1.03905000,0,3844,3844
+City of Lafayette Ballot Issue 2A,opportunistic_benefits,in_progress,1,354401,17060,"""Yes/For""",5391,0.03000000,0,0,0,0,0,0,0,1.03905000,0,480,480
+City of Lakewood Ballot Issue 2G,opportunistic_benefits,in_progress,1,632674,74628,"""No/Against""",14328,0.03000000,0,0,0,0,0,0,0,1.03905000,0,322,322
+City of Lakewood Ballot Question 2H,opportunistic_benefits,in_progress,1,632674,74628,"""Yes/For""",31802,0.03000000,0,0,0,0,0,0,0,1.03905000,0,145,145
+City of Lakewood Ballot Question 2I,opportunistic_benefits,in_progress,1,632674,74628,"""Yes/For""",23434,0.03000000,0,0,0,0,0,0,0,1.03905000,0,197,197
+City of Lakewood Ballot Question 2J,opportunistic_benefits,in_progress,1,632674,74628,"""Yes/For""",10987,0.03000000,0,0,0,0,0,0,0,1.03905000,0,420,420
+City of Longmont Ballot Issue 3A,opportunistic_benefits,in_progress,1,507185,50074,"""No/Against""",15042,0.03000000,0,0,0,0,0,0,0,1.03905000,0,246,246
+City of Longmont Ballot Question 3B,opportunistic_benefits,in_progress,1,507185,50074,"""Yes/For""",28676,0.03000000,0,0,0,0,0,0,0,1.03905000,0,129,129
+City of Longmont Ballot Question 3C,opportunistic_benefits,in_progress,1,507185,50074,"""Yes/For""",5648,0.03000000,0,0,0,0,0,0,0,1.03905000,0,655,655
+City of Longmont Ballot Question 3D,opportunistic_benefits,in_progress,1,507185,50074,"""Yes/For""",8713,0.03000000,0,0,0,0,0,0,0,1.03905000,0,425,425
+City of Louisville Ballot Issue 2B,opportunistic_benefits,in_progress,1,354401,12754,"""No/Against""",837,0.03000000,0,0,0,0,0,0,0,1.03905000,0,3086,3086
+City of Louisville Ballot Question 2C,opportunistic_benefits,in_progress,1,354401,12754,"""No/Against""",1479,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1747,1747
+City of Louisville Ballot Question 2D,opportunistic_benefits,in_progress,1,354401,12754,"""Yes/For""",5261,0.03000000,0,0,0,0,0,0,0,1.03905000,0,491,491
+City of Louisville Ballot Question 2E,opportunistic_benefits,in_progress,1,354401,12754,"""No/Against""",3074,0.03000000,0,0,0,0,0,0,0,1.03905000,0,841,841
+City of Louisville Ballot Question 2F,opportunistic_benefits,in_progress,1,354401,12754,"""Yes/For""",1252,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2063,2063
+City of Louisville Ballot Question 2G,opportunistic_benefits,in_progress,1,354401,12754,"""Yes/For""",900,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2870,2870
+City of Louisville Ballot Question 2H,opportunistic_benefits,in_progress,1,354401,12754,"""Yes/For""",2875,0.03000000,0,0,0,0,0,0,0,1.03905000,0,899,899
+City of Manitou Springs Ballot Issue 2A,opportunistic_benefits,in_progress,1,321717,2871,"""Yes/For""",522,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4492,4492
+City of Montrose City Clerk Ballot Question 2D,opportunistic_benefits,in_progress,1,21689,10382,"""No/Against""",359,0.03000000,0,0,0,0,0,0,0,1.03905000,0,441,441
+City of Montrose Elections Ballot Question 2A,opportunistic_benefits,in_progress,1,21689,10382,"""Yes/For""",336,0.03000000,0,0,0,0,0,0,0,1.03905000,0,471,471
+City of Montrose Police Chief Ballot Question 2C,opportunistic_benefits,in_progress,1,21689,10382,"""No/Against""",275,0.03000000,0,0,0,0,0,0,0,1.03905000,0,575,575
+City of Montrose Term Limits Ballot Question 2B,county_wide_contest,in_progress,1,21689,10382,"""Yes/For""",2598,0.03000000,0,0,0,0,0,0,0,1.03905000,0,61,61
+City of Northglenn Ballot Issue 3H,opportunistic_benefits,in_progress,1,569662,13937,"""No/Against""",4811,0.03000000,0,0,0,0,0,0,0,1.03905000,0,863,863
+City of Rocky Ford Ballot Question 2A,opportunistic_benefits,in_progress,1,7248,1268,"""NO/AGAINST""",163,0.03000000,0,0,0,0,0,0,0,1.03905000,0,325,325
+City of Sheridan Ballot Issue 2D,opportunistic_benefits,in_progress,1,539561,1802,"""No/Against""",558,0.03000000,0,0,0,0,0,0,0,1.03905000,0,7047,7047
+City of Sterling Referred Ballot Issue 2A,county_wide_contest,in_progress,1,7958,3662,"""YES / FOR""",369,0.03000000,0,0,0,0,0,0,0,1.03905000,0,158,158
+City of Thornton Ballot Question No. 2A,opportunistic_benefits,in_progress,1,416878,59719,"""Yes/For""",16184,0.03000000,0,0,0,0,0,0,0,1.03905000,0,188,188
+City of Walsenburg Ballot Issue 300,opportunistic_benefits,in_progress,1,3845,1349,"""No/Against""",714,0.03000000,0,0,0,0,0,0,0,1.03905000,0,40,40
+City of Walsenburg Ballot Question 2A,opportunistic_benefits,in_progress,1,3845,1349,"""No/Against""",100,0.03000000,0,0,0,0,0,0,0,1.03905000,0,281,281
+City of Wheat Ridge Ballot Issue 2A,opportunistic_benefits,in_progress,1,632674,17132,"""Yes/For""",354,0.03000000,0,0,0,0,0,0,0,1.03905000,0,13024,13024
+City of Woodland Park Ballot Issue 2B,county_wide_contest,in_progress,1,14416,4429,"""No/Against""",1461,0.03000000,0,0,0,0,0,0,0,1.03905000,0,72,72
+City of Wray Ballot Question 2A,opportunistic_benefits,in_progress,1,3826,795,"""No/Against""",99,0.03000000,0,0,0,0,0,0,0,1.03905000,0,282,282
+Clear Creek County Assessor,opportunistic_benefits,not_auditable,1,5275,5198,"""Donna Gee""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+CLEAR CREEK COUNTY BALLOT ISSUE 1A,county_wide_contest,in_progress,1,5275,4622,"""Yes/For""",258,0.03000000,0,0,0,0,0,0,0,1.03905000,0,149,149
+Clear Creek County Clerk and Recorder,opportunistic_benefits,in_progress,1,5275,5198,"""Ursula ""Uchi"" Cruzalegui""",16,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2403,2403
+Clear Creek County Commissioner - District 1,opportunistic_benefits,in_progress,1,5275,5198,"""Chris Gould""",1769,0.03000000,0,0,0,0,0,0,0,1.03905000,0,22,22
+Clear Creek County Coroner,opportunistic_benefits,not_auditable,1,5275,5198,"""Chris Hegmann""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Clear Creek County Sheriff,opportunistic_benefits,not_auditable,1,5275,5198,"""Ron Thornton""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Clear Creek County Treasurer,opportunistic_benefits,not_auditable,1,5275,5198,"""Keith Vieweg Jr""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+CLEAR CREEK SCHOOL DISTRICT NO. RE-1 BALLOT ISSUE 4A,opportunistic_benefits,in_progress,1,5275,5198,"""No/Against""",404,0.03000000,0,0,0,0,0,0,0,1.03905000,0,96,96
+Colorado Court of Appeals Judge - Freyre,opportunistic_benefits,in_progress,1,4384669,2738644,"""Yes""",561260,0.03000000,0,0,0,0,0,0,0,1.03905000,0,57,57
+Colorado Court of Appeals Judge - Harris,opportunistic_benefits,in_progress,1,4383778,2737753,"""Yes""",508020,0.03000000,0,0,0,0,0,0,0,1.03905000,0,63,63
+Colorado Court of Appeals Judge - Lum,opportunistic_benefits,in_progress,1,4380578,2734553,"""Yes""",550350,0.03000000,0,0,0,0,0,0,0,1.03905000,0,59,59
+Colorado Court of Appeals Judge - Moultrie,opportunistic_benefits,in_progress,1,4362321,2722127,"""Yes""",521402,0.03000000,0,0,0,0,0,0,0,1.03905000,0,61,61
+Colorado Court of Appeals Judge - Schock,opportunistic_benefits,in_progress,1,4384669,2738644,"""Yes""",514944,0.03000000,0,0,0,0,0,0,0,1.03905000,0,63,63
+Colorado Court of Appeals Judge - Sullivan,opportunistic_benefits,in_progress,1,4332640,2712673,"""Yes""",489299,0.03000000,0,0,0,0,0,0,0,1.03905000,0,65,65
+Colorado Springs School District 11 Ballot Issue 4A,opportunistic_benefits,in_progress,1,321717,102583,"""Yes/For""",3368,0.03000000,0,0,0,0,0,0,0,1.03905000,0,697,697
+Colorado Supreme Court Justice - Hood,opportunistic_benefits,in_progress,1,4383056,2737031,"""Yes""",384469,0.03000000,0,0,0,0,0,0,0,1.03905000,0,84,84
+Columbine Knolls Grove Metropolitan Recreation District Ballot Issue 6D,opportunistic_benefits,in_progress,1,632674,1801,"""No/Against""",249,0.03000000,0,0,0,0,0,0,0,1.03905000,0,18516,18516
+Columbine Knolls Grove Metropolitan Recreation District Ballot Issue 6E,opportunistic_benefits,in_progress,1,632674,1801,"""No/Against""",321,0.03000000,0,0,0,0,0,0,0,1.03905000,0,14363,14363
+Conejos County Assessor,opportunistic_benefits,not_auditable,1,3560,3560,"""Naomi Martinez-Keys """,0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Conejos County Clerk and Recorder,opportunistic_benefits,not_auditable,1,3560,3560,"""Nathan Ruybal """,0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Conejos County Commissioner District 2,opportunistic_benefits,in_progress,1,3560,3560,"""Randy Perea""",310,0.03000000,0,0,0,0,0,0,0,1.03905000,0,84,84
+Conejos County Coroner,opportunistic_benefits,not_auditable,1,3560,3560,"""Ashley Crowther """,0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Conejos County Sheriff,county_wide_contest,in_progress,1,3560,3560,"""Garth Crowther """,834,0.03000000,0,0,0,0,0,0,0,1.03905000,0,32,32
+Conejos County Surveyor,opportunistic_benefits,not_auditable,1,3560,3560,"""Toby Crowther """,0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Conejos County Treasurer,opportunistic_benefits,in_progress,1,3560,3560,"""Donald E. Valdez""",280,0.03000000,0,0,0,0,0,0,0,1.03905000,0,93,93
+Conifer Fire Protection District Ballot Issue 7D,opportunistic_benefits,in_progress,1,851168,3475,"""Yes/For""",802,0.03000000,0,0,0,0,0,0,0,1.03905000,0,7734,7734
+COSTILLA COUNTY AMBULANCE DISTRICT BALLOT ISSUE 6A,opportunistic_benefits,in_progress,1,2588,2588,"""No/Against""",10,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1886,1886
+Costilla County Assessor,opportunistic_benefits,in_progress,1,2588,1941,"""Pamela Vigil""",678,0.03000000,0,0,0,0,0,0,0,1.03905000,0,28,28
+Costilla County Clerk and Recorder,opportunistic_benefits,not_auditable,1,2588,1941,"""Adelia Romero""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Costilla County Commissioner District 2,opportunistic_benefits,in_progress,1,2588,1941,"""Patrick Roybal""",1013,0.03000000,0,0,0,0,0,0,0,1.03905000,0,19,19
+Costilla County Coroner,opportunistic_benefits,not_auditable,1,2588,1941,"""Sherri Vigil""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Costilla County Sheriff,county_wide_contest,in_progress,1,2588,1941,"""Jason Maestas""",378,0.03000000,0,0,0,0,0,0,0,1.03905000,0,50,50
+Costilla County Treasurer,opportunistic_benefits,not_auditable,1,2588,1941,"""Michael Ray Vigil""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Councilmember At-Large - Seat B,county_wide_contest,in_progress,1,626644,312542,"""Melissa Adriana Mejía""",32729,0.03000000,0,0,0,0,0,0,0,1.03905000,0,140,140
+County Court Judge - Costilla,opportunistic_benefits,in_progress,1,2588,1941,"""Yes""",466,0.03000000,0,0,0,0,0,0,0,1.03905000,0,41,41
+County Court Judge - Denver Eddy,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",126472,0.03000000,0,0,0,0,0,0,0,1.03905000,0,37,37
+County Court Judge - Denver Fay,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",125752,0.03000000,0,0,0,0,0,0,0,1.03905000,0,37,37
+County Court Judge - Denver Lombardi,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",122801,0.03000000,0,0,0,0,0,0,0,1.03905000,0,38,38
+County Court Judge - Denver Malone,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",125340,0.03000000,0,0,0,0,0,0,0,1.03905000,0,37,37
+County Court Judge - Denver Martinez-Thomas,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",128267,0.03000000,0,0,0,0,0,0,0,1.03905000,0,36,36
+County Court Judge - Denver Shamsid-Deen,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",112583,0.03000000,0,0,0,0,0,0,0,1.03905000,0,41,41
+County Court Judge - Denver Smith,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",122606,0.03000000,0,0,0,0,0,0,0,1.03905000,0,38,38
+Crowley County Assessor,opportunistic_benefits,not_auditable,1,1357,1356,"""Douglas K England""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Crowley County Clerk and Recorder,opportunistic_benefits,not_auditable,1,1357,1356,"""Melinda ""Mindy"" Carter""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Crowley County Commissioner - District 1,opportunistic_benefits,not_auditable,1,1357,1356,"""Roy Elliott""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Crowley County Coroner,opportunistic_benefits,not_auditable,1,1357,1356,"""Kelli Jo Brubaker""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Crowley County Court Judge - Boyce,county_wide_contest,in_progress,1,1357,1356,"""No""",158,0.03000000,0,0,0,0,0,0,0,1.03905000,0,63,63
+Crowley County Sheriff,opportunistic_benefits,not_auditable,1,1357,1356,"""Jonathan Mazzella""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Crowley County Treasurer,opportunistic_benefits,not_auditable,1,1357,1356,"""Holly McCuistion""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer County Assessor,opportunistic_benefits,not_auditable,1,3384,3246,"""J.D. Henrich""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer County Board of County Commissioners - District 1,opportunistic_benefits,not_auditable,1,3384,3246,"""Taylor LoPresti""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer County Clerk and Recorder,opportunistic_benefits,not_auditable,1,3384,3246,"""Kelley S. Camper""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer County Coroner,opportunistic_benefits,not_auditable,1,3384,3246,"""Bradford L. Baltzly""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer County Court Judge - Halpin,opportunistic_benefits,in_progress,1,3384,3246,"""Yes""",933,0.03000000,0,0,0,0,0,0,0,1.03905000,0,27,27
+Custer County Sheriff,opportunistic_benefits,not_auditable,1,3384,3246,"""Lloyd Rich Smith""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer County Treasurer,opportunistic_benefits,not_auditable,1,3384,3246,"""Virginia Trujillo""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer - Proposition 137 (STATUTORY),county_wide_contest,in_progress,1,3384,3248,"""No/Against""",378,0.03000000,0,0,0,0,0,0,0,1.03905000,0,66,66
+DEER MOUNTAIN FIRE PROTECTION DISTRICT ISSUE 6A: TAX INCREASE FOR FIRE PROTECTION AND RELATED SERVICES,opportunistic_benefits,in_progress,1,21001,1668,"""No/Against""",12,0.03000000,0,0,0,0,0,0,0,1.03905000,0,12753,12753
+Delta - Colorado Court of Appeals Judge - Moultrie,county_wide_contest,in_progress,1,22348,16517,"""Yes""",2702,0.03000000,0,0,0,0,0,0,0,1.03905000,0,61,61
+Delta County Assessor,opportunistic_benefits,not_auditable,1,22348,16511,"""Jolene George""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Delta County Clerk and Recorder,opportunistic_benefits,not_auditable,1,22348,16511,"""Rene D. Warner""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Delta County Commissioner - District 1,opportunistic_benefits,in_progress,1,22348,16511,"""Matt Soper""",4859,0.03000000,0,0,0,0,0,0,0,1.03905000,0,34,34
+Delta County Coroner,opportunistic_benefits,in_progress,1,22348,16511,"""Lance B. Boren""",5310,0.03000000,0,0,0,0,0,0,0,1.03905000,0,31,31
+Delta County Sheriff,opportunistic_benefits,in_progress,1,22348,16511,"""Quinn Archibeque""",5216,0.03000000,0,0,0,0,0,0,0,1.03905000,0,32,32
+Delta County Treasurer,opportunistic_benefits,not_auditable,1,22348,16511,"""Brittany Kuhn""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Denver - Front Range Passenger Rail District Ballot Issue 7A,county_wide_contest,in_progress,1,626644,312123,"""YES/FOR""",93307,0.03000000,0,0,0,0,0,0,0,1.03905000,0,49,49
+Denver Public Schools Ballot Issue 4A,opportunistic_benefits,in_progress,1,626644,312123,"""YES/FOR""",112398,0.03000000,0,0,0,0,0,0,0,1.03905000,0,41,41
+District Court Judge - 10th Judicial District - Alexander,opportunistic_benefits,in_progress,1,139454,69490,"""No""",10407,0.03000000,0,0,0,0,0,0,0,1.03905000,0,98,98
+District Court Judge - 10th Judicial District - Chostner,opportunistic_benefits,in_progress,1,139454,69490,"""Yes""",11560,0.03000000,0,0,0,0,0,0,0,1.03905000,0,88,88
+District Court Judge - 10th Judicial District - Ernst,opportunistic_benefits,in_progress,1,139454,69490,"""Yes""",5552,0.03000000,0,0,0,0,0,0,0,1.03905000,0,184,184
+District Court Judge - 10th Judicial District - Thomas,opportunistic_benefits,in_progress,1,139454,69490,"""Yes""",4007,0.03000000,0,0,0,0,0,0,0,1.03905000,0,254,254
+District Court Judge - 11th Judicial District - Hunter,opportunistic_benefits,in_progress,1,47499,46858,"""Yes""",963,0.03000000,0,0,0,0,0,0,0,1.03905000,0,360,360
+District Court Judge - 11th Judicial District - Vise,opportunistic_benefits,in_progress,1,47499,46858,"""Yes""",993,0.03000000,0,0,0,0,0,0,0,1.03905000,0,349,349
+District Court Judge - 12th Judicial District - Gonzales,opportunistic_benefits,in_progress,1,20863,20181,"""Yes""",6646,0.03000000,0,0,0,0,0,0,0,1.03905000,0,23,23
+District Court Judge - 12th Judicial District - Hopkins,opportunistic_benefits,in_progress,1,20863,20181,"""Yes""",5193,0.03000000,0,0,0,0,0,0,0,1.03905000,0,30,30
+District Court Judge - 13th Judicial District - Christiansen,opportunistic_benefits,in_progress,1,34919,24463,"""No""",1730,0.03000000,0,0,0,0,0,0,0,1.03905000,0,148,148
+District Court Judge - 14th Judicial District - Schneider,opportunistic_benefits,in_progress,1,31212,28441,"""Yes""",428,0.03000000,0,0,0,0,0,0,0,1.03905000,0,532,532
+District Court Judge - 15th Judicial District - Johnson,opportunistic_benefits,in_progress,1,7320,7319,"""Yes""",1161,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+District Court Judge - 17th Judicial District - Datz,opportunistic_benefits,in_progress,1,457871,242988,"""Yes""",66215,0.03000000,0,0,0,0,0,0,0,1.03905000,0,51,51
+District Court Judge - 17th Judicial District - Finn,opportunistic_benefits,in_progress,1,457871,242988,"""Yes""",47259,0.03000000,0,0,0,0,0,0,0,1.03905000,0,71,71
+District Court Judge - 17th Judicial District - Loew,opportunistic_benefits,in_progress,1,457871,242988,"""Yes""",68251,0.03000000,0,0,0,0,0,0,0,1.03905000,0,49,49
+District Court Judge - 17th Judicial District - Ruff,opportunistic_benefits,in_progress,1,457871,242988,"""Yes""",57201,0.03000000,0,0,0,0,0,0,0,1.03905000,0,59,59
+District Court Judge - 17th Judicial District - Southerland,opportunistic_benefits,in_progress,1,457871,242988,"""Yes""",66943,0.03000000,0,0,0,0,0,0,0,1.03905000,0,50,50
+District Court Judge - 18th Judicial District - Amico,opportunistic_benefits,in_progress,1,539561,272713,"""Yes""",94537,0.03000000,0,0,0,0,0,0,0,1.03905000,0,42,42
+District Court Judge - 18th Judicial District - Baker-McKay,opportunistic_benefits,in_progress,1,539561,272713,"""Yes""",88261,0.03000000,0,0,0,0,0,0,0,1.03905000,0,45,45
+District Court Judge - 18th Judicial District - Edson,opportunistic_benefits,in_progress,1,539561,272713,"""Yes""",84239,0.03000000,0,0,0,0,0,0,0,1.03905000,0,47,47
+District Court Judge - 18th Judicial District - Henderson,opportunistic_benefits,in_progress,1,539561,272713,"""Yes""",85400,0.03000000,0,0,0,0,0,0,0,1.03905000,0,47,47
+District Court Judge - 18th Judicial District - Jones,opportunistic_benefits,in_progress,1,539561,272713,"""Yes""",89390,0.03000000,0,0,0,0,0,0,0,1.03905000,0,44,44
+District Court Judge - 18th Judicial District - Karpel,opportunistic_benefits,in_progress,1,539561,272713,"""Yes""",84626,0.03000000,0,0,0,0,0,0,0,1.03905000,0,47,47
+District Court Judge - 18th Judicial District - Stricklin,opportunistic_benefits,in_progress,1,539561,272713,"""Yes""",90448,0.03000000,0,0,0,0,0,0,0,1.03905000,0,44,44
+District Court Judge - 18th Judicial District - Vahle,opportunistic_benefits,in_progress,1,539561,272713,"""Yes""",76180,0.03000000,0,0,0,0,0,0,0,1.03905000,0,52,52
+District Court Judge - 18th Judicial District - Washburn,opportunistic_benefits,in_progress,1,539561,272713,"""Yes""",81133,0.03000000,0,0,0,0,0,0,0,1.03905000,0,49,49
+District Court Judge - 19th Judicial District - Galloway,opportunistic_benefits,in_progress,1,152784,152036,"""Yes""",25225,0.03000000,0,0,0,0,0,0,0,1.03905000,0,45,45
+District Court Judge - 19th Judicial District - Kerns,opportunistic_benefits,in_progress,1,152784,152036,"""Yes""",27703,0.03000000,0,0,0,0,0,0,0,1.03905000,0,41,41
+District Court Judge - 1st Judicial District - Contiguglia,opportunistic_benefits,in_progress,1,636630,318507,"""Yes""",66739,0.03000000,0,0,0,0,0,0,0,1.03905000,0,70,70
+District Court Judge - 1st Judicial District - Loewer,opportunistic_benefits,in_progress,1,636630,318507,"""Yes""",76868,0.03000000,0,0,0,0,0,0,0,1.03905000,0,61,61
+District Court Judge - 1st Judicial District - Miloud,opportunistic_benefits,in_progress,1,636630,318507,"""Yes""",73231,0.03000000,0,0,0,0,0,0,0,1.03905000,0,64,64
+District Court Judge - 1st Judicial District - Poland,opportunistic_benefits,in_progress,1,636630,318507,"""Yes""",82713,0.03000000,0,0,0,0,0,0,0,1.03905000,0,57,57
+District Court Judge - 1st Judicial District - Rhamey,opportunistic_benefits,in_progress,1,636630,318507,"""Yes""",68969,0.03000000,0,0,0,0,0,0,0,1.03905000,0,68,68
+District Court Judge - 1st Judicial District - Russell,opportunistic_benefits,in_progress,1,636630,318507,"""Yes""",78218,0.03000000,0,0,0,0,0,0,0,1.03905000,0,60,60
+District Court Judge - 1st Judicial District - Zenisek,opportunistic_benefits,in_progress,1,636630,318507,"""Yes""",78416,0.03000000,0,0,0,0,0,0,0,1.03905000,0,60,60
+District Court Judge - 20th Judicial District - Kotlarczyk,opportunistic_benefits,in_progress,1,354401,176996,"""Yes""",72462,0.03000000,0,0,0,0,0,0,0,1.03905000,0,36,36
+District Court Judge - 20th Judicial District - Larson,opportunistic_benefits,in_progress,1,354401,176996,"""Yes""",69486,0.03000000,0,0,0,0,0,0,0,1.03905000,0,38,38
+District Court Judge - 20th Judicial District - Salomone,opportunistic_benefits,in_progress,1,354401,176996,"""Yes""",69687,0.03000000,0,0,0,0,0,0,0,1.03905000,0,38,38
+District Court Judge - 21st Judicial District - Chaffin,opportunistic_benefits,in_progress,1,77640,77438,"""Yes""",16145,0.03000000,0,0,0,0,0,0,0,1.03905000,0,36,36
+District Court Judge - 21st Judicial District - Henderson,opportunistic_benefits,in_progress,1,77640,77438,"""Yes""",18135,0.03000000,0,0,0,0,0,0,0,1.03905000,0,32,32
+District Court Judge - 21st Judicial District - Larson,opportunistic_benefits,in_progress,1,77640,77438,"""Yes""",18836,0.03000000,0,0,0,0,0,0,0,1.03905000,0,31,31
+District Court Judge - 21st Judicial District - Lawrence,opportunistic_benefits,in_progress,1,77640,77438,"""No""",1732,0.03000000,0,0,0,0,0,0,0,1.03905000,0,327,327
+District Court Judge - 22nd Judicial District - Furse,opportunistic_benefits,in_progress,1,14068,14060,"""Yes""",1823,0.03000000,0,0,0,0,0,0,0,1.03905000,0,57,57
+District Court Judge - 23rd Judicial District - Baum,opportunistic_benefits,in_progress,1,238110,230073,"""YES""",66606,0.03000000,0,0,0,0,0,0,0,1.03905000,0,27,27
+District Court Judge - 23rd Judicial District - Klingensmith,opportunistic_benefits,in_progress,1,238110,230073,"""YES""",37909,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+District Court Judge - 23rd Judicial District - Slade,opportunistic_benefits,in_progress,1,220515,212481,"""YES""",67199,0.03000000,0,0,0,0,0,0,0,1.03905000,0,24,24
+District Court Judge - 23rd Judicial District - Warhola,opportunistic_benefits,in_progress,1,238110,230073,"""YES""",65981,0.03000000,0,0,0,0,0,0,0,1.03905000,0,27,27
+District Court Judge - 2nd Judicial District Angel,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",113040,0.03000000,0,0,0,0,0,0,0,1.03905000,0,41,41
+District Court Judge - 2nd Judicial District Baumann,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",115912,0.03000000,0,0,0,0,0,0,0,1.03905000,0,40,40
+District Court Judge - 2nd Judicial District Elliff,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",113895,0.03000000,0,0,0,0,0,0,0,1.03905000,0,41,41
+District Court Judge - 2nd Judicial District (Juvenile) Gomez,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",128261,0.03000000,0,0,0,0,0,0,0,1.03905000,0,36,36
+District Court Judge - 2nd Judicial District (Juvenile) McCarthy,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",121695,0.03000000,0,0,0,0,0,0,0,1.03905000,0,38,38
+District Court Judge - 2nd Judicial District Luxen,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",114758,0.03000000,0,0,0,0,0,0,0,1.03905000,0,40,40
+District Court Judge - 2nd Judicial District Olafson,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",114890,0.03000000,0,0,0,0,0,0,0,1.03905000,0,40,40
+District Court Judge - 2nd Judicial District (Probate) Leith,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",115412,0.03000000,0,0,0,0,0,0,0,1.03905000,0,40,40
+District Court Judge - 2nd Judicial District Wallace,opportunistic_benefits,in_progress,1,626644,312542,"""YES""",107327,0.03000000,0,0,0,0,0,0,0,1.03905000,0,43,43
+District Court Judge - 3rd Judicial District - Fowler,opportunistic_benefits,in_progress,1,10557,10538,"""Yes""",1768,0.03000000,0,0,0,0,0,0,0,1.03905000,0,44,44
+District Court Judge - 4th Judicial District - Bain,opportunistic_benefits,in_progress,1,336133,335494,"""Yes""",77975,0.03000000,0,0,0,0,0,0,0,1.03905000,0,32,32
+District Court Judge - 4th Judicial District - Gurney,opportunistic_benefits,in_progress,1,336133,335494,"""Yes""",61055,0.03000000,0,0,0,0,0,0,0,1.03905000,0,41,41
+District Court Judge - 4th Judicial District - McGuire,opportunistic_benefits,in_progress,1,336133,335494,"""Yes""",60384,0.03000000,0,0,0,0,0,0,0,1.03905000,0,41,41
+District Court Judge - 4th Judicial District - Philipps,opportunistic_benefits,in_progress,1,336133,335494,"""Yes""",76558,0.03000000,0,0,0,0,0,0,0,1.03905000,0,32,32
+District Court Judge - 4th Judicial District - Sokol,opportunistic_benefits,in_progress,1,336133,335494,"""Yes""",70369,0.03000000,0,0,0,0,0,0,0,1.03905000,0,35,35
+District Court Judge - 4th Judicial District - Werner,opportunistic_benefits,in_progress,1,336133,335494,"""Yes""",67855,0.03000000,0,0,0,0,0,0,0,1.03905000,0,37,37
+District Court Judge - 7th Judicial District - Jackson,opportunistic_benefits,in_progress,1,61553,55643,"""Yes""",12572,0.03000000,0,0,0,0,0,0,0,1.03905000,0,36,36
+District Court Judge - 7th Judicial District - Starritt,opportunistic_benefits,in_progress,1,62066,56156,"""Yes""",12244,0.03000000,0,0,0,0,0,0,0,1.03905000,0,37,37
+District Court Judge - 9th Judicial District - Myer,opportunistic_benefits,in_progress,1,73868,38302,"""YES""",7108,0.03000000,0,0,0,0,0,0,0,1.03905000,0,76,76
+Dolores County Assessor,opportunistic_benefits,not_auditable,1,1267,1267,"""Amber Blackmore""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Dolores County Clerk and Recorder,opportunistic_benefits,not_auditable,1,1267,1267,"""Shilo Schultz""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Dolores County Commissioner District 1,opportunistic_benefits,in_progress,1,1267,1267,"""Jerry Baxter""",310,0.03000000,0,0,0,0,0,0,0,1.03905000,0,30,30
+Dolores County Coroner,opportunistic_benefits,not_auditable,1,1267,1267,"""Aaron Hankins""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Dolores County Sheriff,county_wide_contest,in_progress,1,1267,1267,"""Don Wilson""",239,0.03000000,0,0,0,0,0,0,0,1.03905000,0,39,39
+Dolores County Treasurer,opportunistic_benefits,not_auditable,1,1267,1267,"""Taylor L Funk""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Assessor,opportunistic_benefits,in_progress,1,218494,210487,"""Toby Damisch""",13616,0.03000000,0,0,0,0,0,0,0,1.03905000,0,117,117
+Douglas County Ballot Question 1A,opportunistic_benefits,in_progress,1,218494,210487,"""YES""",90131,0.03000000,0,0,0,0,0,0,0,1.03905000,0,18,18
+Douglas County Ballot Question 200,county_wide_contest,in_progress,1,218494,210487,"""YES""",7872,0.03000000,0,0,0,0,0,0,0,1.03905000,0,203,203
+Douglas County Ballot Question 201,opportunistic_benefits,in_progress,1,218494,210487,"""Five""",30497,0.03000000,0,0,0,0,0,0,0,1.03905000,0,53,53
+Douglas County Clerk and Recorder,opportunistic_benefits,in_progress,1,218494,210487,"""Sheri Davis""",22857,0.03000000,0,0,0,0,0,0,0,1.03905000,0,70,70
+Douglas County Commissioner - District 1,opportunistic_benefits,in_progress,1,218494,210487,"""Jake Bockenfeld""",4102,0.03000000,0,0,0,0,0,0,0,1.03905000,0,389,389
+Douglas County Coroner,opportunistic_benefits,not_auditable,1,218494,210487,"""Raeann Brown""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Court Judge - Bowling,opportunistic_benefits,in_progress,1,218494,210487,"""YES""",82068,0.03000000,0,0,0,0,0,0,0,1.03905000,0,20,20
+Douglas County Court Judge - Fields,opportunistic_benefits,in_progress,1,218494,210487,"""YES""",76240,0.03000000,0,0,0,0,0,0,0,1.03905000,0,21,21
+Douglas County School District RE-1 Ballot Issue 5A,opportunistic_benefits,in_progress,1,236089,212375,"""NO/AGAINST""",17043,0.03000000,0,0,0,0,0,0,0,1.03905000,0,101,101
+Douglas County Sheriff,opportunistic_benefits,not_auditable,1,218494,210487,"""Darren M. Weekly""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Surveyor,opportunistic_benefits,not_auditable,1,218494,210487,"""Darrell E. Roberts""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Treasurer,opportunistic_benefits,in_progress,1,218494,210487,"""Tim Dietz""",10527,0.03000000,0,0,0,0,0,0,0,1.03905000,0,152,152
+Durango West Metropolitan District No. 1 Ballot Issue No. 6A,opportunistic_benefits,in_progress,1,30553,333,"""No/Against""",60,0.03000000,0,0,0,0,0,0,0,1.03905000,0,3711,3711
+Eagle County Assessor,opportunistic_benefits,in_progress,1,47997,23969,"""Andie Noakes""",6459,0.03000000,0,0,0,0,0,0,0,1.03905000,0,55,55
+Eagle County Clerk and Recorder,opportunistic_benefits,not_auditable,1,47997,23969,"""Becky Close""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Eagle County Commissioner - District 3,opportunistic_benefits,in_progress,1,47997,23969,"""Kathleen Brendza""",6108,0.03000000,0,0,0,0,0,0,0,1.03905000,0,58,58
+Eagle County Coroner,opportunistic_benefits,in_progress,1,47997,23969,"""Claire Noble""",6354,0.03000000,0,0,0,0,0,0,0,1.03905000,0,56,56
+Eagle County Court Judge - Causey,opportunistic_benefits,in_progress,1,47997,23969,"""Yes""",9965,0.03000000,0,0,0,0,0,0,0,1.03905000,0,36,36
+Eagle County School District RE50J Ballot Issue 5B,opportunistic_benefits,in_progress,1,114425,20158,"""Yes/For""",3402,0.03000000,0,0,0,0,0,0,0,1.03905000,0,246,246
+Eagle County Sheriff,county_wide_contest,in_progress,1,47997,23969,"""Rebecca Anderson""",4116,0.03000000,0,0,0,0,0,0,0,1.03905000,0,85,85
+Eagle County Treasurer,opportunistic_benefits,not_auditable,1,47997,23969,"""Teak Simonton""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+East Grand Fire Protection District No. 4 Ballot Issue 6D,opportunistic_benefits,in_progress,1,11396,5200,"""YES/FOR""",1362,0.03000000,0,0,0,0,0,0,0,1.03905000,0,61,61
+East Grand Fire Protection District No. 4 Ballot Issue 6E,opportunistic_benefits,in_progress,1,11396,5200,"""NO/AGAINST""",988,0.03000000,0,0,0,0,0,0,0,1.03905000,0,85,85
+Edison Fire Protection District Ballot Question 6D,opportunistic_benefits,in_progress,1,139454,150,"""For Inclusion""",57,0.03000000,0,0,0,0,0,0,0,1.03905000,0,17829,17829
+Elbert County Assessor,opportunistic_benefits,not_auditable,1,17595,17592,"""Susan Murphy""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Elbert County Clerk and Recorder,opportunistic_benefits,not_auditable,1,17595,17592,"""Rhonda Braun""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Elbert County Commissioner - District 2,opportunistic_benefits,in_progress,1,17595,17592,"""Ken Madsen""",9621,0.03000000,0,0,0,0,0,0,0,1.03905000,0,14,14
+Elbert County Coroner,opportunistic_benefits,in_progress,1,17595,17592,"""Todd Pederson""",8898,0.03000000,0,0,0,0,0,0,0,1.03905000,0,15,15
+Elbert County Sheriff,opportunistic_benefits,not_auditable,1,17595,17592,"""Timothy D. Norton""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Elbert County Surveyor,opportunistic_benefits,not_auditable,1,17595,17592,"""Karl Szyszkoski""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Elbert County Treasurer,opportunistic_benefits,not_auditable,1,17595,17592,"""Sheryl (Sherry) Hewlett""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Elbert - District Court Judge - 23rd Judicial District - Slade,county_wide_contest,in_progress,1,17595,17592,"""YES""",1895,0.03000000,0,0,0,0,0,0,0,1.03905000,0,68,68
+Elbert Fire Protection District Ballot Issue 7B,opportunistic_benefits,in_progress,1,339312,1463,"""NO""",485,0.03000000,0,0,0,0,0,0,0,1.03905000,0,5099,5099
+Eldorado Springs Public Improvement District of Boulder County Ballot Issue 6A,opportunistic_benefits,in_progress,1,354401,155,"""Yes/For""",84,0.03000000,0,0,0,0,0,0,0,1.03905000,0,30745,30745
+Elizabeth Trustee,opportunistic_benefits,in_progress,4,17595,1240,"""Ramon Anthony Atencio"",""Ryan McKenna"",""Paul Schwarzkopf"",""Tracy J. Hutchins""",4,0.03000000,0,0,0,0,0,0,0,1.03905000,0,32054,32054
+El Paso County Assessor,opportunistic_benefits,in_progress,1,321717,321499,"""Becky Fuller""",17933,0.03000000,0,0,0,0,0,0,0,1.03905000,0,131,131
+El Paso County Ballot Issue 1A,opportunistic_benefits,in_progress,1,321717,321499,"""Yes/For""",148541,0.03000000,0,0,0,0,0,0,0,1.03905000,0,16,16
+El Paso County Clerk and Recorder,opportunistic_benefits,in_progress,1,321717,321499,"""Steve Schleiker""",36054,0.03000000,0,0,0,0,0,0,0,1.03905000,0,66,66
+El Paso County Commissioner - District 1,opportunistic_benefits,in_progress,1,321717,78257,"""Ryan Graham""",14421,0.03000000,0,0,0,0,0,0,0,1.03905000,0,163,163
+El Paso County Commissioner - District 5,opportunistic_benefits,in_progress,1,321717,48305,"""Yolanda L. Avila""",8062,0.03000000,0,0,0,0,0,0,0,1.03905000,0,291,291
+El Paso County Coroner,opportunistic_benefits,not_auditable,1,321717,321499,"""Emily Russell-Kinsley""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+El Paso County Court Judge - Burney,opportunistic_benefits,in_progress,1,321717,321499,"""Yes""",51353,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+El Paso County Court Judge - Cord,opportunistic_benefits,in_progress,1,321717,321499,"""Yes""",79716,0.03000000,0,0,0,0,0,0,0,1.03905000,0,30,30
+El Paso County Court Judge - Frady,opportunistic_benefits,in_progress,1,321717,321499,"""Yes""",74624,0.03000000,0,0,0,0,0,0,0,1.03905000,0,32,32
+El Paso County Court Judge - Rotolo,opportunistic_benefits,in_progress,1,321717,321499,"""Yes""",71204,0.03000000,0,0,0,0,0,0,0,1.03905000,0,33,33
+El Paso County School District No. 12 (Cheyenne Mountain) Ballot Issue 4B,opportunistic_benefits,in_progress,1,321717,12774,"""Yes/For""",2713,0.03000000,0,0,0,0,0,0,0,1.03905000,0,865,865
+El Paso County Sheriff,opportunistic_benefits,in_progress,1,321717,321499,"""Joe Roybal""",27650,0.03000000,0,0,0,0,0,0,0,1.03905000,0,85,85
+El Paso County Treasurer,opportunistic_benefits,not_auditable,1,321717,321499,"""Chuck Broerman""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Estes Valley Fire Protection District Ballot Issue 6D,opportunistic_benefits,in_progress,1,395840,6016,"""Yes/For""",2229,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1295,1295
+Evergreen Fire Protection District Ballot Issue 7B,opportunistic_benefits,in_progress,1,637949,15687,"""Yes/For""",6163,0.03000000,0,0,0,0,0,0,0,1.03905000,0,755,755
+Florissant Fire Protection District Ballot Issue 6C,opportunistic_benefits,in_progress,1,14416,2829,"""No/Against""",214,0.03000000,0,0,0,0,0,0,0,1.03905000,0,491,491
+Fremont County Assessor,opportunistic_benefits,not_auditable,1,21001,20514,"""Stacey Seifert""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Fremont County Board of County Commissioners - District 2,opportunistic_benefits,in_progress,1,21001,20514,"""Gregory Carlson""",14715,0.03000000,0,0,0,0,0,0,0,1.03905000,0,11,11
+Fremont County Clerk and Recorder,opportunistic_benefits,not_auditable,1,21001,20514,"""Justin D Grantham""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Fremont County Coroner,opportunistic_benefits,not_auditable,1,21001,20514,"""Randy V. Keller""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Fremont County Court Judge - Robak,county_wide_contest,in_progress,1,21001,20514,"""Yes""",1462,0.03000000,0,0,0,0,0,0,0,1.03905000,0,105,105
+Fremont County Sheriff,opportunistic_benefits,in_progress,1,21001,20514,"""Greg Owen""",9790,0.03000000,0,0,0,0,0,0,0,1.03905000,0,16,16
+Fremont County Surveyor,opportunistic_benefits,not_auditable,1,21001,20514,"""Miles Small""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Fremont County Treasurer,opportunistic_benefits,not_auditable,1,21001,20514,"""Kathy Elliott""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Front Range Passenger Rail District Ballot Issue 7A,opportunistic_benefits,in_progress,1,2469267,1173948,"""No/Against""",41717,0.03000000,0,0,0,0,0,0,0,1.03905000,0,432,432
+Garfield - Colorado Court of Appeals Judge - Sullivan,county_wide_contest,in_progress,1,52029,25971,"""YES""",5730,0.03000000,0,0,0,0,0,0,0,1.03905000,0,67,67
+Garfield County Assessor,opportunistic_benefits,not_auditable,1,52029,25955,"""Jim Yellico""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Garfield County Clerk and Recorder,opportunistic_benefits,not_auditable,1,52029,25955,"""Jacklyn K. Harmon""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Garfield County Commissioner - District 1,opportunistic_benefits,in_progress,1,52029,25955,"""Jonathan Godes""",1596,0.03000000,0,0,0,0,0,0,0,1.03905000,0,238,238
+Garfield County Coroner,opportunistic_benefits,not_auditable,1,52029,25955,"""Robert Glassmire""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Garfield County Court Judge - Pototsky,opportunistic_benefits,in_progress,1,52029,25955,"""YES""",10433,0.03000000,0,0,0,0,0,0,0,1.03905000,0,37,37
+Garfield County Public Library District Ballot Issue 6B,opportunistic_benefits,in_progress,1,52029,25953,"""YES""",8704,0.03000000,0,0,0,0,0,0,0,1.03905000,0,44,44
+Garfield County Sheriff,opportunistic_benefits,not_auditable,1,52029,25955,"""Brent Baker""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Garfield County Surveyor,opportunistic_benefits,not_auditable,1,52029,25955,"""Jason R. Neil""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Garfield County Treasurer,opportunistic_benefits,not_auditable,1,52029,25955,"""Carrie Couey""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Garfield School District RE-2 4A: Mill Levy,opportunistic_benefits,in_progress,1,52029,10271,"""NO""",624,0.03000000,0,0,0,0,0,0,0,1.03905000,0,608,608
+Garfield School District RE-2 Issue 4B: Bond,opportunistic_benefits,in_progress,1,52029,10271,"""YES""",911,0.03000000,0,0,0,0,0,0,0,1.03905000,0,417,417
+Gilpin County Assessor,opportunistic_benefits,in_progress,1,3956,3503,"""April Nielsen""",762,0.03000000,0,0,0,0,0,0,0,1.03905000,0,38,38
+Gilpin County Ballot Issue 1A,opportunistic_benefits,in_progress,1,3956,3503,"""NO/AGAINST""",983,0.03000000,0,0,0,0,0,0,0,1.03905000,0,30,30
+Gilpin County Clerk and Recorder,county_wide_contest,in_progress,1,3956,3503,"""Joe Self""",548,0.03000000,0,0,0,0,0,0,0,1.03905000,0,53,53
+Gilpin County Commissioner - District 2,opportunistic_benefits,in_progress,1,3956,3503,"""Susan Berumen""",300,0.03000000,0,0,0,0,0,0,0,1.03905000,0,97,97
+Gilpin County Coroner,opportunistic_benefits,not_auditable,1,3956,3503,"""Zane Laubhan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gilpin County County Court Judge - Lane,opportunistic_benefits,in_progress,1,3956,3503,"""YES""",896,0.03000000,0,0,0,0,0,0,0,1.03905000,0,33,33
+Gilpin County Sheriff,opportunistic_benefits,in_progress,1,3956,3503,"""Greg Demo""",429,0.03000000,0,0,0,0,0,0,0,1.03905000,0,68,68
+Gilpin County Surveyor,opportunistic_benefits,not_auditable,1,3956,3503,"""Corey Diekman""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gilpin County Treasurer,opportunistic_benefits,in_progress,1,3956,3503,"""Mary Lorenz""",1020,0.03000000,0,0,0,0,0,0,0,1.03905000,0,29,29
+Glenwood Springs Ballot Issue 2B - Tax Increase,opportunistic_benefits,in_progress,1,52029,4183,"""NO""",510,0.03000000,0,0,0,0,0,0,0,1.03905000,0,744,744
+Glenwood Springs Rural Fire Protection Ballot Issue 6A,opportunistic_benefits,in_progress,1,52029,1874,"""YES""",308,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1231,1231
+Golden Gate Fire Protection District Ballot Issue 6B,opportunistic_benefits,in_progress,1,632674,606,"""No/Against""",7,0.03000000,0,0,0,0,0,0,0,1.03905000,0,658612,658612
+Governor / Lieutenant Governor,state_wide_contest,in_progress,1,4384669,2738644,"""Phil Weiser / Lesley Dahlkemper""",748386,0.03000000,0,0,0,0,0,0,0,1.03905000,0,43,43
+Granada School District RE-1 Ballot Issue 4A,opportunistic_benefits,in_progress,1,4091,273,"""Yes/For""",27,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1105,1105
+Grand County Assessor,opportunistic_benefits,not_auditable,1,11396,8985,"""Christine Murphy""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Grand County Clerk and Recorder,county_wide_contest,in_progress,1,11396,8985,"""Liz Newsom""",601,0.03000000,0,0,0,0,0,0,0,1.03905000,0,139,139
+Grand County Commissioner - District 3,opportunistic_benefits,in_progress,1,11396,8985,"""Randy George""",261,0.03000000,0,0,0,0,0,0,0,1.03905000,0,319,319
+Grand County Coroner,opportunistic_benefits,not_auditable,1,11396,8985,"""Tawnya Bailey""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Grand County Court Judge - Catanzarite,opportunistic_benefits,in_progress,1,11396,8985,"""YES""",3118,0.03000000,0,0,0,0,0,0,0,1.03905000,0,27,27
+Grand County Library District Ballot Issue 6B,opportunistic_benefits,in_progress,1,11396,8985,"""YES/FOR""",2561,0.03000000,0,0,0,0,0,0,0,1.03905000,0,33,33
+Grand County Library District Ballot Issue 6C,opportunistic_benefits,in_progress,1,11396,8985,"""YES/FOR""",833,0.03000000,0,0,0,0,0,0,0,1.03905000,0,100,100
+Grand County Sheriff,opportunistic_benefits,not_auditable,1,11396,8985,"""Brett D. Schroetlin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Grand County Surveyor,opportunistic_benefits,not_auditable,1,11396,8985,"""Warren Ward""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Grand County Treasurer,opportunistic_benefits,not_auditable,1,11396,8985,"""Marcy Wheatley""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Greater Brighton Fire Protection District Ballot Issue 7D,opportunistic_benefits,in_progress,1,569662,25361,"""No/Against""",1544,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2689,2689
+Groundwater Management Subdistrict of the Central Colorado Water Conservancy District Ballot Issue 7C,opportunistic_benefits,in_progress,1,590532,14687,"""No/Against""",1993,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2160,2160
+Gunnison County Assessor,opportunistic_benefits,not_auditable,1,9679,9646,"""Alexandra Cohen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gunnison County Ballot Question 1A - Dedicated Road & Bridge Funding,opportunistic_benefits,in_progress,1,9679,9646,"""Yes/For""",379,0.03000000,0,0,0,0,0,0,0,1.03905000,0,187,187
+Gunnison County Clerk and Recorder,opportunistic_benefits,not_auditable,1,9679,9646,"""Kathy Simillion""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gunnison County Commissioner District 3,opportunistic_benefits,not_auditable,1,9679,9646,"""Laura Puckett Daniels""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gunnison County Coroner,opportunistic_benefits,not_auditable,1,9679,9646,"""Michael Barnes""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gunnison County Sheriff,opportunistic_benefits,not_auditable,1,9679,9646,"""Adam Murdie""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gunnison County Treasurer,opportunistic_benefits,not_auditable,1,9679,9646,"""Teresa Brown""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gunnison - Proposition 135 (STATUTORY),county_wide_contest,in_progress,1,9679,9679,"""No/Against""",1010,0.03000000,0,0,0,0,0,0,0,1.03905000,0,70,70
+Hanover School District No 28 Ballot Issue 4C,opportunistic_benefits,in_progress,1,321717,727,"""No/Against""",294,0.03000000,0,0,0,0,0,0,0,1.03905000,0,7974,7974
+Hayden School District NO. RE-1 Ballot Issue 4A,opportunistic_benefits,in_progress,1,14399,1387,"""No/Against""",285,0.03000000,0,0,0,0,0,0,0,1.03905000,0,369,369
+Hayden School District NO. RE-1 Ballot Issue 4B,opportunistic_benefits,in_progress,1,14399,1387,"""No/Against""",122,0.03000000,0,0,0,0,0,0,0,1.03905000,0,861,861
+Hills at Cherry Creek Metropolitan District Ballot Issue 6A,opportunistic_benefits,in_progress,1,539561,650,"""Yes/For""",214,0.03000000,0,0,0,0,0,0,0,1.03905000,0,18373,18373
+Hinsdale County Assessor,opportunistic_benefits,not_auditable,1,513,513,"""Allison Waddington""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Hinsdale County Clerk and Recorder,opportunistic_benefits,not_auditable,1,513,513,"""Joan Roberts""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Hinsdale County Commissioner District 2,opportunistic_benefits,not_auditable,1,513,513,"""Kristine Borchers""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Hinsdale County Court Judge- McDonald,opportunistic_benefits,in_progress,1,513,513,"""Yes""",309,0.03000000,0,0,0,0,0,0,0,1.03905000,0,13,13
+Hinsdale County Sheriff,opportunistic_benefits,in_progress,1,513,513,"""Jordan Kaminski""",200,0.03000000,0,0,0,0,0,0,0,1.03905000,0,19,19
+Hinsdale County Treasurer,opportunistic_benefits,not_auditable,1,513,513,"""Lori Hanko""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Hinsdale - District Court Judge - 7th Judicial District - Jackson,county_wide_contest,in_progress,1,513,513,"""Yes""",85,0.03000000,0,0,0,0,0,0,0,1.03905000,0,44,44
+Holyoke School District No RE 1J Ballot Question #5A,opportunistic_benefits,in_progress,1,6913,1300,"""Yes/For""",632,0.03000000,0,0,0,0,0,0,0,1.03905000,0,80,80
+Home Rule Charter Commission,opportunistic_benefits,in_progress,9,354401,2933,"""Rodney Archer"",""Patrick Mayne"",""Michael DeLalla"",""Mary Plese"",""Kathy M. Koehler"",""Carrie Wise"",""Ari Adler"",""Alison Steele"",""Sean Donovan""",39,0.03000000,0,0,0,0,0,0,0,1.03905000,0,66219,66219
+Hotchkiss Fire District Ballot Issue 6A,opportunistic_benefits,in_progress,1,22348,2059,"""Yes/For""",425,0.03000000,0,0,0,0,0,0,0,1.03905000,0,384,384
+Hot Sulphur Springs-Parshall Fire Protection 6A,opportunistic_benefits,in_progress,1,11396,651,"""NO/AGAINST""",156,0.03000000,0,0,0,0,0,0,0,1.03905000,0,533,533
+Huerfano County Assessor,opportunistic_benefits,not_auditable,1,3845,3837,"""Elisha Meadows""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Huerfano County Ballot Issue 1A,opportunistic_benefits,in_progress,1,3845,3837,"""No/Against""",1327,0.03000000,0,0,0,0,0,0,0,1.03905000,0,22,22
+Huerfano County Clerk and Recorder,opportunistic_benefits,not_auditable,1,3845,3837,"""Erica Vigil""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Huerfano County Commissioner - District 3,opportunistic_benefits,not_auditable,1,3845,3837,"""Karl Sporleder""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Huerfano County Coroner,opportunistic_benefits,not_auditable,1,3845,3837,"""Vonnie Valdez""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Huerfano County Court Judge - Mann,opportunistic_benefits,in_progress,1,3845,3837,"""Yes""",1225,0.03000000,0,0,0,0,0,0,0,1.03905000,0,23,23
+Huerfano County Sheriff,opportunistic_benefits,in_progress,1,3845,3837,"""Bruce Newman""",200,0.03000000,0,0,0,0,0,0,0,1.03905000,0,141,141
+Huerfano County Treasurer,opportunistic_benefits,not_auditable,1,3845,3837,"""Debra J ""Debbie"" Reynolds""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Huerfano - Proposition 136 (STATUTORY),county_wide_contest,in_progress,1,3845,3840,"""Yes/For""",554,0.03000000,0,0,0,0,0,0,0,1.03905000,0,51,51
+HUGO FIRE PROTECTION DISTRICT BALLOT ISSUE 6A,opportunistic_benefits,in_progress,1,2021,534,"""Yes/For""",93,0.03000000,0,0,0,0,0,0,0,1.03905000,0,159,159
+Inclusion of East Custer County/Wetmore Area,opportunistic_benefits,in_progress,1,3384,259,"""Against inclusion""",52,0.03000000,0,0,0,0,0,0,0,1.03905000,0,475,475
+Initiated Ordinance 311,opportunistic_benefits,in_progress,1,626644,312123,"""YES/FOR""",101698,0.03000000,0,0,0,0,0,0,0,1.03905000,0,45,45
+Jackson County Assessor,county_wide_contest,in_progress,1,672,672,"""Cheryl Corkle""",155,0.03000000,0,0,0,0,0,0,0,1.03905000,0,32,32
+Jackson County Clerk and Recorder,opportunistic_benefits,not_auditable,1,672,672,"""Jo McQueary""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jackson County Commissioner 1,opportunistic_benefits,not_auditable,1,672,672,"""John Lathrop""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jackson County Coroner,opportunistic_benefits,not_auditable,1,672,672,"""George E Crocket""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jackson County Court Judge- Ryan,opportunistic_benefits,in_progress,1,672,672,"""Yes""",314,0.03000000,0,0,0,0,0,0,0,1.03905000,0,16,16
+Jackson County Sheriff,opportunistic_benefits,not_auditable,1,672,672,"""Andy Collins""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jackson County Surveyor,opportunistic_benefits,not_auditable,1,672,672,"""Randall R. Miller""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jackson County Treasurer,opportunistic_benefits,not_auditable,1,672,672,"""Ekho Wyatt""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Assessor,opportunistic_benefits,in_progress,1,632674,315004,"""Andy Kerr""",78876,0.03000000,0,0,0,0,0,0,0,1.03905000,0,59,59
+Jefferson County Clerk and Recorder,opportunistic_benefits,in_progress,1,632674,315004,"""Nicole Hensel""",81976,0.03000000,0,0,0,0,0,0,0,1.03905000,0,57,57
+Jefferson County Commissioner - District 3,opportunistic_benefits,in_progress,1,632674,315004,"""Lisa A. Cutter""",73945,0.03000000,0,0,0,0,0,0,0,1.03905000,0,63,63
+Jefferson County Coroner,opportunistic_benefits,in_progress,1,632674,315004,"""Nick Lobello""",78823,0.03000000,0,0,0,0,0,0,0,1.03905000,0,59,59
+Jefferson County Court- Garrido,opportunistic_benefits,in_progress,1,632674,315004,"""Yes""",81847,0.03000000,0,0,0,0,0,0,0,1.03905000,0,57,57
+Jefferson County Court - Magid,opportunistic_benefits,in_progress,1,632674,315004,"""Yes""",84562,0.03000000,0,0,0,0,0,0,0,1.03905000,0,55,55
+Jefferson County Court - Melton,opportunistic_benefits,in_progress,1,632674,315004,"""Yes""",75848,0.03000000,0,0,0,0,0,0,0,1.03905000,0,61,61
+Jefferson County School District R-1 Ballot Issue 5A,opportunistic_benefits,in_progress,1,673667,317982,"""Yes/For""",327,0.03000000,0,0,0,0,0,0,0,1.03905000,0,15013,15013
+Jefferson County School District R-1 Ballot Issue 5B,opportunistic_benefits,in_progress,1,673667,317982,"""No/Against""",7302,0.03000000,0,0,0,0,0,0,0,1.03905000,0,673,673
+Jefferson County Sheriff,opportunistic_benefits,in_progress,1,632674,315004,"""Regina ""Reggie"" Marinelli""",80731,0.03000000,0,0,0,0,0,0,0,1.03905000,0,58,58
+Jefferson County Surveyor,opportunistic_benefits,not_auditable,1,632674,315004,"""Robert Hennessy""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Treasurer,opportunistic_benefits,in_progress,1,632674,315004,"""Eric Proctor""",99521,0.03000000,0,0,0,0,0,0,0,1.03905000,0,47,47
+Kiowa County Assessor,opportunistic_benefits,not_auditable,1,725,725,"""Marci Miller""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kiowa County Ballot Issue 1A,opportunistic_benefits,in_progress,1,725,725,"""Yes/For""",56,0.03000000,0,0,0,0,0,0,0,1.03905000,0,95,95
+Kiowa County Ballot Issue 1B,county_wide_contest,in_progress,1,725,725,"""No/Against""",162,0.03000000,0,0,0,0,0,0,0,1.03905000,0,33,33
+Kiowa County Clerk and Recorder,opportunistic_benefits,not_auditable,1,725,725,"""Adrienne Yates""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kiowa County Commissioner - District 2,opportunistic_benefits,not_auditable,1,725,725,"""Howard Robertson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kiowa County Coroner,opportunistic_benefits,not_auditable,1,725,725,"""Jimmy Brown""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kiowa County School District RE-1 Issue 4A,opportunistic_benefits,in_progress,1,725,604,"""Yes/For""",2,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2642,2642
+Kiowa County Sheriff,opportunistic_benefits,not_auditable,1,725,725,"""Bryan Williams""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kiowa County Treasurer,opportunistic_benefits,not_auditable,1,725,725,"""Diana Flory""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kit Carson County Assessor,county_wide_contest,in_progress,1,3004,3002,"""Alexandra Navarro""",479,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+Kit Carson County Clerk and Recorder,opportunistic_benefits,not_auditable,1,3004,3002,"""Susan Corliss""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kit Carson County Commissioner - District 2,opportunistic_benefits,not_auditable,1,3004,3002,"""Cory Wall""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kit Carson County Coroner,opportunistic_benefits,not_auditable,1,3004,3002,"""Randy B. Gorton""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kit Carson County Sheriff,opportunistic_benefits,not_auditable,1,3004,3002,"""Travis Belden""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kit Carson County Treasurer,opportunistic_benefits,not_auditable,1,3004,3002,"""Pamela J. Mills""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lake County Assessor,opportunistic_benefits,not_auditable,1,3451,3446,"""Peleg Mark Wadsworth""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lake County Clerk and Recorder,opportunistic_benefits,in_progress,1,3451,3446,"""Andy Higby""",958,0.03000000,0,0,0,0,0,0,0,1.03905000,0,27,27
+Lake County Commissioner District 1,county_wide_contest,in_progress,1,3451,3446,"""Nathan A Dye""",562,0.03000000,0,0,0,0,0,0,0,1.03905000,0,45,45
+Lake County Coroner,opportunistic_benefits,not_auditable,1,3451,3446,"""Jeffery Edmonds""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lake County Sheriff,opportunistic_benefits,not_auditable,1,3451,3446,"""Heath Speckman""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lake County Treasurer,opportunistic_benefits,not_auditable,1,3451,3446,"""Padraic D. Smith""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Assessor,opportunistic_benefits,not_auditable,1,30553,30492,"""Carrie Woodson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Clerk and Recorder,opportunistic_benefits,not_auditable,1,30553,30492,"""Tiffany Lee""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Commissioner District 1,opportunistic_benefits,not_auditable,1,30553,30492,"""Elizabeth Philbrick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Coroner,opportunistic_benefits,in_progress,1,30553,30492,"""Trever Nyx""",5597,0.03000000,0,0,0,0,0,0,0,1.03905000,0,40,40
+La Plata County Sheriff,opportunistic_benefits,not_auditable,1,30553,30492,"""Sean Smith""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Surveyor,opportunistic_benefits,not_auditable,1,30553,30492,"""Daryl Z Crites""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Treasurer,county_wide_contest,in_progress,1,30553,30492,"""Miles Walsh""",3190,0.03000000,0,0,0,0,0,0,0,1.03905000,0,70,70
+Larimer County Assessor,opportunistic_benefits,in_progress,1,395840,197093,"""Bob Overbeck""",45574,0.03000000,0,0,0,0,0,0,0,1.03905000,0,64,64
+Larimer County Ballot Issue 1A,opportunistic_benefits,in_progress,1,395840,196834,"""Yes/For""",362,0.03000000,0,0,0,0,0,0,0,1.03905000,0,7969,7969
+Larimer County Clerk and Recorder,opportunistic_benefits,in_progress,1,395840,197093,"""Kenneth Forsythe""",5075,0.03000000,0,0,0,0,0,0,0,1.03905000,0,569,569
+Larimer County Colland Center Public Improvement District No. 82 Ballot Issue 6B,opportunistic_benefits,in_progress,1,395840,260,"""No/Against""",25,0.03000000,0,0,0,0,0,0,0,1.03905000,0,115380,115380
+Larimer County Commissioner - District 1,opportunistic_benefits,in_progress,1,395840,197093,"""Shane Atkinson""",46041,0.03000000,0,0,0,0,0,0,0,1.03905000,0,63,63
+Larimer County Coroner,opportunistic_benefits,not_auditable,1,395840,197093,"""Stephen Hanks""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Court Judge - Ellison,opportunistic_benefits,in_progress,1,395840,197093,"""Yes""",62960,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+Larimer County Court Judge - Lynch,opportunistic_benefits,in_progress,1,395840,197093,"""Yes""",55434,0.03000000,0,0,0,0,0,0,0,1.03905000,0,53,53
+Larimer County Court Judge - Zehe,opportunistic_benefits,in_progress,1,395840,197093,"""Yes""",55138,0.03000000,0,0,0,0,0,0,0,1.03905000,0,53,53
+Larimer County Sheriff,opportunistic_benefits,not_auditable,1,395840,197093,"""John J. Feyen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Stanley Heights Public Improvement District No. 81 Ballot Issue 6A,opportunistic_benefits,in_progress,1,395840,59,"""Yes/For""",13,0.03000000,0,0,0,0,0,0,0,1.03905000,0,221883,221883
+Larimer County Surveyor,opportunistic_benefits,not_auditable,1,395840,197093,"""Tom Donnelly""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Terry Point Estates Public Improvement District No. 85 Ballot Issue 6C,opportunistic_benefits,in_progress,1,395840,162,"""Yes/For""",35,0.03000000,0,0,0,0,0,0,0,1.03905000,0,82414,82414
+Larimer County Treasurer,opportunistic_benefits,in_progress,1,395840,197093,"""Joann Ginal""",41181,0.03000000,0,0,0,0,0,0,0,1.03905000,0,71,71
+Larimer - Front Range Passenger Rail District Ballot Issue 7A,county_wide_contest,in_progress,1,395840,126612,"""Yes/For""",19833,0.03000000,0,0,0,0,0,0,0,1.03905000,0,146,146
+Larkspur Fire Protection District Ballot Issue 6A,opportunistic_benefits,in_progress,1,218494,4532,"""YES/FOR""",216,0.03000000,0,0,0,0,0,0,0,1.03905000,0,7372,7372
+Larkspur Fire Protection District Ballot Issue 6B,opportunistic_benefits,in_progress,1,218494,4532,"""YES/FOR""",93,0.03000000,0,0,0,0,0,0,0,1.03905000,0,17121,17121
+Las Animas County Assessor,opportunistic_benefits,not_auditable,1,6712,6701,"""Jodi M. Amato""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Las Animas County Clerk and Recorder,opportunistic_benefits,in_progress,1,6712,6701,"""Karrie L. Apple""",1339,0.03000000,0,0,0,0,0,0,0,1.03905000,0,37,37
+Las Animas County Commissioner District 3,opportunistic_benefits,in_progress,1,6712,6701,"""Brad Doherty""",325,0.03000000,0,0,0,0,0,0,0,1.03905000,0,151,151
+Las Animas County Coroner,opportunistic_benefits,in_progress,1,6712,6701,"""Dominic ""Junie"" Verquer""",479,0.03000000,0,0,0,0,0,0,0,1.03905000,0,103,103
+Las Animas County Sheriff,opportunistic_benefits,in_progress,1,6712,6701,"""Derek J. Navarette""",913,0.03000000,0,0,0,0,0,0,0,1.03905000,0,54,54
+Las Animas County Treasurer,county_wide_contest,in_progress,1,6712,6701,"""Sarah A. Martinez""",625,0.03000000,0,0,0,0,0,0,0,1.03905000,0,79,79
+Lincoln County Assessor,opportunistic_benefits,not_auditable,1,2021,1994,"""Jeremiah Higgins""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+LINCOLN COUNTY BALLOT ISSUE 1A: LODGING TAX,county_wide_contest,in_progress,1,2021,1994,"""No/Against""",259,0.03000000,0,0,0,0,0,0,0,1.03905000,0,57,57
+Lincoln County Clerk and Recorder,opportunistic_benefits,not_auditable,1,2021,1994,"""Corinne M. Lengel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lincoln County Commissioner - District 1,opportunistic_benefits,not_auditable,1,2021,1994,"""Wayne E. Ewing""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lincoln County Coroner,opportunistic_benefits,not_auditable,1,2021,1994,"""Andrew S. Lorensen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lincoln County Sheriff,opportunistic_benefits,not_auditable,1,2021,1994,"""Michael L. Yowell""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lincoln County Treasurer,opportunistic_benefits,not_auditable,1,2021,1994,"""Ashley D. Erwin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Logan County Assessor,opportunistic_benefits,not_auditable,1,7958,7952,"""Peggy Michaels""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Logan County Clerk and Recorder,opportunistic_benefits,not_auditable,1,7958,7952,"""Pam Bacon""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Logan County Commissioner - District 3,opportunistic_benefits,not_auditable,1,7958,7952,"""Jim Santomaso""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Logan County Coroner,opportunistic_benefits,not_auditable,1,7958,7952,"""Jeff Brekel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Logan County Sheriff,opportunistic_benefits,not_auditable,1,7958,7952,"""Jeremy Leisure""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Logan County Treasurer,opportunistic_benefits,not_auditable,1,7958,7952,"""Patty Bartlett""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mayor,opportunistic_benefits,not_auditable,1,77640,177,"""Shanelle Hansen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Assessor,opportunistic_benefits,not_auditable,1,77640,77438,"""Brent Goff""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Clerk and Recorder,opportunistic_benefits,not_auditable,1,77640,77438,"""Bobbie Gross""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Commissioner - District 2,opportunistic_benefits,not_auditable,1,77640,77438,"""Bobbie Daniel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Coroner,opportunistic_benefits,not_auditable,1,77640,77438,"""Dean Havlik""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Court Judge - Burrill,opportunistic_benefits,in_progress,1,77640,77438,"""Yes""",12729,0.03000000,0,0,0,0,0,0,0,1.03905000,0,45,45
+Mesa County Court Judge - Raaum,opportunistic_benefits,in_progress,1,77640,77438,"""Yes""",23927,0.03000000,0,0,0,0,0,0,0,1.03905000,0,24,24
+Mesa County Sheriff,opportunistic_benefits,not_auditable,1,77640,77438,"""Ross Young""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Surveyor,opportunistic_benefits,not_auditable,1,77640,77438,"""Jon Kobylarz""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Treasurer,opportunistic_benefits,in_progress,1,77640,77438,"""Greg Haitz""",14987,0.03000000,0,0,0,0,0,0,0,1.03905000,0,38,38
+Mesa County Valley School District 51 Ballot Issue 4A,opportunistic_benefits,in_progress,1,77640,75728,"""No/Against""",19681,0.03000000,0,0,0,0,0,0,0,1.03905000,0,29,29
+Mineral County Assessor,opportunistic_benefits,not_auditable,1,655,654,"""Hendrik Shullts""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mineral County Clerk and Recorder,opportunistic_benefits,not_auditable,1,655,654,"""Eryn K Wintz""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mineral County Commissioner - District 1,opportunistic_benefits,not_auditable,1,655,654,"""R. Scott Lamb""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mineral County Coroner,county_wide_contest,in_progress,1,655,654,"""Jimmy K Adelman""",203,0.03000000,0,0,0,0,0,0,0,1.03905000,0,24,24
+Mineral County Court Judge - Wheelwright,opportunistic_benefits,in_progress,1,655,654,"""Yes""",443,0.03000000,0,0,0,0,0,0,0,1.03905000,0,11,11
+Mineral County Sheriff,opportunistic_benefits,not_auditable,1,655,654,"""Terry Wetherill""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mineral County Treasurer,opportunistic_benefits,not_auditable,1,655,654,"""Amy Wetherill""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Moffat County Assessor,opportunistic_benefits,not_auditable,1,5417,5414,"""Camie Herod""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Moffat County Ballot Question 1A,opportunistic_benefits,in_progress,1,5417,5414,"""NO/AGAINST""",212,0.03000000,0,0,0,0,0,0,0,1.03905000,0,187,187
+Moffat County Ballot Question 1B,opportunistic_benefits,in_progress,1,5417,5414,"""NO/AGAINST""",441,0.03000000,0,0,0,0,0,0,0,1.03905000,0,90,90
+Moffat County Ballot Question 1C,opportunistic_benefits,in_progress,1,5417,5414,"""NO/AGAINST""",428,0.03000000,0,0,0,0,0,0,0,1.03905000,0,93,93
+Moffat County Clerk and Recorder,opportunistic_benefits,not_auditable,1,5417,5414,"""Stacy Morgan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Moffat County Commissioner District 3,opportunistic_benefits,not_auditable,1,5417,5414,"""Steve Maneotis""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Moffat County Coroner,opportunistic_benefits,not_auditable,1,5417,5414,"""Jesse Arthurs""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Moffat County Court Judge - Hesson,county_wide_contest,in_progress,1,5417,5414,"""YES""",594,0.03000000,0,0,0,0,0,0,0,1.03905000,0,67,67
+Moffat County School District RE-1 Ballot Issue 4A,opportunistic_benefits,in_progress,1,5417,5414,"""NO/AGAINST""",1341,0.03000000,0,0,0,0,0,0,0,1.03905000,0,30,30
+Moffat County Sheriff,opportunistic_benefits,not_auditable,1,5417,5414,"""Chip Dio McIntyre""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Moffat County Surveyor,opportunistic_benefits,not_auditable,1,5417,5414,"""Michael Fraher""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Moffat County Treasurer,opportunistic_benefits,not_auditable,1,5417,5414,"""Amy Wilson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montezuma County Assessor,opportunistic_benefits,not_auditable,1,12801,12793,"""Leslie Kennedy-Bugg""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montezuma County Ballot Question 1A,opportunistic_benefits,in_progress,1,12801,12793,"""No/Against""",5942,0.03000000,0,0,0,0,0,0,0,1.03905000,0,16,16
+Montezuma County Clerk and Recorder,opportunistic_benefits,not_auditable,1,12801,12793,"""Jerri Frizzell""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montezuma County Commissioner District 1,county_wide_contest,in_progress,1,12801,12793,"""Rodney Cox""",1617,0.03000000,0,0,0,0,0,0,0,1.03905000,0,58,58
+Montezuma County Coroner,opportunistic_benefits,not_auditable,1,12801,12793,"""George Deavers""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montezuma County Lodging Tax Question 1B,opportunistic_benefits,in_progress,1,12801,9496,"""No/Against""",1713,0.03000000,0,0,0,0,0,0,0,1.03905000,0,55,55
+Montezuma County Sheriff,opportunistic_benefits,not_auditable,1,12801,12793,"""Tyson Cox""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montezuma County Surveyor,opportunistic_benefits,not_auditable,1,12801,12793,"""Rita Caffey""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montezuma County Treasurer,opportunistic_benefits,not_auditable,1,12801,12793,"""Ellen Black""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Assessor,opportunistic_benefits,not_auditable,1,21689,21653,"""Brad Hughes""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Clerk and Recorder,opportunistic_benefits,not_auditable,1,21689,21653,"""Tressa Guynes""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Commissioner - District 2,opportunistic_benefits,not_auditable,1,21689,21653,"""Caryn Webb Gibson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Commissioner - District 3,opportunistic_benefits,not_auditable,1,21689,21653,"""Ed Lafferty""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Coroner,opportunistic_benefits,not_auditable,1,21689,21653,"""Shaye Schottel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Sheriff,opportunistic_benefits,not_auditable,1,21689,21653,"""Gene R Lillard""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Surveyor,opportunistic_benefits,not_auditable,1,21689,21653,"""James Pierce Jr.""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Treasurer,opportunistic_benefits,not_auditable,1,21689,21653,"""Rosemary Murphy""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Assessor,opportunistic_benefits,not_auditable,1,20870,10423,"""Tim Amen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Ballot Question 1A,opportunistic_benefits,in_progress,1,20870,10423,"""No/Against""",661,0.03000000,0,0,0,0,0,0,0,1.03905000,0,231,231
+Morgan County Clerk and Recorder,opportunistic_benefits,not_auditable,1,20870,10423,"""Kevin Strauch""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Commissioner District 2,opportunistic_benefits,not_auditable,1,20870,10423,"""Robert W Pennington""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Coroner,opportunistic_benefits,not_auditable,1,20870,10423,"""Mike Dahl""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Sheriff,opportunistic_benefits,not_auditable,1,20870,10423,"""Dave (David) D. Martin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Surveyor,opportunistic_benefits,not_auditable,1,20870,10423,"""Nicole F. Hay""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Treasurer,opportunistic_benefits,not_auditable,1,20870,10423,"""Kirstin M Watson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan - Proposition 137 (STATUTORY),county_wide_contest,in_progress,1,20870,10428,"""No/Against""",1577,0.03000000,0,0,0,0,0,0,0,1.03905000,0,97,97
+Morrison Creek Metropolitan Water & Sanitation District Ballot Issue 6B,opportunistic_benefits,in_progress,1,14399,953,"""No/Against""",282,0.03000000,0,0,0,0,0,0,0,1.03905000,0,373,373
+MOUNTAIN VIEW VILLAGES WATER AND SANITATION DISTRICT BALLOT ISSUE 6A,opportunistic_benefits,in_progress,1,3451,62,"""No/Against""",4,0.03000000,0,0,0,0,0,0,0,1.03905000,0,6287,6287
+MOUNTAIN VIEW VILLAGES WATER AND SANITATION DISTRICT BALLOT ISSUE 6B,opportunistic_benefits,in_progress,1,3451,62,"""No/Against""",4,0.03000000,0,0,0,0,0,0,0,1.03905000,0,6287,6287
+Mt. Crested Butte Town Council,opportunistic_benefits,in_progress,3,9679,591,"""R. Alec Lindeman"",""Steve Morris"",""Roman Kolodziej""",8,0.03000000,0,0,0,0,0,0,0,1.03905000,0,8817,8817
+North Range Metropolitan District No. 3 Ballot Issue 6A,opportunistic_benefits,in_progress,1,416878,1079,"""Yes/For""",605,0.03000000,0,0,0,0,0,0,0,1.03905000,0,5022,5022
+North Range Metropolitan District No. 3 Ballot Issue 6B,opportunistic_benefits,in_progress,1,416878,1079,"""Yes/For""",625,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4861,4861
+North Range Metropolitan District No. 3 Ballot Issue 6C,opportunistic_benefits,in_progress,1,416878,1079,"""Yes/For""",580,0.03000000,0,0,0,0,0,0,0,1.03905000,0,5238,5238
+North Range Metropolitan District No. 3 Ballot Issue 6D,opportunistic_benefits,in_progress,1,416878,1079,"""Yes/For""",612,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4964,4964
+Nunn Fire Protection District Ballot Issue 6A,opportunistic_benefits,in_progress,1,152784,1783,"""Yes/For""",26,0.03000000,0,0,0,0,0,0,0,1.03905000,0,42821,42821
+Ordinance Publication Referendum 2A,opportunistic_benefits,in_progress,1,655,220,"""No/Against""",105,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+Otero County Assessor,opportunistic_benefits,not_auditable,1,7248,7248,"""Ken R Hood""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Otero County Clerk & Recorder,opportunistic_benefits,not_auditable,1,7248,7248,"""Lynda ""Lyn"" Scott""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Otero County Commissioner District 2,opportunistic_benefits,not_auditable,1,7248,7248,"""Timothy Knabenshue""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Otero County Coroner,opportunistic_benefits,not_auditable,1,7248,7248,"""Robert M Fowler""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Otero County Court Judge - Culver,opportunistic_benefits,in_progress,1,7248,7248,"""YES""",2996,0.03000000,0,0,0,0,0,0,0,1.03905000,0,18,18
+Otero County Sheriff,county_wide_contest,in_progress,1,7248,7248,"""Brian Lovato""",1059,0.03000000,0,0,0,0,0,0,0,1.03905000,0,50,50
+Otero County Treasurer,opportunistic_benefits,not_auditable,1,7248,7248,"""Shawna Frankmore""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Ouray County Assessor,opportunistic_benefits,not_auditable,1,3618,3618,"""Susie Mayfield""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Ouray County Ballot Issue 1A,county_wide_contest,in_progress,1,3618,3618,"""No/Against""",467,0.03000000,0,0,0,0,0,0,0,1.03905000,0,57,57
+Ouray County Clerk and Recorder,opportunistic_benefits,not_auditable,1,3618,3618,"""Damon Todd""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Ouray County Commissioner - District 2,opportunistic_benefits,not_auditable,1,3618,3618,"""Michelle Nauer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Ouray County Coroner,opportunistic_benefits,not_auditable,1,3618,3618,"""R. Glenn Boyd""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Ouray County Sheriff,opportunistic_benefits,not_auditable,1,3618,3618,"""Justin Perry""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Ouray County Surveyor,opportunistic_benefits,not_auditable,1,3618,3618,"""Tim Pasek""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Ouray County Treasurer,opportunistic_benefits,not_auditable,1,3618,3618,"""Trisha Oakland""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Palisade Rural Fire Protection District Ballot Issue 6A,opportunistic_benefits,in_progress,1,77640,931,"""No/Against""",132,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4287,4287
+Park County Assessor,opportunistic_benefits,in_progress,1,9928,9922,"""Monica Jones""",1981,0.03000000,0,0,0,0,0,0,0,1.03905000,0,37,37
+Park County Clerk and Recorder,opportunistic_benefits,in_progress,1,9928,9922,"""Milena ""Mel"" Kassel""",2162,0.03000000,0,0,0,0,0,0,0,1.03905000,0,34,34
+Park County Commissioner District 3,county_wide_contest,in_progress,1,9928,9922,"""Tyrene Cook""",1214,0.03000000,0,0,0,0,0,0,0,1.03905000,0,60,60
+Park County Coroner,opportunistic_benefits,in_progress,1,9928,9922,"""David E. Kintz JR""",2396,0.03000000,0,0,0,0,0,0,0,1.03905000,0,31,31
+Park County Court Judge - Green,opportunistic_benefits,in_progress,1,9928,9922,"""Yes""",2891,0.03000000,0,0,0,0,0,0,0,1.03905000,0,26,26
+Park County Sheriff,opportunistic_benefits,in_progress,1,9928,9922,"""Steve Spodyak""",2027,0.03000000,0,0,0,0,0,0,0,1.03905000,0,36,36
+Park County Surveyor,opportunistic_benefits,not_auditable,1,9928,9922,"""Jack Kirby""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Park County Treasurer,opportunistic_benefits,in_progress,1,9928,9922,"""Amy Flint""",1833,0.03000000,0,0,0,0,0,0,0,1.03905000,0,40,40
+Peyton Fire Protection District Ballot Issue 6A,opportunistic_benefits,in_progress,1,321717,2291,"""Yes/For""",21,0.03000000,0,0,0,0,0,0,0,1.03905000,0,111636,111636
+Phillips County Assessor,opportunistic_benefits,not_auditable,1,1973,1972,"""Douglas D Kamery""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Phillips County Clerk and Recorder,opportunistic_benefits,not_auditable,1,1973,1972,"""Madene ""Beth"" Zilla""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Phillips County Commissioner - District 1,opportunistic_benefits,in_progress,1,1973,1972,"""Terry L. Hofmeister""",904,0.03000000,0,0,0,0,0,0,0,1.03905000,0,16,16
+Phillips County Coroner,opportunistic_benefits,not_auditable,1,1973,1972,"""Dennis James Jelden""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Phillips County Sheriff,opportunistic_benefits,not_auditable,1,1973,1972,"""David Romero Jr.""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Phillips County Treasurer,opportunistic_benefits,not_auditable,1,1973,1972,"""Steve D. Young""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pitkin County Assessor,opportunistic_benefits,not_auditable,1,18821,9331,"""Deborah J Bamesberger""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pitkin County Ballot Issue 1A: Healthy Community Fund Mill Levy,opportunistic_benefits,in_progress,1,18821,9331,"""Yes/For""",2406,0.03000000,0,0,0,0,0,0,0,1.03905000,0,58,58
+Pitkin County Clerk and Recorder,opportunistic_benefits,not_auditable,1,18821,9331,"""Ingrid K Grueter""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pitkin County Commissioner - District 1,county_wide_contest,in_progress,1,18821,9331,"""Rob Ittner""",1544,0.03000000,0,0,0,0,0,0,0,1.03905000,0,89,89
+Pitkin County Commissioner - District 2,opportunistic_benefits,in_progress,1,18821,9331,"""Ted Mahon""",2327,0.03000000,0,0,0,0,0,0,0,1.03905000,0,59,59
+Pitkin County Sheriff,opportunistic_benefits,not_auditable,1,18821,9331,"""Michael Buglione""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Poudre Valley Fire Protection District Ballot Issue 7E,opportunistic_benefits,in_progress,1,548624,22248,"""Yes/For""",3828,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1045,1045
+Prairie School District RE-11J Ballot Issue 5B,opportunistic_benefits,in_progress,1,152784,212,"""Yes/For""",41,0.03000000,0,0,0,0,0,0,0,1.03905000,0,27155,27155
+Pritchett School District RE-3 Ballot Issue 4A,opportunistic_benefits,in_progress,1,1613,130,"""Yes/For""",18,0.03000000,0,0,0,0,0,0,0,1.03905000,0,653,653
+Proposed Charter Amendment No. 1C (4 year term of office with two term limits for Future Mayors),opportunistic_benefits,in_progress,1,40993,40915,"""Yes/For""",61,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4897,4897
+Proposed Municipality of Niwot Ballot Issue 302,opportunistic_benefits,in_progress,1,354401,2933,"""No/Against""",1302,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1984,1984
+Proposed Municipality of Niwot Ballot Issue 303,opportunistic_benefits,in_progress,1,354401,2933,"""No/Against""",1365,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1892,1892
+Proposed Municipality of Niwot Ballot Issue 304,opportunistic_benefits,in_progress,1,354401,2933,"""No/Against""",714,0.03000000,0,0,0,0,0,0,0,1.03905000,0,3617,3617
+Proposed Municipality of Niwot Ballot Issue 305,opportunistic_benefits,in_progress,1,354401,2933,"""No/Against""",950,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2719,2719
+Proposed Municipality of Niwot Ballot Issue 306,opportunistic_benefits,in_progress,1,354401,2933,"""No/Against""",1153,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2240,2240
+Proposed Municipality of Niwot Ballot Question 300,opportunistic_benefits,in_progress,1,354401,2933,"""Against Incorporation""",1383,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1868,1868
+Proposed Municipality of Niwot Ballot Question 301,opportunistic_benefits,in_progress,1,354401,2933,"""No/Against""",897,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2880,2880
+Proposition 132 (STATUTORY),opportunistic_benefits,in_progress,1,4343676,2696405,"""Yes/For""",164396,0.03000000,0,0,0,0,0,0,0,1.03905000,0,193,193
+Proposition 133 (STATUTORY),opportunistic_benefits,in_progress,1,4384669,2737398,"""Yes/For""",555055,0.03000000,0,0,0,0,0,0,0,1.03905000,0,58,58
+Proposition 134 (STATUTORY),opportunistic_benefits,in_progress,1,4384669,2737155,"""Yes/For""",152310,0.03000000,0,0,0,0,0,0,0,1.03905000,0,210,210
+Proposition 135 (STATUTORY),opportunistic_benefits,in_progress,1,4360591,2712323,"""Yes/For""",147590,0.03000000,0,0,0,0,0,0,0,1.03905000,0,216,216
+Proposition 136 (STATUTORY),opportunistic_benefits,in_progress,1,4380824,2732212,"""No/Against""",67684,0.03000000,0,0,0,0,0,0,0,1.03905000,0,472,472
+Proposition 137 (STATUTORY),opportunistic_benefits,in_progress,1,4358723,2720684,"""Yes/For""",80738,0.03000000,0,0,0,0,0,0,0,1.03905000,0,394,394
+Proposition NN (STATUTORY),opportunistic_benefits,in_progress,1,4384669,2737499,"""Yes/For""",246929,0.03000000,0,0,0,0,0,0,0,1.03905000,0,130,130
+Prowers - Colorado Court of Appeals Judge - Lum,county_wide_contest,in_progress,1,4091,4091,"""Yes""",367,0.03000000,0,0,0,0,0,0,0,1.03905000,0,82,82
+Prowers County Assessor,opportunistic_benefits,not_auditable,1,4091,4090,"""Wylee Wollert""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Prowers County Clerk and Recorder,opportunistic_benefits,not_auditable,1,4091,4090,"""Jana Coen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Prowers County Commissioner - District 2,opportunistic_benefits,not_auditable,1,4091,4090,"""Ron Cook""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Prowers County Coroner,opportunistic_benefits,in_progress,1,4091,4090,"""Anthony Letteer""",216,0.03000000,0,0,0,0,0,0,0,1.03905000,0,139,139
+Prowers County Court Judge - Porter,opportunistic_benefits,in_progress,1,4091,4090,"""Yes""",2014,0.03000000,0,0,0,0,0,0,0,1.03905000,0,15,15
+Prowers County Sheriff,opportunistic_benefits,not_auditable,1,4091,4090,"""Samuel C. Zordel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Prowers County Treasurer,opportunistic_benefits,not_auditable,1,4091,4090,"""Abbie Campbell""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Publication Relating to Payment Bills and Statements Referendum 2B,opportunistic_benefits,in_progress,1,655,220,"""No/Against""",40,0.03000000,0,0,0,0,0,0,0,1.03905000,0,120,120
+Publishing Ordinances by Title,opportunistic_benefits,in_progress,1,13186,3913,"""NO/AGAINST""",1415,0.03000000,0,0,0,0,0,0,0,1.03905000,0,68,68
+PUEBLO CITY-COUNTY LIBRARY DISTRICT BALLOT ISSUE 6A,opportunistic_benefits,in_progress,1,139454,69486,"""Yes/For""",12519,0.03000000,0,0,0,0,0,0,0,1.03905000,0,82,82
+Pueblo County Assessor,opportunistic_benefits,in_progress,1,139454,69490,"""Tammi Pando""",854,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1190,1190
+Pueblo County Clerk and Recorder,opportunistic_benefits,in_progress,1,139454,69490,"""Candace Rivera""",12968,0.03000000,0,0,0,0,0,0,0,1.03905000,0,79,79
+Pueblo County Commissioner - District 3,opportunistic_benefits,in_progress,1,139454,69490,"""Angela Giron""",914,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1112,1112
+Pueblo County Coroner,opportunistic_benefits,in_progress,1,139454,69490,"""Zolanye McCulley-Bachicha""",5211,0.03000000,0,0,0,0,0,0,0,1.03905000,0,196,196
+Pueblo County Sheriff,opportunistic_benefits,in_progress,1,139454,69490,"""Allen Medina""",345,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2946,2946
+Pueblo County Surveyor,opportunistic_benefits,not_auditable,1,139454,69490,"""Randy Reeves""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pueblo County Treasurer,opportunistic_benefits,in_progress,1,139454,69490,"""Kim Archuletta""",9479,0.03000000,0,0,0,0,0,0,0,1.03905000,0,108,108
+PUEBLO WEST METROPOLITAN BALLOT ISSUE  6B,opportunistic_benefits,in_progress,1,139454,17377,"""No/Against""",3639,0.03000000,0,0,0,0,0,0,0,1.03905000,0,280,280
+PUEBLO WEST METROPOLITAN BALLOT ISSUE  6C,opportunistic_benefits,in_progress,1,139454,17377,"""No/Against""",4732,0.03000000,0,0,0,0,0,0,0,1.03905000,0,215,215
+Rainbow Valley Water District Ballot Issue 6A,opportunistic_benefits,in_progress,1,14416,163,"""No/Against""",93,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1130,1130
+Rainbow Valley Water District Ballot Question 6B,opportunistic_benefits,in_progress,1,14416,163,"""No/Against""",75,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1401,1401
+Referred Question 2H,opportunistic_benefits,in_progress,1,626644,312123,"""YES/FOR""",207874,0.03000000,0,0,0,0,0,0,0,1.03905000,0,22,22
+Referred Question 2I,opportunistic_benefits,in_progress,1,626644,312123,"""YES/FOR""",86753,0.03000000,0,0,0,0,0,0,0,1.03905000,0,53,53
+Referred Question 2J,opportunistic_benefits,in_progress,1,626644,312123,"""YES/FOR""",162774,0.03000000,0,0,0,0,0,0,0,1.03905000,0,29,29
+Referred Question 2K,opportunistic_benefits,in_progress,1,626644,312123,"""YES/FOR""",92930,0.03000000,0,0,0,0,0,0,0,1.03905000,0,50,50
+Regent of the University of Colorado - Congressional District 2,opportunistic_benefits,in_progress,1,1634311,383258,"""Edie Hooton""",158741,0.03000000,0,0,0,0,0,0,0,1.03905000,0,76,76
+Regent of the University of Colorado - Congressional District 6,opportunistic_benefits,in_progress,1,2434251,304005,"""Ilana Spiegel""",86906,0.03000000,0,0,0,0,0,0,0,1.03905000,0,205,205
+Regent of the University of Colorado - Congressional District 7,opportunistic_benefits,in_progress,1,1630412,386559,"""Nolbert Chavez""",68078,0.03000000,0,0,0,0,0,0,0,1.03905000,0,175,175
+Regional Transportation District Director - District B,opportunistic_benefits,in_progress,1,1043522,70450,"""John Glenn""",4522,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1682,1682
+Regional Transportation District Director - District C,opportunistic_benefits,not_auditable,1,626644,88016,"""Joe Meyer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Regional Transportation District Director - District J,opportunistic_benefits,not_auditable,1,1049552,89652,"""Coleman Erickson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Regional Transportation District Director - District K,opportunistic_benefits,in_progress,1,569662,87387,"""Jessica Sandgren""",2364,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1756,1756
+Regional Transportation District Director - District L,opportunistic_benefits,not_auditable,1,1049552,97477,"""Ian Harwick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Regional Transportation District Director - District N,opportunistic_benefits,not_auditable,1,1172235,116498,"""Cindy Arcuri""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Regional Transportation District Director - District O,opportunistic_benefits,in_progress,1,354401,113209,"""Jack Rosenthal""",11102,0.03000000,0,0,0,0,0,0,0,1.03905000,0,233,233
+Representative to the 120th United States Congress - District 1,opportunistic_benefits,in_progress,1,1798879,314773,"""Melat Kiros""",196012,0.03000000,0,0,0,0,0,0,0,1.03905000,0,67,67
+Representative to the 120th United States Congress - District 2,opportunistic_benefits,in_progress,1,1634311,383258,"""Joe Neguse""",191145,0.03000000,0,0,0,0,0,0,0,1.03905000,0,63,63
+Representative to the 120th United States Congress - District 3,opportunistic_benefits,in_progress,1,497530,341447,"""Jeff Hurd""",6200,0.03000000,0,0,0,0,0,0,0,1.03905000,0,585,585
+Representative to the 120th United States Congress - District 4,opportunistic_benefits,in_progress,1,2116446,392379,"""Eileen Laubacher""",3525,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4376,4376
+Representative to the 120th United States Congress - District 5,county_wide_contest,in_progress,1,321717,317024,"""Jessica Killin""",15815,0.03000000,0,0,0,0,0,0,0,1.03905000,0,149,149
+Representative to the 120th United States Congress - District 6,opportunistic_benefits,in_progress,1,2434251,304005,"""Jason Crow""",102733,0.03000000,0,0,0,0,0,0,0,1.03905000,0,173,173
+Representative to the 120th United States Congress - District 7,opportunistic_benefits,in_progress,1,1630412,386559,"""Brittany Pettersen""",93060,0.03000000,0,0,0,0,0,0,0,1.03905000,0,128,128
+Representative to the 120th United States Congress - District 8,opportunistic_benefits,in_progress,1,965502,295001,"""Manny Rutinel""",43245,0.03000000,0,0,0,0,0,0,0,1.03905000,0,163,163
+Rifle 2A: Notice Election to Increase Taxes,opportunistic_benefits,in_progress,1,52029,3028,"""NO""",377,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1006,1006
+Rio Blanco County Assessor,opportunistic_benefits,in_progress,1,3018,3016,"""Stacey Gould""",867,0.03000000,0,0,0,0,0,0,0,1.03905000,0,26,26
+Rio Blanco County Associate County Court - Edwards,opportunistic_benefits,in_progress,1,3018,3016,"""Yes""",801,0.03000000,0,0,0,0,0,0,0,1.03905000,0,28,28
+Rio Blanco County Ballot Question 1A,opportunistic_benefits,in_progress,1,3018,3016,"""No/Against""",481,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+Rio Blanco County Ballot Question 1B,opportunistic_benefits,in_progress,1,3018,3016,"""No/Against""",536,0.03000000,0,0,0,0,0,0,0,1.03905000,0,42,42
+Rio Blanco County Ballot Question 1C,county_wide_contest,in_progress,1,3018,3016,"""No/Against""",450,0.03000000,0,0,0,0,0,0,0,1.03905000,0,49,49
+Rio Blanco County Ballot Question 1D,opportunistic_benefits,in_progress,1,3018,3016,"""No/Against""",1621,0.03000000,0,0,0,0,0,0,0,1.03905000,0,14,14
+Rio Blanco County Clerk and Recorder,opportunistic_benefits,not_auditable,1,3018,3016,"""Shawn Luce""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Blanco County Commissioner District 1,opportunistic_benefits,not_auditable,1,3018,3016,"""Travis Day""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Blanco County Coroner,opportunistic_benefits,not_auditable,1,3018,3016,"""Laura Smith""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Blanco County Court Judge - Edwards,opportunistic_benefits,in_progress,1,3018,3016,"""Yes""",839,0.03000000,0,0,0,0,0,0,0,1.03905000,0,27,27
+Rio Blanco County Sheriff,opportunistic_benefits,not_auditable,1,3018,3016,"""Travis Mobley""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Blanco County Surveyor,opportunistic_benefits,not_auditable,1,3018,3016,"""Jonathan Joy""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Blanco County Treasurer,opportunistic_benefits,not_auditable,1,3018,3016,"""Rebecca Balboa""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Grande County Assessor,opportunistic_benefits,not_auditable,1,4937,4934,"""J.J. Mondragon""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Grande County Clerk and Recorder,opportunistic_benefits,not_auditable,1,4937,4934,"""Cindy Hill""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Grande County Commissioner District 2,opportunistic_benefits,not_auditable,1,4937,4934,"""Tyler Ratzlaff""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Grande County Coroner,opportunistic_benefits,not_auditable,1,4937,4934,"""Stephen Hunzeker""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Grande County Sheriff,county_wide_contest,in_progress,1,4937,4934,"""Anne M. Robinson""",1254,0.03000000,0,0,0,0,0,0,0,1.03905000,0,29,29
+Rio Grande County Treasurer,opportunistic_benefits,not_auditable,1,4937,4934,"""Caricia Johnston""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Roaring Fork School District RE-1 Ballot Issue 5C: Mill Levy Override,opportunistic_benefits,in_progress,1,118847,19341,"""YES""",2320,0.03000000,0,0,0,0,0,0,0,1.03905000,0,374,374
+Routt County Assessor,opportunistic_benefits,not_auditable,1,14399,14042,"""Gary Peterson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Routt County Clerk and Recorder,opportunistic_benefits,not_auditable,1,14399,14042,"""Jenny Thomas""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Routt County Commissioner - District 3,opportunistic_benefits,not_auditable,1,14399,14042,"""Sonja Macys""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Routt County Coroner,opportunistic_benefits,not_auditable,1,14399,14042,"""Mitch Locke""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Routt County Sheriff,opportunistic_benefits,not_auditable,1,14399,14042,"""Doug Scherar""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Routt County Surveyor,opportunistic_benefits,not_auditable,1,14399,14042,"""Tom Effinger""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Routt County Treasurer,opportunistic_benefits,not_auditable,1,14399,14042,"""Lane Iacovetto""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Routt - Proposition 135 (STATUTORY),county_wide_contest,in_progress,1,14399,14050,"""No/Against""",787,0.03000000,0,0,0,0,0,0,0,1.03905000,0,134,134
+Rye Fire Protection District Ballot Issue 7B,opportunistic_benefits,in_progress,1,146683,2773,"""Yes/For""",584,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1831,1831
+Saguache County Assessor,opportunistic_benefits,not_auditable,1,2867,2864,"""Peter Peterson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Saguache County Clerk and Recorder,opportunistic_benefits,not_auditable,1,2867,2864,"""Trish Gilbert""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Saguache County Commissioner District 3,county_wide_contest,in_progress,1,2867,2864,"""Liza Marron""",461,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+Saguache County Coroner,opportunistic_benefits,in_progress,1,2867,2864,"""Tania Sanchez""",161,0.03000000,0,0,0,0,0,0,0,1.03905000,0,130,130
+Saguache County Sheriff,opportunistic_benefits,not_auditable,1,2867,2864,"""Dan Warwick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Saguache County Treasurer,opportunistic_benefits,not_auditable,1,2867,2864,"""Regina Swartz""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+San Miguel County Assessor,opportunistic_benefits,not_auditable,1,4219,4215,"""Sarah Enders""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+San Miguel County Clerk and Recorder,opportunistic_benefits,not_auditable,1,4219,4215,"""Michael Wyszynski""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+San Miguel County Commissioner-District 2,opportunistic_benefits,in_progress,1,4219,4215,"""Dylan D. Brooks""",240,0.03000000,0,0,0,0,0,0,0,1.03905000,0,129,129
+San Miguel County Coroner,opportunistic_benefits,not_auditable,1,4219,4215,"""Emil Sante""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+San Miguel County Sheriff,county_wide_contest,in_progress,1,4219,4215,"""Lane Keith Masters""",354,0.03000000,0,0,0,0,0,0,0,1.03905000,0,87,87
+San Miguel County Surveyor,opportunistic_benefits,not_auditable,1,4219,4215,"""J. David Foley""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+San Miguel County Treasurer,opportunistic_benefits,not_auditable,1,4219,4215,"""Brandi R. Hatfield""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Secretary of State,state_wide_contest,in_progress,1,4384669,2738644,"""Amanda Gonzalez""",624522,0.03000000,0,0,0,0,0,0,0,1.03905000,0,52,52
+Sedgwick County Assessor,opportunistic_benefits,not_auditable,1,1114,1114,"""Elmer Ruder""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Sedgwick County Ballot Issue 1A,county_wide_contest,in_progress,1,1114,1114,"""Yes/For""",194,0.03000000,0,0,0,0,0,0,0,1.03905000,0,42,42
+Sedgwick County Clerk and Recorder,opportunistic_benefits,not_auditable,1,1114,1114,"""Kurt M Dilsaver""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Sedgwick County Commissioner - District 1,opportunistic_benefits,in_progress,1,1114,1114,"""Ben Holt""",39,0.03000000,0,0,0,0,0,0,0,1.03905000,0,209,209
+Sedgwick County Coroner,opportunistic_benefits,not_auditable,1,1114,1114,"""Tasha L Harris""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Sedgwick County Sheriff,opportunistic_benefits,not_auditable,1,1114,1114,"""Koby Quayle""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Sedgwick County Treasurer,opportunistic_benefits,not_auditable,1,1114,1114,"""Lori L Ehmke""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Snowmass Water and Sanitation District Ballot Issue 6A: Ziegler Reservoir Enhancement Bond,opportunistic_benefits,in_progress,1,18821,1559,"""Yes/For""",691,0.03000000,0,0,0,0,0,0,0,1.03905000,0,199,199
+Snowmass-Wildcat Fire Protection District Ballot Issue 6B,opportunistic_benefits,in_progress,1,18821,1587,"""Yes/For""",624,0.03000000,0,0,0,0,0,0,0,1.03905000,0,220,220
+Sombrero Ranch Public Improvement District of Boulder County Ballot Issue 6B,opportunistic_benefits,in_progress,1,354401,204,"""Yes/For""",67,0.03000000,0,0,0,0,0,0,0,1.03905000,0,38545,38545
+State Board of Education Member - Congressional District 1,opportunistic_benefits,in_progress,1,1798879,314773,"""Lisa Escárcega""",199939,0.03000000,0,0,0,0,0,0,0,1.03905000,0,66,66
+State Board of Education Member - Congressional District 3,opportunistic_benefits,in_progress,1,497530,341447,"""Sherri M Wright""",6192,0.03000000,0,0,0,0,0,0,0,1.03905000,0,586,586
+State Board of Education Member - Congressional District 7,opportunistic_benefits,in_progress,1,1630412,386559,"""Karla Esser""",84645,0.03000000,0,0,0,0,0,0,0,1.03905000,0,141,141
+State Representative - District 1,opportunistic_benefits,in_progress,1,1259318,31179,"""Javier Mabrey""",14074,0.03000000,0,0,0,0,0,0,0,1.03905000,0,653,653
+State Representative - District 10,opportunistic_benefits,not_auditable,1,354401,38181,"""Junie Joseph""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 11,opportunistic_benefits,not_auditable,1,354401,43661,"""Karen McCormick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 12,opportunistic_benefits,in_progress,1,354401,51314,"""Kyle Brown""",30459,0.03000000,0,0,0,0,0,0,0,1.03905000,0,85,85
+State Representative - District 13,opportunistic_benefits,in_progress,1,53550,50065,"""Consuelo Redhorse""",8583,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+State Representative - District 14,opportunistic_benefits,in_progress,1,321717,52974,"""Ava Flanell""",3403,0.03000000,0,0,0,0,0,0,0,1.03905000,0,689,689
+State Representative - District 15,opportunistic_benefits,in_progress,1,321717,40051,"""Jeff K. Livingston""",550,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4263,4263
+State Representative - District 16,opportunistic_benefits,in_progress,1,321717,36488,"""Steph Vigil""",5383,0.03000000,0,0,0,0,0,0,0,1.03905000,0,436,436
+State Representative - District 17,opportunistic_benefits,in_progress,1,321717,22140,"""Regina English""",7013,0.03000000,0,0,0,0,0,0,0,1.03905000,0,335,335
+State Representative - District 18,opportunistic_benefits,in_progress,1,336133,42582,"""Amy T Paschal""",8080,0.03000000,0,0,0,0,0,0,0,1.03905000,0,304,304
+State Representative - District 19,opportunistic_benefits,in_progress,1,507185,53357,"""Jillaire McMillan""",8529,0.03000000,0,0,0,0,0,0,0,1.03905000,0,434,434
+State Representative - District 2,opportunistic_benefits,in_progress,1,626644,49107,"""Scott Baldermann""",25453,0.03000000,0,0,0,0,0,0,0,1.03905000,0,180,180
+State Representative - District 20,opportunistic_benefits,not_auditable,1,321717,51858,"""Jarvis Caldwell""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 21,opportunistic_benefits,in_progress,1,321717,24408,"""Michelle Tweed""",536,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4374,4374
+State Representative - District 22,opportunistic_benefits,in_progress,1,321717,40647,"""Ken deGraaf""",872,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2689,2689
+State Representative - District 23,opportunistic_benefits,in_progress,1,632674,46244,"""Alexis Hoffkling""",18377,0.03000000,0,0,0,0,0,0,0,1.03905000,0,251,251
+State Representative - District 24,opportunistic_benefits,in_progress,1,1049552,50017,"""Lisa Feret""",13188,0.03000000,0,0,0,0,0,0,0,1.03905000,0,580,580
+State Representative - District 25,opportunistic_benefits,in_progress,1,632674,55216,"""Tammy Story""",7221,0.03000000,0,0,0,0,0,0,0,1.03905000,0,639,639
+State Representative - District 26,opportunistic_benefits,in_progress,1,70831,42313,"""Meghan Lukens""",7195,0.03000000,0,0,0,0,0,0,0,1.03905000,0,72,72
+State Representative - District 27,opportunistic_benefits,in_progress,1,632674,49614,"""Danielle Varda""",13032,0.03000000,0,0,0,0,0,0,0,1.03905000,0,354,354
+State Representative - District 28,opportunistic_benefits,not_auditable,1,632674,45919,"""David Rein""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 29,opportunistic_benefits,in_progress,1,1049552,45653,"""Lori Goldstein""",12841,0.03000000,0,0,0,0,0,0,0,1.03905000,0,596,596
+State Representative - District 3,opportunistic_benefits,in_progress,1,1166205,36215,"""Gena Ozols""",14292,0.03000000,0,0,0,0,0,0,0,1.03905000,0,595,595
+State Representative - District 30,opportunistic_benefits,in_progress,1,632674,38215,"""Rebekah Stewart""",14974,0.03000000,0,0,0,0,0,0,0,1.03905000,0,308,308
+State Representative - District 31,opportunistic_benefits,in_progress,1,416878,28472,"""Gabriel Cervantes""",9652,0.03000000,0,0,0,0,0,0,0,1.03905000,0,315,315
+State Representative - District 32,opportunistic_benefits,in_progress,1,416878,31744,"""Chris VanDijk""",10132,0.03000000,0,0,0,0,0,0,0,1.03905000,0,300,300
+State Representative - District 33,opportunistic_benefits,in_progress,1,610655,50891,"""Kenny Van Nguyen""",15402,0.03000000,0,0,0,0,0,0,0,1.03905000,0,289,289
+State Representative - District 34,opportunistic_benefits,in_progress,1,416878,38537,"""Jenny Willford""",8608,0.03000000,0,0,0,0,0,0,0,1.03905000,0,353,353
+State Representative - District 35,opportunistic_benefits,not_auditable,1,1049552,28720,"""Lorena Garcia""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 36,opportunistic_benefits,in_progress,1,956439,30046,"""Michael Carter""",13756,0.03000000,0,0,0,0,0,0,0,1.03905000,0,507,507
+State Representative - District 37,opportunistic_benefits,in_progress,1,539561,44222,"""Chad Clifford""",9507,0.03000000,0,0,0,0,0,0,0,1.03905000,0,414,414
+State Representative - District 38,opportunistic_benefits,in_progress,1,1172235,49749,"""Gretchen Rydin""",22158,0.03000000,0,0,0,0,0,0,0,1.03905000,0,386,386
+State Representative - District 39,opportunistic_benefits,in_progress,1,218494,58003,"""Brandi Bradley""",4284,0.03000000,0,0,0,0,0,0,0,1.03905000,0,372,372
+State Representative - District 4,opportunistic_benefits,in_progress,1,626644,38307,"""Cecelia Espenoza""",25977,0.03000000,0,0,0,0,0,0,0,1.03905000,0,176,176
+State Representative - District 40,opportunistic_benefits,in_progress,1,539561,36930,"""Naquetta Ricks""",12238,0.03000000,0,0,0,0,0,0,0,1.03905000,0,322,322
+State Representative - District 41,opportunistic_benefits,not_auditable,1,539561,31433,"""Jamie Jackson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 42,opportunistic_benefits,not_auditable,1,539561,20076,"""Sarah Amelia Woodson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 43,opportunistic_benefits,in_progress,1,218494,49505,"""Robert ""Bob"" Marshall""",6430,0.03000000,0,0,0,0,0,0,0,1.03905000,0,248,248
+State Representative - District 44,opportunistic_benefits,in_progress,1,218494,47232,"""Anthony Hartsook""",2328,0.03000000,0,0,0,0,0,0,0,1.03905000,0,684,684
+State Representative - District 45,opportunistic_benefits,in_progress,1,218494,52314,"""Max Brooks""",6520,0.03000000,0,0,0,0,0,0,0,1.03905000,0,245,245
+State Representative - District 46,opportunistic_benefits,in_progress,1,139454,38765,"""Tisha Mauro""",5038,0.03000000,0,0,0,0,0,0,0,1.03905000,0,202,202
+State Representative - District 47,opportunistic_benefits,in_progress,1,166737,37904,"""Ty Winter""",9307,0.03000000,0,0,0,0,0,0,0,1.03905000,0,131,131
+State Representative - District 48,opportunistic_benefits,in_progress,1,569662,38386,"""Carlos Barron""",3518,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1180,1180
+State Representative - District 49,opportunistic_benefits,in_progress,1,759472,54358,"""Lesley Smith""",18817,0.03000000,0,0,0,0,0,0,0,1.03905000,0,295,295
+State Representative - District 5,opportunistic_benefits,in_progress,1,626644,37655,"""Justine Sandoval""",27778,0.03000000,0,0,0,0,0,0,0,1.03905000,0,165,165
+State Representative - District 50,opportunistic_benefits,in_progress,1,152784,22203,"""Tommy Butler""",4439,0.03000000,0,0,0,0,0,0,0,1.03905000,0,251,251
+State Representative - District 51,opportunistic_benefits,in_progress,1,395840,48953,"""Jacki Marsh""",1344,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2147,2147
+State Representative - District 52,county_wide_contest,in_progress,1,395840,48794,"""Yara Zokaie""",18279,0.03000000,0,0,0,0,0,0,0,1.03905000,0,158,158
+State Representative - District 53,opportunistic_benefits,in_progress,1,395840,40756,"""Andy Boesenecker""",24180,0.03000000,0,0,0,0,0,0,0,1.03905000,0,120,120
+State Representative - District 54,opportunistic_benefits,in_progress,1,99988,45037,"""Jason Bias""",13910,0.03000000,0,0,0,0,0,0,0,1.03905000,0,53,53
+State Representative - District 55,opportunistic_benefits,in_progress,1,77640,43529,"""Rick Taggart""",7424,0.03000000,0,0,0,0,0,0,0,1.03905000,0,77,77
+State Representative - District 56,opportunistic_benefits,in_progress,1,1301667,49505,"""Chris Richardson""",23557,0.03000000,0,0,0,0,0,0,0,1.03905000,0,403,403
+State Representative - District 57,opportunistic_benefits,in_progress,1,118847,39414,"""Elizabeth Velasco""",8884,0.03000000,0,0,0,0,0,0,0,1.03905000,0,98,98
+State Representative - District 58,opportunistic_benefits,not_auditable,1,76134,49662,"""Larry Don Suckla""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 59,opportunistic_benefits,in_progress,1,51153,47585,"""Katie Stewart""",8247,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+State Representative - District 6,opportunistic_benefits,in_progress,1,626644,41951,"""Iris Halpern""",30746,0.03000000,0,0,0,0,0,0,0,1.03905000,0,149,149
+State Representative - District 60,opportunistic_benefits,in_progress,1,191441,45617,"""Matt Alexander""",13789,0.03000000,0,0,0,0,0,0,0,1.03905000,0,102,102
+State Representative - District 61,opportunistic_benefits,in_progress,1,758055,45067,"""Eliza Hamrick""",8720,0.03000000,0,0,0,0,0,0,0,1.03905000,0,634,634
+State Representative - District 62,opportunistic_benefits,in_progress,1,164162,33409,"""Matthew Martinez""",6455,0.03000000,0,0,0,0,0,0,0,1.03905000,0,186,186
+State Representative - District 63,opportunistic_benefits,not_auditable,1,190967,36129,"""Dusty Johnson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 64,opportunistic_benefits,in_progress,1,548624,49913,"""Scott L. Slaugh""",4785,0.03000000,0,0,0,0,0,0,0,1.03905000,0,836,836
+State Representative - District 65,opportunistic_benefits,not_auditable,1,548624,57389,"""Lori Garcia Sander""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 7,opportunistic_benefits,in_progress,1,626644,27699,"""Jennifer Bacon""",19368,0.03000000,0,0,0,0,0,0,0,1.03905000,0,236,236
+State Representative - District 8,opportunistic_benefits,in_progress,1,626644,45030,"""Lindsay Gilchrist""",34967,0.03000000,0,0,0,0,0,0,0,1.03905000,0,131,131
+State Representative - District 9,opportunistic_benefits,in_progress,1,1166205,36137,"""Monica VanBuskirk""",20310,0.03000000,0,0,0,0,0,0,0,1.03905000,0,419,419
+State Senator - District 1,opportunistic_benefits,in_progress,1,190967,74034,"""Byron Pelton""",25499,0.03000000,0,0,0,0,0,0,0,1.03905000,0,55,55
+State Senator - District 11,opportunistic_benefits,in_progress,1,321717,49312,"""Tony Exum Sr""",11956,0.03000000,0,0,0,0,0,0,0,1.03905000,0,197,197
+State Senator - District 15,opportunistic_benefits,in_progress,1,750241,93003,"""Janice Marchman""",12917,0.03000000,0,0,0,0,0,0,0,1.03905000,0,424,424
+State Senator - District 17,opportunistic_benefits,in_progress,1,507185,91765,"""Katie Wallace""",43539,0.03000000,0,0,0,0,0,0,0,1.03905000,0,85,85
+State Senator - District 20,county_wide_contest,in_progress,1,632674,96069,"""Sheila Lieder""",18044,0.03000000,0,0,0,0,0,0,0,1.03905000,0,256,256
+State Senator - District 21,opportunistic_benefits,in_progress,1,956439,62105,"""Adrienne Benavidez""",16272,0.03000000,0,0,0,0,0,0,0,1.03905000,0,429,429
+State Senator - District 22,opportunistic_benefits,in_progress,1,632674,76299,"""Monica Irasema Duran""",32178,0.03000000,0,0,0,0,0,0,0,1.03905000,0,144,144
+State Senator - District 24,county_wide_contest,in_progress,1,416878,67871,"""Kyle Mullica""",15803,0.03000000,0,0,0,0,0,0,0,1.03905000,0,193,193
+State Senator - District 25,opportunistic_benefits,in_progress,1,610655,81692,"""William Lindstedt""",26754,0.03000000,0,0,0,0,0,0,0,1.03905000,0,167,167
+State Senator - District 27,opportunistic_benefits,in_progress,1,758055,79175,"""Tom Sullivan""",17573,0.03000000,0,0,0,0,0,0,0,1.03905000,0,315,315
+State Senator - District 29,opportunistic_benefits,in_progress,1,539561,55042,"""Iman M. Jodeh""",22624,0.03000000,0,0,0,0,0,0,0,1.03905000,0,174,174
+State Senator - District 3,county_wide_contest,in_progress,1,139454,69490,"""Aaron Gutierrez""",5985,0.03000000,0,0,0,0,0,0,0,1.03905000,0,170,170
+State Senator - District 30,opportunistic_benefits,in_progress,1,218494,100418,"""Kevin Leung""",4705,0.03000000,0,0,0,0,0,0,0,1.03905000,0,339,339
+State Senator - District 31,opportunistic_benefits,not_auditable,1,626644,86339,"""Matt Ball""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 32,opportunistic_benefits,in_progress,1,1798879,65105,"""Emily Sirota""",37542,0.03000000,0,0,0,0,0,0,0,1.03905000,0,350,350
+State Senator - District 34,opportunistic_benefits,in_progress,1,626644,71274,"""Chela Garcia Irlando""",49018,0.03000000,0,0,0,0,0,0,0,1.03905000,0,94,94
+State Senator - District 35,opportunistic_benefits,in_progress,1,372511,86711,"""Rod Pelton""",34383,0.03000000,0,0,0,0,0,0,0,1.03905000,0,79,79
+State Senator - District 4,opportunistic_benefits,in_progress,1,916534,97447,"""Teddy Collins""",11359,0.03000000,0,0,0,0,0,0,0,1.03905000,0,588,588
+State Senator - District 7,opportunistic_benefits,not_auditable,1,99988,80775,"""Janice Rich""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 8,opportunistic_benefits,in_progress,1,159076,78782,"""Dylan Roberts""",14864,0.03000000,0,0,0,0,0,0,0,1.03905000,0,78,78
+State Senator - District 9,opportunistic_benefits,in_progress,1,321717,93263,"""Terri Carver""",12580,0.03000000,0,0,0,0,0,0,0,1.03905000,0,187,187
+State Treasurer,state_wide_contest,in_progress,1,4384669,2738644,"""Jeff Bridges""",536415,0.03000000,0,0,0,0,0,0,0,1.03905000,0,60,60
+Stone Creek Metropolitan District Ballot Question 6C,opportunistic_benefits,in_progress,1,218494,510,"""YES""",409,0.03000000,0,0,0,0,0,0,0,1.03905000,0,3893,3893
+Stone Creek Metropolitan District Ballot Question 6D,opportunistic_benefits,in_progress,1,218494,510,"""YES""",370,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4304,4304
+Stone Creek Metropolitan District Ballot Question 6E,opportunistic_benefits,in_progress,1,218494,510,"""YES""",373,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4269,4269
+Stone Creek Metropolitan District Ballot Question 6F,opportunistic_benefits,in_progress,1,218494,510,"""YES""",381,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4179,4179
+Stone Creek Metropolitan District Ballot Question 6G,opportunistic_benefits,in_progress,1,218494,510,"""YES""",383,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4158,4158
+Summerlin Public Improvement District of Boulder County Ballot Issue 6C,opportunistic_benefits,in_progress,1,354401,62,"""Yes/For""",47,0.03000000,0,0,0,0,0,0,0,1.03905000,0,54948,54948
+Summit County Assessor,opportunistic_benefits,not_auditable,1,14917,14888,"""Lisa M. Eurich""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit County Clerk and Recorder,opportunistic_benefits,not_auditable,1,14917,14888,"""Taryn Power""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit County Commissioner - District 1,opportunistic_benefits,in_progress,1,14917,14888,"""Eric Mamula""",6249,0.03000000,0,0,0,0,0,0,0,1.03905000,0,18,18
+Summit County Coroner,opportunistic_benefits,not_auditable,1,14917,14888,"""Amber Flenniken""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit County Referred Measure 1A,opportunistic_benefits,in_progress,1,14917,14888,"""Yes/For""",7231,0.03000000,0,0,0,0,0,0,0,1.03905000,0,16,16
+Summit County Sheriff,opportunistic_benefits,not_auditable,1,14917,14888,"""Jaime FitzSimons""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit County Surveyor,opportunistic_benefits,not_auditable,1,14917,14888,"""Matthew Wentz""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit County Treasurer,opportunistic_benefits,not_auditable,1,14917,14888,"""Jacqueline Kosel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit School District RE-1 Ballot Issue 4A,county_wide_contest,in_progress,1,14917,14790,"""Yes/For""",768,0.03000000,0,0,0,0,0,0,0,1.03905000,0,142,142
+Swink School District No. 33 Ballot Issue 4A,opportunistic_benefits,in_progress,1,7248,668,"""YES/FOR""",139,0.03000000,0,0,0,0,0,0,0,1.03905000,0,380,380
+Teller County Assessor,opportunistic_benefits,not_auditable,1,14416,13995,"""Kurt Schoenberger""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Teller County Clerk and Recorder,opportunistic_benefits,not_auditable,1,14416,13995,"""Stephanie Kees""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Teller County Commissioner District 2,opportunistic_benefits,in_progress,1,14416,13995,"""Carl E Andersen""",4219,0.03000000,0,0,0,0,0,0,0,1.03905000,0,25,25
+Teller County Coroner,opportunistic_benefits,not_auditable,1,14416,13995,"""Stephen Tomsky""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Teller County Sheriff,opportunistic_benefits,not_auditable,1,14416,13995,"""Kevin Tedesco""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Teller County Treasurer,opportunistic_benefits,not_auditable,1,14416,13995,"""Krystal Brown""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Telluride School District R-1 Ballot Issue 5A: Save our Schools,opportunistic_benefits,in_progress,1,5486,3573,"""Yes/For""",781,0.03000000,0,0,0,0,0,0,0,1.03905000,0,52,52
+Thompson Crossing Metropolitan District No. 2 Ballot Issue 6E,opportunistic_benefits,in_progress,1,395840,421,"""Yes/For""",38,0.03000000,0,0,0,0,0,0,0,1.03905000,0,75908,75908
+Timberline Fire Protection District Ballot Issue 7B,opportunistic_benefits,in_progress,1,358357,3949,"""YES/FOR""",186,0.03000000,0,0,0,0,0,0,0,1.03905000,0,14040,14040
+Town of Akron Referred Ballot Question 2B,opportunistic_benefits,in_progress,1,2442,729,"""YES/FOR""",193,0.03000000,0,0,0,0,0,0,0,1.03905000,0,93,93
+Town of Avon - Council Member,opportunistic_benefits,in_progress,4,47997,1869,"""Ruth Stanley"",""Alan Sandberg"",""Rich Carroll"",""Jennie Fancher""",24,0.03000000,0,0,0,0,0,0,0,1.03905000,0,14574,14574
+Town of Basalt Ballot Issue 3A: Increase Sales Tax for Public Services Facilities,opportunistic_benefits,in_progress,1,66818,2132,"""Yes/For""",61,0.03000000,0,0,0,0,0,0,0,1.03905000,0,7982,7982
+Town of Berthoud Ballot Issue 3G,opportunistic_benefits,in_progress,1,548624,7935,"""No/Against""",1448,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2761,2761
+Town of Branson Ballot Question 2A,opportunistic_benefits,not_auditable,1,6712,22,"""No/Against""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Buena Vista Mayor,opportunistic_benefits,in_progress,1,13186,1787,"""Carlin Walsh""",425,0.03000000,0,0,0,0,0,0,0,1.03905000,0,227,227
+Town of Buena Vista Trustee,opportunistic_benefits,in_progress,3,13186,1787,"""Chris Sturm"",""Alexia McCarty"",""Anthony LaGreca""",145,0.03000000,0,0,0,0,0,0,0,1.03905000,0,663,663
+Town of Castle Rock Councilmember - District 3,opportunistic_benefits,in_progress,1,218494,6816,"""Matt Smith""",178,0.03000000,0,0,0,0,0,0,0,1.03905000,0,8945,8945
+Town of Castle Rock Councilmember - District 5,opportunistic_benefits,in_progress,1,218494,6166,"""Mitchell Sawin""",1214,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1312,1312
+Town of Castle Rock Mayor,opportunistic_benefits,in_progress,1,218494,40913,"""Laura Cavey""",7709,0.03000000,0,0,0,0,0,0,0,1.03905000,0,207,207
+Town of Cedaredge Ballot Issue 2C,opportunistic_benefits,in_progress,1,22348,1243,"""Yes/For""",76,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2143,2143
+Town of Crested Butte Ballot Question 2B,opportunistic_benefits,in_progress,1,9679,1056,"""No/Against""",253,0.03000000,0,0,0,0,0,0,0,1.03905000,0,279,279
+Town of De Beque Ballot Issue 2C,opportunistic_benefits,in_progress,1,77640,177,"""No/Against""",61,0.03000000,0,0,0,0,0,0,0,1.03905000,0,9275,9275
+Town of Eaton Ballot Issue 2A,opportunistic_benefits,in_progress,1,152784,2897,"""Yes/For""",182,0.03000000,0,0,0,0,0,0,0,1.03905000,0,6118,6118
+Town of Erie Ballot Issue 3E,opportunistic_benefits,in_progress,1,507185,21264,"""Yes/For""",3034,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1219,1219
+Town of Erie Ballot Issue 3F,opportunistic_benefits,in_progress,1,507185,21264,"""No/Against""",3644,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1015,1015
+Town of Erie - Council Member District 2,opportunistic_benefits,in_progress,1,152784,6658,"""Ben Hemphill""",547,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2036,2036
+Town of Erie - Council Member District 3,opportunistic_benefits,in_progress,1,152784,5402,"""Amy Becker""",1055,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1056,1056
+Town of Erie Town Council District 1,opportunistic_benefits,in_progress,1,354401,7903,"""Bob Braudes""",831,0.03000000,0,0,0,0,0,0,0,1.03905000,0,3108,3108
+Town of Erie Town Council District 2,opportunistic_benefits,in_progress,1,354401,1314,"""Ben Hemphill""",257,0.03000000,0,0,0,0,0,0,0,1.03905000,0,10049,10049
+Town of Firestone Mayor,opportunistic_benefits,in_progress,1,152784,8599,"""Scott Nahman""",727,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1532,1532
+Town of Firestone Trustees,opportunistic_benefits,in_progress,5,152784,8599,"""John Damsma"",""Kevin Botka"",""Matt Holcomb"",""Troy Athmann"",""Michael W Ayres""",221,0.03000000,0,0,0,0,0,0,0,1.03905000,0,5038,5038
+Town of Fleming Mayor,opportunistic_benefits,in_progress,1,7958,178,"""Stefan P. Betley""",20,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2900,2900
+Town of Fleming Town Council,opportunistic_benefits,not_auditable,4,7958,178,"""William R. Langridge"",""Jenae Lorenzo Lock"",""Scott Richard Walker"",""Bonnie L. Jackson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Fraser Board of Trustees,opportunistic_benefits,in_progress,4,11396,603,"""Katie Soles"",""Adam Cwiklin"",""Ken Jensen"",""Brian Roman""",40,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2077,2077
+Town of Frederick Ballot Issue 2D,opportunistic_benefits,in_progress,1,152784,8379,"""No/Against""",1036,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1075,1075
+Town of Frederick Ballot Issue 2E,opportunistic_benefits,in_progress,1,152784,8379,"""No/Against""",2443,0.03000000,0,0,0,0,0,0,0,1.03905000,0,456,456
+Town of Gilcrest Board of Trustees,opportunistic_benefits,in_progress,6,152784,325,"""Laura Meisner"",""Teresa Kahler"",""Linda Shutt"",""Melissa Agripino"",""John Baker"",""Norman Martinez""",6,0.03000000,0,0,0,0,0,0,0,1.03905000,0,185556,185556
+Town of Granby Board of Trustees,opportunistic_benefits,in_progress,3,11396,1105,"""Kait Chase"",""Rachel Regenold"",""Jimmy Strickland""",36,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2307,2307
+Town of Green Mountain Falls Ballot Issue 3A,opportunistic_benefits,in_progress,1,336133,329,"""No/Against""",132,0.03000000,0,0,0,0,0,0,0,1.03905000,0,18557,18557
+Town of Green Mountain Falls - Mayor,opportunistic_benefits,not_auditable,1,336133,329,"""Todd Dixon""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Green Mountain Falls - Trustee,opportunistic_benefits,not_auditable,3,336133,329,"""Brandy Moralez"",""Ted Hunt Watson II""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Gypsum Ballot Issue 2A,opportunistic_benefits,in_progress,1,47997,3331,"""Yes/For""",1006,0.03000000,0,0,0,0,0,0,0,1.03905000,0,348,348
+Town of Haxtun Ballot Measure 2A,opportunistic_benefits,in_progress,1,1973,446,"""Yes/For""",305,0.03000000,0,0,0,0,0,0,0,1.03905000,0,48,48
+Town of Haxtun - Board of Trustees,opportunistic_benefits,not_auditable,2,1973,446,"""Lori Lundgren"",""David Green""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Haxtun - Mayor,opportunistic_benefits,not_auditable,1,1973,446,"""Mike Ensminger""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Hayden Councilmember,opportunistic_benefits,not_auditable,3,14399,861,"""Glen Frentress"",""Trevor Gann"",""Dana Haskins""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Hayden Mayor,opportunistic_benefits,not_auditable,1,14399,861,"""Ryan Banks""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Hot Sulphur Springs Ballot Question 2A,opportunistic_benefits,in_progress,1,11396,352,"""NO/AGAINST""",156,0.03000000,0,0,0,0,0,0,0,1.03905000,0,533,533
+Town of Hot Sulphur Springs Board of Trustees,opportunistic_benefits,in_progress,3,11396,352,"""Eric Groswold"",""James Johnson"",""Rosemary Opatril""",11,0.03000000,0,0,0,0,0,0,0,1.03905000,0,7550,7550
+Town of Hot Sulphur Springs - Mayor,opportunistic_benefits,not_auditable,1,11396,352,"""Raymond R Tinkum""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Hudson Councilmembers,opportunistic_benefits,in_progress,3,152784,610,"""Lisa Marie Buesgens"",""Zachary Reyes"",""Matthew Cole""",63,0.03000000,0,0,0,0,0,0,0,1.03905000,0,17672,17672
+Town of Hudson Mayor,opportunistic_benefits,in_progress,1,152784,610,"""Joe Hammock""",60,0.03000000,0,0,0,0,0,0,0,1.03905000,0,18556,18556
+Town of Keenesburg Board of Trustees,opportunistic_benefits,in_progress,3,152784,751,"""Christopher Carl Miller"",""Marcia L. Aden"",""Grant Walker""",10,0.03000000,0,0,0,0,0,0,0,1.03905000,0,111334,111334
+Town of Keenesburg Mayor,opportunistic_benefits,in_progress,1,152784,751,"""Bruce Sparrow""",47,0.03000000,0,0,0,0,0,0,0,1.03905000,0,23688,23688
+Town of Kersey Ballot Issue 2B,opportunistic_benefits,in_progress,1,152784,551,"""No/Against""",86,0.03000000,0,0,0,0,0,0,0,1.03905000,0,12946,12946
+Town of Kersey Mayor,opportunistic_benefits,not_auditable,1,152784,551,"""Nathan Roth""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Kersey Trustee,opportunistic_benefits,not_auditable,2,152784,551,"""Gary Lagrimanta"",""Karen Dusin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Lake City Ballot Question 2A-,opportunistic_benefits,in_progress,1,513,263,"""Yes/For""",191,0.03000000,0,0,0,0,0,0,0,1.03905000,0,20,20
+Town of Lake City Ballot Question 2B-,opportunistic_benefits,in_progress,1,513,263,"""No/Against""",12,0.03000000,0,0,0,0,0,0,0,1.03905000,0,312,312
+Town of LaSalle Trustee,opportunistic_benefits,in_progress,3,152784,888,"""Holly Bruce"",""Tyler Workman"",""Jason Graber""",32,0.03000000,0,0,0,0,0,0,0,1.03905000,0,34792,34792
+Town of Lochbuie Trustee,opportunistic_benefits,in_progress,5,569662,2776,"""Mary Lou Withrow"",""Shannon Donnelly"",""Catherine Moya"",""Kathryn Hunt"",""David Ott""",50,0.03000000,0,0,0,0,0,0,0,1.03905000,0,83023,83023
+Town of Mancos Ballot Question 2B,opportunistic_benefits,in_progress,1,12801,658,"""Yes/For""",78,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1196,1196
+Town of Mead Mayor,opportunistic_benefits,in_progress,1,152784,3714,"""Stephan K. Hucal""",1578,0.03000000,0,0,0,0,0,0,0,1.03905000,0,706,706
+Town of Mead Trustee,opportunistic_benefits,in_progress,4,152784,3714,"""Kim Heard"",""Jeff Morgan"",""Ryan Hathorn"",""Christine Smith""",938,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1187,1187
+Town of Monument Ballot Issue 2B,opportunistic_benefits,in_progress,1,321717,6935,"""No/Against""",709,0.03000000,0,0,0,0,0,0,0,1.03905000,0,3307,3307
+Town of Monument - Councilmember - At-Large,opportunistic_benefits,not_auditable,2,321717,6935,"""Alex Valderrama"",""Scott Gilson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Monument - Councilmember - Residential District 1,opportunistic_benefits,not_auditable,1,321717,2842,"""Dan DeBoo""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Monument - Councilmember - Residential District 2,opportunistic_benefits,not_auditable,1,321717,4093,"""Marco P. Fiorito""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Monument - Mayor,opportunistic_benefits,in_progress,1,321717,6935,"""Kenneth Kimple""",1360,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1724,1724
+Town of Morrison Ballot Issue 2D,opportunistic_benefits,in_progress,1,632674,207,"""Yes/For""",91,0.03000000,0,0,0,0,0,0,0,1.03905000,0,50663,50663
+Town of Morrison Ballot Issue 2E,opportunistic_benefits,in_progress,1,632674,207,"""Yes/For""",84,0.03000000,0,0,0,0,0,0,0,1.03905000,0,54885,54885
+Town of Morrison Ballot Question 2F,opportunistic_benefits,in_progress,1,632674,207,"""Yes/For""",15,0.03000000,0,0,0,0,0,0,0,1.03905000,0,307353,307353
+Town of Morrison Mayor,opportunistic_benefits,in_progress,1,632674,207,"""Katharine Gill""",152,0.03000000,0,0,0,0,0,0,0,1.03905000,0,30331,30331
+Town of Morrison Trustees,opportunistic_benefits,in_progress,3,632674,207,"""Stacy Feehery"",""David Wirtz"",""Shea Thomas""",36,0.03000000,0,0,0,0,0,0,0,1.03905000,0,128064,128064
+Town of Mountain View Ballot Question 2B,opportunistic_benefits,in_progress,1,632674,306,"""No/Against""",78,0.03000000,0,0,0,0,0,0,0,1.03905000,0,59107,59107
+Town of Mountain View Ballot Question 2C,opportunistic_benefits,in_progress,1,632674,306,"""No/Against""",158,0.03000000,0,0,0,0,0,0,0,1.03905000,0,29179,29179
+Town of Mt. Crested Butte Ballot Question 2A,opportunistic_benefits,in_progress,1,9679,591,"""Yes/For""",41,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1721,1721
+Town of Oak Creek Ballot Issue 2A,opportunistic_benefits,in_progress,1,14399,417,"""Yes/For""",77,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1363,1363
+Town of Oak Creek Mayor,opportunistic_benefits,in_progress,1,14399,417,"""Melissa Dobbins""",142,0.03000000,0,0,0,0,0,0,0,1.03905000,0,739,739
+Town of Oak Creek Trustee,opportunistic_benefits,in_progress,1,14399,417,"""Erika Pastor""",20,0.03000000,0,0,0,0,0,0,0,1.03905000,0,5247,5247
+Town of Orchard City Ballot Issue 2B,opportunistic_benefits,in_progress,1,22348,1680,"""No/Against""",760,0.03000000,0,0,0,0,0,0,0,1.03905000,0,215,215
+Town Of Palisade Ballot Issue 2A,opportunistic_benefits,in_progress,1,77640,1267,"""Yes/For""",40,0.03000000,0,0,0,0,0,0,0,1.03905000,0,14145,14145
+Town of Palmer Lake - Mayor,opportunistic_benefits,in_progress,1,321717,1537,"""Kent Hutson""",203,0.03000000,0,0,0,0,0,0,0,1.03905000,0,11549,11549
+Town of Palmer Lake - Trustee,opportunistic_benefits,in_progress,5,321717,1537,"""Dennis Stern"",""Tony Beltran"",""Rebecca ""Becky"" Albright"",""Eric Alan Burton"",""William Bass""",33,0.03000000,0,0,0,0,0,0,0,1.03905000,0,71041,71041
+Town of Paonia Ballot Issue 2A,opportunistic_benefits,in_progress,1,22348,844,"""Yes/For""",331,0.03000000,0,0,0,0,0,0,0,1.03905000,0,492,492
+Town of Parker Councilmember,opportunistic_benefits,in_progress,3,218494,29766,"""Erik Frandsen"",""Anne Barrington"",""Brandi Wilks""",323,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4930,4930
+Town of Pierce Mayor,opportunistic_benefits,in_progress,1,152784,478,"""Larry R. VanWhy""",149,0.03000000,0,0,0,0,0,0,0,1.03905000,0,7473,7473
+Town of Pierce Trustee,opportunistic_benefits,not_auditable,4,152784,478,"""Richard Wuehler"",""Chris VanWhy"",""Charles Dixon"",""Glen Lester""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Rockvale - Board of Trustees,opportunistic_benefits,not_auditable,4,21001,264,"""Lane Woodrich"",""James L. Cox"",""Gary W. Reed"",""Alvin C. Jackson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Snowmass Village - Mayor,opportunistic_benefits,not_auditable,1,18821,1526,"""Alyssa Shenk""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Snowmass Village - Town Council,opportunistic_benefits,in_progress,2,18821,1526,"""Britta Gustafson"",""Susan Marolt""",288,0.03000000,0,0,0,0,0,0,0,1.03905000,0,477,477
+Town Of Sugar City Ballot Issue 2A,opportunistic_benefits,in_progress,1,1357,113,"""Yes/For""",28,0.03000000,0,0,0,0,0,0,0,1.03905000,0,354,354
+Town of Superior Council Member,opportunistic_benefits,not_auditable,5,354401,7408,"""Kelly Watt"",""Adam Vonnahme"",""John Heckman"",""Debra K. Bowes"",""Stephanie Miller""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Superior Mayor,opportunistic_benefits,not_auditable,1,354401,7408,"""Neal S. Shah""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Wellington Ballot Issue 2A,opportunistic_benefits,in_progress,1,395840,5426,"""No/Against""",2155,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1339,1339
+Town of Wiggins Mayor,opportunistic_benefits,in_progress,1,20870,694,"""Chris Franzen""",298,0.03000000,0,0,0,0,0,0,0,1.03905000,0,511,511
+Town of Wiggins Trustee,opportunistic_benefits,not_auditable,3,20870,694,"""Lance Fleming"",""Robert McKeighan"",""Chris Sandoval""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Williamsburg - Board of Trustees,opportunistic_benefits,in_progress,6,21001,332,"""Kristina Graham-Webb"",""David Hankins"",""Stephen (Steve) Harrison"",""Skylar Miller"",""Brian Dreitz"",""Misty Smith""",4,0.03000000,0,0,0,0,0,0,0,1.03905000,0,38259,38259
+Town of Williamsburg - Mayor,opportunistic_benefits,not_auditable,1,21001,332,"""Joelina Espinoza""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Trustee,opportunistic_benefits,not_auditable,3,77640,177,"""Vernon E. Bruse"",""Wyatt A. Ransom"",""N. J. Fulmer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+United States Senator,state_wide_contest,in_progress,1,4384669,2738644,"""John Hickenlooper""",687174,0.03000000,0,0,0,0,0,0,0,1.03905000,0,47,47
+Upper San Juan Health Service District Ballot Issue 7B,opportunistic_benefits,in_progress,1,8967,7482,"""Yes/For""",3855,0.03000000,0,0,0,0,0,0,0,1.03905000,0,17,17
+Washington County Assessor,opportunistic_benefits,not_auditable,1,2442,2312,"""Hali Thompson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Washington County Clerk and Recorder,opportunistic_benefits,not_auditable,1,2442,2312,"""Annie Kuntz""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Washington County Commissioner - District 1,opportunistic_benefits,not_auditable,1,2442,2312,"""Richard Alonso Holtorf""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Washington County Coroner,opportunistic_benefits,not_auditable,1,2442,2312,"""Dallas Bowin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Washington County Court Judge - Hansen,opportunistic_benefits,in_progress,1,2442,2312,"""YES""",1082,0.03000000,0,0,0,0,0,0,0,1.03905000,0,17,17
+Washington County Sheriff,opportunistic_benefits,not_auditable,1,2442,2312,"""Robbie Furrow""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Washington County Treasurer,opportunistic_benefits,not_auditable,1,2442,2312,"""Michelle Swan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Washington - District Court Judge - 13th Judicial District - Christiansen,county_wide_contest,in_progress,1,2442,2312,"""NO""",278,0.03000000,0,0,0,0,0,0,0,1.03905000,0,65,65
+Weld County Assessor,opportunistic_benefits,not_auditable,1,152784,152036,"""Jason A Marini""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Weld County Clerk and Recorder,opportunistic_benefits,not_auditable,1,152784,152036,"""Rudy Santos""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Weld County Commissioner - At-Large,opportunistic_benefits,in_progress,1,152784,152036,"""Steve Reams""",20166,0.03000000,0,0,0,0,0,0,0,1.03905000,0,56,56
+Weld County Commissioner - District 2,opportunistic_benefits,not_auditable,1,152784,60950,"""Scott James""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Weld County Council - At-Large,county_wide_contest,in_progress,1,152784,152036,"""Ty Kissler""",7840,0.03000000,0,0,0,0,0,0,0,1.03905000,0,143,143
+Weld County Council - District 3,opportunistic_benefits,not_auditable,1,152784,32951,"""Elijah Hatch""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Weld County Court Judge - Briggs,opportunistic_benefits,in_progress,1,152784,152036,"""Yes""",33314,0.03000000,0,0,0,0,0,0,0,1.03905000,0,34,34
+Weld County Court Judge - Meyer,opportunistic_benefits,in_progress,1,152784,152036,"""Yes""",32844,0.03000000,0,0,0,0,0,0,0,1.03905000,0,34,34
+Weld County Court Judge - Nichols,opportunistic_benefits,in_progress,1,152784,152036,"""Yes""",26443,0.03000000,0,0,0,0,0,0,0,1.03905000,0,43,43
+Weld County School District RE-1 Ballot Issue 4B,opportunistic_benefits,in_progress,1,152784,4341,"""No/Against""",451,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2469,2469
+Weld County School District RE-2 Ballot Issue 4A,opportunistic_benefits,in_progress,1,152784,5796,"""No/Against""",1115,0.03000000,0,0,0,0,0,0,0,1.03905000,0,999,999
+Weld County School District RE-5J Ballot Issue 5A,opportunistic_benefits,in_progress,1,548624,12041,"""Yes/For""",1175,0.03000000,0,0,0,0,0,0,0,1.03905000,0,3403,3403
+Weld County School District RE-8 Ballot Issue 5C,opportunistic_benefits,in_progress,1,193777,6617,"""No/Against""",261,0.03000000,0,0,0,0,0,0,0,1.03905000,0,5411,5411
+Weld County Sheriff,opportunistic_benefits,in_progress,1,152784,152036,"""Matt Turner""",25586,0.03000000,0,0,0,0,0,0,0,1.03905000,0,44,44
+West End Health Service District Ballot Issue 6B,opportunistic_benefits,in_progress,1,21689,1112,"""No/Against""",535,0.03000000,0,0,0,0,0,0,0,1.03905000,0,296,296
+West End Health Service District Ballot Question 6A,opportunistic_benefits,in_progress,1,21689,1112,"""Yes/For""",3,0.03000000,0,0,0,0,0,0,0,1.03905000,0,52683,52683
+West End Health Service District Directors 1,opportunistic_benefits,in_progress,2,21689,1112,"""Lorraine Garvey"",""Ruth A. Reams""",419,0.03000000,0,0,0,0,0,0,0,1.03905000,0,378,378
+West End Health Service District Directors 2,opportunistic_benefits,not_auditable,3,21689,1112,"""Troy Masters"",""Randi Latham"",""Christine Daniels""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+West Grand School District 1-JT. Ballot Issue 5A,opportunistic_benefits,in_progress,1,74310,1724,"""YES/FOR""",478,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1133,1133
+West Metro Fire Protection District Ballot Issue 7C,opportunistic_benefits,in_progress,1,851168,153967,"""Yes/For""",31393,0.03000000,0,0,0,0,0,0,0,1.03905000,0,198,198
+Westminster Public Schools Ballot Issue 4A,opportunistic_benefits,in_progress,1,416878,26024,"""Yes/For""",10353,0.03000000,0,0,0,0,0,0,0,1.03905000,0,294,294
+West Routt Fire Protection District Ballot Issue 6A,opportunistic_benefits,in_progress,1,14399,1258,"""Yes/For""",224,0.03000000,0,0,0,0,0,0,0,1.03905000,0,469,469
+Windsor-Severance Fire Protection District Ballot Issue 7F,opportunistic_benefits,in_progress,1,548624,30652,"""No/Against""",4921,0.03000000,0,0,0,0,0,0,0,1.03905000,0,813,813
+Yampa Valley Regional Transportation Authority Ballot Issue 7A,opportunistic_benefits,in_progress,1,19816,17240,"""Yes/For""",2832,0.03000000,0,0,0,0,0,0,0,1.03905000,0,51,51
+Yuma County Assessor,opportunistic_benefits,not_auditable,1,3826,3820,"""Kaci Scholes""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Yuma County Clerk and Recorder,opportunistic_benefits,not_auditable,1,3826,3820,"""Haleigh Studer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Yuma County Commissioner - District 1,opportunistic_benefits,not_auditable,1,3826,3820,"""Cliff Leonhardt""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Yuma County Coroner,opportunistic_benefits,not_auditable,1,3826,3820,"""Javan Jones """,0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Yuma County Sheriff,opportunistic_benefits,not_auditable,1,3826,3820,"""Larry Gilliland """,0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Yuma County Treasurer,opportunistic_benefits,not_auditable,1,3826,3820,"""Chrystal Hammond""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Yuma - District Court Judge - 13th Judicial District - Christiansen,county_wide_contest,in_progress,1,3826,3820,"""No""",497,0.03000000,0,0,0,0,0,0,0,1.03905000,0,57,57

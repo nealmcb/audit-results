@@ -10,15 +10,15 @@ title: States
 |---|---|---|
 | [Alabama](AL.md) | 3 | 0 |
 | [Alaska](AK.md) | 2 | 0 |
-| [Arizona](AZ.md) | 2 | 1 |
+| [Arizona](AZ.md) | 3 | 1 |
 | [Arkansas](AR.md) | 1 | 0 |
 | [California](CA.md) | 2 | 0 |
-| [Colorado](CO.md) | 12 | 13 |
+| [Colorado](CO.md) | 13 | 26 |
 | [Connecticut](CT.md) | 1 | 0 |
 | [Delaware](DE.md) | 1 | 0 |
 | [District of Columbia](DC.md) | 3 | 1 |
 | [Florida](FL.md) | 6 | 0 |
-| [Georgia](GA.md) | 10 | 15 |
+| [Georgia](GA.md) | 11 | 17 |
 | [Hawaii](HI.md) | 0 | 0 |
 | [Idaho](ID.md) | 2 | 0 |
 | [Illinois](IL.md) | 1 | 0 |
@@ -51,7 +51,7 @@ title: States
 | [South Carolina](SC.md) | 1 | 2 |
 | [South Dakota](SD.md) | 0 | 0 |
 | [Tennessee](TN.md) | 1 | 0 |
-| [Texas](TX.md) | 5 | 4 |
+| [Texas](TX.md) | 6 | 4 |
 | [Utah](UT.md) | 4 | 0 |
 | [Vermont](VT.md) | 2 | 0 |
 | [Virginia](VA.md) | 4 | 1 |

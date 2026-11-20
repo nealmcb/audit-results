@@ -1,0 +1,21 @@
+# Arizona 2026 General Election hand count audit reports
+# Source page: https://azsos.gov/elections/election-information/2026-election-info (Hand Count Results for 2026 General Election)
+# Downloaded via Chrome 2026-11-20 UTC; columns: sha256  bytes  source_url
+36338902dc986bf4fdca18b0bd0f68290a00497f28a8cd28de52d868eddf656f  4116472  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Apache.pdf
+0354b41604cc23005d0490a39f63791ac8aff7d0ec45b2f9ebdc46f91eb790fd  2064336  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Cochise.pdf
+996af9b50a53bf21eb6b1ac096a07aebad06f794497aabe9663079bf9c687fa6  2471061  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Gila.pdf
+02cfd3017c7af23d40da145597542ab3db6ff874a007e7f351d0d718e6bf7c98  480744  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Graham.pdf
+1038da4cf68fccae130a6199acf4ebe47d9fa50d3c64fe36824c516b156f87a9  1504504  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Greenlee.pdf
+ba9ffd34ba2cfcfda61709f465a39887e3f183bf5aed5e816e66ded54a04fcca  1028470  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_LaPaz.pdf
+556887653e86cd95b7ea052ef94e8bf2ec518b9804838245a7dd80b277da9b68  2223806  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Maricopa.pdf
+18fed1acb6bddd3f498621d8c7ae49ff99448567bc0a091c90ce9ab8ffe39eba  1034045  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Mohave.pdf
+804d5a5f92aa92a5e97cfaf5bbd44c93b54f970ff75b7d06dac6effde7d3f5f4  236220  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Navajo.pdf
+7e76a19b196ff4474193ea1ae4c2890b785df3837d894ec62cc18c257f212119  369507  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Pima.pdf
+133c36a0a246928c186d33fa7f9ebd6fc17f8ab20bd4096f1626895ecde5c734  451746  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Pinal.pdf
+07fbd233acaf5c5ec32dd46e86094474d448bad9b948b3de37b622406810eced  23898338  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Santa_Cruz.pdf
+79d40f682e6b755630755e269814053dde3f6bd38496aec57c6c00a4dabeed68  4553669  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Yavapai.pdf
+63df19c71586a112d78e702575462b92a8cee5ecfa858dc141b30749e781dcbc  202819  https://apps.azsos.gov/election/2026/handcount/2026_General_HandCount_Yuma.pdf
+4554a87835a1d4422b92ccc47d77bc3ffccda8122ff858ae92c2a9d578ad770c  12238501  https://apps.azsos.gov/election/2026/handcount/coconino-ge/2026-General-Election-Hand-Count-Audit-Tally-Sheets.pdf
+c4cd5dc009823d25d0d9c8455e757d553021a59fd3d7f51932c4353986f47a5f  321134  https://apps.azsos.gov/election/2026/handcount/coconino-ge/Certificate-Hand-Count-Audit-Signed.pdf
+d73dbd1610a7dabee909b162909465faef4ea833bd2ab7c6fb80755220852015  277183  https://apps.azsos.gov/election/2026/handcount/coconino-ge/Hand-Count-Audit-Report-Secretary-State-November-3-General-Election.pdf
+4b7f0675eb5104c48a12f89862fe0f14a8a391692798bb481a0a4e784a789232  346272  https://apps.azsos.gov/election/2026/handcount/coconino-ge/Memo-Hand-Count.pdf
