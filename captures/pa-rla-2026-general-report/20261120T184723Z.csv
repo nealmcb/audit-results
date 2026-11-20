@@ -1,0 +1,33 @@
+######## ELECTION INFO ########
+Organization,Election Name,State
+Pennsylvania,2026 General Election,PA
+
+######## CONTESTS ########
+Contest Name,Targeted?,Number of Winners,Votes Allowed,Total Ballots Cast,Vote Totals,Vote Totals from Batches,Pending Ballots
+Governor,Targeted,1,1,5033209,JOSH SHAPIRO: 3027775; STACY GARRITY: 1912587; KEN KRAWCHUK: 64834,JOSH SHAPIRO: 3019376; STACY GARRITY: 1910272; KEN KRAWCHUK: 64665,35000
+
+######## AUDIT SETTINGS ########
+Audit Name,Audit Type,Audit Math Type,Risk Limit,Random Seed,Online Data Entry?
+"November 3, 2026 General Election",BATCH_COMPARISON,MACRO,10%,48828428706800623218,No
+
+######## ROUNDS ########
+Round Number,Contest Name,Targeted?,Sample Size,Risk Limit Met?,P-Value,Start Time,End Time,Audited Votes,Batches Sampled,Ballots Sampled,Reported Votes
+1,Governor,Targeted,14,Yes,0.0688778413,2026-11-13T17:56:35.248336+00:00,2026-11-19T16:51:52.118997+00:00,JOSH SHAPIRO: 3730; STACY GARRITY: 1912; KEN KRAWCHUK: 82,14,5752,JOSH SHAPIRO: 3730; STACY GARRITY: 1912; KEN KRAWCHUK: 82
+
+######## SAMPLED BATCHES ########
+Jurisdiction Name,Batch Name,Ballots in Batch,Ticket Numbers: Governor,Audited?,Reported Results: Governor,Audit Results: Governor,Change in Results: Governor,Change in Margin: Governor,Last Edited By
+Allegheny,F0010-All - Absentee/Mail - 6,519,Round 1: 0.156711530787291131,Yes,JOSH SHAPIRO: 437; STACY GARRITY: 74; KEN KRAWCHUK: 6,JOSH SHAPIRO: 437; STACY GARRITY: 74; KEN KRAWCHUK: 6,,,david.voye@alleghenycounty.us
+Allegheny,Millvale Dist 4 - 1,180,Round 1: 0.002440827098627092,Yes,JOSH SHAPIRO: 128; STACY GARRITY: 49; KEN KRAWCHUK: 2,JOSH SHAPIRO: 128; STACY GARRITY: 49; KEN KRAWCHUK: 2,,,david.voye@alleghenycounty.us
+Allegheny,Moon Dist 14 - 1,240,Round 1: 0.747673345109132515,Yes,JOSH SHAPIRO: 150; STACY GARRITY: 87; KEN KRAWCHUK: 3,JOSH SHAPIRO: 150; STACY GARRITY: 87; KEN KRAWCHUK: 3,,,david.voye@alleghenycounty.us
+Allegheny,Pittsburgh Ward 8 Dist 7 - 1,345,Round 1: 0.763056028584081024,Yes,JOSH SHAPIRO: 326; STACY GARRITY: 11; KEN KRAWCHUK: 2,JOSH SHAPIRO: 326; STACY GARRITY: 11; KEN KRAWCHUK: 2,,,david.voye@alleghenycounty.us
+Allegheny,West View Dist 1 - 1,316,Round 1: 0.118898547493278811,Yes,JOSH SHAPIRO: 217; STACY GARRITY: 92; KEN KRAWCHUK: 7,JOSH SHAPIRO: 217; STACY GARRITY: 92; KEN KRAWCHUK: 7,,,david.voye@alleghenycounty.us
+Bucks,ED-4582233,537,Round 1: 0.743715190267868278,Yes,JOSH SHAPIRO: 266; STACY GARRITY: 263; KEN KRAWCHUK: 4,JOSH SHAPIRO: 266; STACY GARRITY: 263; KEN KRAWCHUK: 4,,,amettin@buckscounty.org
+Delaware,MIDDLETOWN TWP DISTRICT 04 PRECINCT 03-MAIL,308,Round 1: 0.750100891510320093,Yes,JOSH SHAPIRO: 247; STACY GARRITY: 53; KEN KRAWCHUK: 5,JOSH SHAPIRO: 247; STACY GARRITY: 53; KEN KRAWCHUK: 5,,,wrightr@co.delaware.pa.us
+Lancaster,0202 City 2-2,454,Round 1: 0.312183897521109684,Yes,JOSH SHAPIRO: 372; STACY GARRITY: 71; KEN KRAWCHUK: 7,JOSH SHAPIRO: 372; STACY GARRITY: 71; KEN KRAWCHUK: 7,,,mchrista@lancastercountypa.gov
+Lancaster,5721 ManTw-21,1199,Round 1: 0.704385240098668809,Yes,JOSH SHAPIRO: 702; STACY GARRITY: 473; KEN KRAWCHUK: 21,JOSH SHAPIRO: 702; STACY GARRITY: 473; KEN KRAWCHUK: 21,,,mchrista@lancastercountypa.gov
+Luzerne,CaptureBatch 215,99,Round 1: 0.9137156336904524515,Yes,JOSH SHAPIRO: 78; STACY GARRITY: 20; KEN KRAWCHUK: 1,JOSH SHAPIRO: 78; STACY GARRITY: 20; KEN KRAWCHUK: 1,,,steven.hahn@luzernecounty.org
+Montgomery,301401 Abington 14-1 -ICP - 0,483,Round 1: 0.848172327996054915,Yes,JOSH SHAPIRO: 412; STACY GARRITY: 63; KEN KRAWCHUK: 6,JOSH SHAPIRO: 412; STACY GARRITY: 63; KEN KRAWCHUK: 6,,,francis.dean@montgomerycountypa.gov
+Montgomery,420001 Lower Pottsgrove 1 -ICP2 - 0,331,Round 1: 0.074144534579796977,Yes,JOSH SHAPIRO: 167; STACY GARRITY: 157; KEN KRAWCHUK: 7,JOSH SHAPIRO: 167; STACY GARRITY: 157; KEN KRAWCHUK: 7,,,francis.dean@montgomerycountypa.gov
+Somerset,Absentee Lower Turkeyfoot Township,28,Round 1: 0.808135780271309720,Yes,JOSH SHAPIRO: 24; STACY GARRITY: 4; KEN KRAWCHUK: 0,JOSH SHAPIRO: 24; STACY GARRITY: 4; KEN KRAWCHUK: 0,,,voter@somersetcountypa.gov
+Tioga,Jackson Twp,713,Round 1: 0.99147803942152926457,Yes,JOSH SHAPIRO: 204; STACY GARRITY: 495; KEN KRAWCHUK: 11,JOSH SHAPIRO: 204; STACY GARRITY: 495; KEN KRAWCHUK: 11,,,calexander@tiogacountypa.us
+Totals,,5752,,,JOSH SHAPIRO: 3730; STACY GARRITY: 1912; KEN KRAWCHUK: 82,JOSH SHAPIRO: 3730; STACY GARRITY: 1912; KEN KRAWCHUK: 82,,

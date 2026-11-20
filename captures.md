@@ -413,7 +413,7 @@ https://www.forsythco.com/government/departments/voter-registrations-elections/c
 
 RLA results to be posted here
 
-Watched since 2026-11-12T05:24:55Z.
+Watched since 2026-11-12T05:24:55Z; fetched successfully until 2026-11-20T06:22:57Z, refused since (HTTP curl: (28) Connection timed out after 90001 milliseconds).
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -451,7 +451,7 @@ https://www.forsythco.com/app/uploads/2026/11/11-03-26-RLA-BRE-selected-Batch-Ta
 
 audit board tally sheet, batch chosen by the county board
 
-Watched since 2026-11-17T22:48:17Z.
+Watched since 2026-11-17T22:48:17Z; fetched successfully until 2026-11-20T06:23:40Z, refused since (HTTP curl: (28) Connection timed out after 90001 milliseconds).
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -463,7 +463,7 @@ https://www.forsythco.com/app/uploads/2026/11/11-03-26-RLA.-SOS-selected-Batches
 
 audit board tally sheets, SOS-selected batches
 
-Watched since 2026-11-17T22:48:15Z.
+Watched since 2026-11-17T22:48:15Z; fetched successfully until 2026-11-20T06:23:37Z, refused since (HTTP curl: (28) Connection timed out after 90002 milliseconds).
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -475,7 +475,7 @@ https://www.forsythco.com/app/uploads/2026/11/11-13-2026-RLA-Totals-of-11-03-26-
 
 breakdown of RLA hand-count results
 
-Watched since 2026-11-17T22:48:12Z.
+Watched since 2026-11-17T22:48:12Z; fetched successfully until 2026-11-20T06:23:35Z, refused since (HTTP curl: (28) Connection timed out after 90001 milliseconds).
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -649,6 +649,7 @@ Watched since 2026-11-10T15:17:26Z.
 | 2026-11-10T15:17:26Z | `bb0f18dbb597cf1a…` | [20261110T151726Z.html](captures/nc-election-results-releases/20261110T151726Z.html) |
 | 2026-11-10T21:15:18Z | `3b6f76d34bd78e8e…` | [20261110T211518Z.html](captures/nc-election-results-releases/20261110T211518Z.html) |
 | 2026-11-13T16:28:21Z | `94ef572588fec23c…` | [20261113T162821Z.html](captures/nc-election-results-releases/20261113T162821Z.html) |
+| 2026-11-20T22:37:17Z | `34ad3962cd616b73…` | [20261120T223717Z.html](captures/nc-election-results-releases/20261120T223717Z.html) |
 
 ## ND: nd-post-election-audits
 
@@ -721,6 +722,19 @@ Watched since 2026-11-10T15:16:55Z.
 | 2026-11-10T15:16:55Z | `8b5c2d15bc6ad3d4…` | [20261110T151655Z.html](captures/pa-post-election-audits/20261110T151655Z.html) |
 | 2026-11-10T15:49:43Z | `925987592c687b0b…` | [20261110T154943Z.html](captures/pa-post-election-audits/20261110T154943Z.html) |
 | 2026-11-13T18:57:07Z | `45e60eab24cbfe4c…` | [20261113T185707Z.html](captures/pa-post-election-audits/20261113T185707Z.html) |
+| 2026-11-20T15:13:53Z | `c054cd31ab8e8295…` | [20261120T151353Z.html](captures/pa-post-election-audits/20261120T151353Z.html) |
+
+## PA: pa-rla-2026-general-report
+
+https://www.pa.gov/content/dam/copapwp-pagov/en/vote/elections/risk-limiting-audit-reports/2026-general-election/audit-report-november-3-2026-general-election-2026-11-19t1653z.csv
+
+Arlo audit report, 2026 general RLA (generated 2026-11-19 16:53 UTC)
+
+Watched since 2026-11-20T18:47:23Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-20T18:47:23Z | `98cb8c7e6b835a41…` | [20261120T184723Z.csv](captures/pa-rla-2026-general-report/20261120T184723Z.csv) |
 
 ## RI: ri-rla-center
 
@@ -914,6 +928,7 @@ Watched since 2026-11-18T17:10:19Z.
 | 2026-11-18T17:10:19Z | `eb1c8dc4bbe8a9f3…` | [20261118T171019Z.html](captures/wa-king-observing/20261118T171019Z.html) |
 | 2026-11-19T01:31:03Z | `0452df0c4a546a88…` | [20261119T013103Z.html](captures/wa-king-observing/20261119T013103Z.html) |
 | 2026-11-19T23:54:56Z | `c80e72e62dc128cf…` | [20261119T235456Z.html](captures/wa-king-observing/20261119T235456Z.html) |
+| 2026-11-20T05:52:14Z | `6dd9b9ec971a8566…` | [20261120T055214Z.html](captures/wa-king-observing/20261120T055214Z.html) |
 
 ## WA: wa-post-election-audits
 

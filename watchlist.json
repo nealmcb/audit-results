@@ -473,5 +473,11 @@
   "state": "GA",
   "url": "https://sos.ga.gov/news/historic-number-risk-limiting-audits-confirm-election-outcomes",
   "why": "SOS release: RLAs confirm outcomes (refuses scripts)"
+ },
+ {
+  "slug": "pa-rla-2026-general-report",
+  "state": "PA",
+  "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/vote/elections/risk-limiting-audit-reports/2026-general-election/audit-report-november-3-2026-general-election-2026-11-19t1653z.csv",
+  "why": "Arlo audit report, 2026 general RLA (generated 2026-11-19 16:53 UTC)"
  }
 ]
