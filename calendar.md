@@ -101,6 +101,7 @@ seed, or evidence published before a seed.
 
 ### Fri Nov 20
 
+- **WI**: City of Madison post-election voting equipment audit, 8:30 am CT (14:30 UTC), Madison Municipal Building, Room 215, 215 Martin Luther King Jr Blvd; Wards 25, 98 and 101 (ES&S DS200), reporting units and contests drawn by the Wisconsin Elections Commission; open to the public; resumes Mon Nov 23 if needed. · _official ([Madison notice, posted Nov 16](https://www.cityofmadison.com/city-hall/committees/meeting-schedule/documents/agendas/Public%20Notice_1.pdf))_. The Commission's 2026 statewide selection list hasn't been found
 - **FL**: Collier County manual audit, 9:00 am ET (14:00 UTC), 3750 Enterprise Ave, Naples. · _official_. Precinct and race selected Fri Nov 13, 5:05 pm ET, at certification
 
 ### Sat Nov 21

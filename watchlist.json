@@ -479,5 +479,11 @@
   "state": "PA",
   "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/vote/elections/risk-limiting-audit-reports/2026-general-election/audit-report-november-3-2026-general-election-2026-11-19t1653z.csv",
   "why": "Arlo audit report, 2026 general RLA (generated 2026-11-19 16:53 UTC)"
+ },
+ {
+  "slug": "wi-madison-audit-notice",
+  "state": "WI",
+  "url": "https://www.cityofmadison.com/city-hall/committees/meeting-schedule/documents/agendas/Public%20Notice_1.pdf",
+  "why": "City of Madison voting equipment audit notice, Nov 20"
  }
 ]

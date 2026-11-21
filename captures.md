@@ -955,3 +955,15 @@ WEC random selection
 
 Watched since 2026-11-10T15:17:21Z; every fetch has been refused (HTTP 403), so a browser capture is needed.
 
+## WI: wi-madison-audit-notice
+
+https://www.cityofmadison.com/city-hall/committees/meeting-schedule/documents/agendas/Public%20Notice_1.pdf
+
+City of Madison voting equipment audit notice, Nov 20
+
+Watched since 2026-11-20T23:53:49Z.
+
+| Changed at (UTC) | sha256 | Copy |
+|---|---|---|
+| 2026-11-20T23:53:49Z | `8d8b30675980241e…` | [20261120T235349Z.pdf](captures/wi-madison-audit-notice/20261120T235349Z.pdf) |
+
