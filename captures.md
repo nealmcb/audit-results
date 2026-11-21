@@ -677,9 +677,9 @@ Watched since 2026-11-10T15:17:49Z.
 
 ## NV: nv-rla
 
-https://www.nvsos.gov/sos/elections/election-information/risk-limiting-audits
+https://www.nvsos.gov/elections/election-information/2026-election-information
 
-NV RLA contest, seed
+2026 election information page, which links each election's RLA certificate (the old RLA page is gone; refuses scripts)
 
 Watched since 2026-11-10T15:17:17Z; every fetch has been refused (HTTP 200 or a bot-challenge page), so a browser capture is needed.
 

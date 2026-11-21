@@ -71,8 +71,8 @@
  {
   "slug": "nv-rla",
   "state": "NV",
-  "url": "https://www.nvsos.gov/sos/elections/election-information/risk-limiting-audits",
-  "why": "NV RLA contest, seed"
+  "url": "https://www.nvsos.gov/elections/election-information/2026-election-information",
+  "why": "2026 election information page, which links each election's RLA certificate (the old RLA page is gone; refuses scripts)"
  },
  {
   "slug": "mt-elections",

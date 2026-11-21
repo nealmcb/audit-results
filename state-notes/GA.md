@@ -33,9 +33,21 @@ manifests and of the machine-counted batch totals:
 - ballot manifests: `d731216443e415c931882d07b051b8c927fbe650a93a0efa28a93d428160010e`
 - machine-counted batch totals: `419a77b32fd393e951847b589969b7de3d8de0bfe40858830624fc18ced92211`
 
-The files themselves are to be published when the audit completes, so that anyone can check them
-against these hashes, and the hand counts against the batch totals. That is a commitment few states
-make. (The posting times come from the posts' status IDs; the thread is kept in `evidence/GA/`.)
+The office promised to publish the files themselves when the audit completed, and it did: with its
+[November 19 release](https://sos.ga.gov/news/historic-number-risk-limiting-audits-confirm-election-outcomes)
+it posted the ballot manifests and machine batch totals as zip files, and both match these hashes
+byte for byte, so anyone can now check the hand counts against totals fixed before the audit. That
+is a commitment few states make, and Georgia kept it. (The posting times come from the posts'
+status IDs; the thread, the files and their hashes are in `evidence/GA/`.)
+
+## Results
+
+The audit is complete. Per the release and
+[VotingWorks' report](https://mcusercontent.com/bb95d9c7cf4b94c9f44421f7c/files/ea7101ba-52d1-b834-4800-0b0495bf1b58/Georgia_2026_General_Election_Risk_Limiting_Audit_Report_Final_.pdf),
+all 20 contests met the 5% risk limit and the reported outcomes were confirmed: 600 batches,
+1,050,204 ballots and 1,539,171 vote opportunities, 99.98% of which matched the reported results.
+The seed, rolled with 20 ten-sided dice on November 12, was 49999639609719737918, and Arlo's full
+audit report lists every sampled batch with its reported and audited counts.
 
 ## Two adjustments that would make it stronger
 
@@ -56,5 +68,4 @@ The batch retrieval list, prepared by VotingWorks, sends 601 batches in all 159 
 counted, and shows that the office drawn at random was the Commissioner of Agriculture. A copy is
 in `evidence/GA/`.
 
-Wanted: the seed, how the Commissioner of Agriculture was drawn, and copies of the manifests and
-batch totals once they are published.
+Wanted: how the Commissioner of Agriculture was drawn as the randomly chosen contest.
