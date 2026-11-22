@@ -101,13 +101,19 @@ _Not yet confirmed by an official source:_
 
 - <https://www.sos.texas.gov/elections/forms/seminar/2026/planning-risk-limiting-audits.pdf> (first SB 827 RLA Nov 19-20; fetched regularly; 1 saved copy)
 - <https://www.sos.texas.gov/elections/> (RLA seed event notice; blocked to scripts; 0 saved copies)
-- <https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml> (release: seed generated Nov 18, 2:30 pm CT; U.S. Senate; fetched regularly; 2 saved copies)
-- <https://www.sos.state.tx.us/elections/fad/index.shtml> (SOS Audit Program page, where RLA results are expected; fetched regularly; 1 saved copy)
+- <https://www.sos.state.tx.us/about/newsreleases/2026/111626.shtml> (release: seed generated Nov 18, 2:30 pm CT; U.S. Senate; fetched regularly; 3 saved copies)
+- <https://www.sos.state.tx.us/elections/fad/index.shtml> (SOS Audit Program page, where RLA results are expected; fetched regularly; 2 saved copies)
 
 ## In the news
 
 Articles and posts from the site's [news log](../news.md), newest first. They are leads, not evidence: the dates above rest on official sources where we have them.
 
+- 2026-11-21 · Newsweek: [Texas Launches Audit of Senate Race Results after Democratic Sweep - Newsweek](https://www.newsweek.com/texas-launches-audit-of-senate-race-results-after-democratic-sweep-12744250)
+- 2026-11-21 · KERA: [Texas Secretary of State launches first-of-its-kind audit of U.S. Senate election, newly required by state law](https://www.kera.org/2026/11/19/texas-secretary-of-state-launches-first-of-its-kind-audit-of-u-s-senate-election-newly-required-by-state-law/)
+- 2026-11-21 · The Victoria Advocate: [Texas launches first statewide audit of election results \| The Victoria Advocate](https://victoriaadvocate.com/2026/11/19/texas-launches-first-statewide-audit-of-election-results/)
+- 2026-11-21 · Yahoo: [Fact Check: Texas Election Audit Does NOT Just Look At Digital Images -- Secretary Of State Says](https://www.yahoo.com/news/articles/fact-check-texas-election-audit-054813345.html)
+- 2026-11-21 · AlterNet: [Texas launches first-ever statewide Senate audit after GOP wipeout - Alternet.org](https://www.alternet.org/texas-senate-audit/)
+- 2026-11-21 · Hoodline: [Texas Set to Hand-Count Ballots in Paxton-Talarico Race for First Statewide Audit](https://hoodline.com/2026/11/texas-set-to-hand-count-ballots-in-paxton-talarico-race-for-first-statewide-audit/)
 - 2026-11-19 · Houston Public Media: [Texas Secretary of State launches first-of-its-kind audit of U.S. Senate election, newly ...](https://www.houstonpublicmedia.org/articles/news/politics/2026/11/18/567502/texas-secretary-of-state-launches-audit-of-u-s-senate-election/)
 - 2026-11-19 · KRGV: [Cameron County Elections Department to review three races as part of first statewide audit](https://www.krgv.com/news/cameron-county-elections-department-to-review-three-races-as-part-of-first-statewide-audit/)
 - 2026-11-19 · AOL.com: [Texas launches first statewide risk-limiting election audit - AOL](https://www.aol.com/articles/texas-launches-first-statewide-risk-202538000.html)

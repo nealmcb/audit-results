@@ -413,7 +413,7 @@ https://www.forsythco.com/government/departments/voter-registrations-elections/c
 
 RLA results to be posted here
 
-Watched since 2026-11-12T05:24:55Z; fetched successfully until 2026-11-20T06:22:57Z, refused since (HTTP curl: (28) Connection timed out after 90001 milliseconds).
+Watched since 2026-11-12T05:24:55Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -451,7 +451,7 @@ https://www.forsythco.com/app/uploads/2026/11/11-03-26-RLA-BRE-selected-Batch-Ta
 
 audit board tally sheet, batch chosen by the county board
 
-Watched since 2026-11-17T22:48:17Z; fetched successfully until 2026-11-20T06:23:40Z, refused since (HTTP curl: (28) Connection timed out after 90001 milliseconds).
+Watched since 2026-11-17T22:48:17Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -463,7 +463,7 @@ https://www.forsythco.com/app/uploads/2026/11/11-03-26-RLA.-SOS-selected-Batches
 
 audit board tally sheets, SOS-selected batches
 
-Watched since 2026-11-17T22:48:15Z; fetched successfully until 2026-11-20T06:23:37Z, refused since (HTTP curl: (28) Connection timed out after 90002 milliseconds).
+Watched since 2026-11-17T22:48:15Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -475,7 +475,7 @@ https://www.forsythco.com/app/uploads/2026/11/11-13-2026-RLA-Totals-of-11-03-26-
 
 breakdown of RLA hand-count results
 
-Watched since 2026-11-17T22:48:12Z; fetched successfully until 2026-11-20T06:23:35Z, refused since (HTTP curl: (28) Connection timed out after 90001 milliseconds).
+Watched since 2026-11-17T22:48:12Z.
 
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
@@ -518,6 +518,8 @@ Watched since 2026-11-12T05:24:58Z.
 | 2026-11-12T05:24:58Z | `48a3dfd357c0e490…` | [20261112T052458Z.html](captures/ga-richmond-rla-notice/20261112T052458Z.html) |
 | 2026-11-16T18:26:30Z | `f9ae0e487592abd8…` | [20261116T182630Z.html](captures/ga-richmond-rla-notice/20261116T182630Z.html) |
 | 2026-11-18T22:54:48Z | `821d3af3a4507c00…` | [20261118T225448Z.html](captures/ga-richmond-rla-notice/20261118T225448Z.html) |
+| 2026-11-21T15:41:00Z | `e6fcacf5314146a5…` | [20261121T154100Z.html](captures/ga-richmond-rla-notice/20261121T154100Z.html) |
+| 2026-11-21T19:19:42Z | `c0759d760c04fef9…` | [20261121T191942Z.html](captures/ga-richmond-rla-notice/20261121T191942Z.html) |
 
 ## GA: ga-sos-audit-information
 
@@ -887,6 +889,7 @@ Watched since 2026-11-18T20:38:58Z.
 | Changed at (UTC) | sha256 | Copy |
 |---|---|---|
 | 2026-11-18T20:38:58Z | `9f32f2b4ff871f4d…` | [20261118T203858Z.html](captures/tx-sos-audit-program/20261118T203858Z.html) |
+| 2026-11-21T01:13:12Z | `a9b16976c9d9a4d5…` | [20261121T011312Z.html](captures/tx-sos-audit-program/20261121T011312Z.html) |
 
 ## TX: tx-sos-rla-release-2026-11-16
 
@@ -900,6 +903,7 @@ Watched since 2026-11-17T18:48:04Z.
 |---|---|---|
 | 2026-11-17T18:48:04Z | `b59f56781b9a49c2…` | [20261117T184804Z.html](captures/tx-sos-rla-release-2026-11-16/20261117T184804Z.html) |
 | 2026-11-18T20:21:13Z | `c90a541c4b978eef…` | [20261118T202113Z.html](captures/tx-sos-rla-release-2026-11-16/20261118T202113Z.html) |
+| 2026-11-21T12:04:35Z | `456e780c0b93277a…` | [20261121T120435Z.html](captures/tx-sos-rla-release-2026-11-16/20261121T120435Z.html) |
 
 ## VA: va-rla
 
