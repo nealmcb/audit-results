@@ -420,6 +420,7 @@ Watched since 2026-11-12T05:24:55Z.
 | 2026-11-12T05:24:55Z | `d7d6acd24c358fcb…` | [20261112T052455Z.html](captures/ga-forsyth-elections/20261112T052455Z.html) |
 | 2026-11-14T05:42:35Z | `d3b1f504b4df9275…` | [20261114T054235Z.html](captures/ga-forsyth-elections/20261114T054235Z.html) |
 | 2026-11-17T22:26:54Z | `bc137bcbe571ce81…` | [20261117T222654Z.html](captures/ga-forsyth-elections/20261117T222654Z.html) |
+| 2026-11-23T19:45:38Z | `e9366690ea36cc95…` | [20261123T194538Z.html](captures/ga-forsyth-elections/20261123T194538Z.html) |
 
 ## GA: ga-forsyth-rla-notice
 
@@ -520,6 +521,7 @@ Watched since 2026-11-12T05:24:58Z.
 | 2026-11-18T22:54:48Z | `821d3af3a4507c00…` | [20261118T225448Z.html](captures/ga-richmond-rla-notice/20261118T225448Z.html) |
 | 2026-11-21T15:41:00Z | `e6fcacf5314146a5…` | [20261121T154100Z.html](captures/ga-richmond-rla-notice/20261121T154100Z.html) |
 | 2026-11-21T19:19:42Z | `c0759d760c04fef9…` | [20261121T191942Z.html](captures/ga-richmond-rla-notice/20261121T191942Z.html) |
+| 2026-11-23T19:45:41Z | `868286a746a4bd3b…` | [20261123T194541Z.html](captures/ga-richmond-rla-notice/20261123T194541Z.html) |
 
 ## GA: ga-sos-audit-information
 
@@ -652,6 +654,7 @@ Watched since 2026-11-10T15:17:26Z.
 | 2026-11-10T21:15:18Z | `3b6f76d34bd78e8e…` | [20261110T211518Z.html](captures/nc-election-results-releases/20261110T211518Z.html) |
 | 2026-11-13T16:28:21Z | `94ef572588fec23c…` | [20261113T162821Z.html](captures/nc-election-results-releases/20261113T162821Z.html) |
 | 2026-11-20T22:37:17Z | `34ad3962cd616b73…` | [20261120T223717Z.html](captures/nc-election-results-releases/20261120T223717Z.html) |
+| 2026-11-23T19:45:03Z | `12282c0160a8a836…` | [20261123T194503Z.html](captures/nc-election-results-releases/20261123T194503Z.html) |
 
 ## ND: nd-post-election-audits
 
@@ -933,6 +936,7 @@ Watched since 2026-11-18T17:10:19Z.
 | 2026-11-19T01:31:03Z | `0452df0c4a546a88…` | [20261119T013103Z.html](captures/wa-king-observing/20261119T013103Z.html) |
 | 2026-11-19T23:54:56Z | `c80e72e62dc128cf…` | [20261119T235456Z.html](captures/wa-king-observing/20261119T235456Z.html) |
 | 2026-11-20T05:52:14Z | `6dd9b9ec971a8566…` | [20261120T055214Z.html](captures/wa-king-observing/20261120T055214Z.html) |
+| 2026-11-23T19:46:36Z | `26fa8671ad414f31…` | [20261123T194636Z.html](captures/wa-king-observing/20261123T194636Z.html) |
 
 ## WA: wa-post-election-audits
 

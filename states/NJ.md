@@ -24,3 +24,9 @@ _Not yet confirmed by an official source:_
 
 None yet. Suggestions welcome.
 
+## In the news
+
+Articles and posts from the site's [news log](../news.md), newest first. They are leads, not evidence: the dates above rest on official sources where we have them.
+
+- 2026-11-22 · Hudson County View: [Op-Ed: New Jersey's canvass still leaves the books unbalanced - Hudson County View](https://hudsoncountyview.com/op-ed-new-jerseys-canvass-still-leaves-the-books-unbalanced/)
+

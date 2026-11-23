@@ -108,6 +108,7 @@ _Not yet confirmed by an official source:_
 
 Articles and posts from the site's [news log](../news.md), newest first. They are leads, not evidence: the dates above rest on official sources where we have them.
 
+- 2026-11-22 · YouTube: [Cameron County Elections Department to review three races as part of first statewide audit](https://www.youtube.com/watch?v=7zGFkbmSd18)
 - 2026-11-21 · Newsweek: [Texas Launches Audit of Senate Race Results after Democratic Sweep - Newsweek](https://www.newsweek.com/texas-launches-audit-of-senate-race-results-after-democratic-sweep-12744250)
 - 2026-11-21 · KERA: [Texas Secretary of State launches first-of-its-kind audit of U.S. Senate election, newly required by state law](https://www.kera.org/2026/11/19/texas-secretary-of-state-launches-first-of-its-kind-audit-of-u-s-senate-election-newly-required-by-state-law/)
 - 2026-11-21 · The Victoria Advocate: [Texas launches first statewide audit of election results \| The Victoria Advocate](https://victoriaadvocate.com/2026/11/19/texas-launches-first-statewide-audit-of-election-results/)

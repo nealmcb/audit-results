@@ -72,5 +72,5 @@ Wanted: the manifests and CVRs for the six audits, their upload times, and Arlo'
 ## Watched pages
 
 - <https://www.sos.wa.gov/elections/data-research/election-technology/post-election-audits> (WA audit index; fetched regularly; 6 saved copies)
-- <https://kingcounty.gov/en/dept/elections/about-us/security-and-accountability/observing-elections-activities> (King County's observing schedule: RLA Nov 19, 9:00 am; fetched regularly; 4 saved copies)
+- <https://kingcounty.gov/en/dept/elections/about-us/security-and-accountability/observing-elections-activities> (King County's observing schedule: RLA Nov 19, 9:00 am; fetched regularly; 5 saved copies)
 

@@ -8,6 +8,11 @@ title: News
 
 Articles and official posts about post-election audits of the November 3, 2026 general election, newest first, from Google Alerts and our own searches. State tags link to the state pages.
 
+## 2026-11-22
+
+- **[Cameron County Elections Department to review three races as part of first statewide audit](https://www.youtube.com/watch?v=7zGFkbmSd18)**, YouTube. The Texas Secretary of State ordered statewide risk-limiting audits, including 3 Cameron County races set for recount. [TX](states/TX.md)
+- **[Op-Ed: New Jersey's canvass still leaves the books unbalanced - Hudson County View](https://hudsoncountyview.com/op-ed-new-jerseys-canvass-still-leaves-the-books-unbalanced/)**, Hudson County View. Verified Voting's audit principles list ballot accounting, voter-to-ballot reconciliation and risk-limiting audits as best practices, and the ... [NJ](states/NJ.md)
+
 ## 2026-11-21
 
 - **[Historic Number of Risk-Limiting Audits Confirm Election Outcomes \| Georgia Secretary of State](https://sos.ga.gov/news/historic-number-risk-limiting-audits-confirm-election-outcomes)**, Georgia Secretary of State. Georgia county election officials have completed Risk-Limiting Audits (RLAs) of 6 statewide contests and all 14 Congressional contests... [GA](states/GA.md)
